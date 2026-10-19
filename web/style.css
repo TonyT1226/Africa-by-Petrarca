@@ -35,7 +35,7 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--bar-h) + 1rem); }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--bar-h) + 1rem); overflow-anchor: none; }
 body {
   margin: 0;
   background: var(--paper);
@@ -87,7 +87,6 @@ code { font-family: var(--la); font-size: .95em; }
 .seg button:first-child { border-radius: 3px 0 0 3px; margin-left: 0; }
 .seg button:last-child { border-radius: 0 3px 3px 0; }
 .controls [aria-pressed="true"] { color: var(--paper); background: var(--ink-2); border-color: var(--ink-2); }
-.toc-open { display: none; }
 
 /* book page layout */
 .book {
@@ -222,6 +221,13 @@ html[data-text="la"] .v .n, html[data-text="zh"] .v .n { justify-self: start; }
   background: var(--ink); color: var(--paper); font-size: .875rem;
 }
 
+/* wide screens: the contents column can be folded away, and the text then sits in the middle */
+@media (min-width: 64.0625rem) {
+  .controls .toc-open[aria-expanded="true"] { color: var(--paper); background: var(--ink-2); border-color: var(--ink-2); }
+  html[data-toc="off"] .toc { display: none; }
+  html[data-toc="off"] .book { grid-template-columns: minmax(0, 58rem); justify-content: center; }
+}
+
 /* narrower screens: contents become a drawer */
 @media (max-width: 64rem) {
   .book { grid-template-columns: minmax(0, 1fr); }
@@ -234,7 +240,6 @@ html[data-text="la"] .v .n, html[data-text="zh"] .v .n { justify-self: start; }
     font-size: .9375rem;
   }
   .toc.open { transform: none; box-shadow: 0 0 0 100vmax rgb(0 0 0 / .25); }
-  .toc-open { display: inline-block; }
 }
 
 /* phones: Latin above Chinese, verse by verse */

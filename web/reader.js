@@ -4,24 +4,26 @@
   "use strict";
   var root = document.documentElement;
   var KEY = "africa-view";
-  var defaults = { text: "both", notes: "on", scan: "off" };
+  var defaults = { text: "both", notes: "on", scan: "off", toc: "on" };
 
   function load() {
     var v = {};
     try { v = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) {}
-    return { text: v.text || defaults.text, notes: v.notes || defaults.notes, scan: v.scan || defaults.scan };
+    return { text: v.text || defaults.text, notes: v.notes || defaults.notes, scan: v.scan || defaults.scan, toc: v.toc || defaults.toc };
   }
   function save(v) {
     try { localStorage.setItem(KEY, JSON.stringify(v)); } catch (e) {}
   }
 
   var view = load();
+  var narrow = window.matchMedia("(max-width: 64rem)");
   var controls = document.querySelector(".controls");
 
   function apply() {
     root.dataset.text = view.text;
     root.dataset.notes = view.notes;
     root.dataset.scan = view.scan;
+    root.dataset.toc = view.toc;
     if (!controls) return;
     controls.querySelectorAll("[data-set=text]").forEach(function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.value === view.text));
@@ -38,16 +40,22 @@
       if (!b) return;
       if (b.dataset.set) view[b.dataset.set] = b.dataset.value;
       else if (b.dataset.toggle) view[b.dataset.toggle] = view[b.dataset.toggle] === "on" ? "off" : "on";
+      else if (b.classList.contains("toc-open") && !narrow.matches) view.toc = view.toc === "on" ? "off" : "on";
       else return;
-      // keep the verse at the top of the screen in place while the layout changes
-      var anchor = firstVisibleVerse();
-      var before = anchor && anchor.getBoundingClientRect().top;
-      apply();
-      save(view);
-      if (anchor) window.scrollBy(0, anchor.getBoundingClientRect().top - before);
+      change();
     });
   }
   apply();
+
+  // re-apply the view, keeping the verse at the top of the screen in place while the layout changes
+  function change() {
+    var anchor = firstVisibleVerse();
+    var before = anchor && anchor.getBoundingClientRect().top;
+    apply();
+    syncOpener();
+    save(view);
+    if (anchor) window.scrollBy(0, anchor.getBoundingClientRect().top - before);
+  }
 
   function firstVisibleVerse() {
     var verses = document.querySelectorAll(".v");
@@ -84,15 +92,23 @@
     }
   });
 
-  // section contents: mark the section being read; open and close the drawer on narrow screens
+  // section contents: a column that can be folded away on wide screens, a drawer on narrow ones;
+  // the section being read is marked in it
   var toc = document.getElementById("toc");
   if (!toc) return;
   var opener = document.querySelector(".toc-open");
   function setDrawer(open) {
     toc.classList.toggle("open", open);
-    if (opener) opener.setAttribute("aria-expanded", String(open));
+    syncOpener();
   }
-  if (opener) opener.addEventListener("click", function () { setDrawer(!toc.classList.contains("open")); });
+  function syncOpener() {
+    if (!opener) return;
+    var shown = narrow.matches ? toc.classList.contains("open") : view.toc === "on";
+    opener.setAttribute("aria-expanded", String(shown));
+  }
+  if (opener) opener.addEventListener("click", function () { if (narrow.matches) setDrawer(!toc.classList.contains("open")); });
+  narrow.addEventListener("change", function () { setDrawer(false); });
+  syncOpener();
   toc.addEventListener("click", function (ev) { if (ev.target.closest("a")) setDrawer(false); });
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") setDrawer(false); });
   document.addEventListener("click", function (ev) {

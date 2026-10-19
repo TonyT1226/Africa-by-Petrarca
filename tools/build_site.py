@@ -59,7 +59,7 @@ CONTROLS = """<div class="controls" hidden>
   </div>
   <button type="button" class="tog" data-toggle="notes" aria-pressed="true">注释</button>
   <button type="button" class="tog" data-toggle="scan" aria-pressed="false" title="音步划分与重拍；D 扬抑抑，S 扬扬">格律</button>
-  <button type="button" class="tog toc-open" aria-expanded="false" aria-controls="toc">段落</button>
+  <button type="button" class="tog toc-open" aria-expanded="true" aria-controls="toc" title="显示或收起段落目录">段落</button>
 </div>"""
 
 
