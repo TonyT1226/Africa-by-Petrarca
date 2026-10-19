@@ -116,7 +116,7 @@ code { font-family: var(--la); font-size: .95em; }
 .la-title { margin: 0; font-family: var(--la); letter-spacing: .14em; color: var(--muted); font-size: .9375rem; }
 .book-head h1 { margin: .1rem 0 0; font-weight: 600; font-size: 2.25rem; line-height: 1.3; color: var(--rubric); letter-spacing: .08em; }
 .count { margin: .2rem 0 0; color: var(--muted); font-size: .875rem; }
-.argument { max-width: 40em; margin-top: 1.5rem; color: var(--ink-2); font-size: .9375rem; line-height: 1.85; text-align: justify; }
+.argument { margin-top: 1.5rem; color: var(--ink-2); font-size: .9375rem; line-height: 1.85; text-align: justify; }
 
 /* sections */
 .sec { margin-top: 2.75rem; }
