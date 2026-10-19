@@ -24,6 +24,7 @@ from paths import BUILD, DATA, FRONT  # noqa: E402
 WEB = ROOT / "web"
 REPO = "https://github.com/yiyuanli939/Africa-by-Petrarca"
 PDF = REPO + "/raw/main/dist/africa-petrarca-la-zh.pdf"
+INITIATOR = ("yiyuanli939", "https://github.com/yiyuanli939")  # shown on the title page as the project's initiator
 ZH_NUM = "一二三四五六七八九"
 FOOT_NAMES = {"D": "扬抑抑", "S": "扬扬", "X": "末音步"}
 
@@ -171,6 +172,7 @@ def index_page(tpl, books):
 <header class="title">
   <p class="author" lang="la">Francesco Petrarca</p>
   <h1><span class="t-la" lang="la">Africa</span><span class="t-zh">阿非利加</span></h1>
+  <p class="credit"><span>项目发起</span><a href="{INITIATOR[1]}">{e(INITIATOR[0])}</a></p>
 </header>
 <div class="lede">
   <p>彼特拉克用拉丁文写的史诗，九卷 {total:,} 行，讲第二次布匿战争中大西庇阿击败汉尼拔。他自己最看重这部诗，1341 年在罗马加冕桂冠诗人，靠的主要就是它；可他至死没有写完，也没有发表。</p>
