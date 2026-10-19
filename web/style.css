@@ -105,7 +105,15 @@ code { font-family: var(--la); font-size: .95em; }
   font-size: .8125rem; line-height: 1.45;
   scrollbar-width: thin;
 }
-.toc-head { margin: 0 0 .75rem; color: var(--muted); }
+.toc-head {
+  display: flex; align-items: baseline; justify-content: space-between; width: 100%;
+  margin: 0 0 .75rem; padding: 0; border: 0; background: none; cursor: pointer;
+  font: inherit; color: var(--muted); text-align: left;
+}
+.toc-head .fold { font-family: var(--la); font-size: 1.15rem; line-height: 1; padding: 0 .25rem; opacity: .55; }
+.toc-head:hover, .toc-head:focus-visible { color: var(--rubric); }
+.toc-head:hover .fold, .toc-head:focus-visible .fold { opacity: 1; }
+.toc-tab { display: none; }
 .toc ol { list-style: none; margin: 0; padding: 0; }
 .toc li + li { margin-top: .35rem; }
 .toc a { display: grid; grid-template-columns: 4.6em 1fr; text-decoration: none; color: var(--ink-2); }
@@ -167,7 +175,6 @@ html[data-scan="on"] .v { grid-template-columns: minmax(0, 1.1fr) 3.25rem minmax
   margin-top: 1.1rem; padding-top: .7rem;
   border-top: 1px dashed var(--rule);
   font-size: .875rem; line-height: 1.75; color: var(--ink-2);
-  max-width: 48em;
 }
 .note { margin: 0 0 .45rem; padding-left: 1.6em; text-indent: -1.6em; }
 .note:target { background: var(--mark); }
@@ -223,13 +230,25 @@ html[data-text="la"] .v .n, html[data-text="zh"] .v .n { justify-self: start; }
 
 /* wide screens: the contents column can be folded away, and the text then sits in the middle */
 @media (min-width: 64.0625rem) {
-  .controls .toc-open[aria-expanded="true"] { color: var(--paper); background: var(--ink-2); border-color: var(--ink-2); }
+  .controls .toc-open { display: none; }
   html[data-toc="off"] .toc { display: none; }
   html[data-toc="off"] .book { grid-template-columns: minmax(0, 58rem); justify-content: center; }
+  /* folded: a quiet bookmark in the margin, just left of the text */
+  html[data-toc="off"] .toc-tab {
+    display: block; position: fixed; z-index: 15;
+    top: calc(var(--bar-h) + 2.5rem); left: max(.75rem, calc((100vw - 58rem) / 2 - 4rem));
+    padding: .9rem .5rem .9rem .6rem;
+    writing-mode: vertical-rl; letter-spacing: .45em;
+    font: inherit; font-size: .8125rem; line-height: 1; color: var(--muted);
+    background: none; border: 0; border-left: 1px solid var(--rule); cursor: pointer;
+  }
+  html[data-toc="off"] .toc-tab:hover, html[data-toc="off"] .toc-tab:focus-visible { color: var(--rubric); border-left-color: var(--rubric); }
 }
 
 /* narrower screens: contents become a drawer */
 @media (max-width: 64rem) {
+  /* a blurred bar would trap the fixed contents button inside it */
+  .bar { backdrop-filter: none; background: var(--paper); }
   .book { grid-template-columns: minmax(0, 1fr); }
   .toc {
     position: fixed; z-index: 25; top: 0; bottom: 0; left: 0;
@@ -240,22 +259,22 @@ html[data-text="la"] .v .n, html[data-text="zh"] .v .n { justify-self: start; }
     font-size: .9375rem;
   }
   .toc.open { transform: none; box-shadow: 0 0 0 100vmax rgb(0 0 0 / .25); }
-}
-
-/* phones: Latin above Chinese, verse by verse */
-@media (max-width: 44rem) {
-  html { scroll-padding-top: 1rem; }
-  body { font-size: 1rem; }
-  .bar { position: static; flex-wrap: wrap; gap: .25rem .75rem; backdrop-filter: none; background: var(--paper); }
-  .books { order: 3; width: 100%; overflow-x: auto; }
-  .controls { margin-left: auto; gap: .35rem; font-size: .875rem; }
-  .controls button { padding: .15rem .45rem; }
   .controls .toc-open {
     position: fixed; z-index: 24; right: 1rem; bottom: 1rem;
     padding: .45rem .9rem; border-radius: 999px;
     background: var(--paper); color: var(--ink); border-color: var(--muted);
     box-shadow: 0 2px 10px rgb(0 0 0 / .15);
   }
+}
+
+/* phones: Latin above Chinese, verse by verse */
+@media (max-width: 44rem) {
+  html { scroll-padding-top: 1rem; }
+  body { font-size: 1rem; }
+  .bar { position: static; flex-wrap: wrap; gap: .25rem .75rem; }
+  .books { order: 3; width: 100%; overflow-x: auto; }
+  .controls { margin-left: auto; gap: .35rem; font-size: .875rem; }
+  .controls button { padding: .15rem .45rem; }
   .book-head { padding-top: 1.75rem; }
   .v, html[data-text="la"] .v, html[data-text="zh"] .v, html[data-scan="on"] .v {
     grid-template-columns: 1.75rem minmax(0, 1fr);

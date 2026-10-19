@@ -40,7 +40,6 @@
       if (!b) return;
       if (b.dataset.set) view[b.dataset.set] = b.dataset.value;
       else if (b.dataset.toggle) view[b.dataset.toggle] = view[b.dataset.toggle] === "on" ? "off" : "on";
-      else if (b.classList.contains("toc-open") && !narrow.matches) view.toc = view.toc === "on" ? "off" : "on";
       else return;
       change();
     });
@@ -96,23 +95,34 @@
   // the section being read is marked in it
   var toc = document.getElementById("toc");
   if (!toc) return;
-  var opener = document.querySelector(".toc-open");
+  var toggles = document.querySelectorAll(".toc-toggle");
+  var tab = document.querySelector(".toc-tab");
+  var head = toc.querySelector(".toc-head");
+  if (tab) tab.hidden = false;
   function setDrawer(open) {
     toc.classList.toggle("open", open);
     syncOpener();
   }
   function syncOpener() {
-    if (!opener) return;
     var shown = narrow.matches ? toc.classList.contains("open") : view.toc === "on";
-    opener.setAttribute("aria-expanded", String(shown));
+    toggles.forEach(function (b) { b.setAttribute("aria-expanded", String(shown)); });
   }
-  if (opener) opener.addEventListener("click", function () { if (narrow.matches) setDrawer(!toc.classList.contains("open")); });
+  toggles.forEach(function (b) {
+    b.addEventListener("click", function () {
+      if (narrow.matches) { setDrawer(!toc.classList.contains("open")); return; }
+      view.toc = view.toc === "on" ? "off" : "on";
+      change();
+      // keep keyboard focus on the control that is now visible
+      if (b === head && tab) tab.focus();
+      else if (b === tab && head) head.focus();
+    });
+  });
   narrow.addEventListener("change", function () { setDrawer(false); });
   syncOpener();
   toc.addEventListener("click", function (ev) { if (ev.target.closest("a")) setDrawer(false); });
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") setDrawer(false); });
   document.addEventListener("click", function (ev) {
-    if (toc.classList.contains("open") && !toc.contains(ev.target) && ev.target !== opener) setDrawer(false);
+    if (toc.classList.contains("open") && !toc.contains(ev.target) && !ev.target.closest(".toc-toggle")) setDrawer(false);
   });
 
   var links = {};

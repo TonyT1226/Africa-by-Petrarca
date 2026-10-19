@@ -59,7 +59,7 @@ CONTROLS = """<div class="controls" hidden>
   </div>
   <button type="button" class="tog" data-toggle="notes" aria-pressed="true">注释</button>
   <button type="button" class="tog" data-toggle="scan" aria-pressed="false" title="音步划分与重拍；D 扬抑抑，S 扬扬">格律</button>
-  <button type="button" class="tog toc-open" aria-expanded="true" aria-controls="toc" title="显示或收起段落目录">段落</button>
+  <button type="button" class="tog toc-open toc-toggle" aria-expanded="false" aria-controls="toc">段落</button>
 </div>"""
 
 
@@ -136,8 +136,9 @@ def book_page(tpl, b, lines, sections, notes):
     prev_link = f'<a rel="prev" href="{num - 1}.html">← 第{ZH_NUM[num - 2]}卷</a>' if num > 1 else "<span></span>"
     next_link = f'<a rel="next" href="{num + 1}.html">第{ZH_NUM[num]}卷 →</a>' if num < 9 else "<span></span>"
     html = f"""<div class="book" data-book="{num}">
+<button type="button" class="toc-tab toc-toggle" aria-controls="toc" aria-expanded="false" aria-label="展开段落目录" hidden>段落</button>
 <nav class="toc" id="toc" aria-label="段落目录">
-  <p class="toc-head">第{ZH_NUM[num - 1]}卷　段落</p>
+  <button type="button" class="toc-head toc-toggle" aria-controls="toc" aria-expanded="true" aria-label="收起段落目录" title="收起"><span>第{ZH_NUM[num - 1]}卷　段落</span><span class="fold" aria-hidden="true">‹</span></button>
   <ol>{"".join(toc)}</ol>
 </nav>
 <main id="main">
