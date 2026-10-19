@@ -1,0 +1,845 @@
+# 第九卷 · Africa, Liber Nonus
+
+> 本卷提要：西庇阿率舰队归航，请恩尼乌斯开口。恩尼乌斯称颂其功业空前、身后之名将与日俱增，自叹拉丁诗艺尚稚；又论诗人的特许：须以真实为根基，再以寓意之云遮掩，凭空捏造者只是说谎者；并申说将领与诗人共享桂冠之义。继而讲述扎马战前之梦：盲眼的荷马现身，预言罗马必胜，又指给他看月桂丛中的青年弗朗切斯科——他将写出《阿非利加》、在卡皮托利山加冕，并以散文撰写罗马史。西庇阿说，此梦无论真假，他都爱这位诗人。舰队在利利巴厄姆登岸，穿过欢庆的意大利抵达罗马。凯旋式上，马其顿俘虏、西法克斯、战利品与战象相继而过，获释的库莱奥随行，恩尼乌斯同戴桂冠。诗人自述一千五百年后在同地加冕，不愿续写西庇阿晚年的流放与死亡。结语致诗卷：哀悼罗伯特国王，叹生于末世，寄望后人驱散黑暗、重返古代光辉，嘱诗卷隐居待时，蔑视时间与嫉妒。
+
+拉丁原文与中文译文逐行对照；行号与 PDF 版一致。引用编号格式为 `africa.卷.行`，例如本卷第 1 行是 `africa.9.1`。注释见每段之后。
+
+## 段落
+
+- [1–9　平静海上的归航](#s01)
+- [10–22　西庇阿请恩尼乌斯开口](#s02)
+- [23–48　恩尼乌斯：空前的功业与身后之名](#s03)
+- [49–64　亚历山大的感叹：诗人配不上英雄](#s04)
+- [65–77　西庇阿只愿由恩尼乌斯歌唱，并发问](#s05)
+- [78–107　恩尼乌斯论诗：真实为基，寓言为云](#s06)
+- [108–123　桂冠的意义](#s07)
+- [124–157　西庇阿再请；恩尼乌斯独尊荷马](#s08)
+- [158–177　决战前夜，荷马显现](#s09)
+- [178–214　恩尼乌斯问盲目之故，荷马作答](#s10)
+- [215–229　山谷中的青年：佛罗伦萨之子](#s11)
+- [230–257　弗朗切斯科：《阿非利加》与卡皮托利山的桂冠](#s12)
+- [258–284　散文史书与乡间隐居](#s13)
+- [285–290　号角惊梦](#s14)
+- [291–309　日暮夜航：西庇阿谈梦](#s15)
+- [310–322　登陆西西里，穿行意大利](#s16)
+- [323–336　呼告卡利俄佩；凯旋之晨](#s17)
+- [337–363　统帅入城，俘虏随行](#s18)
+- [364–379　战利品、战象与获释的罗马人](#s19)
+- [380–400　大军、号角与登临卡皮托利山](#s20)
+- [401–410　恩尼乌斯同戴桂冠；诗人自述加冕](#s21)
+- [411–421　不忍续写晚年的悲剧](#s22)
+- [422–446　致诗卷：哀悼罗伯特国王](#s23)
+- [447–466　生于末世，寄望复兴](#s24)
+- [467–484　嘱托诗卷：隐居待时，蔑视时间](#s25)
+
+<a id="s01"></a>
+### 1–9　平静海上的归航
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 1 | Scipio prouectus pelago Romanaque classis | 西庇阿已驶入大海，罗马的舰队 |
+| 2 | Iam placidum sulcabat iter. Non rauca procellis | 正犁开一条平静的航路。海面不曾因风暴 |
+| 3 | Equora feruebant; uentisque silentibus undas | 嘶哑地翻腾；群风沉寂，你会以为 |
+| 4 | Victorem sensisse putes. Tranquillior illis | 波浪已经感知到了胜利者。它们的神色 |
+| 5 | Vultus erat, celo facies composta sereno. | 比往常更为安详，面容在晴空下一片宁静。 |
+| 6 | Sic hostile fretum, sic cunta elementa uideres | 你会看到，那敌对的海峡，以及世间一切元素， |
+| 7 | Obsequio mulcere ducem. Iam litora longe | 都这样恭顺地抚慰着统帅。他们已把 |
+| 8 | Africa linquebant alacres et bella canentes | 阿非利加的海岸远远抛下，兴高采烈，唱着战事 |
+| 9 | Ibant ac ualido frangebant remige fluctus. | 向前驶去，用强健的桨手击碎浪涛。 |
+
+**注释**
+
+- **1–9** *Scipio prouectus pelago*　迦太基求和、战争结束之后（公元前 201 年），西庇阿率军归国。据李维 30.45，他先渡海到西西里的利利巴厄姆，再取道意大利返回罗马，举行凯旋式。本卷从归航途中写起。
+
+<a id="s02"></a>
+### 10–22　西庇阿请恩尼乌斯开口
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 10 | Puppe ducis media tacitus meditansque sedebat | 在统帅座船的船尾中央，默然沉思地 |
+| 11 | Ennius, assiduus rerum testisque comesque; | 坐着恩尼乌斯，他一向是这些事迹的见证与伴侣。 |
+| 12 | Scipio quem tandem aggreditur uerbisque benignis | 西庇阿终于走近他，以亲切的话语 |
+| 13 | Excitat incipiens: "Nunquamne silentia rumpes, | 将他唤起，开言道：“难道你永远不打破沉默吗， |
+| 14 | O michi multorum solamen dulce laborum? | 你啊，我诸多辛劳的甜美慰藉？ |
+| 15 | Fare, precor; nam perpetuis tabentia curis | 说吧，我求你；因为你看见了，我的胸中 |
+| 16 | Pectora nostra uides. Placido sermone leuare | 正被无尽的忧思消磨。你向来惯于用平和的言谈 |
+| 17 | Illa soles; faciesque modo, tantum ora resolue, | 为它解忧；现在你也会这样做的，只要张开你的双唇—— |
+| 18 | Si tibi nascenti, quo polles, summus Apollo | 倘若在你降生之时，至高的阿波罗 |
+| 19 | Ingenium celeste dedit, si turba dearum | 赐给你那天上的才情，使你卓然出众；倘若众女神 |
+| 20 | Castalio infantem demersum gurgite lauit | 曾把还是婴孩的你浸入卡斯塔利亚的泉流中洗濯—— |
+| 21 | Ex Elicone sacro, collesque eduxit in altos, | 那泉水来自神圣的赫利孔山——又领你登上高高的山岭， |
+| 22 | Et calamum et uocem tribuit mentemque poete." | 授给你诗人的笔、诗人的嗓音和诗人的心灵。” |
+
+**注释**
+
+- **10–11** *Ennius*　恩尼乌斯（Q. Ennius，公元前 239–公元前 169），罗马早期大诗人，以六步格史诗《编年纪》叙述罗马历史，被尊为“拉丁诗歌之父”。西塞罗《为阿尔基亚斯辩护》22 说他为大西庇阿所珍爱，相传其石像立于西庇阿家族墓中；克劳狄安《斯提利科执政颂》第三卷序诗也说恩尼乌斯常随西庇阿出入军营。他是否真随西庇阿到过阿非利加，并无可靠史据。
+- **18–22** *Castalio ... gurgite ... Ex Elicone sacro*　卡斯塔利亚泉本在德尔斐的帕尔纳索斯山下，是阿波罗与缪斯的圣泉；彼特拉克把它与缪斯所居的赫利孔山连在一起，古代后期以来这两座诗山常被混同。“众女神”即缪斯。卢克莱修称恩尼乌斯“最先从宜人的赫利孔山带回常青的花冠”（《物性论》1.117–118）。
+
+<a id="s03"></a>
+### 23–48　恩尼乌斯：空前的功业与身后之名
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 23 | Ennius auditis caput extulit atque ita fatur: | 恩尼乌斯听罢，抬起头来，这样说道： |
+| 24 | "O flos Italie, iuuenis, stirpisque deorum | “意大利之花啊，年轻人，你是神明血统的 |
+| 25 | Certa fides, quid nunc nostro placet ore moueri, | 确凿明证，此刻你愿我开口说些什么， |
+| 26 | Quidue iubes? Equidem tacito modo pectore mecum | 又吩咐我做什么？方才我的确在沉默的胸中 |
+| 27 | Voluebam quod nulla ferent iam secula maius | 独自思量：往后没有哪个时代能带来 |
+| 28 | Eximie uirtutis opus, quam nostra quod etas | 比我们这个时代欣然目睹的更伟大的 |
+| 29 | Leta uidet, nullusque unquam sub mente mouebit | 卓绝美德之业；将来也不会有人在心中 |
+| 30 | Grande aliquid, cui non, magnas spes inter, honestum | 筹划什么宏伟之事，而不让你可敬的名字 |
+| 31 | Nomen in ore sonet, qui non uenturus ad actum | 在他满怀宏愿之际于口中回响；没有人在临事之时 |
+| 32 | Scipiade meminisse uelit, pro munere uultus | 不愿想起西庇阿，不渴望能见到你的容颜， |
+| 33 | Non cupiat uidisse tuos. Maiorque sepulcri | 作为一份恩赐。更大的名声，在坟墓的 |
+| 34 | Post cineres te fama manet. Mortalia Liuor | 灰烬之后等待着你。因为妒忌啃噬的 |
+| 35 | Carpit enim; at Mors Inuidiam consumit et arcet | 是必死之物；死神却吞灭嫉妒，将它拦住， |
+| 36 | Ac procul a bustis abigit. Tua gloria pridem | 把它从坟边远远赶开。你的荣耀早已 |
+| 37 | Vicerat hanc pestem, iamque altas tuta per auras | 战胜了这场瘟疫，如今已安然穿过高空， |
+| 38 | Fugit humum morbosque hominum moresque malignos, | 逃离了尘世，逃离了人类的疾患与恶毒的习性， |
+| 39 | Seque parem tulit alma deis. Tamen ecce supremum | 它已慈惠地升到与众神比肩之处。然而，看吧， |
+| 40 | Incrementa diem fame tibi multa daturum | 我凭经验向你断言：你的最后一日将使你的名声 |
+| 41 | Promisi expertus; quoque ipse a morte recedes | 大大增长；你离死亡越是遥远， |
+| 42 | Longius, hoc maior meritum te fama sequetur. | 你应得的名声就越是壮大地追随着你。 |
+| 43 | Tempore crescet honos perque ultima secula mundi | 你的荣誉将随时间增长，直到世界最后的岁月， |
+| 44 | Clarus eris. Virtus quoniam non altius ibis: | 你都将声名显赫。美德啊，既然你已无从攀得更高， |
+| 45 | Descensus uereor. Sed nostra peritia fandi | 我只担心下坠。然而我们的言辞技艺 |
+| 46 | Nondum propositam ualuit contingere metam, | 尚未能触及那已定下的标杆： |
+| 47 | Nuper ab exiguis radicibus orta, nec ante | 它新近才从细小的根上萌生，此前 |
+| 48 | Cognita per Latium, Argolicis contenta colonis. | 在拉丁姆无人知晓，只满足于希腊的耕植者。 |
+
+**注释**
+
+- **24–25** *stirpisque deorum Certa fides*　据李维 26.19，西庇阿常独自进入卡皮托利山的朱庇特神殿静坐，民间传说他是朱庇特化作巨蛇与其母所生，他本人也不加否认。恩尼乌斯称他为“神明血统的确凿明证”，即指此说。
+- **33–36** *Liuor ... Mors Inuidiam*　妒忌（Livor）、死神（Mors）、嫉妒（Invidia）在原文中均为拟人。“妒忌只伤生者，人死之后便止息”是古人常谈，奥维德《恋歌》1.15 有“妒忌以生者为食，人死后便安息”之句。
+- **44–45** *Virtus quoniam non altius ibis*　Virtus 当是呼格，故动词用第二人称 ibis：恩尼乌斯转而呼告拟人的美德（也可理解为把西庇阿称作美德的化身）。意谓西庇阿的美德已登峰造极，无可再升，所虑者唯有下降——即他的光荣可能因无人善加歌咏而减色，故下文转说拉丁诗艺之不足。
+- **45–48** *nostra peritia fandi*　恩尼乌斯时代的拉丁文学方兴未艾，此前只有李维乌斯·安德罗尼库斯、奈维乌斯等少数先驱。Argolicus 字面为“阿尔戈斯的”，诗中泛指希腊。“希腊的耕植者”承接上句草木之喻：诗艺这株植物此前只由希腊人培育。
+
+<a id="s04"></a>
+### 49–64　亚历山大的感叹：诗人配不上英雄
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 49 | Hoc igitur mecum indignans sub mente mouebam, | 正因如此，我才在心中愤愤地思量： |
+| 50 | Precones meritos tua quod notissima uirtus | 你那举世皆知的美德，竟将得不到 |
+| 51 | Non habitura foret. Macedum rex magnus amici | 与之相称的传颂者。马其顿伟大的国王 |
+| 52 | Forte uidens saxum Eacide titulosque sepulcri, | 偶然看见他的朋友——埃阿科斯之孙——的墓石与碑铭， |
+| 53 | 'Fortunate' inquit 'iuuenis, cui nominis illum | 便说：‘幸运的年轻人啊，你竟得以为你的名声 |
+| 54 | Preconem reperire fuit!' Non parue profecto | 寻到那样一位传颂者！’诚然，对显赫的人物而言， |
+| 55 | Est claris fortuna uiris habuisse poetam | 这绝非微小的幸运：拥有一位诗人， |
+| 56 | Altisonis qui carminibus cumulare decorem | 能以高亢的诗篇为卓绝的美德 |
+| 57 | Virtutis queat egregie monimentaque laudum. | 增添光彩，为赞誉垒起纪念碑。 |
+| 58 | At tibi, summe ducum, claro quo nullus Homero est | 可是对你——统帅中的至尊，没有谁比你 |
+| 59 | Dignior, in reliquis blanda inque hoc durior uno | 更配得上光辉的荷马——命运女神在别的事上宽厚， |
+| 60 | Me solum Fortuna dedit. Currentibus annis | 唯独在这件事上更为苛刻，只把我给了你。 |
+| 61 | Nascetur forsan digno qui carmine celo | 随着岁月流转，也许会诞生一个人，用相称的诗歌 |
+| 62 | Efferat emeritas laudes et fortia facta | 把你应得的赞誉、你英勇的功业高举上天； |
+| 63 | Et cui mellifluo melius resonantia plectro | 卡利俄佩会赐给他在流蜜的拨子下 |
+| 64 | Calliope det fila lire uocemque sonoram." | 回响得更美的琴弦，以及洪亮的歌喉。” |
+
+**注释**
+
+- **51–54** *Macedum rex magnus*　指亚历山大大帝。他在特洛伊瞻仰阿喀琉斯之墓，感叹阿喀琉斯有幸得荷马为其传颂者，见西塞罗《为阿尔基亚斯辩护》24；彼特拉克《歌集》第 187 首也咏此事。“埃阿科斯之孙”即阿喀琉斯（其父珀琉斯为埃阿科斯之子）。称阿喀琉斯为亚历山大的“朋友”，大概因亚历山大以阿喀琉斯为祖先和楷模。
+- **58–64** *Me solum Fortuna ... Nascetur forsan*　命运女神（Fortuna）在此拟人。恩尼乌斯自谦：西庇阿配得上荷马，命运却只给了他一个恩尼乌斯；但后世也许会有更好的诗人，这预示后文荷马所指的那位后世诗人，即彼特拉克本人。卡利俄佩是九位缪斯之一，司史诗。
+
+<a id="s05"></a>
+### 65–77　西庇阿只愿由恩尼乌斯歌唱，并发问
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 65 | "Parce, precor, uerbis: tibi non, me iudice, uates | “请别这样说，我求你：依我判断，那位 |
+| 66 | Meonius nec iure tibi preponitur altus | 迈俄尼亚的诗人并不在你之上，崇高的 |
+| 67 | Euripides aut quos claro cognomine Grai | 欧里庇得斯，以及希腊人以显赫之名 |
+| 68 | Concelebrant. Alio nolim me carmine dici, | 齐声颂扬的那些人，也无理由凌驾于你。我不愿 |
+| 69 | Si dicendus ero. Quin quod te poscimus" inquit | 被别的诗歌传唱——倘若我值得传唱的话。还是把我们 |
+| 70 | Scipio "prosequere; et que sint permissa poetis, | 所求于你的讲下去吧，”西庇阿说，“诗人可以做什么， |
+| 71 | Famoseque rei certos agnoscere fines | 这项声名卓著的事业有哪些确定的疆界， |
+| 72 | Te liceat monstrante michi: quid laurea signet | 请你指点，让我得以知晓；桂冠又象征着什么—— |
+| 73 | Tam ducibus claris quam uatibus addita sacris. | 它既赐给显赫的将领，也赐给神圣的诗人。 |
+| 74 | Neue tibi indignus uidear cui talia forte | 你也别以为我不配听人讲 |
+| 75 | Narrentur, nobis animum dulcedine quadam | 这样的事：美好的事物总以某种甜美 |
+| 76 | Pulcra mouent, et continuis hoc pectus ab armis | 打动我们的心；这颗被接连不断的战事 |
+| 77 | Dulcia concussum placide capit otia lingue." | 震荡的胸膛，也会安然领受言谈的甜美闲暇。” |
+
+**注释**
+
+- **65–68** *Meonius ... Euripides*　“迈俄尼亚的诗人”指荷马，古代传说荷马生于小亚细亚的迈俄尼亚（即吕底亚）。恩尼乌斯曾把欧里庇得斯的多部悲剧改编为拉丁文，故西庇阿特别提及欧里庇得斯。
+- **68–69** *Alio nolim me carmine dici*　西庇阿只愿由恩尼乌斯歌颂。恩尼乌斯确曾作诗颂扬西庇阿，有一部题为《西庇阿》的作品，今存残篇。
+- **70–73** *que sint permissa poetis ... quid laurea signet*　诗人可享有何种自由、桂冠意味着什么，这两个问题正是彼特拉克 1341 年在卡皮托利山加冕时所作演说的主题；以下恩尼乌斯的回答多与该演说相合。
+
+<a id="s06"></a>
+### 78–107　恩尼乌斯论诗：真实为基，寓言为云
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 78 | Ille autem "Nulla est, fateor, tam dura feroxque | 他答道：“我承认，没有哪个心灵会如此 |
+| 79 | Mens" ait "alme ducum, cui non sit pulcra uoluptas | 冷硬凶猛——慈惠的统帅啊——竟不以此为美好的乐事： |
+| 80 | Interdum curas inter uiteque labores | 偶尔在种种忧虑与人生的劳苦之间， |
+| 81 | Pyerios audisse modos dulcesque dearum | 聆听皮厄里亚的旋律，悄然 |
+| 82 | Irrepsisse choros. Sed enim hec precordia nunquam | 潜入女神们甜美的歌队。至于你这颗心， |
+| 83 | A Musis auersa reor. Non talibus astris | 我相信，从未背离过缪斯。大自然生下 |
+| 84 | Tam magnum genuisse uirum Natura uidetur. | 如此伟大的人物，看来不会是在那样的星宿之下。 |
+| 85 | Errasset, si cui dederat cupidissima fame | 倘若她赋予某人一颗无比渴求名声的胸怀， |
+| 86 | Pectora, Musarum non ingessisset amorem. | 却不把对缪斯的爱灌注其中，那便是她的失误。 |
+| 87 | Quisquis enim se magna uidet gessisse, necesse est | 因为谁若看到自己成就了伟大的事业，就必定 |
+| 88 | Diligat eternos uates et carmina sacra. | 会热爱不朽的诗人和神圣的诗篇。 |
+| 89 | At nunc quod nostro poscis sermone doceri, | 至于你现在要我用言语教给你的， |
+| 90 | Accipe quam breuibus. Non illa licentia uatum est | 请听我尽量简短地讲。诗人的特许， |
+| 91 | Quam multis placuisse palam est. | 并不是那显然讨得众人欢心的一种…… |
+| 92 | Scripturum iecisse prius firmissima ueri | 执笔之人理应先为真实打下 |
+| 93 | Fundamenta decet, quibus inde innixus amena | 最牢固的根基；然后倚靠着它， |
+| 94 | Et uaria sub nube potest abscondere sese, | 他才可以把自己藏进宜人而多彩的云里， |
+| 95 | Lectori longum cumulans placidumque laborem, | 为读者积下一份漫长却愉悦的劳作， |
+| 96 | Quesitu asperior quo sit sententia, uerum | 好让其中的意旨探求时更加艰涩， |
+| 97 | Dulcior inuentu. Quicquid labor historiarum est | 寻得时却更加甜美。凡属历史的劳绩， |
+| 98 | Quicquid uirtutum cultus documentaque uite, | 凡属美德的修习与人生的教诲， |
+| 99 | Nature studium quicquid, licuisse poetis | 凡属对自然的钻研，你要相信，这些都 |
+| 100 | Crede: sub ignoto tamen ut celentur amictu, | 许给了诗人；只是要让它们藏在陌生的外衣下， |
+| 101 | Nuda alibi, et tenui frustrentur lumina uelo, | 在别处又赤裸无遮，要以一层薄纱瞒过人的目光， |
+| 102 | Interdumque palam ueniant, fugiantque uicissim. | 时而公然显现，时而又隐遁逃逸。 |
+| 103 | Qui fingit quodcumque refert, non ille poete | 谁若把所讲的一切都凭空捏造，他便不该 |
+| 104 | Nomine censendus, nec uatis honore, sed uno | 被冠以诗人之名，也不配享有歌者的荣誉，只配 |
+| 105 | Nomine mendacis. Potes hinc perpendere quicquid | 得到一个名字：说谎者。由此你可以掂量 |
+| 106 | Scire petis: nostri que sit mensura laboris, | 你想知道的一切：我们的劳作尺度何在， |
+| 107 | Et latos fines, et quanta licentia nobis. | 疆界何其宽广，我们的特许又有多大。 |
+
+**注释**
+
+- **81–82** *Pyerios ... dearum ... choros*　皮厄里亚在马其顿奥林波斯山下，传为缪斯的出生地，故缪斯又称皮厄里得斯（见 115 行）。“女神们的歌队”即缪斯的歌舞。
+- **83–86** *Non talibus astris*　意谓：如此伟大的人物，不会生在使人疏远缪斯的星宿之下；大自然既给了他渴求名声的心，就必定也给了他对缪斯的爱，否则便是自然的失误。
+- **90–91** *Non illa licentia uatum est*　意谓诗人的自由并非许多人乐于想象的那种随心所欲的虚构，详见下文。91 行只有半行，是彼特拉克未完成的诗行，译文以省略号标出。
+- **92–102** *sub nube*　这段诗学宣言是全诗的关键之一：诗以真实为根基，再以寓意的“云”“外衣”“薄纱”加以遮掩，使读者求之愈难、得之愈甘。历史、伦理（美德与人生的教诲）、自然哲学大致对应古代学问的分科，意谓一切学问都可以入诗。这是中世纪以寓意解释古典诗歌的传统，彼特拉克在加冕演说和书信中也有类似的论述。
+- **103–105** *Qui fingit quodcumque refert*　此说本于拉克坦提乌斯《神圣原理》第一卷第 11 章：诗人的本分是把真实发生的事借曲折的比喻改换形态，若所讲全属捏造，那就是愚妄的说谎者而非诗人。90 行“诗人的特许”一语也出自那里。
+
+<a id="s07"></a>
+### 108–123　桂冠的意义
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 108 | Laurea restat adhuc: cuius dignare parumper | 还剩下桂冠：请你屈尊片刻， |
+| 109 | Participes nos esse tibi. Si gloria bello, | 容我们与你共享它。倘若荣耀既建立在战争上， |
+| 110 | Nec minus ingenio constat, patiere uirenti | 也同样建立在才智上，你就会容许 |
+| 111 | Fronde duces uatesque simul sacra tempora cingant. | 将领与诗人一同以青翠的枝叶 |
+| 112 | Immortale decus uiror immortalis utrisque | 环绕他们神圣的鬓角。那不朽的青翠向两者 |
+| 113 | Indicat et longe promittit tempora uite. | 昭示不朽的荣光，并许下绵长的生命岁月。 |
+| 114 | Hinc deus ingenii lauros amat almus Apollo, | 因此，才智之神、慈惠的阿波罗喜爱月桂； |
+| 115 | Pyeridum solitus cithara modulante choreas | 他惯于弹着竖琴奏出旋律，引领皮厄里得斯的轮舞， |
+| 116 | Incola Cirreo totiens duxisse sub antro. | 作为那里的居民，一次又一次，在基拉的岩洞之下。 |
+| 117 | Preterea hanc frondem rapido non fulmine uexat | 此外，朱庇特从不用迅疾的雷电侵扰 |
+| 118 | Iupiter ex cuntis, talemque meretur honorem | 万木之中的这一种叶子；月桂配得上这样的荣宠： |
+| 119 | Laurus: ab ethereo tanta est clementia rege. | 这便是天界之王对它的莫大宽仁。 |
+| 120 | Iam fame quod fulmen erit, nisi sola uetustas | 那么，对于名声，什么才是雷电？不就只有那摧倒 |
+| 121 | Omnia prosternens? Hunc gloria nostra pauorem | 万物的岁月吗？我们的荣耀并不怀有 |
+| 122 | Non habet, atque ideo spernentis fulmina frondis | 这样的恐惧，因此它戴着那蔑视雷电的 |
+| 123 | Serta gerit sanctoque legit de stipite ramos." | 枝叶编成的花冠，从神圣的树干上采摘枝条。” |
+
+**注释**
+
+- **108–113** *Laurea*　古罗马凯旋将军头戴月桂冠，诗人以桂冠为荣则源于阿波罗崇拜。月桂四季常青，故象征不朽的荣光。彼特拉克的加冕演说也讨论了月桂何以同属将领与诗人。
+- **114–116** *Apollo ... Cirreo ... antro*　阿波罗爱月桂，源于他追求仙女达佛涅、达佛涅化为月桂树的神话（奥维德《变形记》第一卷）。基拉（Cirrha）是德尔斐的港口，“基拉的岩洞”即指德尔斐，阿波罗的圣地。皮厄里得斯即缪斯。
+- **117–119** *non fulmine uexat*　古人相信月桂不遭雷击，老普林尼《博物志》即有此说；据苏埃托尼乌斯《提比略传》69，提比略皇帝每逢雷雨便戴上月桂冠以避雷。
+- **120–123** *sola uetustas*　名声唯一的“雷电”是摧毁一切的岁月；荣耀不惧雷击，所以戴上不受雷击的月桂。“岁月吞噬一切”的主题在本卷末尾还会再现。
+
+<a id="s08"></a>
+### 124–157　西庇阿再请；恩尼乌斯独尊荷马
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 124 | Dixerat. At Scipio subridens: "Omnia mulcent; | 他说完了。西庇阿微笑道：“你的话句句令人愉悦， |
+| 125 | Sed ledis breuitate tua; et dum dulcius inter | 只是你的简短伤了我们；正当这些话 |
+| 126 | Ista sonant, medio sitientes calle relinquis. | 愈发甜美地响起，你却把焦渴的我们撇在半路。 |
+| 127 | Ergo age! nam nullum iam litus cernitur, et sol | 来吧！眼下已望不见任何海岸，太阳 |
+| 128 | Transiuit celi medium. Tu dulcia prome | 也已越过天空的正中。请你取出 |
+| 129 | Verba, quibus mens alma scatet, placidoque uolentes | 甜美的言辞——你慈惠的心中正涌流着它们—— |
+| 130 | Et longo sermone feras, partemque diei | 以平和而悠长的言谈载着情愿的我们，消减 |
+| 131 | Et partes pelagi minuens." Tunc ille coactus | 一段白昼、一程海路。”于是他不得已， |
+| 132 | Incipit - hic omnes tenuerunt murmure naute | 开口讲述——这时水手们全都止住了低语， |
+| 133 | Et comites siluere ducis: "Vestigia Fame | 统帅的随从也都沉默下来：“我追随着名声 |
+| 134 | Rara sequens, quantum licuit per secula retro | 稀疏的足迹，只要可能，便沿着世代往回走， |
+| 135 | Omnia peruigili studio uagus ipse cucurri, | 怀着不眠的热忱，独自漫游，跑遍了所有的年代， |
+| 136 | Donec ad extremas animo rapiente tenebras | 直到心神把我掳去，抵达最遥远的黑暗， |
+| 137 | Peruentum primosque uiros, quos Fama perenni | 来到最初的人们中间——名声在她那永无尽头的 |
+| 138 | Fessa uia longe ignotos post terga reliquit. | 路上走得疲惫，把他们远远丢在身后，无人知晓。 |
+| 139 | Hic quisquis merito fulgens fuit obuius, illum | 在那里，凡是以功德闪耀而与我相遇的人， |
+| 140 | Amplexu tenuisse animi michi gloria summa est | 我都把他紧紧拥在心怀，这是我至高的荣耀； |
+| 141 | Inque locum cari semper coluisse parentis. | 我始终敬奉他，如同敬奉亲爱的父亲。 |
+| 142 | Precipue illustres calamo florente poetas | 尤其是那些以华美之笔著称的诗人， |
+| 143 | Admisi atque ima cordis sub parte locaui. | 我都请他们进来，安放在我心底最深处。 |
+| 144 | Milibus ex tantis unus michi summus Homerus, | 在如此成千上万人当中，唯有荷马对我至高无上， |
+| 145 | Unus habet quod suspiciam, quod mirer amemque. | 唯有他身上有我所仰望、所赞叹、所热爱的东西。 |
+| 146 | Ille michi e celo ueniens tam sepe uidetur, | 我常常觉得他是从天上降临的， |
+| 147 | Ut stupeam potuisse hominem sic alta tenere, | 以至于惊叹：一个凡人竟能如此把握崇高之事， |
+| 148 | Astrorum sic nosse uias, sic climata terre! | 如此通晓星辰的轨道，如此通晓大地的各个地带！ |
+| 149 | Qui licet ante nouos reges et tempora Rome | 他虽然早在罗马初有王者、初有纪年之前 |
+| 150 | Floruerit, tamen hoc in tempus mente reduxi | 便已名盛一时，我却在心中把他带回这个时代， |
+| 151 | Presentemque animo ficta sub ymagine feci. | 借一个虚构的形象，让他在我心中如在眼前。 |
+| 152 | Hoc sine nulla dies abiit, nox nulla sine illo. | 没有一个白天离得开他，没有一个夜晚离得开他。 |
+| 153 | Ille breues cenas in longum traxit, et idem | 他把简短的晚餐拉得悠长，也是他， |
+| 154 | Nunc longam breuiare uiam, nunc tramite plano | 时而教我缩短漫长的旅途，时而教我 |
+| 155 | Edocuit rigidi transire cacumina montis: | 越过崎岖的山巅，如走平坦的小路： |
+| 156 | Denique quicquid agens, nullo discrimine secum | 总之，无论我做什么，我都与他同在，不分彼此， |
+| 157 | Sopitus uigilansque fui, noctemque diemque. | 睡着也好，醒着也好，黑夜也好，白天也好。 |
+
+**注释**
+
+- **132–133** *omnes ... siluere*　全船肃静聆听，令人想起《埃涅阿斯纪》第二卷开头众人静听埃涅阿斯讲述特洛伊陷落的情景（“众人都沉默了”）。
+- **133–138** *Vestigia Fame ... Fama perenni Fessa uia*　名声（Fama）在此拟人：她的足迹延伸到远古，最终也走累了，把最早的人们遗落在无名的黑暗中。恩尼乌斯钻研古史的热忱，正是彼特拉克本人的写照。
+- **144–148** *summus Homerus*　古代与中世纪常把荷马史诗视为包罗天文地理的百科宝库。climata 是古代地理学按纬度划分的地带。
+- **149–151** *ante nouos reges et tempora Rome*　古人一般认为荷马生活在罗马建城（传统纪年公元前 753 年）之前。“借一个虚构的形象”让他如在眼前，是下文梦境的伏笔。
+- **152–157** *Hoc sine nulla dies abiit*　与古人朝夕相处，正是彼特拉克自己的生活：他在书信中常称古代作家为朋友和伴侣，还写过致西塞罗、维吉尔、荷马等古人的书信（《家常书信集》第二十四卷）。1354 年他得到一部希腊文荷马抄本，却苦于读不懂希腊文。
+
+<a id="s09"></a>
+### 158–177　决战前夜，荷马显现
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 158 | Hic michi nunc etiam dubii sub tempore belli | 如今，在这场胜负未卜的战争之时，他也 |
+| 159 | Affuit in somnis. Quis somnum dixerit illum? | 在睡梦中来到我身边。可谁会把那称作睡梦呢？ |
+| 160 | Peruigil astabam. Fracta nam pace sub armis | 我是醒着站在那里的。因为和议破裂之后，一切 |
+| 161 | Omnia feruebant; seroque in castra reuersus | 都在刀兵之下沸腾；你很晚才回到营中， |
+| 162 | Contigeras animum. Iubeas si uera fateri, | 触动了我的心。倘若你要我说实话， |
+| 163 | Non timui; tamen in dubio spes fessa pependit | 我并不畏惧；然而我的希望疲惫地悬在疑虑之中， |
+| 164 | Usque sub occasum solis. Tum maxime pernox | 一直到日落时分。那时，彻夜不眠的忧虑 |
+| 165 | Cura animum tenuit, quid secum postera ferret | 最沉重地占据了我的心：明天，那将了结 |
+| 166 | Tot motus clausura dies. Hic nocte sub alta | 这许多动荡的一天，会带来什么？就在这深夜里， |
+| 167 | Aspicio aduentare senem, quem rara tegebant | 我看见一位老人走来，零落的 |
+| 168 | Frusta toge et canis immixta et squalida barba. | 托加碎片遮着他，胡须斑白，蓬乱而污秽。 |
+| 169 | Sedibus exierant oculi. Caua frontis ymago | 他的双眼早已离开了眼窝。那深陷的面容 |
+| 170 | Horrorem inculta cum maiestate ferebat. | 带着粗朴的威严，叫人望而生畏。 |
+| 171 | Dirigui. Tunc ille manu similisque uidenti | 我惊呆了。他却伸出手，宛如看得见一般， |
+| 172 | Occupat ancipitem Graioque hec more profatur: | 一把拉住惶惑的我，用希腊人的方式说道： |
+| 173 | 'Salue, care michi Latie telluris amice | ‘愿你安好，我在拉丁姆的土地上唯一的 |
+| 174 | Unice! quodque diu uotis animoque petisti, | 亲爱的朋友！你长久以来在祈愿与心中所寻求的， |
+| 175 | Aspice qualis erat quondam dum uixit Homerus. | 看吧：这便是荷马在世时的模样。 |
+| 176 | Huc ego uix tandem reserato carcere Ditis | 我好不容易，终于从狄斯打开的牢狱中 |
+| 177 | Emersi, tacite perrumpens uiscera terre'. | 钻出来到这里，冲破了寂静大地的脏腑。’ |
+
+**注释**
+
+- **158–162** *dubii sub tempore belli ... Fracta ... pace*　指扎马决战（公元前 202 年）的前夜。第七卷写西庇阿与汉尼拔在战前会谈，和议未成。李维 30.29–31 记会谈，30.32–35 记会战。
+- **159–166** *Affuit in somnis*　恩尼乌斯在《编年纪》序诗中自述梦见荷马现身，说荷马的灵魂已转入他身中，卢克莱修《物性论》1.117–126 提及此事。彼特拉克借这一传说虚构了这场梦，却让荷马预言扎马之战的胜利与彼特拉克本人。
+- **161–162** *seroque in castra reuersus Contigeras animum*　句意不甚明确：字面为“你很晚回到营中，触动了（我的）心”，或指西庇阿会谈归来后的言语神情令恩尼乌斯心绪难平。今照字面译。
+- **167–172** *senem ... Graio ... more*　盲诗人荷马的形象。托加（toga）本是罗马公民的长袍，彼特拉克却让这位希腊诗人穿着破烂的托加。“用希腊人的方式”，或指用希腊语，或指希腊人的礼节。
+- **176–177** *carcere Ditis*　狄斯即冥王，“狄斯的牢狱”指冥府，荷马的亡灵自地下而来。tacite 今作属格形容词（“寂静大地的”）解，也可作副词“悄然”。
+
+<a id="s10"></a>
+### 178–214　恩尼乌斯问盲目之故，荷马作答
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 178 | Procubui uoluique pedes contingere pronus: | 我俯伏在地，想要伏身触摸他的双脚： |
+| 179 | Umbra fuit nudeque heserunt oscula terre. | 那却是一个幽影，我的吻落在了光秃的地上。 |
+| 180 | 'Surge' ait 'et mecum ex equo, nam dignus es, ultro | ‘起来，’他说，‘你既配得上，就与我平起平坐， |
+| 181 | Congredere et, dum tempus habes, tam sepe negato | 主动与我交谈吧；趁你还有时间，那屡被拒绝的 |
+| 182 | Colloquio satiare meo'. Tum protinus ardens | 与我的晤谈，你就尽情享用吧。’我立刻热切地 |
+| 183 | Exsurgo 'Gentisque ingens o gloria' dixi | 站起身来，说道：‘阿尔戈斯民族的伟大荣光、 |
+| 184 | 'Argolice summumque decus, quis talia tanto | 至高的光彩啊，是谁把这样的刑罚加在 |
+| 185 | Supplitia inflixit? Sacre quis lumina frontis | 如此伟大的你身上？是谁夺走了你神圣额头上的 |
+| 186 | Natureque duces rapuit, tantumque nocere | 明灯——那自然的向导——竟敢对世界 |
+| 187 | Sustinuit mundo? Non hic michi creditus olim: | 造成这样大的伤害？我从前心中的你不是这样： |
+| 188 | Lincea quin acies animo occursabat amanti | 浮现在我满怀爱慕的心中的，是猞猁般锐利的目光， |
+| 189 | Visque oculis immensa tuis. Quos Grecia portus | 是你双眼无穷的视力。富饶的希腊， |
+| 190 | Diues habet gemino late circumflua ponto; | 被两片大海远远环绕，它有哪些港湾； |
+| 191 | Quos colles, que rura colit, que uallibus imis | 它耕种着哪些山丘、哪些田野，在深深的谷底 |
+| 192 | Antra tenet, quenam frondosa cacumina siluis | 藏着哪些洞穴，哪些山巅覆盖着繁茂的森林， |
+| 193 | Aut pelago scopulos, quos non michi lumine certo | 海中又有哪些礁石——哪一处你不曾以确凿的目光 |
+| 194 | Monstraris? Cernenda aliis longinqua dedisti, | 指给我看？你把远方的事物交给别人去看， |
+| 195 | Ipse propinqua uidens minime? Miracula menti | 自己却最看不见近处？我心中 |
+| 196 | Quanta mee! Egeo diffusas ecce profundo | 何等惊奇！看哪，我从这里便能数出 |
+| 197 | Cicladas hinc numero; uideo quot litore flexus | 散布在爱琴海深处的基克拉泽斯群岛；看得见赫勒斯滂 |
+| 198 | Hellespontiaco: tu me nequis ipse tueri, | 海岸有多少道弯曲：可你自己却看不见我—— |
+| 199 | Ostendens tam multa michi!' Tum suscipit ille: | 你，向我展示了这么多东西的人！’他接口说道： |
+| 200 | 'Vera quidem memoras; sed non miranda. Quid ergo? | ‘你说的确是实情，但并不足怪。那又怎样？ |
+| 201 | Qui michi corporeos Deus abstulit, ille nequibat | 那夺去了我肉身之眼的神，难道就不能 |
+| 202 | Restituisse alios quibus hec archana uiderem? | 还给我另一双眼睛，让我看见这些奥秘？ |
+| 203 | Desine iussa Dei solitis onerare querelis, | 不要再把惯常的怨言堆到神的旨意上， |
+| 204 | Mortalis! Namque iste hominum stultissima lis est. | 凡人啊！因为这是人类最愚蠢的争讼。 |
+| 205 | Iusta facit quecumque facit. Sed noscere cunta | 他所做的一切都是公正的。可是你们凡人的 |
+| 206 | Vestra nequit grauitas sub opaci carceris umbra. | 沉重之躯，在幽暗牢狱的阴影下，无法认识一切。 |
+| 207 | Quam multis nocuere oculi uisusque uagari | 有多少人被眼睛所害！视觉驱使他们 |
+| 208 | Compulit et cepto forsan semouit honesto! | 四处游荡，也许还使他们偏离了已开始的正途！ |
+| 209 | Hinc ea sponte quidem, grauis ut nocituraque multis, | 因此，这个重负——它沉重，又会伤害许多人—— |
+| 210 | Sarcina deposita est. Quin hinc modo pergimus ultra? | 我是心甘情愿卸下的。我们何不就从这里再往前走？ |
+| 211 | Tu cecum ne sperne ducem. Fortasse uidebis | 不要轻视一个盲眼的向导。也许你会看到 |
+| 212 | Multa animo placitura tuo. Nec cura futuri | 许多令你心喜的事物。也不要让对未来 |
+| 213 | Solicitet casus. Quoniam lux crastina campos | 结局的忧虑困扰你。因为明日的阳光 |
+| 214 | Sanguine Penorum Latio uictore rigabit'. | 将以布匿人的鲜血浇灌原野，拉丁姆将是胜者。’ |
+
+**注释**
+
+- **178–179** *Umbra fuit*　仿维吉尔《埃涅阿斯纪》6.700–702 埃涅阿斯三次欲拥抱父亲的亡灵而扑空；但丁《炼狱篇》第二十一歌末斯塔提乌斯俯身欲抱维吉尔的双脚，被告知彼此都是幽影，情景尤为相近。
+- **183–189** *Natureque duces ... Lincea acies*　“阿尔戈斯民族”泛指希腊人；“自然的向导”指眼睛。猞猁以目光锐利著称；阿尔戈英雄林叩斯（Lynceus）传说能透视地下，这个形容词兼含二义。
+- **189–199** *Quos Grecia portus*　荷马史诗被视为希腊地理的宝库，《伊利亚特》第二卷的“船表”即罗列了希腊各地。“两片大海”指希腊东西两侧的爱琴海与伊奥尼亚海。基克拉泽斯群岛在爱琴海南部；赫勒斯滂即今达达尼尔海峡，特洛伊就在其岸边。
+- **201–206** *Deus ... sub opaci carceris umbra*　荷马以基督教式的口吻谈论单数的“神”：肉眼被夺，换来洞见奥秘的心眼。以肉身为“牢狱”是柏拉图主义与基督教共有的意象，西塞罗《西庇阿之梦》也说亡灵脱离肉体的束缚“如出牢狱”。
+- **207–210** *Quam multis nocuere oculi*　古人传说哲学家德谟克利特自毁双目，以免视觉扰乱心神（西塞罗《论至善与至恶》第五卷提到此说）。荷马说自己是“心甘情愿”卸下双眼这一重负的，意思与此相近。
+- **213–214** *lux crastina*　预言次日扎马之战罗马的胜利。布匿人即迦太基人。
+
+<a id="s11"></a>
+### 215–229　山谷中的青年：佛罗伦萨之子
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 215 | Prosequor augurio letus. | 我为这吉兆而欢喜，跟随他前行。…… |
+| 216 | (- - -) | （……） |
+| 217 | Hic ego - nam longe clausa sub ualle sedentem | 这时我——因为我远远望见一个青年 |
+| 218 | Aspexi iuuenem -: 'Dux o carissime, quisnam est, | 坐在幽闭的山谷里——说道：‘最亲爱的向导啊，那是谁？ |
+| 219 | Quem uideo teneras inter consistere lauros | 我看见他停留在柔嫩的月桂丛中， |
+| 220 | Et uiridante comas meditantem incingere ramo? | 沉思着要用青翠的枝条环束他的头发。 |
+| 221 | Nescio quid, nisi fallor, enim sub pectore uersat | 因为，若我没有看错，他心中正在盘算 |
+| 222 | Egregiumque altumque nimis'. 'Non falleris' inquit: | 某种卓绝而又极其崇高的东西。’‘你没有看错，’他说： |
+| 223 | 'Agnosco iuuenem sera de gente nepotum, | ‘我认得这青年，他来自晚出的后裔一族， |
+| 224 | Quem regio Italie, quemue ultima proferet etas. | 意大利的一方土地、那最后的时代将把他生出。 |
+| 225 | Hunc tibi Tusca dabit latis Florentia muris | 伊特鲁里亚的佛罗伦萨，城墙宽阔，将把他给你； |
+| 226 | Romulea radice oriens, urbs inclita quondam, | 它从罗慕路斯的根上生长出来，日后将名闻遐迩， |
+| 227 | Nunc nichil. Utue queas ortus confinia nosse, | 如今却还什么都不是。为了让你知道他生地的方位： |
+| 228 | Diuitis egregius muros interluet urbis | 那卓越的阿尔诺河，将从那富庶城市的城墙间流过， |
+| 229 | Arnus in Ausonie descendens litora Pise. | 一路下行，奔向奥索尼亚的比萨的海岸。 |
+
+**注释**
+
+- **215–216** *Prosequor augurio letus. (- - -)*　215 行只有半行，216 行原文是缺行的标记，彼特拉克在此留下了未写完的空缺。译文以省略号标出，不作补充。从上下文看，缺文大约是荷马引恩尼乌斯前行、来到一处山谷的过渡。
+- **217–222** *sedentem ... iuuenem*　这位坐在月桂丛中、沉思着为自己戴上桂枝的青年，就是本诗作者彼特拉克。219 行数字版在 lauros 后多出一个引号，实际上问句一直延续到 222 行。
+- **223–227** *Florentia ... urbs inclita quondam, Nunc nichil*　quondam 在此指将来的“某一天”：在荷马说话的公元前 202 年，佛罗伦萨尚不存在。它是公元前 1 世纪建立的罗马殖民地，故说“从罗慕路斯的根上生长出来”。Tusca 照译名表译“伊特鲁里亚的”，即后来的托斯卡纳。彼特拉克的父亲是佛罗伦萨人，1302 年与但丁同年遭放逐；彼特拉克本人 1304 年生于流亡地阿雷佐，此处以佛罗伦萨为他的母邦。
+- **228–229** *Arnus ... Ausonie ... Pise*　阿尔诺河流经佛罗伦萨，在比萨附近入海。奥索尼亚是意大利的诗称，得名于意大利南部的古代民族奥索尼人。
+
+<a id="s12"></a>
+### 230–257　弗朗切斯科：《阿非利加》与卡皮托利山的桂冠
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 230 | Ille diu profugas reuocabit carmine Musas | 他将用诗歌把久已流亡的缪斯召回， |
+| 231 | Tempus in extremum, ueteresque Elicone Sorores | 就在那最后的时代；他将让古老的缪斯姐妹 |
+| 232 | Restituet, uario quamuis agitante tumultu; | 重返赫利孔山，尽管种种纷乱搅扰着他； |
+| 233 | Francisco cui nomen erit; qui grandia facta, | 他的名字将叫弗朗切斯科；他将把伟大的功业—— |
+| 234 | Vidisti que cunta oculis, ceu corpus in unum | 你亲眼见过的那一切——仿佛聚成一个 |
+| 235 | Colliget: Hispanas acies Libieque labores | 整体：西班牙的战阵、利比亚的苦斗， |
+| 236 | Scipiadamque tuum: titulusque poematis illi | 还有你的西庇阿；他那部诗篇的标题 |
+| 237 | AFRICA. Quin etiam ingenii fiducia quanta, | 将是《阿非利加》。而且，他对自己的才智何等自信， |
+| 238 | Quantus aget laudum stimulus! seroque triumpho | 赞誉的激励又将何等驱策着他！在迟来的凯旋中， |
+| 239 | Hic tandem ascendet Capitolia uestra, nec ipsum | 他终将登上你们的卡皮托利山；那时 |
+| 240 | Mundus iners studiisque aliis tunc ebria turba | 无论是懒散的世人，还是沉醉于别种追求的众人， |
+| 241 | Terrebit quin insigni florentia lauro | 都吓不倒他：他走下山来时，鬓角 |
+| 242 | Tempora descendens referat comitante Senatu. | 将因光荣的月桂而如花盛放，元老院在旁陪同。 |
+| 243 | Hinc modo tantus amor, tanta est reuerentia lauri. | 因此，他如今才对月桂怀着这样的爱、这样的敬畏。 |
+| 244 | Omnibus ex siluis iam nunc sibi gratior una est | 在一切树木之中，如今只有一种最得他的欢心—— |
+| 245 | Delphica; iamque nouas discit connectere frondes | 那德尔斐之树；他已在学着编结新的枝叶， |
+| 246 | Serta gerens; iam uenturi presagia mulcent. | 头戴花冠；对未来的预感已在抚慰着他。 |
+| 247 | Iste senescenti tantum illo in tempore Rome | 到那时，他之于日渐衰老的罗马，将是如此 |
+| 248 | Carior, annose quantum contingere matri | 珍贵，正如一位年迈的母亲珍爱的那个 |
+| 249 | Filius ille solet, quem post lacrimosa sepulcra | 儿子——在儿子们一一入了令人落泪的坟墓之后， |
+| 250 | Natorum uidue sterilis tandem attulit aluus. | 寡妇那久已不育的腹中终于又生下了他。 |
+| 251 | Illa quidem, que iam lustris nil tale ducentis | 罗马已有两百个五年未曾见过这样的事， |
+| 252 | Viderit, hunc magno spectabit leta fauore, | 她将满心欢喜、热烈地注视着他 |
+| 253 | Laurea dum capiet, dum templis serta relinquet | 接受桂冠，把花冠留在神殿里， |
+| 254 | Primitiasque suas sanctas affiget ad aras. | 把他初次的献礼悬挂在神圣的祭坛上。 |
+| 255 | Florentina omnis magis ut sit grata propago | 佛罗伦萨的一切后裔将因此更得你的欢心—— |
+| 256 | Idem unus tibi, Roma, dabit, nec protinus urbem | 罗马啊，这同一个人将为你做到这一点；你也不必 |
+| 257 | Peniteat Tusci fundasse ad gurgitis undam. | 再懊悔当初在伊特鲁里亚的河水边建起那座城。 |
+
+**注释**
+
+- **230–233** *profugas ... Musas ... Francisco*　彼特拉克自视为在长久衰落之后复兴古典诗艺的人，让缪斯姐妹重返赫利孔山即诗歌的复兴。“弗朗切斯科”即本诗作者弗朗切斯科·彼特拉克（Francesco Petrarca，拉丁名 Franciscus）。荷马以神谕般的口吻预言他的名字。Tempus in extremum 今解为“在那最后的时代”，与 224 行“最后的时代”相应；也可理解为“直到时间的尽头”。
+- **233–237** *ceu corpus in unum Colliget*　《阿非利加》把西庇阿在西班牙的战事（借回忆与叙述带出）和在阿非利加的征战汇为一部诗。利比亚在诗中泛指北非。“你的西庇阿”：恩尼乌斯为西庇阿所爱，又曾作诗颂扬他（见 68–69 行注）。
+- **237** *AFRICA ... ingeniu*　诗题原文以大写印出，译文加书名号。ingeniu 是数字版的录入错误，按文意与格律应作 ingenii（“才智的”）。
+- **238–242** *seroque triumpho ... Capitolia*　指 1341 年 4 月 8 日彼特拉克在罗马卡皮托利山接受桂冠加冕，由罗马元老奥尔索·德拉安圭拉拉为他戴冠。“迟来的凯旋”谓古代诗人加冕的传统久已中断。florentia（“如花盛开的”）或暗含 Florentia（佛罗伦萨）的双关。
+- **243–246** *Delphica*　“德尔斐之树”即月桂，阿波罗的圣树。月桂（laurus）也影射彼特拉克所爱的劳拉（Laura）之名，这是他意大利语诗中常见的双关。
+- **247–250** *annose ... matri*　以晚年丧子的寡母终于又得一子为比，写衰老的罗马得到彼特拉克时的欣喜。把罗马比作衰老、守寡的妇人，是彼特拉克诗文中常见的形象。
+- **251–254** *lustris ... ducentis ... serta relinquet*　一个 lustrum 为五年，两百个即一千年：彼特拉克认为罗马已逾千年未有诗人加冕。加冕礼后，他把桂冠献在圣彼得大教堂的祭坛上，即此处所说“把花冠留在神殿里”。
+- **255–257** *Tusci ... gurgitis*　指阿尔诺河。意谓有了彼特拉克，罗马便不会后悔当初建立佛罗伦萨。
+
+<a id="s13"></a>
+### 258–284　散文史书与乡间隐居
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 258 | Hic quoque magnorum laudes studiosus auorum | 他也将勤勉地把伟大祖先的赞誉 |
+| 259 | Digeret extrema relegens ab origine fortes | 编排整理，从最远的起源重新读起， |
+| 260 | Romulidas, uestrumque genus sermone soluto | 读那些勇敢的罗慕路斯子孙和你们的民族；他将以散文， |
+| 261 | Historicus, titulosque urbis et nomina reddet. | 作为一位史家，复述这座城市的荣衔与名号。 |
+| 262 | In medio effulgens nec corpore paruus eodem | 在书的中央熠熠生辉、在这同一部著作中也毫不渺小的， |
+| 263 | Magnus erit Scipio; seque ipse fatebitur ultro | 将是伟大的西庇阿；他本人也将坦然承认， |
+| 264 | Plus nulli debere uiro. At si uita manebit | 自己受惠于谁都不及受惠于此人之多。倘若生命 |
+| 265 | Longior, et nullo preuertet turbine ceptum | 延续得更长，倘若没有别的冲动以某种旋风 |
+| 266 | Impetus alter iter, tunc ampla uolumina cernes | 抢先打断他已开始的旅程，那时你将看到宏大的卷帙， |
+| 267 | Magnarum rerum uario distincta colore | 记载伟大的事迹，以缤纷的色彩分门别类， |
+| 268 | In tempus perducta suum. Quis cunta renarret | 一直写到他自己的时代。谁能把他 |
+| 269 | Que clausa sub mente gerit? Pulsabar hanelo | 封藏心底的种种都一一复述？’我的胸膛 |
+| 270 | Pectore, uisendi cupidus cupidusque loquendi | 喘息起伏，渴望看他，也渴望同他说话； |
+| 271 | Interea, et magnum - quis credere posset? - Homerum | 这时——谁能相信？——我竟盼着伟大的荷马 |
+| 272 | Dulcibus optabam uerbis imponere metam. | 给他那甜美的话语画上终点。 |
+| 273 | Iam michi carus erat te propter et alta relatu | 他已让我倍感亲切，因为你，也因为其余 |
+| 274 | Cetera. Procedo sensim propiorque parumper | 那些说来崇高的事。我慢慢向前，稍走近些， |
+| 275 | Conspicio curis grauidum sub flore iuuente | 便看见他正当青春的花季，却满怀忧思， |
+| 276 | Et calamo herentem uiridique in gramine septum | 紧握着笔，坐在青草地上，四周 |
+| 277 | Arboribus uariis nitidissima flumina iuxta | 环绕着各样的树木，近旁是清澈无比的河流， |
+| 278 | Ac gelidos inter fontes rupesque prealtas. | 周围是清冷的泉水与高耸的岩壁。 |
+| 279 | 'Respice' dux inquit 'que sint umbracula ruris | ‘看吧，’向导说，‘这就是乡野的荫凉之所， |
+| 280 | Effigiesque sui. Namque hic ad talia primum | 也是他自己的写照。因为正是在这里，他将首次 |
+| 281 | Eriget ingenium; uarius mox partibus Orbis | 把才思举向这样的事业；不久他心性多变，在世界 |
+| 282 | Et terra pelagoque uagus concepta per annos | 各处漂泊，走过陆地，走过海洋，把多年来 |
+| 283 | Desperata sinet. Vix rerum turbine tandem | 孕育的构想弃置不顾，不再抱有希望。直到最后， |
+| 284 | Explicitus magno transibit plurima cursu'. | 他才勉强挣脱世事的旋风，大步疾行，走过大半路程。’ |
+
+**注释**
+
+- **258–261** *sermone soluto Historicus*　指彼特拉克以拉丁文散文撰写的史传《名人传》（De viris illustribus），原计划从罗慕路斯写起，叙述罗马历代英雄。“散文”原文字面为“松开的言语”，与受格律约束的诗相对。罗慕路斯的子孙即罗马人。
+- **262–264** *In medio ... Magnus erit Scipio*　《名人传》中西庇阿传篇幅最长，是全书的核心。fatebitur 的主语不明：今承上句以西庇阿为主语，意谓西庇阿将承认自己最受惠于这位作者，呼应 53–54 行亚历山大羡慕阿喀琉斯得荷马为之传颂、58–64 行恩尼乌斯期待后世更好的诗人；也可理解为史家彼特拉克承认自己最受惠于西庇阿。
+- **264–268** *ampla uolumina ... In tempus perducta suum*　意谓若天假以年，他将写成卷帙浩繁的史书。In tempus perducta suum 今解为“一直写到他自己的时代”，与 259 行“从最远的起源”首尾相应；也可理解为“到了应有的时节得以完成”。《名人传》终究未能完成。
+- **274–278** *uiridique in gramine ... gelidos inter fontes rupesque prealtas*　描写彼特拉克在普罗旺斯的隐居地沃克吕兹（Vaucluse）：索尔格河的源泉从高崖下涌出。他自 1337 年起常住于此，并在这里动笔写作《阿非利加》。
+- **279–284** *uarius mox partibus Orbis ... uagus*　预言彼特拉克此后奔走于阿维尼翁与意大利各地的漂泊生活，以及《阿非利加》的长期搁置。effigies sui“他自己的写照”，或指这片乡野正映照出他的心性。末两行 transibit plurima magno cursu 字面为“以宏大的行程走过大部分”，大约是说他摆脱俗务之后才得以疾速推进，完成著作的大半。
+
+<a id="s14"></a>
+### 285–290　号角惊梦
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 285 | Singula mirabar, uix auditaque salute | 我对每一件事都惊奇不已；他刚听到我的问候， |
+| 286 | Sustulerat grauis ille oculos et dicta parabat, | 才庄重地抬起双眼，正要开口， |
+| 287 | Cum matutino litui clangore repente | 忽然，清晨号角的嘹亮声响 |
+| 288 | Excutior uisis, somnusque recessit inanis, | 把我从幻象中惊起，空虚的睡梦退去了， |
+| 289 | Teque aciem uideo mediis educere campis | 我看见你把军阵带到原野的中央， |
+| 290 | Sublimem hortantemque uiros et signa mouentem." | 昂然在上，激励将士，挥动军旗前进。” |
+
+**注释**
+
+- **287–290** *litui clangore*　lituus 是罗马军中所用的弯管号角。梦醒时正是扎马决战的清晨，叙述由此接回第七卷的战事；恩尼乌斯的讲述至此结束。
+
+<a id="s15"></a>
+### 291–309　日暮夜航：西庇阿谈梦
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 291 | Ennius, interea, dum talibus ore disertus | 恩尼乌斯口才雄辩，正用这样的言谈 |
+| 292 | Equoreum permulcet iter - iam fessus hanelos | 抚慰着海上的行程——疲惫的福玻斯已在 |
+| 293 | Phebus Athlanteo recreabat gurgite currus - | 阿特拉斯的大海里让喘息的车驾歇息—— |
+| 294 | Haud aliter quam qui leuibus per plana quadrigis | 正如有人乘着轻快的四马车驶过平原， |
+| 295 | Vectus et irriguo perfusus membra sopore | 四肢浸透了润泽的睡意， |
+| 296 | Non sentit transire diem longamque repente | 不觉白昼流逝，惊讶漫长的路途 |
+| 297 | Decreuisse uiam stupet et uix credulus audit, | 竟忽然缩短，听人告诉他也难以置信； |
+| 298 | Hesperio leuus Zephirus surgebat ab axe. | 这时，吉祥的西风从西方的天际升起。 |
+| 299 | Vela leuat classis; tum dextro tramite prore | 舰队扬起风帆；船头随即沿着顺遂的航路 |
+| 300 | Voluuntur, fratrisque locum uice Cinthia pernox | 破浪前行；辛西娅通宵不眠，轮替 |
+| 301 | Inuigilat, lassisque datum requiescere nautis. | 兄长的位置守望，疲惫的水手们得以歇息。 |
+| 302 | Remigis ut strepitus siluit stridorque rudentum, | 当桨手的喧声与缆绳的嘶响都已沉寂， |
+| 303 | Scipio mitis ait: "Seu sunt, seu talia fingis, | 西庇阿温和地说：“这些事无论是真，还是你的虚构， |
+| 304 | Dulcia sunt, fateor, sensusque et pectora mulcent. | 我承认都很甜美，抚慰着感官与心胸。 |
+| 305 | Illum equidem iam nunc iuuenemque nouumque poetam | 那位青年，那位新的诗人，此刻我就已经把他 |
+| 306 | Complector, tibi nunc uisum quondamque parenti, | 拥入怀中：他如今为你所见，往昔也曾为我父亲所见； |
+| 307 | Promissumque michi gemino sponsore profecto | 他既由两位担保人向我许诺，我当然 |
+| 308 | Diligo, quisquis erit; si nullus, diligo nullum." | 爱他，不论他将是谁；倘若并无其人，我便爱这无人。” |
+| 309 | Dixerat, et facili prebebant corpora somno. | 他说罢，众人便把身体交给了安然的睡眠。 |
+
+**注释**
+
+- **291–298** *Haud aliter quam qui*　句法松散：291 行的主语恩尼乌斯没有下文，主句直到 298 行才出现（西风升起）。292–293 行插入日落的描写：日神傍晚驾车没入西方的大洋（“阿特拉斯的海”即大西洋），让喘息的马匹歇息。294–297 行的比喻，形式上承接恩尼乌斯（他讲得入神，不觉日暮），也可兼指听众：他们沉浸于讲述之中，不觉白昼已尽，正如坐车打盹的人醒来，惊讶路已走完。
+- **298** *leuus Zephirus*　leuus 即 laevus 的中世纪拼法（格律也要求长音，并非 leuis 之误），本义“左方的”：舰队向东北驶往西西里，西风正从左后方吹来，是顺风；罗马占卜又以左方为吉，故今译“吉祥的”。
+- **300–301** *fratrisque locum uice Cinthia*　辛西娅即月神狄安娜，得名于她的出生地提洛岛上的钦托斯山；她是日神福玻斯的孪生姊妹，故说她轮替“兄长”的位置：日落之后，月亮接替太阳通宵守望。
+- **305–308** *parenti ... gemino sponsore*　parenti 指西庇阿的父亲：第二卷 441–443 行，老西庇阿的亡灵在梦中已向儿子预言，许多世代之后伊特鲁里亚将出一位青年，重述他的功业，“就像第二个恩尼乌斯”。故“两位担保人”即往昔梦中的父亲与如今讲梦的恩尼乌斯。西庇阿对梦的真假不置可否，却已爱上这位未来的诗人；“若无其人，便爱无人”是诗人借古人之口所作的自谦的诙谐。
+
+<a id="s16"></a>
+### 310–322　登陆西西里，穿行意大利
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 310 | Sol pelago rediens ubi primum emersit Eoo, | 太阳从东方的海面重返，刚刚升起， |
+| 311 | Ingentesque procul iactabat carbasus umbras, | 船帆把巨大的影子远远投出之时， |
+| 312 | Litora prospiciunt alacres Lilibeia naute | 欢欣的水手们望见了利利巴厄姆的海岸， |
+| 313 | Trinacriamque pari concordes uoce salutant. | 同心齐声，向特里纳克里亚致意。 |
+| 314 | Iam Drepanum preteruecti iamque omne remensi | 他们驶过德雷帕努姆，又从那里重新 |
+| 315 | Inde latus Siculum, solide telluris in aruis | 航过西西里的整整一侧；一当在坚实陆地的 |
+| 316 | Ut primum posuere pedes, pulcerrima rura | 田野上踏下双脚，便取道陆路， |
+| 317 | Terrestri secuere uia. Non carmine nostro | 穿过最秀美的乡野。在我的诗中， |
+| 318 | Letitia Italie, non occursantia passim | 意大利的欢乐，那四处 |
+| 319 | Agmina uictori, populi non urbibus haustis | 迎向胜利者的人群，那从城中倾巢而出、 |
+| 320 | Seruata grates pro libertate canentes | 为保全了的自由高唱感恩的万民， |
+| 321 | Stare queant; donec patrie sub menia uentum est | 都无法一一容纳；直到他们来到祖国的城墙下， |
+| 322 | Et luxit sperata dies tempusque triumphi. | 盼望已久的日子、凯旋的时刻终于破晓。 |
+
+**注释**
+
+- **310–322** *Litora ... Lilibeia*　依李维 30.45：西庇阿在海陆两方面都取得和平后，率军渡海到西西里的利利巴厄姆，派大部分士兵乘船先行，自己则穿过因和平与胜利而欢庆的意大利返回罗马，沿途城市倾城出迎，乡民塞满道路。利利巴厄姆是西西里西端的港城（今马尔萨拉），公元前 204 年西庇阿正是从这里出征阿非利加（见李维第 29 卷）。
+- **313–316** *Trinacriam ... Drepanum*　特里纳克里亚即西西里。水手望见陆地齐声欢呼，令人想起《埃涅阿斯纪》第三卷特洛伊人望见意大利的情景。德雷帕努姆在西西里西北岸（今特拉帕尼），同卷末埃涅阿斯之父安喀塞斯死于此地。诗中似让舰队绕西西里北岸东行，再登上意大利本土，取道陆路。
+
+<a id="s17"></a>
+### 323–336　呼告卡利俄佩；凯旋之晨
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 323 | Hic quoque, Calliope, quamquam sub fine uoceris, | 在这里也请你，卡利俄佩——虽然唤你时已近终篇—— |
+| 324 | Dextra ueni seroque fauens assiste labori. | 吉祥地降临，眷顾并扶助这迟来的劳作。 |
+| 325 | Pulcrior Ausonio nunquam surrexerat orbi | 奥索尼亚的世界上从未升起过 |
+| 326 | Ulla dies. Roseo uultum suffusa rubore | 比这更美的日子。奥罗拉满面泛着玫瑰的红晕， |
+| 327 | Phebeos frenabat agens Aurora iugales; | 驾驭着福玻斯的轭马，为它们套上缰辔； |
+| 328 | Letior ipse quidem solito et formosior alte | 而日神本人也比往常更欢畅、更俊美，在高处 |
+| 329 | Imperiis urgebat equos, iam lumine Romam | 发号施令，催马前行，已用他的光芒 |
+| 330 | Appenninigene spectans de uertice silue. | 从亚平宁所生的森林之巅眺望着罗马。 |
+| 331 | Conueniunt proceres, portis ruit obuia turba. | 显贵们聚集一处，人群涌出城门前来迎接。 |
+| 332 | Sexus uterque frequens, etas se proripit omnis, | 男男女女摩肩接踵，各个年纪的人都争相奔出， |
+| 333 | Omnis honor omnisque gradus: substernitur auro | 各种官职、各个阶层无不在列；遍地都铺上了 |
+| 334 | Omne solum et uariis resplendent pulpita gemmis. | 黄金，看台上闪耀着五色的宝石。 |
+| 335 | Purpura per uicos sparsa est et purpura tectis | 紫红的织物铺满街巷，屋顶上也张起紫幔， |
+| 336 | Obtentu factura uiris uictoribus umbras. | 为凯旋的将士们遮出荫凉。 |
+
+**注释**
+
+- **323–324** *Calliope*　卡利俄佩见第 58–64 行注。诗人在全诗将尽时再次呼告司史诗的缪斯，以写凯旋这一高潮。
+- **325–330** *Pulcrior ... dies*　凯旋之晨：曙光女神为日神的马套上缰辔，日神越过罗马以东的亚平宁山照见罗马。“亚平宁所生的”是诗体复合词，奥维德《变形记》第十五卷曾用以形容台伯河。西庇阿的凯旋在公元前 201 年。
+
+<a id="s18"></a>
+### 337–363　统帅入城，俘虏随行
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 337 | Inde senum miti descendunt agmina uultu, | 那边，长者的行列面容慈和地走下来， |
+| 338 | Hinc iuuenum phalerata phalanx in limine primo | 这边，佩着饰章的青年方阵在城门口 |
+| 339 | Exceptura ducem. Facie subit ille serena | 等候迎接统帅。他神色安详， |
+| 340 | Ardua purpureo residens sua menia curru | 端坐紫色的战车，走近自己巍峨的城墙， |
+| 341 | Et niueis inuectus equis; generisque ferebat | 由雪白的骏马拉着前行；他那慈和的额头 |
+| 342 | Etherei frons alma fidem. Tum milia uinctis | 证实着他天上的血统。随后，成千上万 |
+| 343 | Post tergum manibus captiui tristia uulgi | 双手反缚背后的俘虏，凄凄惨惨， |
+| 344 | Procedunt: Macedum proceres, quo bella Philippus | 鱼贯而行：先是马其顿的显贵，腓力曾借他们 |
+| 345 | Fouerat auxilio: Sopater dux primus et ipsum | 援手助长战火；统领索帕特走在最前，他与国王 |
+| 346 | Sanguine contingens regem mestissimus ibat; | 本人血脉相连，神情最为哀伤； |
+| 347 | Post omnis legio grauibus connexa cathenis | 后面整个军团锁着沉重的铁链， |
+| 348 | Insequitur. Tum parte alia spectacula magni | 紧随而至。接着，另一边是伟大的 |
+| 349 | Siphacis: miseranda habitu namque obruta uinclis | 西法克斯的景象：那曾经的王者之尊衣衫凄惨， |
+| 350 | Maiestas lacrimis pectus terramque rigabat | 被锁链压垮，泪水浸湿了胸膛和土地； |
+| 351 | Flensque retro ad magnum referebat lumina crebro | 他一边哭泣，一边频频回转湿润的眼睛 |
+| 352 | Humida uictorem: qualem spreuisset amicum | 望向伟大的胜利者：他曾鄙弃了怎样的一位朋友， |
+| 353 | Mente notans tacita. Preter tot dura ruine | 他在心中默默记取。除了倾覆的种种苦楚， |
+| 354 | Angebat miserum pudor. Ingens turba suorum | 羞耻更折磨着这可怜人。他的大群部属 |
+| 355 | Regia consequitur tremulo uestigia gressu. | 迈着颤抖的脚步，紧随着国王的足迹。 |
+| 356 | Hinc meriti ciues, laqueis gens perfida iustis | 随后是罪有应得的公民，背信的布匿族人， |
+| 357 | Penorum perplexa uenit, pulcerrima Rome | 被正义的绳索缠缚着走来，仰望着罗马 |
+| 358 | Menia suspiciens: dux frater Hanibalis illis | 最壮美的城墙：汉尼拔的兄弟作为首领 |
+| 359 | Primus erat; Maure subeunt post agmina gentis | 走在他们最前；其后是毛里族的队伍 |
+| 360 | Gallorumque manus; Italus namque ordine in illo | 和高卢人的部伍；因为那行列中 |
+| 361 | Nemo fuit: digna meritos mulctauerat omnes | 没有一个意大利人：统帅已把这些罪有应得者 |
+| 362 | Morte simul, terreque hostes mandauerat Afre | 一并处以应得的死刑，把敌人交给了阿非利加的泥土， |
+| 363 | Indignos patrie aspectu et tellure sepulcri. | 他们不配再见祖国，也不配葬身祖国的土地。 |
+
+**注释**
+
+- **340–342** *niueis ... equis; generisque Etherei*　以白马驾凯旋车，据李维 5.23，卡米卢斯曾如此，被认为僭拟朱庇特与日神。“天上的血统”指西庇阿为朱庇特之子的传说（见第 24–25 行注）。
+- **343–347** *Macedum proceres ... Sopater*　李维第 30 卷记马其顿王腓力五世曾派兵援助迦太基，扎马之战中一支马其顿部队列于迦太基阵中，其统领索帕特被俘；腓力遣使要求放还，遭元老院拒绝。诗中又说他与国王有血亲，并让马其顿俘虏走在凯旋行列中。
+- **348–355** *Siphacis*　西法克斯是否在凯旋行列中，古代记载不一：李维 30.45 说他在凯旋前不久死于提布尔的监禁中，但又提到波利比乌斯称他曾被牵着游街。彼特拉克在此采用后一说，尽管第八卷第 440 行也提到他被囚于阿尔巴、葬于提布尔。“鄙弃了怎样一位朋友”：公元前 206 年西庇阿曾亲赴西法克斯的宫廷与之结盟（见李维第 28 卷），后者却因娶索福尼斯巴而倒向迦太基。
+- **356–358** *meriti ciues ... frater Hanibalis*　ciues 指迦太基本邦的公民，与外族援军相对；meriti 意为“罪有应得的”。说迦太基人“背信”是罗马人的成见。李维 30.45 记此次凯旋，只提到西法克斯（据波利比乌斯）和库莱奥，并未说有汉尼拔的兄弟在俘虏之列；而据李维，汉尼拔的两个弟弟中，哈斯德鲁巴已于公元前 207 年战死于梅陶罗河，马戈于公元前 203 年从意大利撤回途中伤重而死。此处当是诗人的虚构或误记。原文 dox 当为 dux“首领”之误。
+- **359–363** *Maure ... Gallorumque ... Italus ... nemo*　据李维 30.33，扎马之战迦太基第一线有利古里亚人、高卢人、巴利阿里人和毛里人等雇佣兵。行列中没有意大利人，是因为投敌者已被处死：据李维 30.43，迦太基依和约交出逃兵，西庇阿把拉丁同盟出身者斩首，罗马公民出身者钉上十字架。诗人补充说他们被埋在阿非利加，不得归葬故土。
+
+<a id="s19"></a>
+### 364–379　战利品、战象与获释的罗马人
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 364 | Ante ebur et radians aurum et pretiosa supellex | 行列前头，载运着象牙、灿烂的黄金、珍贵的器具、 |
+| 365 | Et uestes ostro insignes penitusque potentum | 以紫色为饰的华美衣袍，以及强大君王们 |
+| 366 | Diuitie regum pompa celebrante uehuntur. | 深藏的财富，随着盛大的行列一一经过。 |
+| 367 | Inde graues clipei prereptaque fortibus arma | 接着是沉重的盾牌、从勇士手中夺来的兵器、 |
+| 368 | Signaque et horrentes galee cristeque trementes; | 军旗、狰狞的头盔和颤动的盔缨； |
+| 369 | Post tristes ducuntur equi domitique elephantes | 后面牵来垂头丧气的战马，还有驯服的大象， |
+| 370 | Demissa ceruice graues. Puerilia circum | 低垂着脖颈，步履沉重。四周 |
+| 371 | Milia funduntur: turba obstrepit inscia rerum, | 成千上万的孩童蜂拥而来：这群懵懂的孩子喧嚷着， |
+| 372 | Bellua Barbarico quod tanta ueniret ab orbe. | 惊叹如此庞大的巨兽竟从蛮族的世界来到这里。 |
+| 373 | Hinc illinc Romana acies erepta nefando | 这边那边，是从可憎的奴役中被救出的 |
+| 374 | Seruitio letumque canens ex more triumphum | 罗马将士，他们照惯例高唱欢乐的凯歌， |
+| 375 | Concelebrat, nequeuntque oculos satiare uidendo | 一同庆贺，望着自己的救星， |
+| 376 | Seruatore suo. Prior it Terentius horum | 怎么也看不够。他们当中走在最前的， |
+| 377 | Culleo: uir clarus, Latia tunc urbe senator, | 是泰伦提乌斯·库莱奥，显赫之士，当时拉丁之城的元老； |
+| 378 | Libertus ueluti carum coluisse patronum | 据说他像获释奴敬奉亲爱的恩主一样， |
+| 379 | Scipiadam fertur uitam obsequiosus in omnem. | 终其一生恭顺地敬奉着西庇阿。 |
+
+**注释**
+
+- **364–372** *Ante ebur ... elephantes*　按凯旋式惯例，战利品走在凯旋将军的车前。和约规定迦太基须交出全部战象（见李维 30.37）。孩童围观、惊叹巨象来自“蛮族的世界”，是诗人添加的生动细节。
+- **373–379** *Romana acies ... Terentius ... Culleo*　指被迦太基俘虏、因和约而获释的罗马人。昆图斯·泰伦提乌斯·库莱奥是元老，曾被俘。李维 30.45 记他头戴获释奴的毡帽跟在西庇阿的凯旋车后，此后终生把西庇阿当作给予他自由的恩人来敬奉；诗中“像获释奴敬奉恩主”即本于此。
+
+<a id="s20"></a>
+### 380–400　大军、号角与登临卡皮托利山
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 380 | Ultimus it uictor. Latiis exercitus armis | 最后行进的是得胜之师，手执拉丁的兵器， |
+| 381 | Atque equitum peditumque acies, uelut obuius esset | 骑兵与步兵列阵而行，仿佛汉尼拔 |
+| 382 | Hanibal in primo uenturus limine contra, | 就在城门口，要迎面杀来； |
+| 383 | Tum tube et horrisonis uictricia classica late | 这时，号角和得胜的军号以令人悚然的 |
+| 384 | Perstrepuere modis: tremuerunt Tybridis unde | 调子响彻四方：台伯河的波浪颤抖了， |
+| 385 | Ac circum pauet omne nemus; fragor horridus Albam | 四周的树林都惊惶不已；可怖的轰鸣震撼着阿尔巴、 |
+| 386 | Argolicumque quatit Tibur gelidumque Soracte | 阿尔戈斯人的提布尔、寒冷的索拉克特山， |
+| 387 | Et Prenestinis rigidas in collibus arces. | 以及普赖内斯特山丘上峻峭的城堡。 |
+| 388 | Sic tandem insueto Capitolia celsa triumpho | 就这样，他终于以前所未见的凯旋 |
+| 389 | Ingreditur, gratesque deis persoluit amicis; | 登上高耸的卡皮托利山，向友善的众神献上谢恩； |
+| 390 | Immensumque auri montem ingentesque recondit | 他把堆积如山的黄金和巨量的 |
+| 391 | Thesauros in templa Iouis, tempusque per omne | 财宝藏入朱庇特的神殿，使祖国 |
+| 392 | Ditauit patriam. Sibi sed cognomine solo | 永远富足。他自己却只以一个称号 |
+| 393 | Contentus nichil hic proprias inuexit in edes. | 为满足，不曾把任何财物带进自己的家门。 |
+| 394 | Nec dubium quin ad reliquos per bella triumphos | 毫无疑问，他用剑为日后历次战争的凯旋 |
+| 395 | Strauerit ense uiam atque Orbis patefecerit Urbi | 铺平了道路，为罗马城打开了统治 |
+| 396 | Imperium: puduit neminem Carthagine uicta | 世界的大门：迦太基既已被征服，便没有人 |
+| 397 | Subdere colla iugo, dominosque agnoscere mundi | 以俯首就轭为耻，也没有人耻于承认 |
+| 398 | Romanos bello indomitos populumque Quirini. | 战无不胜的罗马人、奎里努斯的子民为世界的主人。 |
+| 399 | Ipse coronatus lauro frondente per urbem | 他本人头戴枝叶葱茏的桂冠，从塔尔佩亚岩 |
+| 400 | Letus iit totam Tarpeia rupe reuersus. | 归来，满怀欢欣，走遍了全城。 |
+
+**注释**
+
+- **380–382** *Ultimus it uictor*　数字版在 uictor 后断句，则 380–382 行的“大军”一句缺少动词；按凯旋式惯例，军队走在凯旋将军之后，uictor 宜与下行 exercitus 连读，意为“得胜之军”，今依此译。“仿佛汉尼拔就要迎面杀来”，指军队全副武装、列阵而行。
+- **385–387** *Albam ... Tibur ... Soracte ... Prenestinis*　号声远及罗马周围的山城：阿尔巴（阿尔巴隆加，罗马的母邦）、提布尔（今蒂沃利）、索拉克特山（罗马以北的孤峰，贺拉斯《颂诗》1.9 写它积雪皑皑）、普赖内斯特（今帕莱斯特里纳）。说提布尔是“阿尔戈斯人的”，因传说它由阿尔戈斯移民建立（见《埃涅阿斯纪》第七卷、贺拉斯《颂诗》2.6）。
+- **388–393** *Capitolia ... templa Iouis ... cognomine solo*　凯旋式的终点是卡皮托利山上的朱庇特神殿，凯旋将军在此献祭谢神。李维 30.45 记西庇阿向国库缴入白银十二万三千磅（诗中说成“堆积如山的黄金”）。“一个称号”指“阿非利加努斯”：据李维同章，他是第一位以所征服民族之名为号的罗马统帅。
+- **394–400** *populumque Quirini ... Tarpeia rupe*　意谓战胜迦太基为罗马此后征服世界铺平了道路：各族败于这些战胜了迦太基的罗马人，不以为耻。奎里努斯即神化后的罗慕路斯，“奎里努斯的子民”指罗马人。塔尔佩亚岩是卡皮托利山的悬崖，此处代指卡皮托利山。
+
+<a id="s21"></a>
+### 401–410　恩尼乌斯同戴桂冠；诗人自述加冕
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 401 | Ennius ad dextram uictoris, tempora fronde | 恩尼乌斯走在胜利者的右侧，以同样的 |
+| 402 | Substringens parili, studiorum almeque Poesis | 枝叶束住两鬓，为学问和慈惠的诗艺 |
+| 403 | Egit honoratum sub tanto auctore triumphum. | 在如此伟大的倡导者主持下举行了荣耀的凯旋。 |
+| 404 | Post alii atque alii studio certante secuti. | 此后，后来者一个接一个，争相追随。 |
+| 405 | Ipse ego ter centum labentibus ordine lustris | 我本人，在三百个五年之期依次流逝之后， |
+| 406 | Dumosam tentare uiam et uestigia rara | 也尝试了这条荆棘之路，追寻罕有的足迹， |
+| 407 | Viribus imparibus fidens utcumque peregi, | 凭着不相称的力量，仍怀着信心，总算走完了它； |
+| 408 | Frondibus atque loco simul et cognomine claro | 以桂叶，以地点，也以显赫的称号， |
+| 409 | Heroum ueterum tantos imitatus honores, | 效法了古代英雄们如此崇高的荣誉， |
+| 410 | Irrita ne Grai fierent presagia uatis. | 好让那位希腊诗人的预言不致落空。 |
+
+**注释**
+
+- **401–404** *Ennius ad dextram uictoris*　恩尼乌斯与西庇阿同受桂冠，并无古代根据。彼特拉克由西塞罗所记二人的亲密关系（见第 10–11 行注）推演出诗人与凯旋将军同戴桂冠的罗马古制，并认为此制后来久已中断，直到他本人才得恢复。
+- **405–410** *ter centum ... lustris*　三百个 lustrum（见第 251–254 行注）即一千五百年：从公元前 201 年西庇阿凯旋，到 1341 年 4 月 8 日彼特拉克在卡皮托利山接受桂冠，约一千五百四十年。“地点”指同在卡皮托利山，“称号”指诗人的头衔。“希腊诗人的预言”即本卷前文荷马在恩尼乌斯梦中所说，那位伊特鲁里亚青年将登上卡皮托利山加冕（第 238–242 行）。
+
+<a id="s22"></a>
+### 411–421　不忍续写晚年的悲剧
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 411 | Nunc ego non ausim uos hinc ad tristia, Diue, | 如今我不敢从这里召唤你们，女神们， |
+| 412 | Materiamque trucem post tot modo leta uocare. | 在这么多欢乐之后转向悲哀而惨烈的题材。 |
+| 413 | Quin potius longe fugite atque auertite uultus. | 你们倒不如远远逃开，把脸转过去。 |
+| 414 | Certe ego uobiscum fugiam tristesque querelas | 我定会与你们一同逃避：我不会讲述 |
+| 415 | Inuidie, procerum crimen culpamque Senatus | 由嫉妒而起的悲哀怨诉、显贵们的罪行和元老院的过失， |
+| 416 | Non referam, populique nefas ac sponte receptum | 不讲人民的罪孽，以及统帅甘愿接受的 |
+| 417 | Exilium mortemque ducis titulumque dolentis | 流放与死亡，还有这悲愤之人的墓铭—— |
+| 418 | Aspera marmoreo subscriptaque iurgia busto. | 刻在大理石坟墓上的那些尖刻的斥责。 |
+| 419 | Hec memorent alii: michi nam certissima mens est | 这些就让别人去记述吧：我心意已决， |
+| 420 | Hic metam posuisse operi; patiarque nec unquam | 要在这里为作品立下终点；我也决不容许 |
+| 421 | Carmine tam mesto sacras maculare Sorores. | 用如此哀伤的诗歌玷污神圣的缪斯姐妹。 |
+
+**注释**
+
+- **411–418** *ad tristia*　诗人拒绝续写西庇阿晚年的不幸：公元前 180 年代他和兄弟卢基乌斯遭政敌指控，他愤而退居坎帕尼亚的利特尔努姆，自我放逐，死于该地（见李维第 38 卷）。相传其墓铭为“忘恩的祖国，你连我的骨头也得不到”（见瓦勒里乌斯·马克西穆斯《言行录》第五卷）。Diue“女神们”指缪斯；Inuidie“嫉妒”大写，作拟人。
+- **419–421** *Hic metam posuisse operi*　诗人宣告叙事到此结束；以下为全诗的结语，诗人转而对诗作本身说话。
+
+<a id="s23"></a>
+### 422–446　致诗卷：哀悼罗伯特国王
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 422 | O mea non paruo michi consummata labore | 啊，我耗费了不少心血才完成的 |
+| 423 | Africa! dum crescis, dum te comens relegensque | 阿非利加！当你还在成长，当我修饰你、重读你， |
+| 424 | Mulceo, magnanimum Mors importuna Robertum | 爱抚着你的时候，无情的死神却把宽宏的罗伯特 |
+| 425 | Intempestiue mundo subtraxit egenti; | 不合时宜地从匮乏的世间夺走了； |
+| 426 | Et michi prerepta penitus dulcedine uite, | 它彻底夺去了我生命中的甜蜜， |
+| 427 | Speratum tibi clausit iter. Quo tramite perges, | 也阻断了你所期望的道路。你将取道何方， |
+| 428 | Infelix? Monstrabo uiam. Non atria luctu | 不幸的你？我来为你指路。不要去那因丧事 |
+| 429 | Turbida funereo, non dulcia limina quondam | 而纷乱的殿堂，也不要去帕耳忒诺珀 |
+| 430 | Parthenopea petes. Tepidi noua saxa sepulcri | 那昔日亲切的门庭。那余温尚存的坟墓的新石， |
+| 431 | Tristis adi lacrimisque riga. Cum uideris illic | 你要满怀悲伤地走近，用泪水浇洒。当你在那里看见 |
+| 432 | Ingentem exigua regem tellure iacentem, | 伟大的国王躺在一小块土地之下， |
+| 433 | Te sibi uiuenti promissam redde sepulto | 你本是许给在世的他的，就把自己交还给入土的他， |
+| 434 | Ac cineri persolue sacro: nam spiritus astra | 向神圣的骨灰偿清这份许诺：因为他的灵魂 |
+| 435 | Iam repetens, terrasque retro despectat inertes; | 已重返群星，正回头俯视着怠惰的大地； |
+| 436 | Sceptra caduca fugit, mortales negligit actus. | 它逃离了易朽的权杖，不再顾念凡人的作为。 |
+| 437 | Ille tamen, quamquam regni diadema relicti | 然而，虽然他会嘲笑自己抛下的王国冠冕 |
+| 438 | Rideat et curas ueteres, nimiosque labores | 和旧日的忧虑，虽然他从高高的宝座上 |
+| 439 | Erroresque hominum solio miseratus ab alto, | 怜悯世人过度的劳碌与迷误， |
+| 440 | Nos, nisi fallor, amat; nostri mitissimus olim | 他却仍爱着我们，倘若我没有弄错；他曾是我们才华的 |
+| 441 | Arbiter ingenii. Quo terris sidere rapto | 最温和的评判者。这颗星辰既已从大地上被夺走， |
+| 442 | Heu heu quam uereor ne quid tibi durior etas | 唉，唉，我多么担心某个更严酷的时代 |
+| 443 | Obstrepat et titulis insultet ceca decoris! | 会对你喧嚷，盲目地凌辱你荣耀的名号！ |
+| 444 | Hospes Pyeridum nostro iam solus in euo | 皮厄里得斯的东道主，在我们这个时代唯一 |
+| 445 | Reddere promeritum studiis qui nosset honorem, | 懂得给学问以应得荣誉的人， |
+| 446 | Interiit: secumque simul spes nostra recessit. | 已经逝去：我们的希望也随他一同离去。 |
+
+**注释**
+
+- **422–427** *O mea ... Africa ... Robertum*　诗人转向自己的诗作呼告。安茹的罗伯特，那不勒斯国王，卒于 1343 年 1 月；本诗原拟献给他（见第一卷献辞），他去世时诗作尚在修订，故说死神“阻断了你所期望的道路”。
+- **428–436** *Parthenopea ... sepulcri*　帕耳忒诺珀即那不勒斯。王宫正值国丧，诗人让诗作不去宫廷，而去国王的新坟（罗伯特葬于那不勒斯的圣基娅拉教堂），把许给生前国王的献礼交给他的骨灰。灵魂升天、回望渺小大地的意象，与本诗第一、二卷的梦境和西塞罗《西庇阿之梦》相呼应。
+- **440–446** *arbiter ingenii ... Hospes Pyeridum*　1341 年春，彼特拉克在那不勒斯接受罗伯特国王连续数日的考问，国王认定他配得上桂冠，他随后才往罗马加冕。皮厄里得斯即缪斯（见第 81–82 行注）；称国王为缪斯的“东道主”，即学问与诗歌的庇护人。
+
+<a id="s24"></a>
+### 447–466　生于末世，寄望复兴
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 447 | Felices quos illa prius meliora tulerunt | 那些早先由更美好的时代所生的人 |
+| 448 | Tempora! Nosque utinam - - -. Nequicquam uana precamur! | 多么幸福！但愿我们也……我们徒然祈求虚妄之事！ |
+| 449 | Non licet ire retro. Nos cunta nouissima seros | 已不能回到往昔。我们这些万物之中最末的迟生者， |
+| 450 | Et ferus aduerso prospexit Iupiter axe. | 冷酷的朱庇特又从敌对的天极照临着我们。 |
+| 451 | Utendum sorte est et sidera nostra sequenda, | 我们必须善用自己的命数，追随我们的星辰， |
+| 452 | Qua ducunt, ne forte trahant. Michi degere uitam | 它们引向何方，就随往何方，以免被它们强拖而去。我注定要 |
+| 453 | Impositum uaria rerum turbante procella. | 在纷繁世事的风暴搅扰之下度过一生。 |
+| 454 | At tibi fortassis, si - quod mens sperat et optat - | 但对你而言，也许——倘若正如我心中所盼所愿， |
+| 455 | Es post me uictura diu, meliora supersunt | 你将在我身后长久存活——还有更好的 |
+| 456 | Secula: non omnes ueniet Letheus in annos | 世代等着你：这勒忒的沉睡不会 |
+| 457 | Iste sopor! Poterunt discussis forte tenebris | 延续到所有的年代！也许黑暗驱散之后， |
+| 458 | Ad purum priscumque iubar remeare nepotes. | 我们的后人将能重返那纯净而古老的光辉。 |
+| 459 | Tunc Elicona noua reuirentem stirpe uidebis, | 那时你将看见赫利孔山新枝萌发，重又青翠， |
+| 460 | Tunc lauros frondere sacras; tunc alta resurgent | 看见神圣的月桂重新抽叶；那时崇高的才智 |
+| 461 | Ingenia atque animi dociles, quibus ardor honesti | 和好学的心灵将重新兴起，他们对皮厄里得斯 |
+| 462 | Pyeridum studii ueterem geminabit amorem. | 高尚学问的热忱，将使古老的爱加倍。 |
+| 463 | Tu nomen renouare meum studiosa memento: | 你要记住，热心地让我的名字重获新生： |
+| 464 | Qua potes, hac redeat saltem sua fama sepulto | 至少在你力所能及之处，让埋葬的人重获他的名声， |
+| 465 | Et cineri reddatur honos. Michi dulcior illo | 让骨灰得到荣誉。在那时的人们中间， |
+| 466 | Vita erit in populo et contemptrix gloria busti. | 我的生命将更加甜美，荣耀也将蔑视坟墓。 |
+
+**注释**
+
+- **447–448** *Nosque utinam - - -*　原文此处以“- - -”标示中断：或是有意的顿绝（欲言又止，意即“但愿我们也生在那时”），或是草稿中的空缺。今保留省略号，不补足。
+- **449–453** *cunta nouissima ... ferus ... Iupiter ... ducunt ... trahant*　cunta nouissima 句法不甚明确，今理解为修饰 nos seros（“万物之中最末的迟生者”），也可理解为与朱庇特并列的主语（“一切末世之事”）。朱庇特在此似指木星：占星术中木星本是吉星，如今却从不利的方位照临，喻生不逢时。“随星辰引导，免被拖曳”化用塞涅卡《道德书简》第 107 封译述的克莱安西斯诗句“命运引导顺从者，拖曳抗拒者”。
+- **454–462** *Letheus ... sopor ... tenebris*　勒忒是冥府的遗忘之河，“勒忒的沉睡”指古代学问被遗忘的漫长年代。诗人以古代为光明、以自己的时代为黑暗，期望后人驱散黑暗，重返“纯净而古老的光辉”；赫利孔山（缪斯的圣山）与月桂重新青翠，象征诗与学问的复兴。这几行常被视为彼特拉克“黑暗时代”观念的经典表述。
+- **463–466** *illo ... in populo*　illo 今与 populo 连读（“在那时的人们中间”），指未来更开明的世代；也可把 illo 看作比较的夺格（“比那更甜美”）。诗人寄望死后在后人口中获得更甜美的生命和蔑视坟墓的荣耀。
+
+<a id="s25"></a>
+### 467–484　嘱托诗卷：隐居待时，蔑视时间
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 467 | Interea tamen hec, iubeo, per inertia transi | 然而在此期间，我嘱咐你：你要穿过 |
+| 468 | Agmina solicito populorum incognita passu, | 各族怠惰的人群，无人知晓，步履谨慎， |
+| 469 | Vix procul extremo salutata a limine linquens, | 只在门槛的最外边，被人远远地勉强问候一声，便告离去—— |
+| 470 | Heu paucas habitura domos et rara per Orbem | 唉，你在世间将只有寥寥几户人家、稀少的 |
+| 471 | Hospitia! At si quem uere uirtutis amicum | 客舍！但如果有一位真正热爱美德的朋友 |
+| 472 | Obtulerint tua fata tibi, secura repostum | 由你的命运送到你面前，就安心地 |
+| 473 | Angustumque precare locum sub paupere tecto, | 求他在清贫的屋檐下给你一个隐蔽而狭小的角落， |
+| 474 | Atque ibi, sola quidem potius peregrinaque semper | 在那里，宁可孤单一身、永做异乡之客， |
+| 475 | Quam comitata malis, annosa fronte senesces, | 也不与恶人为伴；你将额上刻满岁月，渐渐老去， |
+| 476 | Donec ad alterius primordia ueneris eui. | 直到你来到另一个时代的开端。 |
+| 477 | Tum iuuenesce precor, cum iam lux alma poetis | 那时，我祈求你重返青春：当慈惠的光明照临诗人， |
+| 478 | Commodiorque bonis cum primum affulserit etas. | 当一个更善待好人的时代初次放出光芒之时。 |
+| 479 | Si iuuenem iuueni mediis auellere flammis | 如果说年轻的我曾有幸把年轻的你从烈火之中 |
+| 480 | Contigit incolumem tumidasque efferre per undas, | 完好地抢出，又带着你越过汹涌的波涛， |
+| 481 | Per te ipsam iam facta senex, precor, ista cauere | 那么如今你已然老去，我求你在我死后 |
+| 482 | Post mea fata uelis, quodque omnia proterit unum | 凭你自己提防这些危险，并且蔑视那践踏万物的 |
+| 483 | Tempus edax rapidosque dies solemque uorantem | 唯一者——饕餮的时间，蔑视飞逝的白昼和吞噬 |
+| 484 | Secula et Inuidie tristes contemnere morsus. | 世代的太阳，蔑视嫉妒那令人伤痛的啮咬。 |
+
+**注释**
+
+- **467–476** *per inertia ... agmina*　诗人预料诗作在当世只能在少数知音间流传。hec ... incognita 指诗卷本身。彼特拉克生前始终没有让《阿非利加》全篇问世，只有第六卷马戈临终的一段被友人传抄出去；全诗在他身后才流传开来。
+- **477–481** *iuuenesce ... flammis ... undas*　诗卷在漫长的“黑暗”中老去，待良时到来再返老还童。诗人说年轻时曾把诗稿从火中抢出、带它渡过风浪，具体所指何事已难确考。iuuenem iuueni 叠用，强调作者与作品同在青春。
+- **482–484** *Tempus edax*　“饕餮的时间”化用奥维德《变形记》15.234 的 tempus edax rerum“吞噬万物的时间”。以作品抵御烈火、时间与嫉妒作结，呼应诗人自许作品不朽的传统：奥维德《变形记》终篇（15.871–872）称其作品“朱庇特的怒火、烈火、刀剑和饕餮的岁月都不能毁灭”，贺拉斯《颂诗》3.30 亦然。
+
+## 文本注
+
+- **91** *Quam multis placuisse palam est*　此行只有半行，为作者未完成之行。
+- **132** *tenuerunt murmure*　句法略异（按常例应作 murmura 或 a murmure），今按“止住了低语”译，未改动。
+- **215** *Prosequor augurio letus*　此行只有半行，作者未完成。
+- **216** *(- - -)*　原文缺行标记，彼特拉克在此留有空缺。
+- **219** *lauros'*　多余的引号：问句一直延续到 222 行 nimis' 处。
+- **237** *ingeniu*　数字版录入错误，按格律与文意应作 ingenii。
+- **298** *leuus*　即 laevus 的中世纪拼法，并非 leuis 之误（格律要求长音）；见注。
+- **358** *dox*　非拉丁词，当为 dux“首领”之误（o/u 混淆），与第 345 行 Sopater dux 相应；今依 dux 译。
+- **380** *uictor.*　uictor 后的句号似当删去，与下行 exercitus 连读为“得胜之军”；今依此译，见注。
+- **448** *Nosque utinam - - -.*　原文中断（有意的顿绝或草稿空缺），译文保留省略号，不补足。
+- **467** *hec*　句法略松，hec 与 468 行 incognita 当皆指诗卷本身（“你”），今依此译。
+

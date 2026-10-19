@@ -1,0 +1,1478 @@
+# 第六卷 · Africa, Liber Sextus
+
+> 本卷提要：本卷始于索福尼斯巴的亡魂：判官米诺斯要把她归入自尽者之列，埃阿科斯力辩她为爱被迫而死，她遂进入为爱而死者的桃金娘林，见到伊菲斯、俄耳甫斯、帕里斯等亡魂，并羡慕死后相依的提斯柏。西庇阿抚慰马西尼萨，次日誓师围攻迦太基，厚赏马西尼萨、尊他为王，命莱利乌斯押送西法克斯赴罗马；西法克斯在船上悲叹国运，诅咒汉尼拔父子与不忠之妻。西庇阿进据突尼斯，迦太基召回汉尼拔与马戈，又遣使诈和。汉尼拔切齿受命，在克罗顿的朱诺神殿屠杀不肯随行的意大利士兵，怒斥朱庇特，悔恨坎尼之后未攻罗马；夜航中，老舵手追述雷古卢斯与克桑提普斯的往事。罗马元老院拒绝迦太基使节；迦太基人在停战中劫掠罗马船队、袭击西庇阿的使者，西庇阿仍以礼遣还来使，重启战端。马戈负伤沿利古里亚与伊特鲁里亚海岸南下，在台伯河口外慨叹荣华虚妄而死。
+
+拉丁原文与中文译文逐行对照；行号与 PDF 版一致。引用编号格式为 `africa.卷.行`，例如本卷第 1 行是 `africa.6.1`。注释见每段之后。
+
+## 段落
+
+- [1–10　王后的亡魂来到斯提克斯](#s01)
+- [11–37　冥府三判官的裁决](#s02)
+- [38–50　为爱而死者的幽暗平原](#s03)
+- [51–73　桃金娘林中的恋人亡魂](#s04)
+- [74–88　全营哀悼；西庇阿抚慰马西尼萨](#s05)
+- [89–116　黎明集会：西庇阿陈述心志](#s06)
+- [117–146　围攻迦太基的决心；汉尼拔父子](#s07)
+- [147–178　封赏马西尼萨与莱利乌斯](#s08)
+- [179–207　凯旋的许诺；马西尼萨的新野心](#s09)
+- [208–224　莱利乌斯押送西法克斯启航](#s10)
+- [225–249　西法克斯的哀诉：阿非利加的祸根](#s11)
+- [250–277　西法克斯的哀诉：诅咒汉尼拔父子与不忠之妻](#s12)
+- [278–287　西法克斯渴望风暴；嫉妒的小农之喻](#s13)
+- [288–306　西庇阿兵临迦太基，迦太基召回二将](#s14)
+- [307–342　三十名使者向西庇阿乞和](#s15)
+- [343–370　西庇阿严词作答，开列和约条款](#s16)
+- [371–387　布匿人假意受约：背誓水手之喻](#s17)
+- [388–413　使者在布鲁提乌姆面见汉尼拔](#s18)
+- [414–450　汉尼拔切齿受命](#s19)
+- [451–469　克罗顿的朱诺神殿与宙克西斯之画](#s20)
+- [470–490　神殿屠杀与扬帆离去](#s21)
+- [491–511　回望意大利，怒斥朱庇特](#s22)
+- [512–537　追悔坎尼之后未进军罗马](#s23)
+- [538–559　往日战绩与离别意大利](#s24)
+- [560–599　夜渡西西里海](#s25)
+- [600–622　布匿使节问计，汉尼拔作答](#s26)
+- [623–653　老舵手的祈祷：雷古卢斯与克桑提普斯](#s27)
+- [654–699　克桑提普斯之死与诸神的报复](#s28)
+- [700–710　莱利乌斯被召回罗马](#s29)
+- [711–749　迦太基使节在罗马元老院](#s30)
+- [750–782　停战中的罗马补给船队遭劫](#s31)
+- [783–814　西庇阿的使节遇袭；狼的比喻](#s32)
+- [815–836　西庇阿遣还布匿使节，重启战端](#s33)
+- [837–882　马戈的航程：利古里亚与伊特鲁里亚海岸](#s34)
+- [883–916　马戈临终的沉思](#s35)
+
+<a id="s01"></a>
+### 1–10　王后的亡魂来到斯提克斯
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 1 | Nulla magis Stigios mirantum obsessa corona | 从没有哪一个亡魂，被如此众多的仰慕者 |
+| 2 | Umbra lacus subiit, postquam diuisa triformis | 簇拥着降临斯提克斯的湖沼——自从三重的 |
+| 3 | Partibus haud equis stetit ingens machina mundi. | 宇宙巨构被分成并不均等的几份以来。 |
+| 4 | Obtuitu attonito stabant horrentia circum | 四周，一列列毛发森竖的队伍目瞪口呆地站着， |
+| 5 | Agmina Penarum sparsoque rigentia uillo | 那是惩罚之灵的行列；欧墨尼得斯们 |
+| 6 | Eumenidum tacitis inhiabant rictibus ora. | 披散的乱发根根僵直，张着无声的大口痴望。 |
+| 7 | Regia uis oculis inerat, pallorque uerendus | 她的双眼含着王者的威势，那可敬的苍白 |
+| 8 | Et uetus egregia maiestas fronte manebat. | 和往昔的威仪，仍留在她高贵的额上。 |
+| 9 | Indignata tamen superis irataque Morti | 然而她对天上的神明满怀愤懑，又恼恨死神， |
+| 10 | Ibat et exiguo defigens lumina flexu. | 一路走去，微微低首，目光凝定在地上。 |
+
+**注释**
+
+- **1–3** *postquam diuisa triformis … machina mundi*　第五卷末，索福尼斯巴饮下马西尼萨送来的毒药而死（事见李维 30.15），本卷从她的亡魂写起。相传朱庇特、涅普图努斯、普路同三兄弟拈阄平分了天空、海洋与冥府，三份并不相等。意谓自宇宙三分、冥府成立以来，从没有亡魂如此受人瞩目。
+- **5–6** *Penarum; Eumenidum*　Penarum 即 Poenarum（中世纪拼法 e=oe），指拟人化的“惩罚”，冥府施刑的精灵，不要与 Penorum（布匿人）相混。欧墨尼得斯（“慈善女神”）是复仇女神的委婉称呼，传说以蛇为发，所以说她们乱发披散、根根僵直。Morti（9 行）大写，作拟人的死神。
+
+<a id="s02"></a>
+### 11–37　冥府三判官的裁决
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 11 | Iudicis inferni postquam ad pretoria uentum est, | 当她来到冥界判官的公堂前， |
+| 12 | "Iniecit sibi seua manum" canentia Minos | 白发苍苍的米诺斯开口说道：“她狠心 |
+| 13 | Ora mouens dixit; "sit carcere clausa secundo, | 对自己下了手；让她囚禁在第二重牢狱， |
+| 14 | Quem sontes habitant anime, quibus ultima uite | 那里住着有罪的灵魂，他们把对自身性命的 |
+| 15 | Cura fuit neglecta sue." Rodomantus acerbo | 顾惜放在最末，弃之不顾。”拉达曼提斯 |
+| 16 | Iudicio firmabat idem. Iam prendere mestam | 也以严厉的判决予以认可。凶悍的差役 |
+| 17 | Ceperat immanis lictor. Tunc maximus alte | 已动手去捉拿这悲伤的女子。就在这时，伟大的 |
+| 18 | Eacus exclamat - siluerunt turbida late | 埃阿科斯高声呼喊——骚动的塔耳塔罗斯 |
+| 19 | Tartara; trans Stigiam uox est audita paludem -: | 四下沉寂，斯提克斯沼泽的彼岸也听见了这声音： |
+| 20 | Mortis amor causa est, lucemque coacta reliquit. | “是爱情招致了她的死，她是被迫离开了光明。 |
+| 21 | Tertia claustra sibi sunt, legibus abdita nostris: | 第三重禁域才属于她，我们的律法把它隔在幽处： |
+| 22 | Huc eat, immerite neque hec iniuria nostra | 让她去那里吧；不要让我们的言语如今 |
+| 23 | Accedat nunc uoce recens: satis aspera uite | 再给这无辜的女子添上新的冤屈：她在上界的 |
+| 24 | Mansit apud superos fortuna et mortis acerbe." | 生之际遇已经够严酷，死得也已够惨苦。” |
+| 25 | Assensere pari circum clamore fauentes | 四周，众人以同样的呼声表示赞同与拥护： |
+| 26 | Umbrarum populi et nigri liuentia regni | 那是亡魂的诸族，还有黑暗王国里 |
+| 27 | Concilia. Haud aliter quam cum sententia captum | 面色青灰的议事者们。正如一纸判决把一个被捕的人 |
+| 28 | Turpibus addixit laqueis crucibusque uel igni, | 判给可耻的绞索、十字架或者烈火时， |
+| 29 | Mens bona, que non supplicio, sed sorte mouetur | 一颗高贵的心所以战栗，不是因为刑罚， |
+| 30 | Infami, trepidat; tum, si generosior illi | 而是因为那耻辱的结局；这时，倘若 |
+| 31 | Conditio mortis subito detur, altera frontis | 忽然许他以较为体面的方式赴死，他额上 |
+| 32 | Effigies uultusque alius formatur et extra | 便换了另一副神情，面容焕然一新， |
+| 33 | Pectoris apparent lacrimis noua gaudia fusis; | 新生的喜悦随着泪水从胸中流露出来； |
+| 34 | Letior ipsa quidem positaque decentior ira | 她也正是如此：心中宽慰了些，怒气平息，更显庄重； |
+| 35 | Optatos uisura locos regina modestis | 这位王后即将见到她所向往的地方，迈着 |
+| 36 | Passibus ingreditur, iuuenum cui cingit utrumque | 谦和的步子走了进去；一群青年簇拥在她 |
+| 37 | Turba latus, ueteris repetens quasi somnia uite. | 两侧，仿佛在重温往昔生涯的梦境。 |
+
+**注释**
+
+- **12–17** *Minos … Rodomantus … lictor*　米诺斯、拉达曼提斯（即 Rhadamanthus）与下文的埃阿科斯（Eacus）合称冥府三判官。维吉尔笔下米诺斯审断屈死者，拉达曼提斯在塔耳塔罗斯拷问罪人（《埃涅阿斯纪》第六卷）。lictor 本指罗马长官的执法吏，此处借指冥府差役。
+- **13–15** *carcere … secundo*　维吉尔的冥府前庭依次是夭折的婴儿、被冤判死者，其次是“无罪而亲手结束生命、厌弃光明”的自尽者（《埃涅阿斯纪》6.434–436），再往前才是“哀伤之野”。彼特拉克把自尽者称为“第二重牢狱”，又把维吉尔的“无罪者”（insontes）改成了“有罪的”（sontes）灵魂。
+- **20–24** *Mortis amor causa est*　埃阿科斯的理由：爱情是她致死的原因，而且她是被迫赴死（马西尼萨送来毒药，她不得不饮），所以不应与自尽者同列，而应归入为爱而死者的区域。维吉尔也把伏剑自尽的狄多安置在“哀伤之野”。immerite 即 immeritae（中世纪拼法），“给不应受此的她”。
+- **27–33** *Haud aliter quam cum …*　比喻：被判绞刑、钉十字架或火刑的高尚之人，所怕的不是死，而是死法的耻辱；一旦改判为体面的死法，便转忧为喜，喜极而泣。以此比索福尼斯巴得知不必与自尽者为伍时的欣慰。
+- **36–37** *inuenum … Turba*　inuenum 当作 iuuenum（“青年们”）。这群青年当是同在爱情之域的亡魂；repetens（“重温”）可以理解为指她：青年环侍的情景，使她仿佛又回到生前为王后时的光景；也可以理解为指那群青年。
+
+<a id="s03"></a>
+### 38–50　为爱而死者的幽暗平原
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 38 | Haud procul a ripa Lethei fluminis illa, | 离勒忒河的那道河岸不远—— |
+| 39 | Que capit expositos inamenaque mittit in antra, | 它收容上岸的亡魂，把他们送进阴惨的洞窟—— |
+| 40 | Planities obscura iacet, que collibus atris | 有一片幽暗的平原，四周有黑色的山丘 |
+| 41 | Cingitur. Hic latis eterna silentia campis | 环绕。这里，宽广的原野上是永恒的寂静， |
+| 42 | Mirteaque umbriferos uetus ambit silua recessus. | 一片古老的桃金娘林围住幽深的荫蔽之处。 |
+| 43 | Non hic armorum strepitus studiumue frementum | 这里没有兵器的铿锵，没有对嘶鸣的骏马的 |
+| 44 | Cornipedum, non cura canum pecudumque boumque, | 热衷，没有对猎犬、羊群和牛群的照料， |
+| 45 | Sed labor et lacrime et longo suspiria tractu, | 只有辛劳、眼泪和悠长的叹息， |
+| 46 | Et macies odiumque sui, pallorque ruborque | 憔悴与自我憎恨，苍白与羞红， |
+| 47 | Et malesuadus amor, scelus, ira, fidesque dolique, | 诱人作恶的爱情、罪行、愤怒、忠诚与诡计， |
+| 48 | Furtaque blanditiis immixta, iocusque dolorque, | 夹杂着甜言蜜语的偷情、戏谑与痛苦， |
+| 49 | Et risus breuis et ficto periuria uultu | 短暂的欢笑、装出的面孔下的伪誓， |
+| 50 | Crebraque sub raris habitant mendacia ueris. | 还有稀少的真话下层出不穷的谎言，都在这里栖居。 |
+
+**注释**
+
+- **38–42** *Planities obscura … Mirtea silua*　对应维吉尔的“哀伤之野”：为残酷爱情所耗尽的人藏身于幽僻小径和四周的桃金娘林中（《埃涅阿斯纪》6.440–444）。桃金娘是维纳斯的圣树。维吉尔把勒忒河放在冥府深处的埃律西昂附近，彼特拉克则把这片平原安排在勒忒河岸边。expositos 指冥河渡夫卡戎渡河后“放上岸”的亡魂（exponere 有“使登岸”之意）。
+- **43–50** *Non hic armorum strepitus …*　前两行反衬维吉尔笔下埃律西昂的英雄：他们死后仍喜爱战车、兵器与骏马（《埃涅阿斯纪》6.653–655）。其后一串拟人化的情状，仿照维吉尔冥府门前忧愁、疾病、饥饿、辛劳等的群像（6.273–281），换成了爱情的种种苦乐；malesuadus（“诱人作恶的”）即借自维吉尔形容“饥饿”的 malesuada。
+
+<a id="s04"></a>
+### 51–73　桃金娘林中的恋人亡魂
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 51 | Illa per angustas fauces ingressa, sub ipso | 她穿过狭窄的谷口走了进去，就在 |
+| 52 | Limine claustrorum laqueo sua colla prementem | 这禁域的门槛下，看见伊菲斯用绳索 |
+| 53 | Cernit Yphim et nimio consumptam Biblida luctu. | 勒紧自己的脖颈，看见比布利斯被过度的悲伤耗尽。 |
+| 54 | At procul ingenti latitabat Mirra pudore | 而在远处，密拉怀着深重的羞耻躲藏着， |
+| 55 | Frondibus ora tegens. Iterum spoliator Auerni | 用树叶遮住面孔。那曾劫掠阿维尔努斯的 |
+| 56 | Orpheus Euridicen frustra reuocare parabat. | 俄耳甫斯，又在准备徒然地唤回欧律狄刻。 |
+| 57 | Maximus extremo nemorum uagus ibat Achilles | 伟大的阿喀琉斯在林子的最深处徘徊， |
+| 58 | Pallidaque immiti signabat gramina passu. | 用他无情的脚步在苍白的草地上留下足迹。 |
+| 59 | Aduersa regione Paris ceu nota timeret | 在对面一带，帕里斯仿佛害怕那熟识的 |
+| 60 | Arma hostis gressu tacito properabat. At illum | 仇敌的兵器，脚步无声，匆匆而行。而 |
+| 61 | Tristior Oenone a tergo et lacrimosa uocabat; | 在他身后，愁苦的俄诺涅含泪呼唤他； |
+| 62 | Ipse alio tendebat iter. Tum regia uirgo | 他却径自朝别处走去。然后是那位王家的少女， |
+| 63 | Et mundo matrona nocens, tot causa dolorum, | 和那为祸人间的主妇——无数悲痛的根源， |
+| 64 | Turnus et ipse dolens rapta de coniuge campis | 还有图尔努斯，他也为被夺走的新娘而伤心， |
+| 65 | Errabant; mediaque duos in ualle uideres | 都在原野上游荡；在山谷中央，你会看见 |
+| 66 | Soliuagos lateri herentes alternaque collo | 两个离群独行的人，身体相依，交替着 |
+| 67 | Brachia tendentes. "Heu felicissima Tisbe!" | 把手臂绕上对方的脖颈。“啊，最幸福的提斯柏！” |
+| 68 | Suspirans inquit; placuit seruatus Auerno | 她叹息着说道；这份保存于阿维尔努斯的 |
+| 69 | Dulcis amor: tantum nullis inuiderat umbris; | 甜蜜爱情令她倾心：她从未如此羡慕过任何亡魂； |
+| 70 | Nusquam adeo cari meminit deserta mariti. | 被遗弃的她，从未如此思念过她亲爱的丈夫。 |
+| 71 | Nequicquam; namque ille, senex moriturus et annis | 却是枉然；因为他要到老年才会死去， |
+| 72 | Lassandus uite uenturus ad ultima, longe est, | 他将被岁月磨倦，才走到生命的尽头；他还远着呢， |
+| 73 | Heroumque greges diuersaque claustra tenebit". | 日后他将住在英雄的群落里，住进另一重禁域。 |
+
+**注释**
+
+- **52–55** *Yphim … Biblida … Mirra*　三人都见于奥维德《变形记》。伊菲斯：塞浦路斯青年，苦恋高傲的阿那克萨瑞忒不得，在她门前自缢（第十四卷）。比布利斯：爱上孪生兄弟考努斯，被拒后哭泣不止，化为泉水（第九卷）。密拉：恋其父喀倪拉斯，事败出逃，化为没药树（第十卷），“用树叶遮面”暗合她化树的结局。
+- **55–56** *spoliator Auerni*　俄耳甫斯以歌声打动冥王，几乎把亡妻欧律狄刻带回人间，故称“劫掠阿维尔努斯者”（阿维尔努斯湖相传为冥府入口，代指冥府）；只因途中回头一望而前功尽弃（维吉尔《农事诗》第四卷，《变形记》第十卷）。“又”字意谓他在冥府中仍在重复当年的追寻。
+- **57–62** *Achilles … Paris … Oenone*　阿喀琉斯列在此处，当是因为中世纪流行的特洛伊故事（托名达瑞斯、狄克提斯的作品）：他爱上普里阿摩斯之女波吕克塞娜，为求婚赴阿波罗神庙，遭帕里斯伏击而死。所以帕里斯在冥府中仍躲避这位“熟识的仇敌”。俄诺涅是伊达山的仙女，帕里斯的前妻，被他抛弃（参看奥维德《女杰书简》第五封）。
+- **62–64** *regia uirgo / Et mundo matrona nocens; Turnus*　“为祸人间的主妇、无数悲痛的根源”当指海伦：她是墨涅拉俄斯之妻，随帕里斯私奔，引起特洛伊战争。Et 连接两人的读法较自然，“王家的少女”所指难以确定，或是普里阿摩斯之女波吕克塞娜（中世纪传说中阿喀琉斯为求娶她而遇害，她后来在阿喀琉斯墓前被献祭），正与上文的阿喀琉斯相应；但两语也可读作同指海伦一人（先为王家少女，后为人妇）。图尔努斯原与拉维尼娅订婚，拉维尼娅改许埃涅阿斯，他为此而战并战死（《埃涅阿斯纪》第七至十二卷），并非殉情。
+- **65–67** *duos … Tisbe*　巴比伦的恋人皮拉摩斯与提斯柏：皮拉摩斯误以为提斯柏已被狮子吃掉而自刎，提斯柏随之自尽（《变形记》第四卷）。二人生前不能相守，死后却得以相依，所以索福尼斯巴羡慕提斯柏。
+- **71–73** *senex moriturus*　马西尼萨活到九十岁左右，死于公元前 148 年。彼特拉克说他将居于“英雄的群落”和“另一重禁域”，即类似埃律西昂的福地，与索福尼斯巴永远分隔。数字版 73 行末有一个闭引号，但 68–73 行显然是叙述语，今不作引语处理。
+
+<a id="s05"></a>
+### 74–88　全营哀悼；西庇阿抚慰马西尼萨
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 74 | Postquam Fama fere uolitans prenuntia mortis | 传闻女神——死讯的先行者——照例四处飞翔， |
+| 75 | In uulgus effusa ruit, tunc una per omnes | 一路蔓延，冲进人群；于是同一种哀怜 |
+| 76 | It pietas: tote lacrimis maduere cohortes. | 传遍了众人：全军各营都被泪水沾湿。 |
+| 77 | Hunc sors regine, mouet hunc iniuria regis, | 有人为王后的遭遇动容，有人为国王的不义所触动—— |
+| 78 | Qui scelera accumulans maiori crimine crimen | 他一桩接一桩地犯罪，用更大的罪过 |
+| 79 | Diluit; hunc ingens duro constantia leto | 洗刷先前的罪过；还有人感佩于残酷的死亡面前 |
+| 80 | Feminea et nulli non admiranda uirorum. | 那女子非凡的坚贞，没有一个男子不为之惊叹。 |
+| 81 | Scipio permetuens iuuenis ne forsitan ardens, | 西庇阿深恐这年轻人激情如焚， |
+| 82 | Nunc etiam gemini sceleris sibi conscius, in se | 如今又自知犯下了双重的罪过，或许会 |
+| 83 | Consulat asperius quicquam, pro tempore blandis | 对自己作出什么过激的打算，便趁时用温和的 |
+| 84 | Mitigat alloquiis castigatumque modeste | 言语安抚他，又分寸得当地责备之后， |
+| 85 | Temperat et curis cupit exonerare malignis. | 加以开导，想替他卸下那些恶毒的忧思。 |
+| 86 | Proxima sic dubii medicus discrimina morbi | 正如一位医生，察觉疑难的病症即将 |
+| 87 | Agnoscens, egrum placido sermone moratur | 到达危急的关头，便以平和的话语稳住病人， |
+| 88 | Ac monet et proprii immemorem uelit esse pericli. | 劝慰他，愿他忘却自身的危险。 |
+
+**注释**
+
+- **74–79** *Fama; iniuria regis … crimen / Diluit*　传闻女神四处飞行、传播消息，见《埃涅阿斯纪》第四卷；fere 此处取副词“照例”之义。“国王”指马西尼萨：他先违背罗马人的意愿，匆匆娶了身为俘虏、又是敌王之妻的索福尼斯巴；为了脱身，又送去毒药逼她自尽，所谓“用更大的罪洗刷前罪”。82 行的“双重的罪过”当亦指此。
+- **81–88** *Scipio … Mitigat alloquiis; medicus*　据李维 30.15，西庇阿怕马西尼萨激愤之下再生事端，召他来温言安慰，同时委婉责备他的鲁莽。医生之喻：病情将转危时，医生以温言稳住病人，使他不去想自身的危险；以此喻西庇阿安抚马西尼萨，防他轻生。
+
+<a id="s06"></a>
+### 89–116　黎明集会：西庇阿陈述心志
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 89 | Altera nox fessum curis uigilemque sopore | 又一个夜晚过去，把这为忧思所累、又借睡眠 |
+| 90 | Reddidit aurore. Iam Lucifer astra premebat, | 重获精神的人交还给曙光。晨星已在压暗群星， |
+| 91 | Candida iamque dies pelago ueniebat ab Indo; | 皎洁的白昼已从印度的海上到来； |
+| 92 | Iam uolucrum dulces ullo sine fine querele | 鸟儿们甜美的鸣诉已无休无止地 |
+| 93 | Audiri et nocturna silentia rumpere Progne. | 响起，普洛克涅也打破了夜的寂静。 |
+| 94 | Surgit et effusas iusso precone cateruas | 他起身，命传令官把散在各处的队伍 |
+| 95 | Congregat ac medio sublimis ab agmine fatur: | 集合起来，然后高高站在军阵中央，说道： |
+| 96 | "Romani proceres felicia castra secuti, | “罗马的英豪们，你们追随着这吉祥的营垒， |
+| 97 | Victores, quos Hesperie tot pressa per annos | 你们这些胜利者——赫斯珀里亚的大地多年来 |
+| 98 | Terra tulit, quos innumeris nunc Africa sentit | 饱受压迫，曾承载过你们；阿非利加如今正从 |
+| 99 | Cladibus, extremis iam iam sensura ruinis, | 无数灾祸中领教你们，转眼就要在最终的毁灭中领教—— |
+| 100 | Intentas adhibete aures et corda precanti | 请你们侧耳倾听，用顺从的心对待 |
+| 101 | Prona duci. Me uera quidem et comperta profari, | 向你们恳请的统帅。我所说的都是真实、 |
+| 102 | Testis ab excelso prospectans Iupiter esto. | 确凿的事，愿从高处俯瞰的朱庇特为我作证。 |
+| 103 | Gloria tam longi numquam michi uana laboris | 我从未把虚浮的荣耀当作如此漫长的 |
+| 104 | Causa nec imperii fuerit damnosa libido, | 辛劳的缘由，也从未贪图那有害的权柄， |
+| 105 | Sed patrie pregrandis amor, qui nostra uadosis | 而是出于对祖国至深的爱：是它让我们的营寨 |
+| 106 | Sirtibus Occeanoque alternat castra frementi: | 轮番扎在多浅滩的叙尔提斯和咆哮的大洋边。 |
+| 107 | Hoc duce Ripheas nudus transire per Alpes | 有它领路，我敢赤身翻越里派的高山， |
+| 108 | Non uerear, gelidum cum bruma reduxerit annum, | 毫无畏惧，哪怕寒冬已带回冰冻的年岁； |
+| 109 | Estiui medio armatus nec in ore Leonis | 也不怕在夏日狮子的口中，披甲 |
+| 110 | Ethiopum penetrare latus sitientiaque arua. | 深入埃塞俄比亚人的腹地和焦渴的田野。 |
+| 111 | Nam michi uel dubii certa est uictoria Martis, | 因为在胜负难料的战事中，我要么稳得胜利， |
+| 112 | Vel mors leta quidem; patrie mea uita salusque, | 要么便是欣然一死；我的生命与安危 |
+| 113 | Non michi debetur: pia debita perdere soluens | 是欠祖国的，不是欠我自己的：偿还神圣的债务， |
+| 114 | Nil uideor. Nunc ista tamen quo tendere pergant | 我不觉得失去了什么。不过，这一切将导向何处， |
+| 115 | Expediam breuibus. Vos me per cunta secuti | 现在我简要说明。你们随我走过了一切 |
+| 116 | Aspera, supremo mentes aptate labori. | 艰难险阻，请把心志准备好，迎接最后的辛劳。 |
+
+**注释**
+
+- **89–93** *fessum curis uigilemque sopore; Progne*　宾语未明说，从 94 行“他起身”看，当指西庇阿：为忧虑所累，又借一夜睡眠恢复了精神。普洛克涅（Procne）：雅典公主，因丈夫忒柔斯奸污其妹菲罗墨拉而杀子复仇，后化为燕子（一说夜莺），此处代指清晨啼鸣的鸟。“印度的海”泛指极东的大洋。
+- **96–99** *Hesperie … Terra tulit*　赫斯珀里亚（“西方之地”）在此可指西班牙：西庇阿的军队曾在那里征战多年，“承载”即“忍受”你们，与下句阿非利加“领教”你们相对；也可理解为意大利：多年遭汉尼拔蹂躏的故土“生养”了你们。译文的“承载”兼顾两解。
+- **105–110** *Sirtibus Occeanoque; Ripheas … Alpes; ore Leonis*　叙尔提斯是北非沿岸两处多浅滩的海湾，代指阿非利加；大洋指西班牙西岸的大西洋，代指西班牙战场。里派山是古人想象中极北的山脉，彼特拉克称之为 Alpes，此词可泛指高山。“狮子的口中”指太阳行经狮子座的盛夏。两句以极寒与极热相对。
+
+<a id="s07"></a>
+### 117–146　围攻迦太基的决心；汉尼拔父子
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 117 | Finis adest summumque decus. Michi menia circum | 终点已经临近，至高的荣誉也已在望。我的 |
+| 118 | Cingere propositum et seue Carthaginis urbem. | 打算，是包围城墙，围困凶残的迦太基城。 |
+| 119 | Aut redit is cui cunta uni sua uulnera seruat | 要么那人回来——这背信的民族把自己的 |
+| 120 | Perfida gens nostre tantum aduersata saluti: | 一切创痛都只留给他一人，与我们的安危如此作对： |
+| 121 | Tum Latio interrupta quies nobisque perennis | 那么，拉丁姆中断的安宁便得以重来，我们则将 |
+| 122 | Fama uenit belli fato querenda supremi. | 获得永恒的声名，这声名要由最后一战的结局来赢取。 |
+| 123 | Aut manet et uictum cuntatio sola fatetur, | 要么他留下不走，而单是这迟疑便承认了他的失败； |
+| 124 | Indefensa michi, tellus, dabis impia dignum | 那么，无人保卫的你，渎神的土地啊，就要给我 |
+| 125 | Supplitium: cesos purgabis sanguine ciues. | 应得的惩罚：你要用鲜血为被杀的同胞赎罪。 |
+| 126 | Rurane barbaricis pedibus calcanda fuerunt | 意大利的田园就活该被蛮族的脚 |
+| 127 | Italie: nobis animos tam iusta negabit | 践踏吗？如此正当的复仇，难道会不给 |
+| 128 | Ultio? Quin etiam, quod uel meminisse molestum est, | 我们勇气？还有——这事就连回想都令人难受—— |
+| 129 | Menia nostre urbis Capitoliaque alta minaci | 我们城市的城墙和高耸的卡皮托利山， |
+| 130 | Cominus ille fremens uix lumine uiderit uno: | 他曾近在咫尺、咆哮着，用勉强剩下的一只凶眼望见： |
+| 131 | Nos muros spectare suos que causa uetabit? | 那么，有什么理由禁止我们去看看他的城墙？ |
+| 132 | Non michi si campis ueniat Mars ille secundus | 即使布匿人那第二个马尔斯披挂上阵， |
+| 133 | Penorum armatus Stigiaque reuersus ab unda, | 从斯提克斯的水波边折回，来到战场上， |
+| 134 | Quatuor atque truces quos pauit in arma leones | 他为战争喂养的四头凶猛的狮子 |
+| 135 | Alterno cingant latus ordine, pectora contra | 又轮番护卫在他身侧，我也不会害怕 |
+| 136 | Ferre reformidem: sic me spectata, Quirites, | 挺胸迎上前去：奎里特人啊，你们那久经考验的 |
+| 137 | Vestra monet uirtus. At nunc pater inclitus umbris | 勇气这样告诫着我。可如今那著名的父亲 |
+| 138 | Occubat infernis, natorumque omnis ad unum | 已长眠于地下的幽魂之中，他的子嗣一群 |
+| 139 | Turba redit: Latius iugulos sic ensis in illos | 只剩下一个：拉丁的剑就是这样雷霆般 |
+| 140 | Fulminat. Iste autem per secula cunta superstes | 劈向他们的咽喉。至于这一个，纵然他千秋万代长存， |
+| 141 | Quid nisi serus honos et nostre gloria dextre est? | 除了是迟来的荣誉、我们右手的荣光，他还算什么？ |
+| 142 | Sit uixisse diu finis sibi fructus honesti! | 就让长寿成为他光彩收获的终点吧！ |
+| 143 | Hac tandem feriere manu, licet aspera iactes | 你终将被这只手击倒，尽管你夸耀 |
+| 144 | Prelia et aduersa Romanos cuspide fixos. | 那些惨烈的战役，夸耀被你的矛尖迎面刺穿的罗马人。 |
+| 145 | Gloria prima tamen mortis tibi cognitus auctor | 然而你最大的荣耀，便是人人都知道：置你于死地的 |
+| 146 | Scipio, et in tumuli scribendum hoc marmore nomen. | 是西庇阿，这个名字要刻在你墓上的大理石里。 |
+
+**注释**
+
+- **119–122** *is cui cunta uni sua uulnera seruat; querenda*　“那人”指仍在意大利南部的汉尼拔。大意：迦太基人把所受的一切创伤都留待他一人来报复（或疗治），把全部希望寄托在他身上。他若回国，拉丁姆被战争打断的安宁便得恢复。querenda 即 quaerenda（中世纪拼法 e=ae），“须去争取的”，不是 queror“哀叹”的变位。
+- **126–131** *Rurane … calcanda; uix lumine … uno*　公元前 211 年，汉尼拔为解卡普阿之围，进军至罗马城下（李维第 26 卷）。他在公元前 217 年穿越阿尔诺河沼泽时患眼疾，失去一只眼睛（李维 22.2），故说“用勉强剩下的一只眼”。西庇阿的意思是：汉尼拔既然兵临过罗马，罗马人也有理由兵临迦太基。
+- **132–140** *Mars ille secundus … leones; ad unum / Turba redit*　“布匿人的第二个马尔斯”指汉尼拔之父哈米尔卡·巴卡，假设他从冥府复返。相传哈米尔卡看着四个年幼的儿子说，他是在为罗马帝国的毁灭喂养几头小狮子（瓦勒里乌斯·马克西穆斯《善言懿行录》第九卷），“四头狮子”即指他的儿子们。Quirites（136 行）是罗马公民的正式称呼，西庇阿以此称呼全军将士。redit ad unum 意为“只剩一个”。汉尼拔之弟哈斯德鲁巴于公元前 207 年战死于梅陶罗河；马戈此时其实还在利古里亚（见本卷 300 行），不久才在回国途中伤重而死。西庇阿此言或是预言，或是夸张。
+- **142–146** *Sit uixisse diu …; mortis … auctor / Scipio*　意谓汉尼拔即便长寿，那也只是他光彩一生的最后收获，此外不会再有新的荣誉。他实际在约公元前 183 年于比提尼亚服毒自尽，并非死于西庇阿之手；“置你于死地”指扎马之战的决定性失败。死于名将之手是败者的荣耀，令人想起《埃涅阿斯纪》10.830 埃涅阿斯对垂死的劳苏斯所说：你是倒在伟大的埃涅阿斯手下。
+
+<a id="s08"></a>
+### 147–178　封赏马西尼萨与莱利乌斯
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 147 | Nunc agite, egregiis animos aptate triumphis, | 现在来吧，让你们的心准备迎接辉煌的凯旋， |
+| 148 | Ultores patrie. Tuque, o decor, inclite, regum, | 祖国的复仇者们！还有你，啊，列王的荣耀，声名远扬、 |
+| 149 | Massinissa, ingens, - quem nec turbata fatigent | 伟大的马西尼萨——汹涌的海洋 |
+| 150 | Equora, nec toto descendens Iupiter igne, | 不能使你疲惫，挟着全部雷火降临的朱庇特不能， |
+| 151 | Non ferus infesto concurrens numine Mauors -, | 以敌意的神威冲杀而来的凶猛马尔斯也不能—— |
+| 152 | Accede et nostris animum sermonibus offer. | 请上前来，用心听我们说话。 |
+| 153 | Magna tibi hoc bello uirtus, multusque deorum | 你在这场战争中显示了巨大的勇气，众神也 |
+| 154 | Est fauor, agnosco: nunc urbis munera nostre, | 对你多所眷顾，这我承认：现在我们代表我城 |
+| 155 | Munera pro meritis, fateor, tibi parua, sed arram | 赠你礼物——我坦言，比起你的功劳，这些礼物微薄， |
+| 156 | Maiorum, michi crede, damus. Viden ecce frementem | 但请相信我，它们是更大赏赐的定金。看哪，你可看见这匹 |
+| 157 | Cornipedem letum phaleris auroque superbum? | 喷着鼻息的骏马，欢腾雀跃，以鞍饰与黄金自矜？ |
+| 158 | Nescit ut esse loco! fulgentes respice currus. | 它简直一刻也站不住！再看这辆闪闪发光的战车。 |
+| 159 | Cetera quin etiam que circumferre triumphis | 还有其他物件，都是罗马的将领们规定 |
+| 160 | Romani statuere duces: ut iaspide crebra | 在凯旋式上捧着巡游的：看这顶密镶碧玉 |
+| 161 | Texta corona micat! rutilo riget integer auro | 编成的冠冕多么璀璨！看这只调酒缸，通体 |
+| 162 | En crather: quantoque manum grauis implicat orbe! | 赤金，坚实沉重：它那宽大的圆周把手掌占得多满！ |
+| 163 | En habitus, sacra quo nil conspectius urbe | 再看这件袍服，你在神圣的罗马城里 |
+| 164 | Noueris. Ipse animis pridem Romana quid esset | 再也见不到比它更显眼的东西。你自己也承认， |
+| 165 | Virtus, mortales inter, te nosse fateris: | 你早已在心中明白，罗马的勇武 |
+| 166 | Quod nescire potes, nulli tam clara solemus | 在世人中意味着什么；但你或许不知道： |
+| 167 | Externo prestare uiro; tibi nostra sed uni | 我们从不把如此显赫的荣誉赐给任何 |
+| 168 | Arma habitum titulos nomenque decusque libenti | 外族人；唯独对你，我们心甘情愿地赠予 |
+| 169 | Mente damus, te participem sociumque licebit | 我们的武器、服饰、称号、名分和荣誉；你将可以 |
+| 170 | Esse triumphorum, nobis quos nostra pararit | 成为我们凯旋的分享者和同伴——那些凯旋， |
+| 171 | Fortuna. In medio sedes tibi certa Senatu | 是我们的命运女神为我们准备的。在我们元老院的 |
+| 172 | Semper erit nostro; ciuis monimenta tenebis | 正中，将永远有你的一席之地；你将享有 |
+| 173 | Omnia Romulei; stabilem sociumque et amicum | 罗慕路斯子民的一切公民荣典；我们尊你为 |
+| 174 | Teque salutamus regem. Tum tu, optime Leli, | 坚定的盟友与朋友，并尊你为王。还有你，杰出的莱利乌斯， |
+| 175 | Hanc auro gemmisque grauem gestare coronam | 你配得上，就戴上这顶镶满黄金宝石的沉重冠冕吧； |
+| 176 | Dignus habe, captosque trahens primumque Siphacem | 押着俘虏，首先是西法克斯， |
+| 177 | Maturabis iter. Pelago stat classis aperto | 你要加紧上路。舰队已停在开阔的海上， |
+| 178 | Et placidum spirante fretum substernitur Austro. | 南风轻拂，海峡在风下平静地铺展。 |
+
+**注释**
+
+- **148–151** *quem nec turbata fatigent …*　赞马西尼萨坚忍不拔，海难、雷霆、战神都不能使他屈服。他早年被西法克斯和迦太基人逐出王国，几经出生入死（李维第 29 卷）。Mauors 是马尔斯的古体。
+- **153–164** *munera; arram*　据李维 30.15，西庇阿在全军集会上首次称马西尼萨为王，赠以金冠、金盏、象牙权杖、象牙宝座、绣袍与棕榈纹长衣。彼特拉克改为骏马、战车、宝石冠、金调酒缸与袍服，突出凯旋的气象。arra（古典作 arrha）意为定金，即日后更大赏赐的预付。
+- **171–178** *sedes … Senatu; optime Leli … Siphacem*　让外国国王在元老院中常有座位、享有罗马公民的一切荣典，不见于李维所记的赠礼，当是诗人的渲染。莱利乌斯押送西法克斯及其他俘虏前往罗马报捷，见李维第 30 卷。dignus habe 意为“你当之无愧，就收下吧”。南风有利于自阿非利加北航意大利。
+
+<a id="s09"></a>
+### 179–207　凯旋的许诺；马西尼萨的新野心
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 179 | At uos, o socii certaminis atque laborum, | 至于你们，啊，与我同战斗、共辛劳的伙伴们， |
+| 180 | Emeritas laudes et premia digna feretis, | 你们将得到应得的赞誉与相称的奖赏： |
+| 181 | Cum nos laurigero Capitolia celsa prementes | 那时，我们乘着桂饰的战车，驶上高耸的卡皮托利山， |
+| 182 | Leta uidens curru, cum circumfusa fauentum | 罗马欣然望着；那时，成千上万的拥护者 |
+| 183 | Milia, uictorum plausum fremitumque iocosque | 簇拥四周，胜利者的掌声、欢呼与戏谑， |
+| 184 | Maxima septeno spectabit uertice Roma. | 至伟的罗马都将从她的七座山巅上观看。 |
+| 185 | Quem michi fata diem numquam mentita propinquum | 那一天，从不说谎的命运向我许诺， |
+| 186 | Promittunt." Sic fatus erat. Iamque undique magnus | 已经临近。”他说完了。顿时，从四面八方 |
+| 187 | Consurgens letusque fremor pulsabat Olimpum. | 升起一片巨大而欢欣的喧声，直撼奥林波斯。 |
+| 188 | Ante omnes meritas grates expendere certant | 国王和莱利乌斯抢在众人之前，争相向统帅 |
+| 189 | Rex Leliusque duci. Spesque ingens addita regi | 致以应有的感谢。巨大的希望降临国王， |
+| 190 | Abstulit antiquas aliamque in uiscera curam | 带走了他往日的忧思，又把另一种牵挂 |
+| 191 | Intulit, ut regni posset protendere fines | 送进他的心肠：他盼着能拓展自己 |
+| 192 | Pauperis, hostilesque suis adiungere terras; | 贫瘠王国的疆界，把敌人的土地并入自己的版图； |
+| 193 | Quod sperare quidem sors illius atque potentis | 这样的期望，他自身的时运和权势显赫的 |
+| 194 | Scipiade promissa dabant. Ceu retibus auceps | 西庇阿的许诺，确实容他怀有。正如捕鸟人 |
+| 195 | Aspiciens uolucrem subito discedere paruam | 看见一只小鸟突然从网中逃脱， |
+| 196 | Conqueritur, mouet exigui spes perdita lucri, | 便连声抱怨——那份微利的希望落空使他懊恼—— |
+| 197 | Maior inopina mox et generosior ales | 可不久，倘若有一只意想不到的、更大更高贵的鸟 |
+| 198 | Parte poli tensis si forsitan aduolet alis, | 碰巧从天空的某一方展翅向他飞来， |
+| 199 | Erigitur recipitque animos, spesque ampla futuri | 他便振奋起来，重新鼓起精神，对未来的宏大希望 |
+| 200 | Preteriti meminisse uetat; sic prima secunde | 使他不再记挂过去；同样，在这位情人并不坚实的 |
+| 201 | Cura parum solido sub pectore cessit amantis. | 胸中，最初的牵挂也让位给了第二种。 |
+| 202 | Victor amoris amorque libidine uicta libido est. | 爱成了爱的征服者，欲望被欲望战胜。 |
+| 203 | Proxima nox alia transiuit ymagine somni: | 接下来的一夜，在另一种梦境中度过： |
+| 204 | Non habitus, non incessus, non uultus amice | 不再是心爱之人的衣着、步态和容颜 |
+| 205 | Ante oculos, non uox iterum exaudita gementis; | 浮现在眼前，也不再听见她呻吟的声音； |
+| 206 | At solium atque urbes, at fortibus oppida muris | 而是王座和城市，是城墙坚固的要塞， |
+| 207 | Fluminaque et montes lati confinia regni. | 是河流和山岳——一个辽阔王国的边疆。 |
+
+**注释**
+
+- **181–184** *laurigero … curru; septeno … uertice*　罗马凯旋式：凯旋将军乘月桂装饰的战车登上卡皮托利山，向朱庇特献祭，士兵们随行唱着戏谑的歌。罗马建于七丘之上。西庇阿的凯旋式见本诗第九卷。
+- **189–194** *Spesque ingens addita regi*　马西尼萨的心思从此转向称王拓土。据李维第 30 卷，战后罗马确认了他的王位，并把西法克斯的部分国土赐给他。“贫瘠的王国”指他原有的马西利人领地。
+- **194–202** *Ceu retibus auceps; Victor amoris amor*　捕鸟人之喻：小鸟逃脱时懊恼，大鸟飞来又转忧为喜；喻马西尼萨对索福尼斯巴的爱被称王拓土的野心所取代，“并不坚实的胸中”含讽意。202 行是回环式的警句：一种爱（对权位的爱）战胜了另一种爱，一种欲望征服了另一种欲望；amorque 的 -que 位置略显别扭，大意不受影响。
+
+<a id="s10"></a>
+### 208–224　莱利乌斯押送西法克斯启航
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 208 | Iam rubicunda uagos Eoo litore currus | 绯红的、即将到来的白昼已在东方的海岸 |
+| 209 | Aptabat uentura dies, Auroraque noctis | 备好它漫游的车驾，皎洁的奥罗拉 |
+| 210 | Candida pellebat tenebras, cum buccina classem | 正驱散夜的黑暗；这时号角唤醒了舰队， |
+| 211 | Excitat et uento tenduntur uela secundo. | 风帆在顺风中张满。 |
+| 212 | Litore iam toto stabat Romana iuuentus | 罗马的青年们已站满了整个海岸， |
+| 213 | Digressu uisura suos. Hic uerba parenti, | 要目送自己的亲友启程。这人托人把话带给父母， |
+| 214 | Hic fratri perferre iubet, iubet ille sorori | 这人带给兄弟，那人吩咐带给姐妹， |
+| 215 | Hic sociis, multumque rogat: confusus in altum | 这人带给伙伴，一再叮咛：纷乱的喊声 |
+| 216 | Clamor it et uarie resonant per inania uoces. | 升向高空，各样的声音在虚空中回荡。 |
+| 217 | Lelius in medio conspectus amica salutat | 莱利乌斯在人群中央，引人注目，他向友善的 |
+| 218 | Equora; tum ducibus commendat carbasa uentis, | 海洋致意；然后把风帆托付给引路的风， |
+| 219 | Atque alacres leto respondent murmure naute. | 水手们也以欢快的低语热切地应和。 |
+| 220 | At mestus mediaque Siphax de puppe reflectens | 而西法克斯满怀悲伤，从船尾中央 |
+| 221 | Lumina supremum patriam uisura locosque | 回过眼来，这是他最后一次看见祖国，看见 |
+| 222 | In quibus altus erat, tacitus lacrimosa mouebat. | 他生长的地方；他默然在心中翻涌着悲苦。 |
+| 223 | Postquam claustra dolor uocisque repagula feruens | 直到灼人的悲痛冲破了声音的 |
+| 224 | Euicit, talem diffudit ad astra querelam: | 关闸与门闩，他才向群星倾吐出这样的哀诉： |
+
+**注释**
+
+- **212–219** *Litore iam toto …*　送别场面：留在阿非利加的士兵托随船回国的人给父母、兄弟、姐妹和伙伴捎话。“引路的风”即把船引向目的地的顺风。
+- **220–222** *Siphax; altus erat*　西法克斯被俘的经过见第五卷及李维第 30 卷；他从此被押往意大利，再未回到阿非利加。altus erat 即 alitus erat，“被养育长大”，来自 alo。lacrimosa mouebat 省去了“心中”一类的词，意为心里翻动着悲苦之事。
+
+<a id="s11"></a>
+### 225–249　西法克斯的哀诉：阿非利加的祸根
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 225 | "Heu tellus aduersa deis, heu sidere tristi | “唉，为众神所敌视的土地，唉，长久以来 |
+| 226 | Pressa diu tellus! quam nostris attulit aruis | 被不祥的星辰压迫的土地！那个从西顿海岸 |
+| 227 | Femina Sidonio fugiens a litore pestem! | 逃来的女人，给我们的田野带来了怎样的灾祸！ |
+| 228 | Pectoribus nostris animos quos intulit illa | 她又向我们胸中灌注了怎样的心性，那个 |
+| 229 | Exul inops mulier metuens atque icta recenti | 流亡的、一无所有的、惊惶的、刚受了创伤的 |
+| 230 | Vulnere! nempe auidos bellorum et sanguinis atri. | 女人！无非是贪恋战争与黑色鲜血的心性。 |
+| 231 | Tutius ut fuerat regnum tenuisse uetustum | 若守住古老的王国，保住它自有的和平， |
+| 232 | Et pacem seruasse suam! lato equore gentes | 该是多么安稳！大自然用辽阔的海水 |
+| 233 | Discreuit Natura duas aduersaque fixit | 把两个民族分开，又把彼此的海岸 |
+| 234 | Litora; nos mortem mediis quesiuimus undis. | 对面安放；我们却到大海中间去寻死。 |
+| 235 | Quid uisum est nostris elementa irrumpere damnis | 为什么偏要冲破诸元素的界限，自取祸殃， |
+| 236 | Et uento pelagoque manus inferre tumenti? | 向风和汹涌的海洋伸出手去？ |
+| 237 | Sat nostro precisa nocens a corpore tellus | 那从我们的躯体上割离得够远、带来祸害的 |
+| 238 | Hispana et calidis fumans Trinacria uenis, | 西班牙土地，还有地脉炽热、冒着烟的特里纳克里亚， |
+| 239 | Quid michi nunc uobisque fuit? Sardinia flatu | 你们与我如今有什么相干？撒丁岛 |
+| 240 | Pessima pestifero melius latuisse marinis | 因瘟疫的气息而最为凶险，本来最好是 |
+| 241 | Eternum potuisset aquis, quo signa furentes | 永远藏在海水里——我们却疯狂地把军旗 |
+| 242 | Pertulimus. Puduit spatio requiescere tanto. | 一直扛到那里。我们竟耻于安居在如此广大的地方。 |
+| 243 | Hei michi, non alias sic te, pulcerrima, cernam, | 唉，我再也不能这样看见你了，最美的 |
+| 244 | Africa, nec patrii tangent hec lumina colles. | 阿非利加，我这双眼睛再也触不到故乡的山丘。 |
+| 245 | Litus ad inuisum ferimur. Locus ille sepulcri. | 我们正被载往那可憎的海岸。那里就是我的坟墓。 |
+| 246 | Quis putet? extremis genitum sub finibus orbis | 谁能想到？生在世界最远的边陲的人， |
+| 247 | Itala terra teget. Mediis at uita procellis | 却要由意大利的土地掩埋。可我的一生 |
+| 248 | Irrequieta fuit: sic tristes litia Parce | 始终在风暴中颠簸不宁：阴郁的命运三女神 |
+| 249 | Distribuere michi, sic dii statuere superni. | 就这样为我分派丝线，天上的神明就这样注定。 |
+
+**注释**
+
+- **225–230** *Femina Sidonio fugiens a litore*　指狄多：她的丈夫被她的兄弟、推罗王皮格马利翁杀害，她带着财宝逃离腓尼基，来到阿非利加建立迦太基（《埃涅阿斯纪》第一卷）。“西顿的”泛指腓尼基，迦太基为推罗的殖民地。“刚受的创伤”指丧夫之痛。努米底亚人西法克斯把阿非利加的战祸归咎于这个外来的城邦。
+- **231–236** *lato equore gentes / Discreuit Natura duas*　自然以海隔开诸民族、人类却偏要越海而行的想法，参看贺拉斯《颂歌》1.3：神明有意以大洋隔开陆地，不敬的船只却偏要越过不该触碰的海面。“冲破诸元素”即指航海，闯入风与水的领域。
+- **237–242** *tellus Hispana … Trinacria … Sardinia*　列举迦太基人向海外扩张之地：西班牙（与阿非利加之间隔着海峡，故说“从我们的躯体上割离”）、西西里（特里纳克里亚，“冒烟”指埃特纳火山）、撒丁岛。撒丁岛空气恶浊、多瘟疫，是罗马作家常说的。
+- **245–249** *Locus ille sepulcri; litia Parce*　西法克斯果然死在意大利：据李维 30.45，他在西庇阿举行凯旋式前不久，死于提布尔（今蒂沃利）的羁押之中。他的马塞西利王国在努米底亚西部，近于大洋，古人视为大地西极。litia 即 licia，“丝线”，中世纪拼法；命运三女神（帕耳开）纺出、分配并剪断人的命运之线。
+
+<a id="s12"></a>
+### 250–277　西法克斯的哀诉：诅咒汉尼拔父子与不忠之妻
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 250 | Hi tibi, qui uires animumque dedere superbum | 愿那些给了你力量、给了你搅乱 |
+| 251 | Omnia miscentem, meritas dent soluere penas, | 天下的高傲心性的神明，让你偿付应得的惩罚， |
+| 252 | Hanibal, ingentis quoniam michi causa ruine es | 汉尼拔！因为你是我惨重覆灭的根源， |
+| 253 | Et patrie natus misere tu causa supremi | 你生来就是我那可怜的祖国最后灾难的 |
+| 254 | Prima mali. Patrias utinam iuratus ad aras | 首要根源。但愿你在祖传的祭坛前起誓之时， |
+| 255 | Fulmine flagrasses merito! Proh Iupiter, ille | 就被应得的雷霆烧成灰烬！朱庇特啊，他， |
+| 256 | Ille tibi feriendus erat. Nam uindice flamma | 正是他该被你劈中。因为用复仇的火焰 |
+| 257 | Quid iuuat innocuas quercus et saxa ferire? | 劈打无辜的橡树和山岩，又有什么益处？ |
+| 258 | Heu puer infelix patrie cuntisque tibique! | 唉，不幸的孩子，于祖国、于众人、于你自己都是祸患！ |
+| 259 | Tuque deis inuise parens, qui dira tulisti | 还有你，众神所憎恶的父亲，你播下了 |
+| 260 | Semina bellorum, natis caruisse nefandis | 战争的凶恶种子，若是没有这些可恶的儿子， |
+| 261 | Quanto erat utilius! genitor sed tristis ad umbras | 该有多好！然而你这父亲已悲哀地去了阴间， |
+| 262 | Iuisti, tantos uetitus spectare furores. | 无缘亲眼看见如此巨大的疯狂。 |
+| 263 | Non licuit cupido mundi satiare cruore | 你未能让你贪婪的眼睛饱餐世界的鲜血， |
+| 264 | Lumina, non gladios; at post scelerata propago | 也未能让你的刀剑饱饮；然而后来，你那罪恶的后裔 |
+| 265 | Hunc fudit, seuo inferias missura parenti. | 倾洒了这血，要拿它去祭奠凶残的父亲。 |
+| 266 | Tu certe iam digna luis. Sed, pessime rerum, | 你如今定已在受应得的报应。可是，你这万恶之首， |
+| 267 | Quas penas michi, nate, dabis, qui stagna lacusque, | 你这做儿子的，又将向我偿付怎样的惩罚？你用鲜血 |
+| 268 | Qui freta, qui fluuios, qui terras sanguine turpas! | 玷污了池沼与湖泊，玷污了海峡、河流与大地！ |
+| 269 | Forte ego premoriar, tua nec sinar ultima presens | 也许我会先你而死，不能亲临现场 |
+| 270 | Cernere supplicia: at Manes penetrare uidebo | 看你最后受刑；但我会看见你走进幽冥， |
+| 271 | Agmine cesorum et Furiarum turbine septum. | 被成队的被杀者和复仇女神的旋风团团围住。 |
+| 272 | At, coniunx infida, uirum que linquere frustra | 而你，不忠的妻子，你徒然想要 |
+| 273 | Niteris et nostris insultas cladibus, imos | 抛弃丈夫，还对我们的灾祸幸灾乐祸，你却不由自主地 |
+| 274 | Ad Manes inuita preis, solamque uidere | 先我一步去了最深的幽冥，在那里，我将能 |
+| 275 | Te potero et uultus iterum spectare pudendos. | 只看见你一人，再一次看见你那可耻的面容。 |
+| 276 | Litore nam patrio, nisi me mea lumina fallunt, | 因为在祖国的海岸上，如果我的眼睛没有欺骗我， |
+| 277 | Immemor ille tui turpissimus errat adulter." | 那个最无耻的奸夫正在徘徊，早已把你忘记。” |
+
+**注释**
+
+- **250–257** *Hanibal; Patrias … iuratus ad aras*　西法克斯说汉尼拔是他覆灭和祖国末日的根源，因为这场战争把努米底亚卷了进去。相传汉尼拔九岁时，在父亲哈米尔卡献祭的祭坛前起誓，一有能力便与罗马为敌（李维 21.1）。雷霆常劈中无罪的橡树和山岩，作恶者却逍遥无事，这是古人对朱庇特常有的诘问，卢克莱修《物性论》即以此嘲讽雷霆出于神意之说。
+- **259–268** *parens; inferias; nate*　“父亲”指哈米尔卡·巴卡：第一次布匿战争中的迦太基名将，战后经营西班牙，公元前 229/228 年死于西班牙，未能亲见第二次布匿战争。inferiae 是献给死者的祭品，意谓汉尼拔以罗马人的血祭奠亡父。266 行起话头转回儿子汉尼拔；“池沼、湖泊、河流”暗指特雷比亚河、特拉西梅诺湖等处的战役。
+- **269–277** *Manes; coniunx infida … adulter*　Manes 本指亡灵，转指冥府，此处译“幽冥”。西法克斯骂索福尼斯巴不忠：她在丈夫被俘后随即改嫁马西尼萨。她已先他而死，他料定将在冥府见到她“孤身一人”，因为那“奸夫”还活着，此刻正在岸上——与 70–73 行索福尼斯巴在冥府见不到丈夫的悲叹遥相呼应。
+
+<a id="s13"></a>
+### 278–287　西法克斯渴望风暴；嫉妒的小农之喻
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 278 | Dixit et in gremium lacrimantia condidit ora. | 他说完，把泪流满面的脸埋进了怀里。 |
+| 279 | Illum non scopuli, non horrifer Eurus ab antro | 礁石吓不倒他，从埃俄罗斯的洞穴里 |
+| 280 | Terruit Eolio, non monstra uagantia ponto, | 冲出的可怖东风吓不倒他，海上游荡的怪物也不能； |
+| 281 | Deuotum mortisque auidum, gelidumque cadauer | 他已决心赴死，渴求一死，只盼自己冰冷的尸身 |
+| 282 | Litoribus Libicis transuerso turbine reddi | 能被横来的狂飙送回利比亚的海岸—— |
+| 283 | Optantem tacite, tempestatesque uocantem. | 他默默祈盼，呼唤着风暴来临。 |
+| 284 | Inuidus haud aliter tenuis regnator agelli, | 正如一个心怀嫉妒、只占有一小块薄田的主人， |
+| 285 | Annua cui messis periit spes, optat iniquum | 一年收成的希望落了空，便盼着别人 |
+| 286 | Ver aliis imbresque feros et grandine mixtos | 也遭逢不公的春天，盼着狂暴的骤雨和夹着冰雹的 |
+| 287 | Arboribus frugibusque graues incumbere uentos. | 猛烈狂风压向别人的果树与庄稼。 |
+
+**注释**
+
+- **279–283** *Eurus ab antro … Eolio; Litoribus Libicis*　风神埃俄罗斯把诸风关在洞穴里，随时放出（《埃涅阿斯纪》第一卷）。利比亚在诗中泛指北非。西法克斯宁愿葬身风浪、让尸体漂回故土，也不愿被押往罗马受辱，葬身异乡（参看 245–247 行）。
+- **284–287** *Inuidus … tenuis regnator agelli*　嫉妒的小农之喻：自家收成无望，便盼别人也遭灾；喻西法克斯自己覆灭，便盼载他的舰队也一同沉没。regnator（“统治者”）一词用于一小块田地的主人，暗讽昔日的国王如今只剩下失败者的妒心。
+
+<a id="s14"></a>
+### 288–306　西庇阿兵临迦太基，迦太基召回二将
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 288 | Interea Scipio curarum parte leuatus | 这时，西庇阿卸下了一部分忧虑， |
+| 289 | Carpit iter tumulumque habili munimine cingit, | 起程上路，用合宜的工事围住一座山丘—— |
+| 290 | Quem Tuneta uocant, turresque ibi suggerit altas, | 人们称它突尼斯；他在那里筑起高塔， |
+| 291 | Menia precipiti circumdans lignea uallo. | 又用陡峭的壁垒环护着木造的城墙。 |
+| 292 | Iamque in conspectu Carthaginis ampla repente | 不久，他就在迦太基的眼前突然 |
+| 293 | Castra locat: late fugientibus arua colonis | 扎下宽广的营寨：农夫们四散奔逃， |
+| 294 | Vastantur; trepidant subita formidine ciues | 田野遍遭蹂躏；被围困的市民 |
+| 295 | Obsessi: solamque uiam superesse salutis | 在骤起的恐惧中战栗，他们喧嚷着承认： |
+| 296 | Absentem reuocare ducem clamore fatentur. | 唯一剩下的生路，是召回远方的统帅。 |
+| 297 | Legatos igitur raptim, qui publica fando | 于是他们火速派出使者，去用言辞 |
+| 298 | Fata ferant, mittunt, reuocentque ad prelia tandem | 传达国家的命运，召他终于回来， |
+| 299 | Ultima et extremos patrie sub morte dolores; | 面对最后的战斗，和祖国垂死之际的极痛； |
+| 300 | Ast alii in Ligurum uallem properante iubentur | 另一些人则奉命乘着疾驶的船队 |
+| 301 | Classe uehi atque illis Magonem auertere terris: | 前往利古里亚人的山谷，把马戈从那片土地 |
+| 302 | Ni redeant, patrie summas instare ruinas. | 召离：他们若不归来，祖国的覆亡已迫在眉睫。 |
+| 303 | Ille quidem, quamuis animum grauis ira cruentum | 马戈虽然被沉重的怒气煎熬着 |
+| 304 | Angeret, aduerso quoniam tamen aspera Marte | 嗜血的心，可是他既已在马尔斯不佑的战斗中 |
+| 305 | Vulnera passus erat, metuens inimica supremis | 身负重伤，又怕在绝境之上 |
+| 306 | Arma malis, statuit patrie parere uocanti. | 再添敌人的兵锋，便决意听从祖国的召唤。 |
+
+**注释**
+
+- **288** *curarum parte leuatus*　指西法克斯已经被俘，并已押上船送往罗马（见本卷前文），西庇阿了却了一桩心事。
+- **290** *Tuneta*　突尼斯：原文 Tuneta，即古代的 Tunes，今突尼斯城，距迦太基约十五罗马里，地势险固，从那里可以望见迦太基城和环城的海面。西庇阿占据此地，见李维 30.9。
+- **294–299** *Absentem reuocare ducem*　“远方的统帅”指汉尼拔，他此时仍困守在意大利南端的布鲁提乌姆。迦太基召回马戈和汉尼拔，见李维 30.19–20。
+- **300–306** *Ligurum … Magonem*　马戈是汉尼拔之弟，公元前 205 年在利古里亚登陆；利古里亚人是居住在意大利西北沿海山地的民族。后来马戈在山南高卢与罗马军交战失利，股部重伤；接到召回令后率军渡海，途中伤重而死（李维 30.18–19）。“马尔斯不佑”即战事失利，马尔斯在此借指战争。
+
+<a id="s15"></a>
+### 307–342　三十名使者向西庇阿乞和
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 307 | Interea, blandis traherent qui tempora uerbis, | 与此同时，为了用花言巧语拖延时日， |
+| 308 | Ter denos oratores in castra senatu | 他们把三十名说客派到营中——这些人 |
+| 309 | Penorum ex omni lectos ac ficta loquentes | 从布匿人的整个元老院中选出，满口虚言—— |
+| 310 | Romano misere duci: quorum unus ab alto | 去见罗马的统帅。其中一人从胸中深处 |
+| 311 | Pectore suspirans, lacrimis sic incipit ortis: | 发出叹息，泪水涌流，这样开口说道： |
+| 312 | "Summe ducum, cui cunta parem per secula nullum | “至高的统帅啊，世界历经一切世代， |
+| 313 | Mundus habet prima numerans ab origine retro, | 从最初的起源往回数，也找不出你的对手； |
+| 314 | Visceribus patriis que publica uulnera seue | 祖国的肺腑上那些公共的创伤， |
+| 315 | Paucorum fecere manus rabiesque nocentum, | 是少数人残忍的手和罪人的疯狂所造成， |
+| 316 | Aspice placatus tandem et miserere, precamur. | 求你终于息怒，看一看它们，可怜我们吧。 |
+| 317 | Afflictis liceat per te sperare salutem, | 但愿陷入困厄的人能借着你盼到生路， |
+| 318 | Quam ciues rapuere feri. Si parcere pulcra est | 那生路已被凶暴的同胞夺走。倘若宽恕 |
+| 319 | Ultio, si imperium nobis auxisse receptis | 是美好的复仇，倘若接纳我们、使罗马的帝国 |
+| 320 | Romanum, quam tantam urbem extinxisse repulsis | 扩大，比拒绝我们、扑灭这样一座大城 |
+| 321 | Utilius, si uictores meminisse uetuste | 更为有利，倘若胜利者铭记往日的 |
+| 322 | Prestat amicitie, quam uos presentia tantum | 友谊，胜过只掂量眼前的 |
+| 323 | Atque iras pensare nouas, ignoscite uictis, | 事态和新起的愤怒，那就请宽恕战败者， |
+| 324 | Parcite supplicibus, rebus succurrite nostris. | 饶恕恳求者，救助我们的危局吧。 |
+| 325 | Occidimus: prestate manus, hostemque iacentem | 我们快要灭亡了：伸出手来，把倒地的敌人 |
+| 326 | Erigite, et nostro sic insultate pudori: | 扶起，就这样来嘲弄我们的羞惭吧： |
+| 327 | Optima uincendi species, quando hostis amicus | 最好的胜利，莫过于敌人因受了恩惠 |
+| 328 | Fit meritis. Sed pretereo speciosa profari, | 而成为朋友。但这些动听的话我略过不提， |
+| 329 | Nomen amicitie quoniam fortuna silere | 因为我们的命运命令我们对‘友谊’之名 |
+| 330 | Nostra iubet; satis est miseros optasse salutem | 保持沉默；不幸的人能祈求活命， |
+| 331 | Et ueniam petiisse reos. Per sacra Tonantis, | 罪人能请求宽恕，这就够了。凭着雷神的圣仪， |
+| 332 | Per uestros, Romane, deos, ignosce paratis | 凭着你们的神明，罗马人啊，宽恕这些 |
+| 333 | Supplicium penamque peti. Non nostra negarim | 甘愿承受刑罚与惩处的人吧。我不想否认我们的 |
+| 334 | Crimina; sed uerum liceat, dux sancte, fateri | 罪过；但神圣的统帅，请容我在你面前 |
+| 335 | Te coram: nostro uiolentus prefuit auctor | 说出真相：我们的过错有一个凶暴的主谋—— |
+| 336 | Hanibal errori nostrasque cupidine summi | 汉尼拔。他用对至高权力的贪欲 |
+| 337 | Imperii pauit furias, et uelle coegit | 喂养我们的疯狂，逼我们去渴求那些 |
+| 338 | Quod sero nunc nolle dolet. Verum ille necesse est | 如今才痛悔已迟、再不愿要的东西。然而他必定 |
+| 339 | Ut pereat scelerumque ruat cum pondere tandem. | 要灭亡，终将带着他罪行的重负一同倾覆。 |
+| 340 | Sic illum sua fata uocant: tu nostra benignus | 他的命运正这样召唤他；而你，请仁慈地 |
+| 341 | Respice. Si ciuem crudelem sensimus hostem, | 顾念我们。倘若我们已尝到同胞成了残酷的敌人， |
+| 342 | Tu ciuis pius esse uelis, qui diceris hostis." | 就请你这被称作敌人的人，做我们仁厚的同胞。” |
+
+**注释**
+
+- **307–311** *Ter denos oratores*　李维 30.16 记：迦太基派出三十名长老——元老院中地位最尊、权力最大的议事会成员——到西庇阿营中求和。他们伏地叩拜，把战争的罪责全推给汉尼拔及其党羽；李维认为他们求和只是为了拖延时间，等汉尼拔回国。ficta loquentes“满口虚言”即点明此意。
+- **318–324** *parcere pulcra est Ultio … Parcite supplicibus*　使者的说辞迎合罗马人自许的宽恕之德，可对照维吉尔《埃涅阿斯纪》6.853 安喀塞斯对罗马人的嘱咐：“宽恕降服者，征服骄傲者”（parcere subiectis et debellare superbos）。
+- **329** *Nomen amicitie*　罗马与迦太基在布匿战争以前曾数度订约修好，上文“往日的友谊”即指此；使者自知理亏，又说不便再提。
+- **331** *Tonantis*　雷神，指朱庇特，罗马国家的主神。
+- **333** *peti*　原文作 peti“被索取”，文意似应读作 pati“承受”，今依后者译出，见文本说明。
+- **341–342** *ciuem … hostem*　“同胞”与“敌人”两词交错对照：自家的同胞汉尼拔成了残酷的敌人，那么名为敌人的西庇阿，不妨做他们仁厚的同胞。pius 兼有虔敬、尽责、慈爱之意。
+
+<a id="s16"></a>
+### 343–370　西庇阿严词作答，开列和约条款
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 343 | Dixit et ante pedes iacuit uictoris. At ille | 他说罢，扑倒在胜利者的脚前。而西庇阿 |
+| 344 | Erigit et uultu respondet pauca seuero: | 扶他起来，面容严峻，只答了寥寥数语： |
+| 345 | "Non pacis tractator ego, sed uictor et ultor | “我不是和约的谈判者；我记得，我是作为 |
+| 346 | Sum scelerum Libicas, memini, transmissus in oras | 胜利者和罪行的复仇者，被派渡到利比亚海岸的。 |
+| 347 | Quam michi spem Fortuna ferat, uictoria quam sit | 命运女神带给我怎样的希望，胜利于我 |
+| 348 | Prona michi notum est. Sed me tamen ultima uestri | 何等顺遂，这一切都明明白白。然而你们那 |
+| 349 | Fata mouent: animum nequeo posuisse benignum. | 最后的命运仍然打动了我：我放不下仁厚之心。 |
+| 350 | Mundus ut agnoscat sic nos pia bella mouere, | 为了让世界看清，我们发动虔敬的战争时， |
+| 351 | Ut nostro sit pacis amor sub pectore semper, | 胸中也始终怀着对和平的热爱， |
+| 352 | Parcimus indignis. Has pacis figite leges | 我们饶恕了不配饶恕的人。把这些和平的条款 |
+| 353 | Mentibus, et seruare fidem condiscite tantis | 铭刻在你们心中；既受了如此惨重的灾祸的教训， |
+| 354 | Cladibus edocti, superosque et sancta uereri | 就该学会信守誓约，敬畏天神 |
+| 355 | Federa. Bis denas non ultra litore naues | 和神圣的盟约。你们留在岸边、供本国使用的 |
+| 356 | In patrios seruate usus; non bella mouendi | 船只，不得超过二十艘；未经罗马人民下令， |
+| 357 | Ius uobis Populi iniussu; sint prelia nostri | 你们无权发动战争；战事须由我们 |
+| 358 | Arbitrii; uestro tellus Hispana subesse | 裁决；西班牙的土地不再受 |
+| 359 | Desinat imperio, uestrisue quiescat ab armis. | 你们统治，或者说，从此免受你们的刀兵。 |
+| 360 | Insula nulla, freto quod nos inter iacet et uos, | 凡是位于你我之间那片海峡中的岛屿， |
+| 361 | Non, procul a Libico, uiuat sibi libera, Marte; | 无一不应远离利比亚的马尔斯，自由地生活； |
+| 362 | Vincula captiuis turpesque auferte cathenas | 从俘虏身上除去镣铐，从胜利者的脚上 |
+| 363 | Victorum pedibus; stet uobis transfuga nullus, | 卸下可耻的锁链；不准有一个逃兵留在你们那里， |
+| 364 | Nullus in Italia Penorum exercitus ultra | 不准再有一支布匿人的军队 |
+| 365 | Permaneat, uestrosque duces remeare iubete. | 留在意大利；你们要命令你们的将领归来。 |
+| 366 | Sique trium spatio pax, consultando dierum | 倘若在我们给出的三天商议期限之内， |
+| 367 | Quos damus, accepta est, legatos mittite Romam: | 你们接受了和约，就派使者前往罗马： |
+| 368 | Sanciat hanc Populus pacem iubeatque Senatus. | 让人民批准这和约，让元老院颁令施行。 |
+| 369 | Si minus, at saltem paucis siluisse diebus, | 倘若不然，至少，凭我的允准，你们可以 |
+| 370 | Tres liceat noctes per me duxisse quietas." | 静默几天，度过三个安宁的夜晚。” |
+
+**注释**
+
+- **350** *pia bella*　“虔敬的战争”，即合乎神意与正义、出于正当理由的战争。
+- **352–370** *Has pacis … leges*　条款大致依据李维 30.16：交还俘虏、逃兵与逃亡的奴隶；撤出在意大利和高卢的军队；不再染指西班牙；撤离意大利与阿非利加之间的一切岛屿；除二十艘外交出全部战舰；另交纳大批谷物和钱款；给三天时间考虑，若接受则停战，并遣使赴罗马。“未经罗马人民许可不得作战”一条，李维记在扎马战后的正式和约中（30.37），彼特拉克把它提前写在这里。
+- **360–361** *Insula nulla … Marte*　句法紧缩：nulla … non 双重否定，意即海峡中所有的岛屿都应远离“利比亚的马尔斯”（布匿人的战争）而获自由。
+- **362–363** *Victorum pedibus*　被俘的罗马人在西庇阿口中仍是“胜利者”，却戴着镣铐，故有此对照。
+- **368** *Populus … Senatus*　罗马人民与元老院：和约须经元老院议决、人民批准，方能生效。
+
+<a id="s17"></a>
+### 371–387　布匿人假意受约：背誓水手之喻
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 371 | Dixit. Ad hec Cereris pro tot legionibus addit | 他说完了。此外，为了供养这么多军团， |
+| 372 | Ingentes cumulos atque eris grande tributum. | 他还追加了大堆的刻瑞斯之粮和一大笔铜币贡赋。 |
+| 373 | Illi autem, ueluti pacis iam nulla molesta | 而他们，仿佛和平的任何条件都已 |
+| 374 | Conditio foret ac fractis spes nulla sub armis, | 不再令人难堪，仿佛兵器折断之后已别无指望， |
+| 375 | Omnia suscipiunt leti populoque reportant; | 欣然接受了一切，回去禀报人民； |
+| 376 | Isque fremens ficto confirmat pectore pacem. | 人民喧嚷着，以虚伪的心肠批准了和约。 |
+| 377 | Haud secus ancipiti periurus nauita mortem | 正如一个背誓的水手，在吉凶难卜的风暴中 |
+| 378 | Tempestate timens, ubi iam spes nulla relicta est, | 害怕丧命，当一切希望都已断绝， |
+| 379 | Vota deis cumulat pelagi tremulaque tumentem | 便向大海的众神堆起誓愿，用颤抖的声音 |
+| 380 | Neptunum ter uoce ciet Thetidisque marine | 三次呼唤怒涨的涅普图努斯，向海中忒提斯的 |
+| 381 | Numen et iratum compellat Nerea ponto: | 神威祈求，又向在海上发怒的涅柔斯哀告： |
+| 382 | Dona dabit templis, omnem feret ille laborem. | 他要向神庙献礼，他愿承担一切劳苦。 |
+| 383 | Si redeat tranquilla dies portusque uideri | 可是一旦晴日重回，港口开始 |
+| 384 | Cominus incipiat, sensim mens perfida tuto | 近在眼前，背信的心思便在安稳中渐渐 |
+| 385 | Atque inconsulti subeant obliuia uoti. | 滋生，那轻率许下的誓愿也就被遗忘了。 |
+| 386 | Sic stimulante metu deludunt tempora Peni | 布匿人也是这样，在恐惧的驱使下，用许诺 |
+| 387 | Pollicitis, redeat donec ferus Hanibal absens. | 蒙混时日，直到远方凶猛的汉尼拔归来。 |
+
+**注释**
+
+- **371–372** *Cereris … eris*　刻瑞斯是罗马的谷物女神，此处借指粮食；aes（铜）借指钱款。李维 30.16 记西庇阿索要小麦五十万莫迪乌斯、大麦三十万莫迪乌斯；至于赔款的数额，李维说各家记载不一。
+- **373–376** *ficto … pectore*　李维也说迦太基人接受条件并非出于真心，只是为了拖延到汉尼拔回国；后来他们在停战期间劫掠搁浅的罗马运输船，破坏了停战（李维 30.24–25）。罗马人常以“布匿人的信义”（Punica fides）作为背信弃义的代称。
+- **377–385** *periurus nauita*　背誓水手之喻：遇险时向海神许下重愿，一旦脱险便忘得一干二净。以此比喻布匿人在危急中的诈和。
+- **380–381** *Thetidis … Nerea*　忒提斯：海中女神，涅柔斯之女，阿喀琉斯之母。涅柔斯：古老的海神，众海中仙女的父亲。
+
+<a id="s18"></a>
+### 388–413　使者在布鲁提乌姆面见汉尼拔
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 388 | Illum tunc uario curarum turbine fessum | 那时，汉尼拔已被纷繁忧虑的旋风搅得疲惫， |
+| 389 | Ultimus Italie Brutiorum in monte tenebat | 意大利最边远的一角，在布鲁提乌姆人的山中， |
+| 390 | Angulus et ludos Fortune et monstra notantem. | 留住了他；他审视着命运女神的游戏和种种异象。 |
+| 391 | Hunc adeunt iussi, fandique peritior unus | 奉命的使者来到他面前，其中最善言辞的一位 |
+| 392 | Sic ait: "O Libici decus et spes ultima mundi, | 这样说道：“利比亚世界的荣耀和最后的希望啊， |
+| 393 | O patrie iam sola salus, miserere tuorum, | 如今祖国唯一的救星啊，可怜你的同胞吧， |
+| 394 | Quos fera terribili uexat Fortuna tumultu. | 凶暴的命运女神正用可怕的动乱折磨着他们。 |
+| 395 | Prospice pendentem mutata fronte ruinam Fatorum. | 转过脸来，预见那高悬的毁灭吧——命运的毁灭。 |
+| 396 | Iam tua suppositis arderent menia flammis, | 你的城墙早就会在下面点起的火焰中燃烧， |
+| 397 | Ni procul absentis prodesset ciuibus ingens | 若不是你虽远在他方，你那盛大的声名 |
+| 398 | Fama tui: uereorque, miser! ne dum equore lato | 仍在护佑市民。我真怕——可怜的我！——就在我们 |
+| 399 | Huc ferimur, patriis errent incendia tectis. | 横渡辽阔的海面之际，大火已在故国的屋宇间游走。 |
+| 400 | Namque sub extremum subitosque minantia casus | 因为我们动身时，一切已濒临终局， |
+| 401 | Liquimus. Imperio atque urbi succurre trementi, | 随时都会骤然倾覆。快去救援帝国和战栗的城邦吧， |
+| 402 | Que reuocat fidumque sibi trans equora nomen | 是她在召你回去，隔着重洋，用虔敬的口 |
+| 403 | Inuocat ore pio. Tu uel te redde precanti, | 呼唤你那忠于她的名字。你要么回到求救者身边， |
+| 404 | Vel causam te te nostre fateare ruine. | 要么就承认：你，正是你，是我们覆灭的根由。 |
+| 405 | Iamque tuus Libicis, nisi me presagia fallunt, | 而你的兄弟——倘若我的预感没有错—— |
+| 406 | Litoribus reducem frater super equora classem | 已率领着渡海归来的船队，在利比亚的 |
+| 407 | Alligat. At frustra fratrum modo turba paterque | 海岸边系缆停泊。可是此刻，纵使你的众兄弟 |
+| 408 | Martius ethereas rediens inuictus ad auras | 和你那马尔斯般的父亲，不败地重返上界的天光， |
+| 409 | Auxilium ferat afflictis. Non ira deorum | 来救援困厄中的我们，也是徒劳。神明的怒气 |
+| 410 | Tam lenis, aut tali nent stamina pollice dure | 并没有那么温和，命运三女神冷酷的手 |
+| 411 | Parcarum nunc nostra manus. Tibi credita soli | 如今也不会这样拈指为我们纺线。托付给你一人的， |
+| 412 | Vita salus decus et miseri sunt omnia regni." | 是这可怜国度的生命、安危、荣誉和一切。” |
+| 413 | Dixit et inuicte lacrimans dedit oscula dextre. | 他说罢，流着泪亲吻那只不可战胜的右手。 |
+
+**注释**
+
+- **389** *Brutiorum*　布鲁提乌姆人：居住在意大利半岛南端（今卡拉布里亚）的民族。汉尼拔在意大利的最后几年困守此地。
+- **390** *ludos Fortune et monstra*　命运女神的“游戏”，指命运的反复无常；monstra 可指异兆，也可指种种离奇可怖的世事。
+- **395** *ruinam Fatorum*　本行多出一词：去掉 Fatorum，Prospice … ruinam 恰是完整的六步格，Fatorum 无法入律，或是别的诗行（也许是一个未完成的残行）的开头误并到这里，或是旁注窜入了正文。今仍译出，以破折号隔开。mutata fronte 可解为“改换神色”，也可取军事意义“掉转阵线”，译作“转过脸来”以兼顾二义。
+- **396–398** *ingens Fama tui*　意谓迦太基至今未被攻破，全仗汉尼拔的威名震慑敌人。
+- **405–407** *frater*　指马戈。使者“预感”他已回到阿非利加；据李维 30.19，马戈在归途中伤重，死于撒丁岛附近的海上，并没有回到故土。
+- **407–409** *fratrum … turba paterque Martius*　汉尼拔之父哈米尔卡早年死于西班牙，其弟哈斯德鲁巴于公元前 207 年战死在梅陶罗河。使者说，即使这些亡者重返人世，也已无济于事。
+
+<a id="s19"></a>
+### 414–450　汉尼拔切齿受命
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 414 | Ille perorantem querulo cum murmure semper | 他一直听着对方陈词，不住发出怨愤的低语， |
+| 415 | Audierat frendensque manus compresserat et se | 咬牙切齿，攥紧双拳，扭动着 |
+| 416 | Torserat, haud aliter quam carmina noxia serpens | 身子，正如一条蛇，当它听到害人的咒歌、 |
+| 417 | Et magicum murmur cursumque uetantia uerba | 魔法的喃喃声，和禁止它前行的咒语时， |
+| 418 | Quando audit, rauco uiolentus sibilat ore | 便张开嘶哑的嘴，凶狠地嘶嘶作响， |
+| 419 | Et sese in nodos sinuoso corpore uersat. | 蜿蜒的身躯扭成一个个绳结。 |
+| 420 | Sepe manu frontem percusserat udaque celo | 他屡次用手拍打额头，屡次把湿润的 |
+| 421 | Sepe supercilia extulerat, sepe agmina, rerum | 眉毛扬向天空，屡次用阴沉的目光 |
+| 422 | Conscia tam multarum, oculo conspexerat atro. | 凝望那些见证过无数事迹的队伍。 |
+| 423 | Tandem mestus ait: "Fatum Carthaginis olim | 最后他悲哀地说：“我早就认出了迦太基 |
+| 424 | Agnoui generisque mei, fraternaque ceruix | 和我家族的命运；我兄弟的头颅 |
+| 425 | Admonuit quid seua michi Fortuna parasset. | 已经警告过我，残酷的命运女神为我备下了什么。 |
+| 426 | Nunc tamen ante oculos iam fata nouissima nostre | 可是现在，我仿佛已亲眼看见我们城市 |
+| 427 | Urbis et obscenas uideor spectare ruinas. | 最后的命运，和那不祥的废墟。 |
+| 428 | Heu michi, Carthago, dulcis Carthago! quis et te | 唉，迦太基，亲爱的迦太基！是谁葬送了你， |
+| 429 | Et me et tot nostros Latia de gente triumphos | 葬送了我，葬送了我们战胜拉丁民族的 |
+| 430 | Perdidit? at tacite multos iam sensimus hostes. | 无数凯旋？可我们早已觉察到许多无声的敌人。 |
+| 431 | Nam reuocare fuit, quotiens stipendia mitti | 因为每当他们禁止送来军饷，那就是召我回去； |
+| 432 | Est uetitum, bello exhaustas quotiensque cohortes | 每当被战争耗尽的步兵大队不准 |
+| 433 | Impleri. Ast odium nunc eminet, atque in aperto | 得到补充，也都是如此。如今仇恨已昭然显露， |
+| 434 | Res agitur: retrahunt, et me parere necesse est. | 事情摆到了明处：他们拖我回去，我只得服从。 |
+| 435 | Parebo inuitus. Sibi non hinc arroget hostis | 我将违心地服从。但别让外来的敌人 |
+| 436 | Externus. Non me, totiens pessundata, uincis, | 由此居功。屡遭摧折的罗马啊，战胜我的 |
+| 437 | Roma, nec Ausonio conspirans robore tellus. | 不是你，也不是凭奥索尼亚的力量同心协力的土地。 |
+| 438 | Me ciues uicere mei, Latioque meorum | 战胜我的是我自己的同胞；把我逐出拉丁姆的， |
+| 439 | Inuidia atque dolus pellunt, non Martia uirtus: | 是我族人的嫉妒和诡计，而不是马尔斯的勇武。 |
+| 440 | Nec modo inhoneste poterit tam maximus ille | 对我此番不光彩的退走，那位伟大无比的 |
+| 441 | Insultare fuge Scipio, quam perfidus Hanno | 西庇阿也不能像背信弃义的汉诺、 |
+| 442 | Consiliumque secuta suum plebs ceca senatus. | 像听从其计谋的元老院盲目群氓那样，肆意嘲弄。 |
+| 443 | Ille meas inuisus opes famamque domumque | 那可憎的人要推翻我的权势、名声和家门， |
+| 444 | Vertere non aliter poterat quam publica nostris | 除了把国家的损失和我们的损失 |
+| 445 | Damna simul miscens: populi me mole ruentis | 搅在一起，别无他法：他要用整个民族倾倒时的 |
+| 446 | Opprimet atque una conuoluet cunta ruina, | 重压压垮我，把一切卷进同一场毁灭—— |
+| 447 | Hostis Penorum et Romani sanguinis ultor." | 这布匿人的仇敌，为罗马人的鲜血复仇的人！” |
+| 448 | Talia feruebat rabidus nimioque dolore | 他这样怒火中烧，倾吐着这些话，因悲痛过度 |
+| 449 | Insanus, ceu lesus aper, cui spumea mento | 而发狂，就像一头受伤的野猪，下巴上 |
+| 450 | Fex riget et duro horrentes stant pectore sete. | 凝着泡沫的残渣，坚硬的胸前根根鬃毛倒竖。 |
+
+**注释**
+
+- **414–419** *serpens*　蛇被咒语制住的意象：古人相信咒歌能使蛇僵止，甚至迸裂，参见维吉尔《牧歌》8.71。“咬牙切齿”（frendens）则取自李维 30.20：汉尼拔听使者传达召令时，咬牙呻吟，几乎忍不住泪水。
+- **423–425** *fraterna ceruix*　公元前 207 年，汉尼拔之弟哈斯德鲁巴在梅陶罗河战败身死，罗马执政官克劳狄乌斯·尼禄把他的首级抛到汉尼拔的营前；汉尼拔见了，说他认出了迦太基的命运（李维 27.51）。此处 Agnoui“我认出了”即呼应其语。
+- **431–447** *Nam reuocare … ultor*　这段话紧随李维 30.20 所记汉尼拔的答语：那些长期不准给他增兵送钱的人，如今公开召他回去；战胜汉尼拔的不是屡战屡败的罗马人民，而是迦太基元老院的诋毁与嫉妒；对他这番不体面的归国，西庇阿的得意也比不上汉诺——汉诺无法用别的办法打倒他的家族，便不惜用迦太基的毁灭去压垮它。
+- **437** *Ausonio*　奥索尼亚：本指意大利南部古老民族奥索尼人的土地，诗中泛指意大利。
+- **441** *Hanno*　汉诺，迦太基元老院中反对巴卡家族的领袖，一向主张与罗马和好，反对汉尼拔的战争；李维 21.10 与 23.12–13 记有他在元老院的发言。
+- **448–450** *lesus aper*　受伤野猪之喻。口沫凝结、鬃毛倒竖的描写，可对照奥维德《变形记》第八卷中卡吕冬野猪的形象。
+
+<a id="s20"></a>
+### 451–469　克罗顿的朱诺神殿与宙克西斯之画
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 451 | Italie procul extremo sedet, inclita quondam, | 在意大利遥远的尽头，坐落着昔日显赫的 |
+| 452 | Urbs Crotho: pauper claro cognomine portus, | 克罗顿城：一座贫寒的港口，空有赫赫之名， |
+| 453 | Matutina uidens redeuntis lumina Phebi. | 迎望着重返的福玻斯在清晨洒下的光芒。 |
+| 454 | Picturis hic egregiis ditissima templa | 这里曾有朱诺的神殿，以绝妙的画作 |
+| 455 | Iunonis fuerant, Graia que nobilis arte | 而无比富丽，那是以希腊技艺著称的 |
+| 456 | Zeusis adornarat, nimia dederatque per orbem | 宙克西斯所装饰；他还使这神殿以极度的虔敬 |
+| 457 | Religione coli. Nitidas hinc quinque seuere | 受到普天下的敬拜。这里立着那位严厉女神的 |
+| 458 | Stabat ymago dee nudasque imitata puellas | 画像，仿照五位明艳的裸体少女绘成； |
+| 459 | Et forme decerptus honos, quam corpore in ullo | 那是撷集而来的美的精华：因为画家早已 |
+| 460 | Se reperire simul quia desperauerat autor, | 不指望在任何一个身体上同时找到这种美， |
+| 461 | Abstulit a multis speciemque redegit in unam. | 便从众人身上分别摘取，再合成一个形象。 |
+| 462 | Hoc instructa fuge iam pridem atque abdita portu | 在这港中，布匿的船队早已为逃离备妥， |
+| 463 | Punica classis erat, quoniam uariantia fata | 隐藏起来：因为那变幻不定的命运， |
+| 464 | Militie tantus fortunarumque magister | 这位精通兵事、深谙荣枯的大宗师 |
+| 465 | Viderat ante diu steteratque paratus ad omnes | 早就预见到了，并时刻准备着应对一切 |
+| 466 | Euentus. Igitur raptis legionibus huc se | 结局。于是他急忙带走军团，来到这里， |
+| 467 | Contulit iratus mundo superisque sibique; | 对世界、对天神、对自己都满怀怒火； |
+| 468 | Italico nec adhuc mens exatiata cruore | 他那残暴的心至今还没有饱餍意大利的鲜血， |
+| 469 | Seua uiri ad manes suprema piacula mittit. | 又要把最后一批赎罪的祭品送往亡灵那里。 |
+
+**注释**
+
+- **451–453** *Crotho*　克罗顿：意大利南部伊奥尼亚海岸的希腊殖民城市（今克罗托内），古时以富庶、运动员和毕达哥拉斯学派闻名，附近的拉基尼昂岬上有著名的“拉基尼亚的朱诺”神殿。城在意大利东岸，故说它迎着清晨的阳光。
+- **454–461** *Zeusis*　宙克西斯：公元前五世纪末的希腊名画家。西塞罗《论开题》第二卷卷首记：克罗顿人请他为朱诺神殿画海伦像，他从城中选出五位最美的少女，取各人之长合成一像，因为自然从不把一切美集于一人之身。老普林尼《博物志》第 35 卷也有类似记载（说是为阿格里根图姆人作画，并察看了少女们的裸体）。彼特拉克把画中人说成女神本人。
+- **457** *seuere*　即 severae，中世纪拼法，与 dee（deae）相连：“严厉的女神”，指朱诺。
+- **462–466** *Hoc … portu*　李维 30.20 说汉尼拔早已预感会被召回，事先备下了船只。
+- **469** *piacula*　“赎罪的祭品”是反讽：下文被屠杀的意大利士兵，成了他献给亡灵的牺牲。
+
+<a id="s21"></a>
+### 470–490　神殿屠杀与扬帆离去
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 470 | Heu miseranda acies miserorum et magna uirorum, | 唉，可怜而伟大的队伍啊，由不幸的人们组成， |
+| 471 | Quo tua te fortuna tulit! formidine postquam | 你的命运把你带到了何处！他用恐吓 |
+| 472 | Frustra animos tentasse uidet, si castra cruenta | 试探众人的心意，看他们是否肯 |
+| 473 | Forte sequi et profugam uellent conscendere classem, | 追随血腥的营寨、登上逃亡的船队；一见徒劳， |
+| 474 | Seuus inhumana confestim excanduit ira | 这凶残的人立刻燃起非人的怒火， |
+| 475 | Longeuamque senum, teneram iuuenumque cateruam, | 把一大群人——年迈的老者，稚嫩的青年， |
+| 476 | Tale nichil ueritam, nudam fragilemque et inermem, | 全不提防会有此事，赤身无甲，柔弱而手无寸铁， |
+| 477 | Que pellente metu tutis successerat aris, | 被恐惧驱赶，躲进了本应安全的祭坛之下—— |
+| 478 | Obtruncat: calido complentur sanguine templa, | 统统砍杀：温热的鲜血注满神殿， |
+| 479 | Et fremitu tectum omne sonat. Sic ille profanus | 整座殿宇回荡着喧嚣。那亵渎神明的人就这样 |
+| 480 | Commaculatque sacros postes iurandaque Penis | 玷污了神圣的门柱，玷污了布匿人 |
+| 481 | Iunonis simulacra sue uultusque deorum | 发誓时所凭的、他自家朱诺的神像，还有众神 |
+| 482 | Terrificos: gemitu ingenti domus ampla remugit. | 可怖的面容：宽敞的殿堂在震天的哀号中回响。 |
+| 483 | Hec sacra contentus diis persoluisse marinis, | 满足于向海神们献上了这样的祭礼， |
+| 484 | Dux ferus et celi contemptor maximus alti, | 这凶暴的统帅、高天最大的蔑视者， |
+| 485 | Conscendit puppim uictor funemque cruentum | 以胜利者的姿态登上船尾，解开沾血的 |
+| 486 | Soluit et Italie flens dulcia deserit arua. | 缆绳，流着泪离开了意大利甜美的田野。 |
+| 487 | Quam tacitus lacrimansque retro multumque diuque | 他默默无言，含着泪，一次又一次、久久地 |
+| 488 | Prospiciens pelago ex alto quatiensque minantis | 从深海上回头眺望意大利，像发出威胁的人那样 |
+| 489 | More caput frontemque plicis maioribus implens, | 摇着头，额上的皱纹堆得更深， |
+| 490 | Murmure terribili sic tandem turbidus inquit: | 终于，他心绪翻腾，用可怕的低吼这样说道： |
+
+**注释**
+
+- **470–482** *Heu miseranda acies*　屠杀事见李维 30.20：许多意大利籍士兵不肯随他去阿非利加，避入拉基尼亚朱诺的神殿——这座神殿直到那天从未遭受侵犯——汉尼拔竟在神殿里把他们残杀。诗人插入呼告，表达对死者的哀怜。
+- **480–481** *iuranda … Iunonis simulacra sue*　朱诺是迦太基的护佑女神（维吉尔《埃涅阿斯纪》1.15–16 说她爱迦太基胜过一切土地），布匿人以她的名义起誓，故称“他自家的朱诺”。汉尼拔在她的神殿里杀人，等于亵渎本族的神明。
+- **483–485** *diis … marinis … uictor*　反讽：他把这场屠杀当作出航前献给海神的祭礼，又以“胜利者”的姿态登船。celi contemptor“高天的蔑视者”令人想起维吉尔笔下“蔑视神明的墨赞提乌斯”（《埃涅阿斯纪》7.648）。
+- **486–490** *flens … Prospiciens*　李维 30.20 说，很少有人因流放离开祖国时，像汉尼拔离开敌国时那样悲伤；他屡次回望意大利海岸，控诉神与人，甚至诅咒自己没有在坎尼大捷后率领浑身血污的士兵直取罗马。下面的独白即由此铺展而成。
+
+<a id="s22"></a>
+### 491–511　回望意大利，怒斥朱庇特
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 491 | "Italia, Italia, et rerum caput, aspera Roma, | “意大利啊，意大利，还有你，万物之首、冷酷的罗马， |
+| 492 | Quenam uos nostris facilis fortuna repente | 是什么轻易得手的命运，突然把你们 |
+| 493 | Faucibus eripuit? tu quisquis es ille, deorum | 从我们的齿间夺走？你啊，不管你是谁—— |
+| 494 | Maxime, et in nostros nimis importune labores, | 众神中最大的那一位，对我们的辛劳苛刻得过分—— |
+| 495 | Quid michi parta diu momento temporis aufers? | 我长久挣来的一切，你为何在一瞬间夺去？ |
+| 496 | Iupiter, Ausonii defensor perfide mundi, | 朱庇特，奥索尼亚世界背信的守护者， |
+| 497 | Quis tibi nostra dedit tot clara decora sub uno | 是谁给了你这样的力量，能在一日之间 |
+| 498 | Vertere posse die? Cur non Cannensia mecum | 推翻我们这么多辉煌的荣耀？你为何不在坎尼 |
+| 499 | Prelia tentabas, si tanta libido nocendi est? | 和我较量，倘若你真有那样强烈的害人欲望？ |
+| 500 | Venisses utinam mediis tunc obuius armis | 但愿那时你就在两军交锋之际迎面而来， |
+| 501 | Armassetque suo se fulmine dextra Tonantis: | 雷神的右手用他自己的霹雳武装起来； |
+| 502 | Mulciber, Ethnea calibem fornace recoctum | 穆尔基伯啊，但愿你把埃特纳炉中重炼的钢铁 |
+| 503 | Cuspide densasses in uulnera nostra trisulca: | 锻成三叉的锋芒，用来造成我们的伤口； |
+| 504 | Hinc succincta Ioui clipeum sua nata dedisset, | 但愿在这一边，他束起衣裾的女儿递给朱庇特盾牌， |
+| 505 | Palladiaque pater texisset Gorgone pectus | 父亲用帕拉斯的戈耳工护住胸膛， |
+| 506 | Atque utrumque latus stipassent uana deorum | 众神那虚妄的威力簇拥在他左右两侧； |
+| 507 | Numina; torsisses medio, Mars, puluere currum: | 马尔斯啊，但愿你在战场的尘埃中驱转战车； |
+| 508 | Mortibus ipse grauem uacuasses, Phebe, pharetram, | 福玻斯啊，但愿你亲手以死亡射空沉重的箭囊； |
+| 509 | Monstrificumque gerens aduersa per agmina robur | 赫拉克勒斯挥着降伏怪物的橡木棒，穿过敌阵， |
+| 510 | Alcides genitorem aruis tutasset in illis! | 在那片原野上护卫他的父亲！ |
+| 511 | Vicisset fortuna deos ibi nostra Iouemque. | 在那里，我们的命运本会战胜众神，战胜朱庇特。 |
+
+**注释**
+
+- **491** *rerum caput*　“万物之首”，罗马的惯用称号（caput rerum，或 caput mundi）。
+- **493–496** *quisquis es … Iupiter*　汉尼拔先说“不管你是谁”，再直呼朱庇特之名；卡皮托利山上的朱庇特是罗马国家的主神，故称他为“奥索尼亚世界的守护者”，又斥之为“背信”。
+- **500–511** *Venisses utinam … Iouemque*　汉尼拔幻想众神当初在坎尼战场上与他公开交锋：朱庇特执雷霆，伏尔甘为他锻造三叉雷矢，密涅瓦递上神盾，马尔斯、阿波罗、赫拉克勒斯并肩助战——即便如此，他的命运也会获胜。这与下文所说朱庇特“凭诡计而不是凭武力”取胜相对照。
+- **502–503** *Mulciber, Ethnea … trisulca*　穆尔基伯：火神伏尔甘的别称。传说他的锻炉在西西里的埃特纳火山之下，为朱庇特锻造雷电；trisulca“三叉的”是雷矢的惯用修饰语。
+- **504–505** *succincta … nata … Gorgone*　“女儿”指密涅瓦（帕拉斯），她从朱庇特头中全副武装地生出。戈耳工即墨杜萨，其首级嵌在神盾上，见者化为石头。
+- **509–510** *Alcides*　即赫拉克勒斯（Alcides 本义“阿尔凯奥斯的后裔”），朱庇特之子，故说他“护卫父亲”。robur 指他的橡木大棒；monstrificus 本义“造出奇观或怪物的”，此处当指他曾用这根棒除灭众多怪物。
+
+<a id="s23"></a>
+### 512–537　追悔坎尼之后未进军罗马
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 512 | O michi care comes, consultor fide Bomilcar, | 我亲爱的同伴，忠实的谋士波米尔卡啊， |
+| 513 | Cannensi cur sancta die tua iussa reliqui? | 坎尼那天，我为何把你神圣的嘱咐弃之不顾？ |
+| 514 | Cur michi non armis durato interque labores | 我身经百战、在劳苦中磨炼，为什么 |
+| 515 | Tantum animi fuerit quantum iuuenilibus annis | 竟没有那份胆量——不屈的西庇阿在青春年少时 |
+| 516 | Scipiade fuit indomito, qui morte sub ipsa | 就有的那份胆量？就在意大利 |
+| 517 | Audeat Italie nostros inuadere muros? | 奄奄一息之际，他竟敢来进犯我们的城墙。 |
+| 518 | Victor ego extimui uictas perrumpere portas. | 而我，一个胜利者，却害怕攻破败者的城门。 |
+| 519 | Quis uetuit Romam raptim petiisse cruento | 是谁禁止我率领血染的大军火速 |
+| 520 | Agmine? quis pactam potuit michi tollere cenam? | 直取罗马？是谁能夺走许给我的那顿盛宴？ |
+| 521 | Iupiter ipse dolis, non ui, qui nostra futuri | 是朱庇特本人，凭诡计而非武力；是他使我们的心 |
+| 522 | Pectora ceca tulit: quod si tunc ista remota | 看不见未来：倘若那时我能看见 |
+| 523 | Tempora Fatorum licuisset cernere nube, | 如今这被命运之云遮蔽的时日， |
+| 524 | Non quicquid celo et pelago terreque deorum est, | 那么天上、海里和地上的一切神明， |
+| 525 | Non genus omne hominum nostros auertere cursus | 全人类，都不能使我们的进军 |
+| 526 | Hinc poterat. Spes nostra quidem et fiducia tanta | 从那里转向。罗马啊，我们的希望和过度的自信， |
+| 527 | Murus, Roma, fuit tibi nunc: discrimine in illo | 如今看来，倒成了你的城墙：在那场危机之中， |
+| 528 | Nil acies, nil arma tibi, nil menia, nil arx, | 军阵无用，兵器无用，城墙无用，卫城也无用， |
+| 529 | Sed nostre ualuere more. Proh sanguine quanto | 起作用的是我们的迟延。唉，那时会有多少鲜血 |
+| 530 | Undassent maria et Tirreni litoris estus! | 让大海和第勒尼安海岸的潮水翻涌！ |
+| 531 | Quot, Tyberis, rutilo trusisses gurgite in altum | 台伯河啊，你会用泛红的漩涡把多少尸体 |
+| 532 | Corpora! quot currus, quot nobilis arma senatus | 推进深海！多少战车，多少高贵元老院的 |
+| 533 | Aurea, quot flammis ultricibus obruta tecta | 黄金兵器，多少被复仇的烈焰吞没的屋宇， |
+| 534 | Spectassem uulgique una sub strage cadentis | 我会一一看在眼里，还有在同一场屠杀中倒下的 |
+| 535 | Milia quot, specula longe metuendus ab alta! | 成千上万的平民——我高踞望楼，令远近畏惧！ |
+| 536 | Quas uoces, quos accentus, que murmura plebis | 平民们会发出怎样的呼喊、怎样的哀音和低语， |
+| 537 | Auribus audissem lirici michi carminis instar! | 我会侧耳聆听，就像聆听一首抒情的歌！ |
+
+**注释**
+
+- **512–520** *Bomilcar … pactam … cenam*　坎尼大捷后，骑兵统帅马哈巴尔劝汉尼拔立刻进军罗马，说“第五天你就将作为胜利者在卡皮托利山上赴宴”；汉尼拔迟疑不决，马哈巴尔便说：“你懂得如何取胜，汉尼拔，却不懂得如何利用胜利。”（李维 22.51）第 520 行“许给我的盛宴”即指此语。李维记这位谋士为马哈巴尔，彼特拉克在此称之为波米尔卡，与李维不合。
+- **514–517** *Scipiade … morte sub ipsa Italie*　Scipiade 是 Scipiades 的与格，指西庇阿。morte sub ipsa Italie 句意不甚明朗：Italie 似应与 morte 连读，意为“就在意大利濒死之际”，指汉尼拔仍盘踞意大利时，年轻的西庇阿便敢渡海进攻阿非利加；若把 morte sub ipsa 解作“冒着死亡本身”，Italie 便难以安置。今取前解。
+- **521–523** *Iupiter ipse dolis*　汉尼拔把当年的迟疑归咎于朱庇特蒙蔽了他的心智，使他看不见日后的结局。
+- **526–529** *Spes nostra … nostre ualuere more*　坎尼战后罗马几乎无兵可守，汉尼拔认为救了罗马的不是它自己的力量，而是他本人的过度自信与迟延。
+- **529–537** *Proh sanguine quanto … carminis instar*　汉尼拔想象自己从高处俯瞰罗马陷落焚烧，把满城哀号当作歌曲来听，令人想到苏埃托尼乌斯《尼禄传》38：尼禄从迈克纳斯塔楼上观看罗马大火，穿着戏装吟唱《特洛伊的陷落》。第勒尼安海即意大利西侧的海，台伯河注入此海。
+
+<a id="s24"></a>
+### 538–559　往日战绩与离别意大利
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 538 | Nec tamen armorum, cepti nec penitet: urbis | 然而我并不后悔动武，也不后悔这番事业： |
+| 539 | Menia conspexi armatus latebrisque coegi | 我曾披甲望见那座城市的城墙，迫使 |
+| 540 | Tot claros latitare duces. Iam nempe notare | 那么多显赫的将领躲进藏身之处。其实那时， |
+| 541 | Fulminibus nimbisque tuam tunc, Iupiter, iram, | 朱庇特啊，我本可从霹雳和暴雨中 |
+| 542 | Si mens sana foret, poteram. Quid mixta colore | 看出你的愤怒，倘若我神志清明。何必再说 |
+| 543 | Flumina sanguineo referam, tempusque sub unum | 那混着血色的河流，何必说同一时节里 |
+| 544 | Ticinumque uadis tepidum Trebiamque rubentem, | 浅滩温热的提契诺河和泛红的特雷比亚河—— |
+| 545 | Montibus aduersis genitos tractuque uiarum | 它们生于彼此相对的群山，又顺着流程 |
+| 546 | Coniunctos, testes nostrarum in secula rerum, | 汇合在一起，千秋万代为我们的功业作证—— |
+| 547 | Quos Padus Adriacum descendens traxit in equor? | 波河顺流而下，把它们一并带入亚得里亚海？ |
+| 548 | Quid Trasimeni memorem sub gurgite lascas? | 又何必提起特拉西梅诺湖水底的拉斯卡鱼？ |
+| 549 | Sanguine pinguescunt Italo. Satis ampla relatu | 它们吃意大利人的血长肥了。我们的作为 |
+| 550 | Gessimus: Ausoniis annalibus Hanibal ingens | 已足够壮阔可述：在奥索尼亚的编年史中，汉尼拔 |
+| 551 | Nomen erit, Latiis numquam delebile fastis | 将是一个伟大的名字，在拉丁的年表上永难磨灭—— |
+| 552 | Hanibal. Exiguo restabat summa labore | 汉尼拔。最高的荣誉，只差一点辛劳 |
+| 553 | Fama; sed inuidit patrie dux maximus Hanno; | 就能到手；可了不起的统帅汉诺嫉妒，不让祖国得到； |
+| 554 | Inuidere dei sontes." Sic tristis abibat | 有罪的众神也嫉妒不容。”就这样，悲伤的 |
+| 555 | Hanibal et quarto linquebat litora lustro, | 汉尼拔离去了；在第四个五年期中，他离开 |
+| 556 | Italie possessa gemens; nec tristior unquam | 他占据已久的意大利海岸，长声叹息；从来没有 |
+| 557 | Vel patriam quisquam uel dulces liquit amicos, | 哪个人离开祖国或亲爱的朋友时 |
+| 558 | Quam patriam petit ille suam: sibi nempe uideri | 比他此刻奔赴自己的祖国更为悲伤： |
+| 559 | Exul, ab hostili iussus regione reuerti. | 他自觉是个流亡者，奉命从敌人的土地上返回。 |
+
+**注释**
+
+- **538–540** *urbis Menia conspexi*　公元前 211 年，汉尼拔为解卡普阿之围进军罗马，兵临城下，率骑兵在城外察看城墙和地势（李维 26.10）。
+- **540–542** *Fulminibus nimbisque*　汉尼拔兵临罗马时，两军两度列阵，都因暴雨夹着冰雹而散去，迦太基人视之为神意阻挠（李维 26.11）。
+- **543–547** *Ticinumque … Trebiamque*　公元前 218 年，汉尼拔先后在提契诺河与特雷比亚河两战获胜。提契诺河发源于北面的阿尔卑斯山，特雷比亚河发源于南面的亚平宁山，故说“生于相对的群山”；两河都汇入波河，经波河流入亚得里亚海。
+- **548–549** *Trasimeni … lascas*　公元前 217 年特拉西梅诺湖之战，罗马执政官弗拉米尼乌斯战死，大批罗马士兵葬身湖中。lasca 是意大利语俗名，指一种小型淡水鲤科鱼，特拉西梅诺湖一向以出产此鱼闻名；彼特拉克把这个俗语词拉丁化写入了诗中。
+- **550–552** *Hanibal … Hanibal*　名字在两行中重复，强调汉尼拔对身后之名的自负；而他的不朽恰恰要靠敌人罗马的史册来保存。
+- **553–554** *dux maximus Hanno … dei sontes*　“了不起的统帅”是反语。inuideo 带与格，意为“不愿某人得到某物”：patrie 解为与格，即汉诺嫉妒，不肯让祖国得到这最高的荣誉；也可解为属格（“祖国的大统帅”），今取前者。汉尼拔最后把汉诺与“有罪的众神”并列为毁掉他功业的元凶。
+- **555** *quarto … lustro*　lustrum 原指罗马每五年举行一次的祓除献祭，引申为五年。汉尼拔公元前 218 年进入意大利，公元前 203 年离开，在意大利约十五六年，正当“第四个五年”之内。
+- **556–559** *nec tristior unquam*　本于李维 30.20：据说从未有人被流放离开祖国时，像汉尼拔离开敌国时那样悲伤（参见第 486–490 行注）。
+
+<a id="s25"></a>
+### 560–599　夜渡西西里海
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 560 | Mestior has inter curas serasque querelas | 他在这些忧虑和迟来的怨诉之中愈加悲伤， |
+| 561 | Subtrahitur sensim terris. Iamque equore currus | 渐渐被带离了陆地。此时，福玻斯光芒四射， |
+| 562 | Phebus anhelantes radians condebat Hibero. | 正把他喘息的车驾藏进伊比利亚的海里。 |
+| 563 | Inde uie spatium noxque addita litoris omnem | 随后，航程的远隔和降临的夜色，把海岸的 |
+| 564 | Abstulit aspectum. Tum dux concussa quieti | 一切景象都夺去了。统帅把饱受震荡的四肢 |
+| 565 | Membra dedit dubie; certamque obuersus ad Arthon | 交给了不安的睡眠；而那面朝恒定的北斗、 |
+| 566 | Classis agens curas et sidera nota magister, | 操持职守、留意着熟识星辰的舰队领航人， |
+| 567 | Solicitat nautas quibus est custodia puppis | 督促那些负责看守船尾的水手， |
+| 568 | Magnetis ferrique uias spectare sequacis | 要他们注视磁石和追随它的铁针所指的路径， |
+| 569 | Et simul insomnem studio traducere noctem. | 同时勤勉不懈，度过这无眠的长夜。 |
+| 570 | Litora classifragis linquunt famosa procellis | 他们离开了以摧毁舰船的风暴闻名的海岸， |
+| 571 | Atque altum tenuisse iuuat. Tum lintea prosper | 驶入深海，心中欢喜。随后，顺遂的北风 |
+| 572 | Fert Aquilo et flatu pellit distenta secundo. | 托起帆布，用助航的吹息推送那张满的风帆。 |
+| 573 | Vix dum pulcra dies pelago surgebat et astra | 美丽的白昼刚刚从海上升起，困倦的星辰 |
+| 574 | Undique uicinum fugiebant languida solem, | 正从四方逃离那渐渐临近的太阳， |
+| 575 | Cum dextra Italice transmisso pollice plante, | 他们已在右侧绕过了意大利脚掌的大趾， |
+| 576 | Hic ubi rauca uetant iterum concurrere colles | 来到这里：喧哗的海水不许那被劈开的山丘 |
+| 577 | Equora disiectos, procul exaudita pauorem | 重新合拢；远远就能听见的 |
+| 578 | Scilla rapax nautis atque irrequieta Caribdis | 贪婪的斯库拉和永不安宁的卡律布狄斯， |
+| 579 | Incutit ancipitem. Sed conscia turba pericli | 使水手们陷入两头为难的恐惧。但众人深知危险， |
+| 580 | Leua secant maria et Phebi flectuntur ad ortus. | 便劈开左边的海面，转向福玻斯升起的方向。 |
+| 581 | Iam prope conspicitur fumosi uerticis Ethna | 很快，近处已望见峰顶冒烟的埃特纳， |
+| 582 | Sulfureis innixa uadis olimque Ciclopum | 它倚卧在含硫的水边，昔日是盛产 |
+| 583 | Terra ferax, at nunc trucibus domus apta tyrannis. | 库克罗普斯的沃土，如今却正宜做凶暴僭主的家。 |
+| 584 | Iam Syracusanus famoso litore portus | 叙拉古的港口和它那声名远扬的海岸 |
+| 585 | Apparet, sulcantque fretum, quo bella gerentes | 已然在望；他们犁过这片海域：昔日， |
+| 586 | Tam longe a patria, Furiis urgentibus, olim | 远离故土、在复仇女神驱迫下前来作战的 |
+| 587 | Argolice periere rates. Dux ipse coactus, | 阿尔戈斯舰船就葬身于此。统帅本人 |
+| 588 | Menia prospectans casum testata recentem, | 眺望着那见证了新近陷落的城墙， |
+| 589 | Marcelli meminisse sui, cui uicta triumphum | 不由得想起他的马塞卢斯——那些城墙被征服， |
+| 590 | Illa dedere, prius diro quam proditus astu | 曾为他赢来凯旋，那时他还未被毒计出卖、 |
+| 591 | Oppeteret. Surgunt longe conuexa Pachyni. | 身遭横死。远处，帕基努斯弧形的山岬升起。 |
+| 592 | Que dum pulsa legit uentis et remige classis, | 当舰队借着风力和桨力沿岸绕过它时， |
+| 593 | Solque diesque ruunt; uerum - sic Fata iubebant - | 太阳和白昼匆匆沉落；然而——命运如此吩咐—— |
+| 594 | Nocte secant fluctus medios ac litora linquunt | 他们趁夜劈开大海的中流，离开了 |
+| 595 | Trinacrie pelagique uia breuiore feruntur. | 特里纳克里亚的海岸，循着更短的海路前行。 |
+| 596 | Lenta per ambiguam fulgebat Cinthia noctem | 辛西娅缓缓地在晦明莫辨的夜里闪耀， |
+| 597 | Et cecis radiabat aquis. Dux peruigil alta | 照亮幽暗的海水。统帅彻夜未眠， |
+| 598 | Puppe sedens medius, casus uenturaque uersat | 端坐在高高的船尾中央，反复思量着变故、 |
+| 599 | Prelia et euentus dubios finemque latentem. | 即将到来的战斗、难料的胜负和尚隐未现的终局。 |
+
+**注释**
+
+- **560–562** *Mestior … Hibero*　承接上文汉尼拔离开意大利时的怨诉。太阳在西方的“伊比利亚的海”沉落，即日暮。“喘息的车驾”是移就，喘息的实为驾车的日神之马。
+- **565–568** *Arthon … Magnetis ferrique … sequacis*　Arthon 即希腊式宾格 Arcton（Arctos“北斗”），这里指北极星所在的方向，故曰“恒定的”。“磁石和追随它的铁”指磁针罗盘：欧洲到十二、十三世纪才用罗盘航海，用在公元前 203 年的迦太基舰队上是明显的时代错置，彼特拉克是把本时代的航海知识写进了古代。
+- **570** *classifragis … procellis*　指意大利南端（布鲁提乌姆，今卡拉布里亚）沿岸风浪险恶的海域。“摧毁舰船的”可比较《埃涅阿斯纪》第三卷称这一带的斯库拉凯乌姆为“碎船的”（navifragum）。
+- **575–580** *pollice plante … Scilla … Caribdis*　意大利半岛形如一只脚，“脚掌的大趾”指卡拉布里亚南端的岬角。576–577 行用西西里本与意大利相连、被海水冲开的传说（见《埃涅阿斯纪》第三卷赫勒诺斯的预言）。斯库拉与卡律布狄斯是墨西拿海峡两侧的海怪与漩涡（《奥德赛》第十二卷；《埃涅阿斯纪》第三卷）。舰队听见它们的轰响，却不进入海峡，而是向左、向日出的方向偏开，然后沿西西里东岸南下。
+- **581–583** *Ethna … Ciclopum … tyrannis*　埃特纳火山。库克罗普斯即独眼巨人，传说住在埃特纳一带（《埃涅阿斯纪》第三卷波吕斐摩斯的故事），或在火山下为伏尔甘锻造雷霆。“凶暴的僭主”指西西里历史上著名的暴君，如阿克拉加斯的法拉里斯、叙拉古的狄奥尼修斯；“如今”或许也暗指彼特拉克时代据有西西里、与那不勒斯的罗伯特王为敌的阿拉贡王室。
+- **584–587** *Argolice … rates*　指公元前 415–413 年雅典远征西西里：雅典舰队在叙拉古的大港全军覆没，远征军随之溃灭。“阿尔戈斯的”是“希腊的”诗称；“复仇女神驱迫”言其出于狂妄与疯狂。
+- **587–591** *Marcelli … proditus astu*　马塞卢斯于公元前 212 年攻陷叙拉古。据李维 26.21，元老院只许他行小凯旋式（ovatio），诗中笼统称“凯旋”。公元前 208 年他在维努西亚附近中了汉尼拔的埋伏而死（李维第 27 卷）。“他的马塞卢斯”指汉尼拔的宿敌：汉尼拔曾以礼安葬其遗体。
+- **591** *Pachyni*　帕基努斯角，西西里东南端的岬角，今帕塞罗角（Capo Passero）。
+- **593–595** *Nocte … uia breuiore*　舰队在西西里南端离岸，趁夜横渡，取最短的海路直驶阿非利加。
+- **596–597** *Cinthia*　辛西娅即月神狄安娜（得名于她的出生地提洛岛上的金托斯山），此指月亮。
+
+<a id="s26"></a>
+### 600–622　布匿使节问计，汉尼拔作答
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 600 | Talia uoluentem de circumstantibus unus | 他正思虑这些事时，周围站立的人中有一位 |
+| 601 | Compellat: "Si digna peto, dux maxime, nobis | 向他发问：“伟大的统帅，倘若我所求并无不当—— |
+| 602 | Exoptate diu, que stet sententia rerum | 你啊，我们久久盼望的人——我想知道，此刻 |
+| 603 | Nunc animo tibi, nosse uelim: ne sperne precantem. | 你心中对时局持何主张：请别鄙弃我的恳求。 |
+| 604 | Legatus tibi sum patrie transmissus ab ipsa | 我是祖国亲自派来见你的使节， |
+| 605 | Atque urbis pars una tue. Te fessa tuumque | 也是你那城邦的一分子。疲惫的祖国 |
+| 606 | Expectat reditum. Numquid, cum litora tanges | 正等待着你，等你归来。当你踏上布匿的 |
+| 607 | Punica, confestim patulo confligere campo | 海岸，你是想立刻在开阔的原野上交锋、 |
+| 608 | Atque manum conferre uoles? An menia primum | 与敌人短兵相接吗？还是要先进入城墙， |
+| 609 | Intrabis, patrie spes erecturus in arma? | 去唤起祖国的希望，让它重新拿起武器？ |
+| 610 | An alia fortasse uia meliora tuenti | 或者，在你看来，也许另有一条路， |
+| 611 | Consilia apparent? quem nostro Fata labori | 显出更好的计策？你认为命运将给我们的辛劳 |
+| 612 | Impositura modum reris, quemue affore finem?" | 定下怎样的限度，又会有怎样的结局来临？” |
+| 613 | Ille autem: "Quis certa deus sub turbine tanto | 他却答道：“在这样的狂飙之中，哪位神明 |
+| 614 | Consilia expediat? quis det meliora tenere? | 能理出确定的计策？谁能让人把握更好的？ |
+| 615 | Ibimus in patriam, quoniam sic imperat Hanno. | 我们回祖国去，因为汉诺这样命令。 |
+| 616 | Forsitan et dulces muros prius ipse subibo | 也许我会先亲自走进那亲爱的城墙， |
+| 617 | Quam Fatum tentare uelim, uiresque meorum | 然后才愿去试探命运；我要先看一看 |
+| 618 | Spesque animosque prius uultusque habitusque uidebo. | 我同胞的实力、希望、勇气，他们的面容和神态。 |
+| 619 | Sin autem mediis iuuenis Romanus in aruis | 但如果那罗马青年在原野中央 |
+| 620 | Occurrat, pugnare michi sententia fixa est | 迎面而来，我已拿定主意：与他交战， |
+| 621 | Atque omnem potius successum sponte subire | 宁可甘心承受神明和命运女神 |
+| 622 | Quem deus et Fortuna dabunt." Hic turbidus ille | 所给予的任何结局。”说到这里，他心绪烦乱， |
+
+**注释**
+
+- **600–605** *Legatus … patrie*　据李维第 30 卷（19–20 章），迦太基派使节到布鲁提乌姆召汉尼拔回国。彼特拉克让一位使节随船同行，借他的提问引出汉尼拔的打算。
+- **615** *sic imperat Hanno*　召他回国的是迦太基元老院，汉尼拔却说是“汉诺这样命令”，语带苦涩与讥讽，呼应上文 553 行汉尼拔归咎于汉诺嫉妒的怨言（李维 30.20 也记汉尼拔把自己的召回归咎于汉诺一派的嫉恨）。
+- **619** *iuuenis Romanus*　指西庇阿，此时三十出头。
+
+<a id="s27"></a>
+### 623–653　老舵手的祈祷：雷古卢斯与克桑提普斯
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 623 | Conticuit. Senior iuxta, cui flectere clauum | 便沉默了。身旁有位老者，以掌舵 |
+| 624 | Ars erat, annosam tollens ad sidera frontem | 为业，他把年迈的额头扬向星辰， |
+| 625 | Mox freta lata tuens, "Veniam te, Iupiter," inquit | 随即又望着辽阔的海面，说道：“朱庇特， |
+| 626 | "Neptunumque patrem atque omnia numina supplex | 我俯首恳求你，也恳求父神涅普图努斯和一切神灵 |
+| 627 | Deprecor, infandas Libie prohibete ruinas | 开恩：请阻止利比亚那不堪言说的覆灭， |
+| 628 | Atque omen prohibete malum. Michi multa uidere | 阻止这不祥之兆！生命一直延续到今天， |
+| 629 | Vita dedit longos huc continuata per annos; | 历经漫长的岁月，让我看见了许多事； |
+| 630 | Nunc tremor inuadit mentem timidumque senectus | 如今颤栗侵袭我的心，衰老 |
+| 631 | Efficit. Heu quanto stetimus discrimina contra | 使我变得胆怯。唉，那时我们冒着何等的危险 |
+| 632 | Hostiles acies tunc, cum Romana pauentem | 抵御敌人的阵列，那时罗马的营垒 |
+| 633 | Castra pererrabant Libiam et Carthaginis ample | 在惊恐的利比亚境内四处推进，冲撞着 |
+| 634 | Menia pulsabant. Tum dux erat optimus illis | 宏伟的迦太基的城墙。那时他们的统帅是杰出的 |
+| 635 | Regulus, eximio cui sic Fortuna fauere | 雷古卢斯，命运女神对这位非凡的人 |
+| 636 | Blanda uidebatur, nichil ut sperare liceret | 似乎如此殷勤眷顾，以致我们这些困厄之人 |
+| 637 | Afflictis. Quantum tandem - stat Bagrada facti | 再也无望可盼。然而——巴格拉达河至今仍是此事的 |
+| 638 | Testis adhuc - quantum frustra serpentis amice | 见证——那条与我们为友的巨蛇 |
+| 639 | Sensimus auxilium! Latiis namque illa sagittis | 给我们多少援助，终是徒然！那野兽被拉丁的箭矢 |
+| 640 | Obruitur transfixa fera, et sub grandine multa | 射穿、掩埋，在冰雹般密集的 |
+| 641 | Telorum compressa perit - uix iugera campi | 投枪之下被压垮而死——它庞大的身躯倒卧， |
+| 642 | Quatuor excipiunt immani mole iacentem -. | 四尤格的田地都几乎容纳不下。 |
+| 643 | Vix tandem tot uicta malis Fortuna, remoto | 直到最后，命运女神才被这许多苦难所折服， |
+| 644 | Oportuna quidem non dignis mittit ab orbe | 从遥远的世界，给我们这些不配的人送来了 |
+| 645 | Auxilia: ipsa ducem fida Lacedemone mittit | 及时的援助：希腊亲自从忠信的拉刻代蒙 |
+| 646 | Grecia. Magnificos uideor michi cernere uultus | 派来了一位统帅。我仿佛又看见了 |
+| 647 | Xantippi moresque graues librataque uerba, | 克桑提普斯宏伟的仪容、庄重的风范和斟酌的言辞， |
+| 648 | Te quotiens, Hanibal, uideo, quotiensque loquentem | 每当我看见你，汉尼拔，每当我听你 |
+| 649 | Audio. Tu uixdum in lucem tunc editus infans. | 说话的时候。那时你还是个刚出世的婴孩。 |
+| 650 | Sed quid cunta sequor? uictores uincere nobis | 但我何必一一细数？单凭这位统帅的谋略， |
+| 651 | Contigit arte ducis sola, Romanaque castra | 我们竟得以战胜那些胜利者：罗马的营寨、 |
+| 652 | Romanasque acies Romanaque signa ducemque | 罗马的阵列、罗马的军旗，连同他们的统帅， |
+| 653 | Fudimus, et nostras subiit dux ipse cathenas. | 都被我们击溃，那统帅本人也戴上了我们的锁链。 |
+
+**注释**
+
+- **623–625** *Senior … cui flectere clauum ars erat*　一位老舵手。他下面回忆的是第一次布匿战争（公元前 264–241）中的亲身经历，若公元前 255 年他已是成年桨手，此时（公元前 203）当已年逾七十。
+- **631** *quanto … discrimina*　quanto 与复数 discrimina 不相合，疑原作 discrimine（“冒着何等的危险”），今依文意译出。
+- **631–637** *Romana … castra … Regulus*　第一次布匿战争中，执政官马尔库斯·阿提利乌斯·雷古卢斯于公元前 256 年率军在阿非利加登陆，连战皆捷，兵临迦太基，迦太基一度求和而不得。
+- **637–642** *Bagrada … serpentis*　传说雷古卢斯的军队在巴格拉达河（今迈杰尔达河）畔遇到一条巨蛇，伤亡甚众，最后用投石和弩炮把它杀死，蛇皮送回罗马陈列（李维《摘要》第 18 卷；格利乌斯《阿提卡之夜》第七卷引图贝罗）。老舵手称它“与我们为友”，因为它曾替迦太基人杀伤罗马士兵。尤格（iugerum）是罗马的土地面积单位，约合四分之一公顷，“四尤格”极言其大。
+- **643–647** *Lacedemone … Xantippi*　克桑提普斯，斯巴达的雇佣军将领，公元前 255 年为迦太基整顿军队，在突尼斯附近的平原上大败罗马军，俘获雷古卢斯。“忠信的拉刻代蒙”（即斯巴达）与下文布匿人的背信形成对照。“不配的人”是老舵手自认迦太基人不配得此援助。
+- **649** *Tu uixdum … infans*　与史实不合：汉尼拔约生于公元前 247 年，雷古卢斯被俘（公元前 255）时他尚未出生。
+- **653** *subiit dux ipse cathenas*　雷古卢斯被俘后，据传曾被遣回罗马议和，他却劝元老院拒和，又守誓返回迦太基，受酷刑而死，成为罗马人守信的范例（西塞罗《论义务》第三卷；贺拉斯《颂歌》3.5）。
+
+<a id="s28"></a>
+### 654–699　克桑提普斯之死与诸神的报复
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 654 | Hei michi, quid referam? quid me meminisse coegit, | 唉，我何必说这些？汉尼拔，这片大海 |
+| 655 | Hanibal, hoc pelagus? namque hic, nisi noctis opace | 为何逼我回忆？因为，倘若我没有被昏夜的 |
+| 656 | Inditiis fallor, Xantippum seua sub undis, | 迹象所蒙骗，正是在这里，克桑提普斯被那残忍的 |
+| 657 | Et reditum in patriam mentita et perfida classis, | 舰队——它谎称送他返回祖国，背信弃义—— |
+| 658 | Demersit. Videor corpus spectare natantis | 沉入了波涛。我仿佛看见他的身躯 |
+| 659 | Equore tam uasto et uix brachia fessa mouentis. | 在如此浩渺的海上游动，疲惫的双臂几乎划不动。 |
+| 660 | Dii, que monstra, boni! que mens ingrata nocentum! | 善良的众神啊，多么骇人的恶行！罪人的心何等忘恩！ |
+| 661 | Quid uoluere sibi? solum qui causa salutis | 他们究竟想要什么？那唯一使他们得救的人， |
+| 662 | His fuerat, tali unanimes absumere morte! | 他们竟同心合意，用这样的死法将他除掉！ |
+| 663 | Remigis implebam partes, illumque cadentem | 那时我充当桨手，眼看他沉没下去， |
+| 664 | Et uidi et dolui et presagia tristia finxi | 我既看见了，也悲痛了，还在心中 |
+| 665 | Ipse michi. Vereor summum narrare dolorem | 为自己构想了种种凄惨的预兆。我怕讲述 |
+| 666 | Qui sequitur; sed digna fuit uindicta deorum. | 随之而来的那最深的痛苦；但神明的报复是正当的。 |
+| 667 | Hac equidem paucos post annos forte tenebat | 就在几年之后，那支不虔敬的舰队碰巧 |
+| 668 | Impia classis iter, nec longe a finibus istis | 又循这条航路而行，在离此不远的海域 |
+| 669 | Incidit in classem Latiam: nempe ipse tremendam | 撞上了拉丁的舰队：我亲眼看见了 |
+| 670 | Nostrorum stragem, totoque incendia ponto, | 我们的人遭到可怕的屠戮，整片大海燃起烈火， |
+| 671 | Et uolitare trabes, et mixta cadauere uiuis | 船梁四处飞散，活人的躯体 |
+| 672 | Corporibus, circumque atro freta tincta cruore, | 与尸首混杂，周围的海水被黑血染透， |
+| 673 | Et uictas puppes remosque et sparsa per undas | 战败的船尾、船桨和散落在波浪中的 |
+| 674 | Carbasa, naufragium horrendum, fractosque rudentes, | 帆布，可怖的船难，断裂的缆索， |
+| 675 | Vulnera crebra nimis mortesque et in equore luctum | 太过密集的伤口和死亡，海面上 |
+| 676 | Confusum, tristesque sonos trepidumque tumultum, | 混乱的哀号，悲惨的声响和惊惶的喧嚣—— |
+| 677 | Prelia Tartareis Hereboque similima uidi. | 我看见了酷似塔耳塔罗斯和厄瑞玻斯的战斗。 |
+| 678 | Dii michi non aliter faueant, nisi semper ab undis, | 我若说的不是实情，愿众神不再眷顾我： |
+| 679 | Donec feda fuit strages, fera bella cientem | 只要那可憎的屠戮还在继续，挑动凶猛战火的 |
+| 680 | Xantippum releuare oculos atque ora uidebam, | 克桑提普斯，我总看见他从浪中抬起双眼与面庞， |
+| 681 | Subdentemque faces ratibus flammasque per equor | 把火炬塞到船底，在海面上 |
+| 682 | Fundentem, et celo gladios ac tela pluentem. | 倾泻火焰，又从天上降下刀剑和投枪之雨。 |
+| 683 | Nec prius ex oculis abiit, quam classis in omne | 他一直没有从我眼前消失，直到那支舰队 |
+| 684 | Dissiluit pelagus, Siculi quod litoris unum | 崩散在整片海上——这片海以中间的波涛， |
+| 685 | Sardinieque latus mediis disterminat undis. | 把西西里海岸的一侧与撒丁岛分隔开来。 |
+| 686 | Libertas equidem Xantippo uindice nobis | 的确，有克桑提普斯来复仇，我们的自由 |
+| 687 | Tunc periit: tandemque, precor, trux ira quiescat! | 那时便丧失了：我祈求，愿那凶猛的怒气终于止息！ |
+| 688 | Molliat ille animos: uni satis ultio tanta | 愿他平息心中的愤怒：对一桩罪过， |
+| 689 | Una sit offense. Sed nunc antiqua recordor, | 一次这样大的报复已经足够。但此刻我回想起往事， |
+| 690 | Nam locus admonuit, scelus et uindicta quod isto | 是因为这地方提醒了我：那罪行和那报复 |
+| 691 | Contigit in pelago." Sic questus uertitur inde | 都发生在这片海上。”他这样诉说过后，便转过身去。 |
+| 692 | Ad leuam, medioque retro procul equore Malta | 左方，马耳他远远落在身后的海心； |
+| 693 | Ante, sed ad dextram Lilibeia litora feruent, | 前方偏右，利利巴厄姆的海岸浪涛翻涌， |
+| 694 | Occultantque sinu Frigii monumenta sepulcri. | 在海湾里隐藏着那位弗里吉亚人的坟墓。 |
+| 695 | Sic longam alterno noctem sermone leuabant, | 他们就这样你一言我一语，消解漫漫长夜， |
+| 696 | Et ueterum memores, iam tunc uentura timebant. | 追忆着往事，那时便已为将来之事忧惧。 |
+| 697 | Anxia tum tenui succumbunt tempora somno, | 随后，焦虑的头脑屈服于浅浅的睡意， |
+| 698 | Et nouus Eoo consurgens Eurus ab axe | 而新起的东风从东方的天穹升起， |
+| 699 | Lintea complebat facili crepitantia pulsu. | 以轻快的拍击鼓满了噼啪作响的船帆。 |
+
+**注释**
+
+- **654–658** *Xantippum … demersit*　克桑提普斯被迦太基人溺死的说法，见瓦勒里乌斯·马克西穆斯论背信的一章（第九卷）：迦太基人假意用船送他回国，却在海上把他沉没。别的古代记载只说他得胜后离开了阿非利加。彼特拉克借老舵手之口，把这件事当作布匿人背信的典型，正与雷古卢斯的守信相对。
+- **663–665** *Remigis implebam partes*　老人自称当时就在那支舰队里当桨手，是这桩罪行的目击者。
+- **667–685** *paucos post annos … Sardinieque latus*　这场海战所指难以确考。从“离此不远”“西西里与撒丁岛之间的海”以及“我们的自由那时便丧失了”来看，大概是指公元前 241 年的埃加特斯群岛海战：罗马将领卢塔提乌斯·卡图卢斯在西西里西端外海大败迦太基舰队，迦太基被迫求和，割让西西里并支付赔款，第一次布匿战争由此结束。但这已在克桑提普斯离去十余年之后，与“几年之后”不尽相合。
+- **677** *Tartareis Hereboque*　塔耳塔罗斯与厄瑞玻斯都是冥府的深处，言战况惨烈如同地狱。
+- **678–682** *Dii michi non aliter faueant*　誓语，字面意为“愿众神眷顾我，正如我确曾看见……”，即以神明担保所言属实，今意译。老人看见克桑提普斯的亡魂从海中升起，纵火攻船，像复仇之灵一样参与了这场海战。
+- **686–689** *Xantippo uindice … ultio*　uindex 兼有“复仇者”与“保护者”之意：克桑提普斯曾为迦太基保住自由，如今却作为复仇者使它丧失自由。老人祈求他的怒气就此止息，不要再降祸于今日的迦太基。
+- **691–694** *uertitur inde / Ad leuam … Malta / Ante, sed ad dextram Lilibeia litora*　今把 Ad leuam 与马耳他连读，与下行的 ante … ad dextram 相对：左后方远处的海心是马耳他（西西里以南的岛屿），右前方是西西里西端的利利巴厄姆岬（今马尔萨拉）。这样读，方位正合舰队绕过帕基努斯后向西驶往迦太基的航向。原文标点把 Ad leuam 接在 uertitur inde 之后，也可读作“他（或船）由此转向左方”，但向左转与西行的航向不合。“弗里吉亚人的坟墓”指埃涅阿斯之父安喀塞斯之墓：据《埃涅阿斯纪》第三卷，安喀塞斯死于西西里西端的德雷帕努姆（今特拉帕尼，离利利巴厄姆不远），第五卷埃涅阿斯在他的忌辰举行祭礼和竞技。弗里吉亚是特洛伊所在的地区，“弗里吉亚的”即“特洛伊的”。
+- **698–699** *Eurus*　东风，正好送舰队向西驶往阿非利加。“东方的天穹”原文为“厄俄斯的天轴”，即东方。
+
+<a id="s29"></a>
+### 700–710　莱利乌斯被召回罗马
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 700 | Lelius hec inter perducto rege reuertens | 与此同时，莱利乌斯把国王押送到后，正在返程， |
+| 701 | Accelerabat iter; namque illum cara trahebant | 一路兼程疾行；因为他所珍重的统帅的命令 |
+| 702 | Iussa ducis profugusque hostis, multumque timebat | 和逃遁的敌人都牵引着他，他深怕 |
+| 703 | Ne sine se fortasse dies foret ultima belli | 战争的最后一天——那是他一直期盼的—— |
+| 704 | Expectata sibi semper, cum fama repente | 或许会在他缺席时来临。这时忽然传来消息， |
+| 705 | Incidit, hostiles pacem ueniamque precantes | 说敌方的使节正要前来，乞求和平与宽恕， |
+| 706 | Affore legatos. Igitur reuocante Senatu | 不日即到。于是，元老院把他召回， |
+| 707 | Lelius ipse domum repetit. Sic dulcia care | 莱利乌斯便亲自重返家园。正如一个害相思的少年 |
+| 708 | Limina cum peteret iuuenis malesanus amice, | 正奔向亲爱的女友那甜蜜的门槛， |
+| 709 | Si pater aut genitrix retrahat, uestigia flectit | 若是父亲或母亲把他拉回，他便迟迟地掉转脚步， |
+| 710 | Lenta dolens pactamque timens amittere noctem. | 满心痛苦，生怕失去那约好的一夜。 |
+
+**注释**
+
+- **700–706** *Lelius … perducto rege … reuocante Senatu*　莱利乌斯奉西庇阿之命，把被俘的西法克斯押送到罗马（见本卷前文）。元老院因迦太基求和的使节将到，让他留在罗马，以便日后随使节一同回营；李维第 30 卷的记载与此大致相合。“逃遁的敌人”所指不甚明确，当指刚刚撤离意大利的汉尼拔：他一回到阿非利加，决战便近在眼前；也可能泛指节节败退的迦太基人。
+- **707–710** *Sic … pactam … noctem*　以赴约的情人被父母拉回来比喻一心想回营参战的莱利乌斯。这类情爱场景的比喻在本诗中少见，带有奥维德哀歌的色彩。
+
+<a id="s30"></a>
+### 711–749　迦太基使节在罗马元老院
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 711 | Fuluius expositos Baiano in litore Romam | 使节们在拜埃海岸登陆，由富尔维乌斯领到罗马—— |
+| 712 | Perduxit, comitem quem dederat ipse profectis | 他们动身时，西庇阿亲自派他作他们的同伴； |
+| 713 | Scipio; sed muros uetitis intrare uetusto | 但他们不得进入城墙，便依照古老的惯例 |
+| 714 | Consilium de more datur. Stat proxima portis | 在城外为他们召开会议。城门近旁矗立着 |
+| 715 | Bellone sacrata domus, quo tota Senatus | 供奉贝洛娜的圣殿，整个元老院 |
+| 716 | Turba uerenda coit, simul et quos miserat hostis | 那可敬的人群都聚集在那里，敌人派来的使者 |
+| 717 | Conueniunt. Hi multa palam quia falsa citatis | 也一同到场。这些人当众呼神作证， |
+| 718 | Asseruere deis, ira grauiore Senatus | 却说了许多假话，因而激起了元老院 |
+| 719 | Accendere animos; pacemque et fedus auitum | 更沉重的愤怒；他们要求和平和祖辈的盟约， |
+| 720 | Poscentes meruere odium: uiolata negare | 反招来憎恶：他们否认国家的条约 |
+| 721 | Publica pacta quidem, causamque inferre malorum | 遭到了破坏，却把种种祸患的起因 |
+| 722 | Hanibali, cuntosque alios absoluere culpa. | 归到汉尼拔身上，说其余所有人都没有过错。 |
+| 723 | Cepit ad hec uarium murmur; tum concitus unus | 听到这些，四下响起纷纭的低语；这时一位元老 |
+| 724 | Ex Patribus: "Quoniam pacem petiistis auitam, | 激动地说：“既然你们请求恢复祖辈的和平， |
+| 725 | Dicite" ait "ueteris fuerint que federa pacis." | 那就说说，那旧日和约的条款是什么。” |
+| 726 | Omnibus etatis clipeus fuit: illa uetusta; | 他们个个都拿年纪作盾牌：说那些太古老了， |
+| 727 | Se iuuenes, neque tot retro meminisse per annos. | 他们还年轻，记不得那么多年以前的事。 |
+| 728 | Punica sic patuit fraus et frustrantia tempus | 布匿人的诡诈就这样暴露了，那些拖延时间的 |
+| 729 | Verba parum latuere Patres. Excedere templo | 言辞也没能瞒过元老们。他们奉命退出神殿， |
+| 730 | Iussi, abeunt. In tres scissa est sententia partes, | 便离开了。意见分成了三派， |
+| 731 | Principibus queque usa suis, quarum una reuersis | 每派各有自己的领头人；其中一派 |
+| 732 | Consulibus - nam forte aberant -, que summa potestas, | 要把答复的重任留给归来的执政官—— |
+| 733 | Responsi seruabat onus; dignumque mouebat | 他们恰巧不在——因为那是最高的权力； |
+| 734 | Maiestate decus Latia, Liuiusque morandi | 这种做法合乎拉丁的威严与体面， |
+| 735 | Autor erat reditus. At contra intacta Metellus | 倡议等候他们归来的是李维乌斯。梅特卢斯则相反， |
+| 736 | Federa Romano, fuerat qui causa petendi, | 主张把未经议定的和约连同一切交给罗马统帅—— |
+| 737 | Cunta referre duci, nosset quique omnia solus. | 敌人正是因他才来求和，也只有他通晓全局。 |
+| 738 | Illa sed asperior sententia uisa Leuini | 但莱维努斯那更为严厉的意见被认为 |
+| 739 | Optima, que muris pellendos censuit hostes Exploratores. | 最好：他认定这些敌人是探子，应把他们逐离城墙。 |
+| 740 | Sic sine pace retro redeunt, sine federe raptim | 于是他们没有得到和平，没有得到条约，也没有 |
+| 741 | Et sine responso. Custodia litus ad usque | 得到答复，便匆匆回去。一支卫队 |
+| 742 | Mittitur Ausonie, ne quoquam flectere cursum, | 一直护送到奥索尼亚的海边，免得他们改道他往， |
+| 743 | Neu fraudis moliri aliquid per Punica possint | 或凭着布匿人的心计图谋什么诡计， |
+| 744 | Ingenia, atque artes nati exercere paternas. | 身为子孙，施展他们父辈的伎俩。 |
+| 745 | Fuluius ipse etiam Leliusque in castra iubentur | 富尔维乌斯本人和莱利乌斯也奉命赶回营中， |
+| 746 | Hec patrie mandata duci non lenta referre: | 毫不迟延地向统帅传达祖国的这些训令： |
+| 747 | Pergat qua cepit primordiaque alta sequatur | 要他沿着已开始的路走下去，追随他崇高的开端， |
+| 748 | Fortunamque deosque suos, neu pacis in umbra | 追随他的命运和他的神明，不要在和平的阴影下 |
+| 749 | Destituat ceptumue sinat lentescere bellum. | 放弃战争，也不要让已开始的战争松懈下来。 |
+
+**注释**
+
+- **711–714** *Fuluius … Baiano in litore*　富尔维乌斯：西庇阿派来护送迦太基使节赴意大利的副将（李维称他为富尔维乌斯·吉洛）。拜埃是那不勒斯湾西侧的海滨胜地。敌国使节不得进入罗马城，元老院在城外接见他们。
+- **714–716** *Bellone sacrata domus*　贝洛娜是罗马的战争女神。她的神殿在马尔斯原野，位于城界之外，元老院常在此接见外国使节和等候凯旋的将领。
+- **719–722** *fedus auitum … Hanibali*　使节们请求恢复第一次布匿战争结束时（公元前 241）订立的和约，声称迦太基国家并未毁约，战争全是汉尼拔个人所为（李维 30.22）。
+- **723–729** *ueteris … federa pacis*　一位元老问他们旧约的条款，他们推说自己年轻、不记得，元老们由此看出他们无意议和，只想拖延时间（李维 30.22）。“拿年纪作盾牌”保留原文的比喻。
+- **730–739** *In tres … sententia*　三种意见的次序和内容大体取自李维 30.23：李维乌斯主张等执政官回来再作答复；梅特卢斯主张交由西庇阿全权处置；马尔库斯·瓦勒里乌斯·莱维努斯则认为他们是来刺探的，不是使节，应当立即逐出意大利。李维乌斯大概即梅陶罗河之战的执政官马尔库斯·李维乌斯·萨利纳托尔。
+- **739** *Exploratores*　本行比六步格多出一个词。Exploratores（“探子”）可能是作者写在行外的替换词，或是一行未完成诗句的开头，录入时并入本行；今照其意译出。
+- **744** *artes … paternas*　“父辈的伎俩”暗指布匿人背信的名声世代相传（参看 373–376 行注）；下文立即有新的例证。
+
+<a id="s31"></a>
+### 750–782　停战中的罗马补给船队遭劫
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 750 | Fecerat interea pacis spes blanda sequestre | 与此同时，和平的诱人希望借着停战， |
+| 751 | Ut terris securus iter pelagoque uiator | 使得旅人在陆地和海上都放心地 |
+| 752 | Carperet intrepidique errarent equore naute. | 赶路，水手们也无所畏惧地在海上往来。 |
+| 753 | Hac spe igitur Romana ingens a litore classis | 于是，怀着这希望，一支庞大的罗马船队 |
+| 754 | Arma ferens, homines uacuisque cibaria castris | 载着武器、人员，以及为空乏的营地运送的粮秣， |
+| 755 | Soluerat et gemino sulcabat cerula cursu. | 已经离岸起航，分两路犁开碧蓝的海水。 |
+| 756 | Namque alias Calaris puppes Aquilone secundo, | 因为卡拉利斯趁着顺遂的北风遣出了一些船只， |
+| 757 | Flatibus aduersis alias Lilibeus onustas | 利利巴厄姆则顶着逆风，派出了另一些 |
+| 758 | Miserat. Has pelago tempestas corripit alto | 满载的船。一场风暴在深海上攫住了它们， |
+| 759 | Dispergitque uagas scopulisque allidit et undis; | 把它们吹散得四处漂泊，撞向礁石和巨浪； |
+| 760 | Pars pelago submersa perit, pars litus iniquum | 一部分沉入海中毁灭，一部分被风浪征服， |
+| 761 | Victa petit, secura hostis metuensque procelle. | 驶向敌对的海岸，不顾敌人，只怕风暴。 |
+| 762 | Omnia tunc poterat celso de uertice Birse | 这一切，那时都能从比尔萨高耸的山顶上 |
+| 763 | Cernere fedifragum et promptum ad periuria uulgus. | 被那背弃盟约、惯发伪誓的民众看见。 |
+| 764 | Ergo oritur subitus per menia lata tumultus | 于是，宽广的城墙之内骤然掀起骚动， |
+| 765 | Inque forum coeunt. Pauci quibus esset honesti | 人们涌进广场。少数人还顾念正直， |
+| 766 | Cura fidesque opibus potior potiorque rapinis, | 看重信义甚于财富，也甚于劫掠， |
+| 767 | Pactorum et totiens uotis precibusque petite | 他们要民众记住那些盟约，记住那曾经用誓愿 |
+| 768 | Pacis ab Italia uulgus meminisse iubebant. | 和祈求一再向意大利乞得的和平。 |
+| 769 | Ast odiis alii cecaque cupidine prede | 但另一些人燃烧着仇恨，燃烧着对掳获的 |
+| 770 | Flagrantes raptim arma fremunt interque tumultum, | 盲目贪欲，急急叫嚷着要拿起武器；在喧嚣之中， |
+| 771 | Ut solet, a multis melior sententia uicta est. | 一如往常，较好的意见被多数人压倒了。 |
+| 772 | Conscendunt auidi naues. Gisgonius illis | 他们贪婪地登上战船。吉斯戈之子 |
+| 773 | Hasdrubal eligitur sceleris dux, isque repente | 哈斯德鲁巴被推举为这桩罪行的首领，他立即 |
+| 774 | Egreditur portu sparsasque per equora puppes | 驶出港口，袭击那些散落在海上、 |
+| 775 | Desertasque fuga nautarum inuadit: at ille | 因水手逃散而无人看守的船只：这些船 |
+| 776 | Fluctibus hinc, illinc inopini fraudibus hostis | 一边受波浪冲击，一边遭意外之敌的诡计暗算， |
+| 777 | Vincuntur facile; paucas maris abstulit estus | 轻易就被制服了；海潮卷走了少数几艘， |
+| 778 | Demersitque alias; plures rapuere nefandi | 又吞没了另一些；更多的则被那些可憎的 |
+| 779 | Predones. Medias Octauius ipse procellas | 海盗掳走。船队的统领屋大维乌斯本人 |
+| 780 | Dux secuit classis ter denis puppibus, ac se | 率领三十艘船，冲破了风暴的中心， |
+| 781 | Remige defesso sub tuto condidit antro | 桨手已精疲力竭，他便藏身于安全的洞穴—— |
+| 782 | Montis Apollinei uento iactatus et estu. | 就在阿波罗山下，饱受了风浪的颠簸。 |
+
+**注释**
+
+- **750–752** *sequestre … errarent*　化用《埃涅阿斯纪》第十一卷：特洛伊人与拉丁人订立十二天的停战，“借着停战”（pace sequestra）在山林间安然往来。sequester 原义为“居间人、保管人”，此指停战之约。
+- **753–758** *Romana … classis … Calaris … Lilibeus*　据李维 30.24，停战期间罗马从撒丁岛和西西里分别派船队给西庇阿运送补给，从西西里出发的是裁判官格奈乌斯·屋大维乌斯（Cn. Octavius，译作“屋大维乌斯”，以别于后来的屋大维即奥古斯都）率领的二百艘运输船和三十艘战船，在迦太基附近遇风暴失散。卡拉利斯即撒丁岛南岸的卡利亚里；利利巴厄姆见前注。
+- **762–763** *Birse … fedifragum … uulgus*　比尔萨是迦太基的卫城山丘，可俯瞰海湾。“背弃盟约、惯发伪誓”是罗马人对布匿人的成见。
+- **772–773** *Gisgonius … Hasdrubal*　吉斯戈之子哈斯德鲁巴，索福尼斯巴之父，不是汉尼拔之弟哈斯德鲁巴。
+- **779–782** *Octauius … Montis Apollinei*　屋大维乌斯即上注的格奈乌斯·屋大维乌斯。“阿波罗山”指阿波罗岬，在乌提卡以北、迦太基湾西北端，大概即今法里纳角一带。
+
+<a id="s32"></a>
+### 783–814　西庇阿的使节遇袭；狼的比喻
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 783 | Scipio tam fede concussus ymagine Fraudis, | 西庇阿被欺诈这般丑恶的形象所震动， |
+| 784 | Quamquam animos Fortuna dabat Virtusque laborum | 虽然命运女神和蔑视艰辛的美德 |
+| 785 | Contemptrix, nocuam iustis tamen ille querelis | 给了他勇气，他仍派遣三位使者， |
+| 786 | Tres oratores oneratos mittit in urbem. | 满载正当的申诉，前往那罪恶的城市。 |
+| 787 | Impetus hos uulgi ferus excipit, atraque circum | 迎接他们的是民众狂暴的冲击，四周 |
+| 788 | Tempestas lapidum exoritur: fremit impia turba | 掀起了黑压压的石块风暴：不虔敬的人群咆哮着 |
+| 789 | Intentatque manus, et ni reuerentia summi | 向他们挥舞拳头；若不是对最高长官的敬畏 |
+| 790 | Forte magistratus interuenisset, in illo | 恰好出来干预，那一天， |
+| 791 | Iura die humani generis calcata fuissent | 人类共同的法则就要被残酷的杀戮 |
+| 792 | Cede truci. Trepidi tandem per iurgia et hostes | 践踏在脚下了。他们惊惶失措，终于在辱骂声中 |
+| 793 | Presidiis fulti exiguis, ad litora pauci | 穿过敌群，仗着少许护卫，寥寥几人 |
+| 794 | Vix penetrant repetuntque ratem. Iam tuta uideri | 好不容易挤到海边，重新登上船只。那船 |
+| 795 | Puppis ab incursu poterat, iam castra suorum | 已经可以看作免于袭击了，他们已望见了 |
+| 796 | Cernebant, subito cum tres a litore naues | 自己人的营地，这时，突然有三艘船从岸边的 |
+| 797 | Erumpunt ex insidiis. Non partibus equis | 埋伏中冲杀出来。一场力量悬殊的 |
+| 798 | Pugna oritur: castris litus Romana relictis | 战斗打响了：罗马的队伍离开营地， |
+| 799 | Agmina in extremum coeunt, clamore uel armis | 聚集到海岸尽头，要用呐喊或武器 |
+| 800 | Succursura suis. At quis succursus in armis? | 援救自己的同伴。然而武器又能援救什么？ |
+| 801 | Unda uetabat iter. Sed enim conspecta quorum | 波浪阻断了道路。不过，望见战友们的 |
+| 802 | Signa dabant animos: tandem Romana sagittis | 旗帜，船上的人勇气倍增：最后，那艘罗马船 |
+| 803 | Missilibus uacuata ratis conuersa maligne | 箭矢和投枪都已用尽，勉强调转方向， |
+| 804 | Subtrahitur pugne uersis ad litora remis; | 掉转船桨驶向岸边，退出了战斗； |
+| 805 | Ac nisu ualido terris allisa fatiscit | 它奋力冲撞到陆地上，船身 |
+| 806 | Ipsa quidem, sed uectores tellure petita | 虽然因此碎裂，却驶抵陆地，把乘客 |
+| 807 | Exposuit, cursus et spem frustrata sequentum. | 送上了岸，使追击者的追逐和希望落了空。 |
+| 808 | Sic lupus inuento procul a custodibus agno | 正如一头狼发现了一只远离看护者的羊羔， |
+| 809 | Irruit et dentes acuit rabiemque famemque; | 便猛扑上去，磨利了牙齿，也磨利了狂怒和饥饿； |
+| 810 | Si fuga tunc trepidum rapiat de faucibus hostem, | 若是那惊恐的对手这时逃脱，从它的嘴边溜走， |
+| 811 | Insequitur mordetque animis et deuorat auras, | 它就紧追不舍，在心里撕咬，吞噬着空气， |
+| 812 | Donec ad ignotas caulas et ouilia uentum est; | 直到来到陌生的羊圈和羊栏边； |
+| 813 | Tum retrahit cursum: terret locus ipse canumque | 这时它才收住脚步：那地方本身、群犬的 |
+| 814 | Latratus uiridique sedens super aggere pastor. | 吠叫，以及坐在青草堤岸上的牧人，都使它害怕。 |
+
+**注释**
+
+- **783** *ymagine Fraudis*　Fraus（欺诈）首字母大写，似作拟人。
+- **784–785** *Fortuna … Virtusque laborum contemptrix*　命运女神与美德常在本诗中并举。西庇阿有足够的勇气立即开战，却仍先遣使交涉，以示罗马行事合乎正道。
+- **786** *Tres oratores*　据李维 30.25，西庇阿派卢基乌斯·拜比乌斯、卢基乌斯·塞尔吉乌斯、卢基乌斯·法比乌斯三人前往迦太基交涉。nocuam“罪恶的、害人的”，指迦太基城。
+- **789–792** *reuerentia summi magistratus … Iura humani generis*　“最高长官”指迦太基的首要官员。“人类共同的法则”即罗马人所说的万民法（ius gentium），使节不可侵犯是各民族共守的准则。
+- **796–807** *tres … naues*　据李维 30.25，使节回程时，在已望见罗马营地的地方遭三艘迦太基战船伏击；罗马船寡不敌众，最后冲上海岸搁浅，船毁而人得以脱险。
+- **808–814** *Sic lupus*　狼的比喻可比较《埃涅阿斯纪》第九卷：图尔努斯围着特洛伊人的营地寻找入口，好比一头狼在夜里绕着羊圈（caulas）咆哮。这里把迦太基战船比作狼，罗马船比作羊羔，罗马营地则如有犬与牧人守护的羊圈。称羊羔为“对手”（hostem），是有意把战事的字眼带进比喻。
+
+<a id="s33"></a>
+### 815–836　西庇阿遣还布匿使节，重启战端
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 815 | Talia dum Peni peragunt, non leta ferentes | 布匿人干下这些勾当之时，那些使节带着 |
+| 816 | Romulea reuehit legatos missus ab urbe | 不愉快的答复，被从罗慕路斯之城派出的 |
+| 817 | Lelius et pauidos Latiis succedere castris | 莱利乌斯送了回来；他命令这些惊恐的人 |
+| 818 | Imperat. Agnouit Scipio, nec terna sub uno | 进入拉丁人的营地。西庇阿洞悉了这一切；同时犯下的 |
+| 819 | Tempore flagitia aut triplex iniuria mitem | 三重罪行、三重侮辱，都没能 |
+| 820 | Excussere animum. Legatos namque benigne | 动摇他那宽厚的心。因为他和颜悦色地 |
+| 821 | Alloquitur: "Quamquam primum sint federa uobis | 对使节们说：“尽管是你们首先蔑视了盟约， |
+| 822 | Et superum despecta fides, iusque omne quod usquam est, | 蔑视了对天神立下的信誓，以及世上的一切法理， |
+| 823 | Non tamen a nobis modo premia digna feretis | 你们此刻却不会从我们这里领受 |
+| 824 | Perfidie. Veniet fraudes que uindicet omnes | 与你们的背信相称的报偿。总有一天会到来， |
+| 825 | Una dies. Nil indignum seu moribus in uos | 一举清算你们的一切欺诈。我不会对你们做任何 |
+| 826 | Ipse meis faciam, seu maiestate meorum, | 有辱我本人品格、或有辱我同胞威严的事， |
+| 827 | Nec uestram sequar ipse fidem. Discedite tuti, | 也不会效法你们的那种信义。你们平安地走吧： |
+| 828 | Mitius armatos inter sub tempore belli | 在战争时期，你们置身于武装的罗马人中间， |
+| 829 | Romanos habiti, quam nos sub pacis amictu | 所受的待遇，比我们披着和平的外衣 |
+| 830 | Vos inter." (- - -) | 在你们中间所受的还要温和。”（……） |
+| 831 | Viribus ipse animisque ingens in tempore bellum | 他力量与气魄都极为雄伟，适逢其时， |
+| 832 | Feruidus instaurat. Libie status ipse pauentis | 满怀热忱地重启了战争。惊恐的利比亚 |
+| 833 | Tunc erat; Italia sed iam dux iussus uterque | 当时的境况便是如此；但两位统帅都已奉命 |
+| 834 | Cesserat, et uaria quamuis regione profectas | 撤离了意大利；兄弟二人的军队，虽从海上 |
+| 835 | Equoris, ac patrie fraternas tempore eodem | 不同的地方出发，却在同一时刻向祖国 |
+| 836 | Aduentare acies passim iam Fama ferebat. | 驶来——传闻女神已经把这消息传遍了四方。 |
+
+**注释**
+
+- **815–820** *Lelius … legatos … terna … flagitia*　据李维 30.25，从罗马返回的迦太基使节被送到西庇阿营中。“三重罪行”指：在停战中劫掠遇险的罗马补给船队，在迦太基城中围攻罗马使节，又在归途伏击使节的船。
+- **821–830** *Quamquam … Vos inter*　西庇阿的话与李维 30.25 所记大意相同：迦太基人虽然破坏了停战的信义和万民法，他却不会对他们做出任何有违罗马习俗和他本人品格的事。
+- **830** *(- - -)*　原文此处有缺文：此行只有半行，彼特拉克没有写完，今以（……）标出。
+- **831–836** *bellum … instaurat … dux uterque … fraternas … acies*　停战破裂，战事重开。“两位统帅”指汉尼拔与其弟马戈，二人都奉召离开意大利，分别从布鲁提乌姆和利古里亚渡海回国。
+
+<a id="s34"></a>
+### 837–882　马戈的航程：利古里亚与伊特鲁里亚海岸
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 837 | Iamque Mago Ianue soluens a litore classem | 此时，马戈已从热那亚的海岸解缆起航， |
+| 838 | Alite non fausta pelago se saucius alto | 在不吉的鸟兆之下，带着伤，把自己托付给 |
+| 839 | Crediderat, patriam petiturus tramite recto, | 深海，打算径直驶回祖国， |
+| 840 | Si Fortuna sinat. Sensim turgescere colles | 只要命运女神容许。长满香柏的山丘渐渐 |
+| 841 | Cedriferi - nulli cedens hic saltibus ora - | 开始隆起——这里的海岸林木之盛不让任何地方—— |
+| 842 | Incipiunt, rareque uirent per litora palme. | 稀疏的棕榈在海岸上泛着青绿。 |
+| 843 | Hinc Delphinus adest luco contectus aprico, | 从这里又见德尔菲努斯，覆满向阳的树林； |
+| 844 | Obice qui montis uiolentos protinus Austros | 它以山峦为屏障，把狂暴的南风 |
+| 845 | Reicit, immotaque silens statione quiescit. | 径直挡回，自己静默地安卧在平稳的泊地。 |
+| 846 | Parte alia sinuosa patent conuexa Siestri. | 另一边，塞斯特里蜿蜒的弧形海岸展现开来。 |
+| 847 | Hinc solis uineta oculo lustrata benigno | 从这里，他们远眺那些受太阳慈眼巡视、 |
+| 848 | Et Baccho dilecta nimis montemque Rubentem | 极受巴克斯宠爱的葡萄园，眺望红山 |
+| 849 | Et iuga prospectant Cornelia, palmite late | 和科尔内利亚的山脊——它们以流蜜般的葡萄藤 |
+| 850 | Inclita mellifluo, quibus haud collesque Falernos | 远近驰名；向它们甘拜下风，法勒努斯的山丘 |
+| 851 | Laudatamque licet Meroen cessisse pudebit. | 和备受称颂的墨罗埃都不会感到羞愧。 |
+| 852 | Tunc, seu pigra situ, nulli seu nota poete | 那时，或因荒僻而沉寂，或因没有一位诗人知晓， |
+| 853 | Illa fuit tellus, iacuit sine carmine sacro, | 那片土地一直躺在那里，没有神圣的诗歌吟咏， |
+| 854 | Hoc michi nunc cantanda loco. Sulcantibus equor | 如今要由我在这里歌唱它。他们犁着海面， |
+| 855 | Insula iam Venerique placens a litore portus | 这时一座岛屿和岸边一座为维纳斯所喜的港口 |
+| 856 | Exoritur, contraque sedet fortissimus Erix | 跃入眼帘；对面坐落着坚不可摧的 |
+| 857 | Ausonius, Sicule retinens cognomina ripe. | 奥索尼亚的埃律克斯，沿用着西西里海岸的名号。 |
+| 858 | Collibus his ipsam perhibent habitare Mineruam | 据说，密涅瓦本人就住在这些山丘上， |
+| 859 | Spernentem patrias olei dulcedine Athenas. | 因这里橄榄油的甘美，竟看轻了故乡雅典。 |
+| 860 | Exoritur Coruique caput, tumefactaque circum | 乌鸦角升起，四周汹涌的海水 |
+| 861 | Dissiliunt maria et saxis fremit unda uadosis: | 迸裂四溅，浪涛在浅滩的礁石上咆哮： |
+| 862 | Cognitus in medio nautis dorsoque nigranti | 在中间，有一块水手们熟知的礁岩，以黝黑的脊背 |
+| 863 | Arduus assurgit scopulus, cui proxima rupes | 陡然耸起；紧挨着它的那片崖壁 |
+| 864 | Candidior late Phebo feriente refulget. | 颜色更白，在福玻斯照耀下远远闪光。 |
+| 865 | Post in secessu curuo maris ostia Macre | 随后，在弯曲的海湾深处，望得见湍急的马克拉河 |
+| 866 | Cernuntur rapidi stantisque palatia Lune, | 入海的河口，和卢纳城屹立的宫殿； |
+| 867 | Labitur et placidis frangens mare fluctibus Arnus. | 阿尔诺河滑行而来，以平缓的波流冲开海水。 |
+| 868 | Hunc supra in ripis sedet urbs pulcerrima Pise. | 在它上游的两岸，坐落着最美丽的比萨城。 |
+| 869 | Hanc oculis digitisque notant, propiusque patescunt | 他们用眼睛和手指点着它；更近处展现出来的， |
+| 870 | Etrurieque latus spatioque breuissima Gorgon | 是伊特鲁里亚的海岸、面积极小的戈耳工、 |
+| 871 | Iluaque nobilior rigidisque Capraria saxis | 更为著名的伊尔瓦，以及满是嶙峋岩石的卡普拉里亚 |
+| 872 | Insula; tum niueo prediues marmore retro | 岛；接着，盛产雪白大理石的吉利乌姆 |
+| 873 | Linquitur ad leuam Gilium, uicinaque contra | 被留在左后方；对面矗立着相邻的山岭， |
+| 874 | Stant iuga de gemino nomen sortita metallo: | 它们的名字得自两种金属： |
+| 875 | Plumbeus hic uertex, illa est Argentea rupes. | 这边是铅峰，那边是银岩。 |
+| 876 | Nec procul Herculei deuexo monte recessus | 不远处是赫拉克勒斯的隐秘港湾，倚着倾斜的山坡， |
+| 877 | Et Thelamonis opus nautisque infestior equo | 还有忒拉蒙的手笔；对水手们凶险得过分的 |
+| 878 | Paruus aquis propriis uiolenti gurgitis Umbro. | 是翁布罗河，它自身水量不大，却漩涡狂暴。 |
+| 879 | Dextra sed a tergo uentosi frondea tractus | 而在右后方，还留着那片多风的地域—— |
+| 880 | Corsica restabat. Iamque hinc Sardinia longe | 枝叶葱茏的科西嘉。这时，一边是远处的撒丁岛 |
+| 881 | Tabificos aperit colles, hinc aurea Roma | 露出它致人憔悴的山丘，另一边是黄金的罗马， |
+| 882 | Inque procelloso Tybridis stant litore fauces. | 以及台伯河口，矗立在风暴频仍的海岸上。 |
+
+**注释**
+
+- **837–840** *Mago Ianue … saucius*　马戈以热那亚一带为据点（李维第 28 卷），负伤后奉召回国（见 300–306 行注）；据李维第 30 卷，他在驶过撒丁岛时伤重而死。彼特拉克把他的死安排在台伯河口外的海上。Ianua 是热那亚的中世纪拉丁名。“鸟兆”指罗马人以飞鸟占卜吉凶。
+- **840–842** *Cedriferi … palme*　以下是著名的利古里亚与伊特鲁里亚海岸描写：船队从热那亚向东南航行，沿今“东里维埃拉”而下。彼特拉克多次往返普罗旺斯与意大利，熟悉这段海岸。cedrus 在古典拉丁语中指雪松、刺柏一类，今照字面译“香柏”；但意大利语 cedro 指香橼，这里也可能指利古里亚海岸的柑橘类果树。
+- **843–845** *Delphinus*　德尔菲努斯即古代的“海豚港”（Portus Delphini），今波托菲诺（Portofino），在热那亚以东，港湾有山岬庇护。
+- **846** *Siestri*　塞斯特里，大概即今塞斯特里莱万特（Sestri Levante），在波托菲诺东南。
+- **847–851** *montemque Rubentem … iuga … Cornelia … Falernos … Meroen*　“红山”大概即今五渔村之一蒙特罗索（Monterosso，意为“红山”）；“科尔内利亚的山脊”即科尔尼利亚（Corniglia），其名相传来自罗马的科尔内利乌斯家族。这一带陡坡上的葡萄园和甜酒至今有名。849 行数字版作 fuga（“逃跑”），当作 iuga（“山脊”）。法勒努斯是坎帕尼亚北部的山区，出产古罗马最负盛名的酒；墨罗埃是尼罗河上游的城市和地区，卢坎《内战记》第十卷写克娄巴特拉的宴席时，曾把它与法勒努斯酒并提。
+- **852–854** *Tunc … Hoc michi nunc cantanda loco*　诗人直接出面：这片海岸此前从未入诗，由他首次歌咏。“那时”与“如今”相对。
+- **854–857** *Insula … Venerique placens … portus … Erix Ausonius*　岛屿大概即帕尔马里亚岛（Palmaria）；“为维纳斯所喜的港口”即“维纳斯港”（Portus Veneris），今韦内雷港（Portovenere），在拉斯佩齐亚湾西口。对岸“奥索尼亚的埃律克斯”大概指海湾东岸的莱里奇（Lerici），其中世纪名称与西西里的埃律克斯山（今埃里切）相同；西西里的埃律克斯山以维纳斯神庙著称，正与“维纳斯港”相映。“坚不可摧”或指莱里奇的城堡。
+- **858–859** *Mineruam … olei*　密涅瓦是雅典的守护女神，相传是她把橄榄树赐给雅典人。这里说她贪爱拉斯佩齐亚湾一带橄榄油的甘美，甚至看轻了自己的雅典。
+- **860–864** *Corui caput … rupes candidior*　乌鸦角即今科尔沃角（Capo Corvo），在拉斯佩齐亚湾东南口；旁边颜色较白的崖岬大概即今蓬塔比安卡（Punta Bianca，“白角”）。
+- **865–868** *Macre … Lune … Arnus … Pise*　马克拉河即今马格拉河（Magra），古时为利古里亚与伊特鲁里亚的分界。卢纳是马格拉河口附近的古城（今卢尼遗址），彼特拉克时代早已荒废，诗中说它的宫殿“屹立”，是就古代而言。阿尔诺河在比萨以西入海，比萨城坐落在它的两岸。
+- **870–872** *Gorgon … Ilua … Capraria*　伊特鲁里亚外海的群岛：戈耳工即今戈尔戈纳岛（Gorgona），面积最小；伊尔瓦即厄尔巴岛（Elba），自古以铁矿闻名，故曰“更为著名”；卡普拉里亚即今卡普拉亚岛（Capraia）。
+- **872–875** *Gilium … Plumbeus … Argentea rupes*　吉利乌姆即今焦廖岛（Giglio，古典作家多作 Igilium），岛上的石料实为花岗岩。船队在外海航行，所以焦廖岛留在左后方。“银岩”大概即今阿尔真塔里奥山（Monte Argentario，意为“银山”）；“铅峰”或指厄尔巴岛对岸的皮翁比诺（Piombino）岬角，其名俗以为出自 plumbum“铅”，但它离阿尔真塔里奥山颇远，与“相邻”不尽相合，未能确定。
+- **876–878** *Herculei … recessus … Thelamonis opus … Umbro*　“赫拉克勒斯的港湾”大概即阿尔真塔里奥山下的埃尔科莱港（Porto Ercole，古称“赫拉克勒斯港”）；“忒拉蒙的手笔”指塔拉莫内（Talamone），相传由阿尔戈英雄忒拉蒙所建；翁布罗河即今翁布罗内河（Ombrone），在格罗塞托附近入海。
+- **879–882** *Corsica … Sardinia … Tabificos … Tybridis … fauces*　科西嘉此时在船队右后方，撒丁岛在远处。撒丁岛空气恶浊、多疫病（实为疟疾），是古罗马作家常说的话。“黄金的罗马”是诗人的修饰，奥维德已有此语。台伯河口即奥斯提亚一带。
+
+<a id="s35"></a>
+### 883–916　马戈临终的沉思
+
+| 行 | Latina | 中文 |
+|---:|---|---|
+| 883 | Hic postquam medio iuuenis stetit equore Penus, | 年轻的布匿人来到这里，停在海的中央， |
+| 884 | Vulneris increscens dolor et uicinia dure | 伤口的疼痛不断加剧，残酷的死亡 |
+| 885 | Mortis agens stimulis ardentibus urget hanelum. | 步步逼近，以灼热的刺棒紧逼着喘息的他。 |
+| 886 | Ille uidens propius supremi temporis horam, | 他看到最后时刻已近在眼前， |
+| 887 | Incipit: "Heu qualis fortune terminus alte est! | 便开口说道：“唉，崇高的命运竟有这样的终点！ |
+| 888 | Quam letis mens ceca bonis! furor ecce potentum | 人心在顺境中是何等盲目！看哪，权势者的狂妄， |
+| 889 | Precipiti gaudere loco. Status iste procellis | 就是以身处险峻之地为乐。那样的地位 |
+| 890 | Subiacet innumeris et finis ad alta leuatis | 承受着无数的风暴，而被举上高处的人， |
+| 891 | Est ruere. Heu tremulum magnorum culmen honorum, | 终局就是坠落。唉，崇高荣誉那颤巍巍的顶峰， |
+| 892 | Spesque hominum fallax et inanis gloria fictis | 人类那骗人的希望，还有那涂满了虚假奉承的 |
+| 893 | Illita blanditiis! heu uita incerta labori | 空洞荣耀！唉，无常的人生，委身于 |
+| 894 | Dedita perpetuo, semperque heu certa nec umquam | 无休无止的劳苦；唉，那死亡之日永远确定， |
+| 895 | Sat mortis prouisa dies! heu sortis inique | 却从来不曾被人充分预见！唉，生在大地上的人， |
+| 896 | Natus homo in terris! animalia cunta quiescunt; | 命运何其不公！一切生灵都能安息； |
+| 897 | Irrequietus homo, perque omnes anxius annos | 唯独人不得安宁，终其一生焦虑不安， |
+| 898 | Ad mortem festinat iter. Mors, optima rerum, | 匆匆赶着通往死亡的路。死亡啊，万物之中最好的， |
+| 899 | Tu retegis sola errores, et somnia uite | 唯有你揭穿一切迷误，把走到尽头的人生 |
+| 900 | Discutis exacte. Video nunc quanta paraui, | 所做的梦一一驱散。如今我看清了，我筹划了多少， |
+| 901 | Ha miser, in cassum, subii quot sponte labores. | 啊，可怜的我，全是白费！我甘愿承受了多少辛劳—— |
+| 902 | Quos licuit transire michi. Moriturus ad astra | 那些本来我可以避开的辛劳。注定要死的人 |
+| 903 | Scandere querit homo, sed Mors docet omnia quo sint | 却想攀上星辰，但死亡教人看清，我们的一切 |
+| 904 | Nostra loco. Latio quid profuit arma potenti, | 处在什么位置。向强大的拉丁姆兴兵有何益处？ |
+| 905 | Quid tectis inferre faces? quid federa mundi | 把火把投向它的屋舍又有何益？扰乱世间的盟约， |
+| 906 | Turbare atque urbes tristi miscere tumultu? | 让城邦陷入悲惨的混乱，又有何益？ |
+| 907 | Aurea marmoreis quidue alta palatia muris | 用大理石的墙垣建起高耸的黄金宫殿， |
+| 908 | Erexisse iuuat, postquam sic sidere leuo | 又有什么用处，既然在不祥的星辰之下， |
+| 909 | In pelago periturus eram? Carissime frater, | 我注定要这样死在海上？最亲爱的兄长啊， |
+| 910 | Quanta paras animis? heu fati ignarus acerbi | 你心中在谋划着多么宏大的事业？唉，你既不知 |
+| 911 | Ignarusque mei!" Dixit; tum liber in auras | 那残酷的命运，也不知道我的遭遇！”他说完， |
+| 912 | Spiritus egreditur, spatiis unde altior equis | 灵魂便自由地升入空中，从那里，在相等的距离上， |
+| 913 | Despiceret Romam simul et Carthaginis urbem, | 高高地同时俯瞰罗马和迦太基城； |
+| 914 | Ante diem felix abiens, ne summa uideret | 他在大限之前离去，实在是幸运，因为他不会看到 |
+| 915 | Excidia et claris quod restat dedecus armis | 最后的毁灭，看到那光荣的武功所剩下的耻辱， |
+| 916 | Fraternosque suosque simul patrieque dolores. | 看到他兄长的、他自己的，以及祖国的种种悲痛。 |
+
+**注释**
+
+- **883–916** *Heu qualis fortune terminus …*　马戈临终的这三十四行是《阿非利加》最著名的段落。彼特拉克生前此诗秘不示人，这一段却被他的朋友苏尔莫纳的巴尔巴托抄去流传开来；有人批评让一个异教的迦太基人临终说出近乎基督徒的思想，或批评伤重垂死之人不该有这样长的独白，彼特拉克晚年在《老年书信集》第二卷中为之辩护。
+- **883** *iuuenis … Penus*　“年轻的布匿人”指马戈。Penus 即 Poenus（布匿人）的中世纪拼法。
+- **887–891** *Precipiti gaudere loco … finis ad alta leuatis est ruere*　高处必坠的主题是古代道德哲学（如塞内加）与中世纪“命运之轮”观念的常谈，波爱修斯《哲学的慰藉》中命运女神的话是其典型。
+- **896–898** *animalia cunta quiescunt; Irrequietus homo*　唯独人类永无安宁，令人想起奥古斯丁《忏悔录》开篇“我们的心若不安息在你之内，便不得安宁”；这是彼特拉克在《秘密》等作品中反复思索的主题。
+- **898–904** *Mors, optima rerum*　把死亡称为“万物之中最好的”，因为唯有它揭开人生的迷梦，让人看清尘世之物的真实位置。这种思想近于基督教的轻世观，正是此段遭人批评的原因之一。
+- **907** *paratia*　数字版作 paratia，当作 palatia（“宫殿”）。
+- **909–911** *Carissime frater*　指汉尼拔。马戈是汉尼拔最小的弟弟；此时汉尼拔正率军渡海回国，对弟弟之死尚一无所知。
+- **911–916** *liber … Spiritus … spatiis … equis*　马戈的灵魂升空，在罗马与迦太基之间等距之处同时俯视两城，可比较卢坎《内战记》第九卷开篇庞培的灵魂升天、俯视人间，以及西塞罗《西庇阿之梦》中从天上俯瞰大地的视角。“在大限之前离去”（ante diem）用维吉尔写狄多之死的字眼（《埃涅阿斯纪》第四卷）。他因早死而幸运：不必看见汉尼拔在扎马的失败，也不必看见迦太基最终的毁灭（公元前 146 年）。
+
+## 文本注
+
+- **20** *Mortis amor causa est*　埃阿科斯的话从本行开始，数字版缺开引号（闭引号在 24 行末）。
+- **36** *inuenum*　数字版录入错误，应作 iuuenum。
+- **56** *Euridicen.*　句中误衍句点。
+- **73** *tenebit"*　行末闭引号无对应：67 行的引语在 Tisbe! 处已结束，68–73 行为叙述语（inuiderat、meminit 为第三人称），今不作引语处理。
+- **74** *fere*　今取副词 ferē“照例、通常”之义；读法略可疑。
+- **312** *accula*　数字版录入错误，应作 secula（saecula）。
+- **333** *peti*　文意似应作 pati“承受”（paratis supplicium penamque pati，“准备承受刑罚的人”）；peti 也勉强可解（“准备让人索取惩罚”），故不列入更正，今按 pati 之意译出。
+- **345–346** *oras / Quam*　原文 oras 之后没有句读，按文意应在此断句。
+- **360** *freso*　数字版录入错误，应作 freto。
+- **395** *ruinam Fatorum*　本行比六步格多出一词 Fatorum；去掉它，全行恰好合律。或为另一残行的开头误并于此，或为旁注窜入正文。今照译并加注。
+- **434** *recesse*　数字版录入错误，应作 necesse。
+- **468** *exatiata*　即 exsatiata 的中世纪拼写，不是录入错误。
+- **482** *ampia*　数字版录入错误，应作 ampla。
+- **512** *fide*　fidus“忠实的”的呼格，与 Bomilcar 相连，不是 fides 的夺格。
+- **513** *lussa*　数字版录入错误，应作 iussa。
+- **548** *lascas*　意大利语俗语词 lasca（一种小型淡水鱼）的拉丁化形式，不是录入错误。
+- **628** *Atgue*　录入错误，应作 Atque。
+- **629** *annosi*　录入错误，应作 annos。
+- **631** *discrimina*　quanto 与复数 discrimina 不相合，疑当作 discrimine；今依文意译。
+- **633** *ampie*　录入错误，应作 ample（= amplae）。
+- **692** *Ad leuam,*　数字版 leuam 后的逗号似把 Ad leuam 归上句 uertitur inde；今依与 693 行 ad dextram 的对称，把它与马耳他连读，见注。
+- **739** *Exploratores*　本行多出一词，超出六步格；Exploratores 或为作者行外的替换词或未完成诗行的开头，今照译其意。
+- **819** *infuria*　录入错误，应作 iniuria。
+- **830** *(- - -)*　原文缺文，此行未完成。
+- **849** *fuga*　录入错误（f/i 混淆），应作 iuga（“山脊”）。
+- **907** *paratia*　录入错误，应作 palatia（“宫殿”）。
+

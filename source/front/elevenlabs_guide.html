@@ -1,0 +1,35 @@
+<h2 class="fm" id="apx-el">附录三　<span style="letter-spacing:0.02em">ElevenLabs</span> 朗读稿</h2>
+<p>本附录把九卷拉丁原文整理成可以直接输入 ElevenLabs 文本转语音的朗读稿。全诗按扬抑抑格六音步（dactylic hexameter）逐行标出节拍重音、元音省略和主停顿，并配有朗读语气标签。每个方框对应正文的一个段落，可以一次生成。同样的内容另有纯文本文件（每卷一个，另附全书合集），复制起来更方便。</p>
+
+<h4>一　使用方法</h4>
+<ol>
+<li>在 ElevenLabs 的文本转语音（Text to Speech）中选用 Eleven v3 或更新的、支持音频标签（audio tags）的模型。方括号里的标签只有这类模型能理解；如果用别的模型，请先删去方括号标签。</li>
+<li>选一个意大利语的叙述型声音（低沉、沉稳者为宜），语言设为意大利语（Italian）。ElevenLabs 不支持拉丁语。意大利语的拼读规则最接近意大利传统的拉丁语读音（教会读音），这也是彼特拉克本人的读法。</li>
+<li>每次复制一个方框里的全部文字，从第一行的方括号标签一直到该段最后一行诗。方框上方的灰色小字（卷次、行号、段落名、字符数）不要复制。每段最长约 2,500 字符，在 Eleven v3 单次生成 5,000 字符的上限以内。从 PDF 复制时如有跨页，可改用纯文本文件。</li>
+<li>先用第一段试听，再选定声音和稳定度（Stability）。v3 一般用 Natural；想要更富表现力可试 Creative。如果标签偶尔被念出声，可改用 Robust，或删去该标签。如所用模型提供语速（Speed）设置，可调到 0.9 左右，节奏更从容。同一段可多次生成，挑选最好的一版。</li>
+</ol>
+
+<h4>二　标记的含义</h4>
+<table class="legend">
+<tr><th>标记</th><th>含义</th><th>示例</th></tr>
+<tr><td class="k">á é í ó ú</td><td>节拍重音（ictus），落在每个音步的第一个音节，即长音节上的重拍。完整的诗行有六处。</td><td class="e">Ét mihi cónspicuúm</td></tr>
+<tr><td class="k">'</td><td>元音省略（elisio）：词尾的元音（或元音加 m）遇到下一个词开头的元音时省去，两词连读。</td><td class="e">Fórt'etiám（= forte etiam）</td></tr>
+<tr><td class="k">—</td><td>主停顿（caesura），诗行中部的停顿。原文该处有标点的不再加。</td><td class="e">cónspicuúm — meritís</td></tr>
+<tr><td class="k">换行</td><td>诗行结束。每行一句诗，行末稍停。</td><td class="e"></td></tr>
+<tr><td class="k">[ … ]</td><td>朗读语气标签（英文）。每段开头是一个总体标签（measured epic recitation，“从容的史诗朗诵”），加一个本段的语气标签；段内在说话开始或情绪转折处偶尔另加。</td><td class="e">[measured epic recitation] [reverent]</td></tr>
+<tr><td class="k">…</td><td>原文的空缺、未完成处或语气中断，读作停顿。</td><td class="e"></td></tr>
+</table>
+
+<h4>三　拼写的调整</h4>
+<p>为了让意大利语声音读得准确，朗读稿对拼写作了以下调整（正文所印原文不变）：辅音性的 u 写作 v（<span class="la">uirum → virum</span>），词首元音性的 V 写作 U（<span class="la">Vt → Ut</span>）；双元音 ae、oe 写作 e（<span class="la">aeternum → eternum</span>，与第三卷以下的中世纪拼写一致）；y 写作 i，ph 写作 f，th 写作 t。中世纪拼写 <span class="la">michi, nichil</span>（读作 miki、nikil）、<span class="la">que</span>（= quae）、<span class="la">celum</span> 等保持不变。</p>
+
+<h4>四　格律与读法</h4>
+<p>全书 {lines} 行的格律先由程序按古典音量规则逐行推算，包括音节划分、位置长音、元音前短、元音省略、合音（synizesis）等，再逐卷复核，改正了程序判错的诗行。彼特拉克的格律大体遵循古典规范，但对希腊专名、写作 e 的古双元音以及个别元音连读的处理比较宽松，这些地方按最合理的读法标注。其中 {full} 行标出完整的六个音步；{half} 个半行（诗人未完成的诗行）只标出已有的音步；{plain} 行因原文空缺或无法成律，只保留文字，不标重音。</p>
+<p>这样的标注是“按节拍朗读”（ictus reading）：重音落在每个音步的长音节上，有时与单词本身的重音不同（如 <span class="la">virúm, referés</span>）。这是拉丁诗的一种传统读法，最能读出六音步的起伏。若更想按单词重音朗读，可以直接用正文所印的原文。语音合成的效果因声音和每次生成而异，标注只能引导，不能保证每个重拍都读到位；个别读得不理想的诗行，可以单独重新生成。</p>
+
+<div class="example">
+<div><span class="lab">例</span>第一卷第 1 行</div>
+<div><span class="lab">原文</span><span class="la">Et mihi conspicuum meritis belloque tremendum,</span></div>
+<div><span class="lab">音步</span><span class="la">Ét mihi | cónspicu | úm — meri | tís bel | lóque tre | méndum</span>　（扬抑抑 · 扬抑抑 · 扬抑抑 · 扬扬 · 扬抑抑 · 扬扬）</div>
+<div><span class="lab">朗读稿</span><span class="la">Ét mihi cónspicuúm — meritís bellóque treméndum,</span></div>
+</div>

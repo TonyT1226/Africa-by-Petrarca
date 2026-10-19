@@ -1,0 +1,2 @@
+# Only needed to typeset the PDF (tools/build.py). All other tools use the Python standard library.
+weasyprint>=62

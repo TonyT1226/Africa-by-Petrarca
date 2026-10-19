@@ -1,0 +1,773 @@
+1	ok	DDSDDX		Ménia |mágnani|mús — vic|tór trepi|dántia |Círte	Ménia mágnanimús — victór trepidántia Círte
+2	ok	DDDDDX		Íngredi|túr, patri|ósque — la|rés et a|víta tu|étur	Íngreditúr, patriósque — larés et avíta tuétur
+3	ok	DDSSDX		Técta li|béns, gene|rís — car'|íncu|nábula |prími.	Técta libéns, generís — car'íncunábula prími.
+4	man		manual	Mílite |cónfest'|ád por|tás — cus|tóde re|lícto,	Mílite cónfest'ád portás — custóde relícto,
+5	ok	SDSSDX		Íps'al|tám cupi|dús — rap|tím ten|débat ad |árcem:	Íps'altám cupidús — raptím tendébat ad árcem:
+6	ok	DDDSDX		Síc stimu|lánte fa|mé — lupus |ámplum |náctus o|víle,	Síc stimulánte famé — lupus ámplum náctus ovíle,
+7	ok	DDDSDX		Íntima |dúm pene|trát, soci|úm pred'|átque la|bóris	Íntima dúm penetrát, sociúm pred'átque labóris
+8	ok	DSSDDX		Línquit in |íngres|sú, quo |tútior |ábdita |fídis	Línquit in íngressú, quo tútior ábdita fídis
+9	ok	DSDSDX		Córpora |dédu|cát — late|brís mer|génda pa|láto.	Córpora déducát — latebrís mergénda paláto.
+10	ok	DDSDDX		Vént'erat |ád mise|rí — fe|lícia |técta ti|ránni,	Vént'erat ád miserí — felícia técta tiránni,
+11	ok	SDDSDX		Qué mer|só male|fída — vi|ró re|gína te|nébat.	Qué mersó malefída — viró regína tenébat.
+12	ok	DSDSDX		Héc subi|tís tur|báta — ma|lís in |límine |vísa'st	Héc subitís turbáta — malís in límine vísa'st
+13	ok	DSSSDX		Óbvia |vícto|rí, si |quám For|túna pa|ráret,	Óbvia víctorí, si quám Fortúna paráret,
+14	ok	SDSDDX		Ténta|túra vi|ám — du|réque le|vámina |sórtis.	Téntatúra viám — duréque levámina sórtis.
+15	ok	DDSSDX		Úndique |sídere|úm — gem|mís au|róque ni|tébant	Úndique sídereúm — gemmís auróque nitébant
+16	ok	DSDSDX		Átria: |nón il|ló — fue|rát rex |dítior |álter	Átria: nón illó — fuerát rex dítior álter
+17	ok	DSDSDX		Dúm tenu|ít For|túna fi|dém: nunc - |fídite |létis! -	Dúm tenuít Fortúna fidém: nunc - fídite létis! -
+18	ok	DSDDDX		Páuperi|ór non |álter e|rát: tamen |ómnia |lónge	Páuperiór non álter erát: tamen ómnia lónge
+19	ok	DDSSDX		Régia |préradi|áns — vin|cébat |lúmina |cóniunx.	Régia préradiáns — vincébat lúmina cóniunx.
+20	ok	DDSDDX		Ílle nec |étere|ís — un|quám supe|rándus ab |ástris	Ílle nec étereís — unquám superándus ab ástris
+21	man		manual	Néc Fe|béa fo|rét — veri|tús cer|támina |vúltus	Néc Febéa forét — veritús certámina vúltus
+22	ok	DSSSDX		Iúdice |súb ius|tó. Sta|bát can|dóre ni|váli	Iúdice súb iustó. Stabát candóre niváli
+23	man		manual	Fróns al|tó mi|ránda Io|ví, mul|túmque so|róri	Fróns altó miránda Ioví, multúmque soróri
+24	ok	DDDSDX		Zéloti|pé metu|énda — ma|gís quam |péllicis |úlla	Zélotipé metuénda — magís quam péllicis úlla
+25	ok	DSDSDX		Fórma vi|ró di|lécta va|gó. Ful|géntior |áuro	Fórma viró dilécta vagó. Fulgéntior áuro
+26	ok	DSDSDX		Quólibet, |ét so|lís — radi|ís fac|túra pu|dórem,	Quólibet, ét solís — radiís factúra pudórem,
+27	ok	DSDSDX		Césari|és spar|génda — le|ví pen|débat ab |áura	Césariés spargénda — leví pendébat ab áura
+28	ok	DSSSDX		Cólla su|pér, rec|tó — que |sénsim |láctea |tráctu	Cólla supér, rectó — que sénsim láctea tráctu
+29	ok	SDDSDX		Súrge|bánt, hume|rósqu'agi|lés — ef|fúsa te|gébat	Súrgebánt, humerósqu'agilés — effúsa tegébat
+30	ok	SSSSDX		Túnc, o|lím subs|tríct'au|ró — cer|támine |blándo	Túnc, olím substríct'auró — certámine blándo
+31	ok	DSDSDX		Ét placi|dís im|pléxa mo|dís: sic |cándida |dúlcis	Ét placidís impléxa modís: sic cándida dúlcis
+32	ok	DSDSDX		Cúm croce|ís iun|gébat ho|nós, mix|tóque co|lóri	Cúm croceís iungébat honós, mixtóque colóri
+33	ok	DSSSDX		Áurea |cónden|sí — ces|síssent |váscula |láctis,	Áurea cóndensí — cessíssent váscula láctis,
+34	ok	DDSSDX		Níxque iu|gís radi|ó — so|lís cons|pécta se|réni.	Níxque iugís radió — solís conspécta seréni.
+35	man		manual	Lúmina |quíd refe|rám — pre|cláre |súbdita |frónti	Lúmina quíd referám — precláre súbdita frónti
+36	ok	DSDSDX		Ínvidi|ám mo|túra de|ís? di|vína quod |íllis	Ínvidiám motúra deís? divína quod íllis
+37	ok	DDDSDX		Vís ine|rát radi|ánsque de|cór, qui |péctora |pósset	Vís inerát radiánsque decór, qui péctora pósset
+38	ok	DSSSDX		Fléctere |quó vel|lét, men|tésqu'au|férre tu|éndo,	Fléctere quó vellét, mentésqu'auférre tuéndo,
+39	man		manual	Ínque Me|dúse|úm — pre|córdia |vértere |mármor,	Ínque Medúseúm — precórdia vértere mármor,
+40	ok	DSDSDX		África |néc mons|trís — caru|ísset |térra se|cúndis.	África néc monstrís — caruísset térra secúndis.
+41	ok	SSDDDX		Héc, planc|tú con|fúsa no|vó, modo |dúlce ni|tébant,	Héc, planctú confúsa novó, modo dúlce nitébant,
+42	ok	DDSDDX		Dúlcius |ác soli|tó; ceu |cúm duo |lúmina |iúxta	Dúlcius ác solitó; ceu cúm duo lúmina iúxta
+43	ok	SDDSDX		Scíntil|lánt pari|tér — madi|dó ro|rántia |célo,	Scíntillánt paritér — madidó rorántia célo,
+44	ok	DSDDDX		Ímber u|bí noc|túrnus a|bít. Gemi|náta su|pérne	Ímber ubí noctúrnus abít. Gemináta supérne
+45	ok	DDDSDX		Léniter |áeri|í — speci|és in|fléctitur |árcus;	Léniter áerií — speciés infléctitur árcus;
+46	ok	DDDSDX		Cándida |púrpure|ís — imi|tántur |flóribus |álme	Cándida púrpureís — imitántur flóribus álme
+47	ok	DDDSDX		Lília |míxta ge|né; rose|ís tec|túmque la|béllis	Lília míxta gené; roseís tectúmque labéllis
+48	ok	DDSSDX		Spléndet e|búr seri|é — mi|rá; tum |péctus a|pértum	Spléndet ebúr serié — mirá; tum péctus apértum
+49	ok	DSDSDX		Léne tu|méns blan|dóque — trah|éns sus|píria |púlsu,	Léne tuméns blandóque — trahéns suspíria púlsu,
+50	ok	DDDDDX		Cúm quibus |ínstabi|lém — potu|ít pepu|lísse pre|cándo	Cúm quibus ínstabilém — potuít pepulísse precándo
+51	ok	DDDSDX		Únde ne|quít revo|cáre vi|rúm; tum |bráchia |quáli	Únde nequít revocáre virúm; tum bráchia quáli
+52	ok	DSDSDX		Iúpiter |árcta|rí — cupi|át per |sécula |néxu.	Iúpiter árctarí — cupiát per sécula néxu.
+53	ok	SSDDDX		Hínc le|vés lon|géque ma|nús, tere|tésque se|quáci	Hínc levés longéque manús, teretésque sequáci
+54	ok	DDDDDX		Órdine |súnt digi|tí, propri|úmqu'ebur |éxprimit |úngues.	Órdine súnt digití, propriúmqu'ebur éxprimit úngues.
+55	ok	DSDSDX		Túm late|rúm con|véxa de|cént, et |quícquid ad |ímos	Túm laterúm convéxa decént, et quícquid ad ímos
+56	man		manual	Mémbro|rúm iacet |úsque pe|dés: il|lósque mo|véri	Mémbrorúm iacet úsque pedés: illósque movéri
+57	ok	SSDSDX		Mórta|lí de |móre ne|gés; sic |térra mo|déste	Mórtalí de móre negés; sic térra modéste
+58	ok	DDDSDX		Tángitur, |út tene|ré — pere|ánt ves|tígia |plánte,	Tángitur, út teneré — pereánt vestígia plánte,
+59	ok	DSDSDX		Étere|úm ceu |sérvet i|tér. Sic |núbe co|rúsca	Étereúm ceu sérvet itér. Sic núbe corúsca
+60	ok	DDDSDX		Óbsita |mágnani|múm — Venus |ést af|fáta To|nántem,	Óbsita mágnanimúm — Venus ést affáta Tonántem,
+61	ok	DSSSDX		Náufragi|ó na|tí — seu |mórt'im|púlsa ne|pótis	Náufragió natí — seu mórt'impúlsa nepótis
+62	amb	DSDSDX	[[0.05, "DSDSDX"], [1.0, "DDSSDX"]]	Dúlcis o|pém spe|ráre pa|trís, dum |Tróia per |úndas,	Dúlcis opém speráre patrís, dum Tróia per úndas,
+63	ok	SDDDDX		Dúm sub|térrane|ó — tremu|ít pia |Róma tu|múltu.	Dúm subtérraneó — tremuít pia Róma tumúltu.
+64	ok	DSSSDX		Hác igi|túr for|má — nul|lí ces|súra de|árum	Hác igitúr formá — nullí cessúra deárum
+65	ok	SDDSDX		Óccur|rít iuve|ní — muli|ér: nec |cúltus in |ílla	Óccurrít iuvení — muliér: nec cúltus in ílla
+66	ok	DDDSDX		Ségnior |éffigi|é; vari|ís nam |púrpura |gémmis	Ségnior éffigié; variís nam púrpura gémmis
+67	amb	SDSSDX	[[1.0, "SDSSDX"], [1.0, "SSSDDX"], [5.0, "SDDSSX"]]	Ínter|téxta te|gít — re|gíne |péctora |méste;	Íntertéxta tegít — regíne péctora méste;
+68	ok	DDDSDX		Ét dolor |ípse de|cét — mise|rás, nec |cómpta pla|cére	Ét dolor ípse decét — miserás, nec cómpta placére
+69	ok	DSDDDX		Témpore |féli|cí — pote|rát magis. |Ílicet |érgo	Témpore félicí — poterát magis. Ílicet érgo
+70	ok	DSSSDX		Vúlnus i|nárdes|céns — to|tís er|ráre me|dúllis	Vúlnus inárdescéns — totís erráre medúllis
+71	ok	DSDSDX		Céperat: |ésti|vó — glaci|és ceu |lénta sub |éstu,	Céperat: éstivó — glaciés ceu lénta sub éstu,
+72	ok	DSDSDX		Céra vel |árden|tí — faci|lís vi|cína ca|míno,	Céra vel árdentí — facilís vicína camíno,
+73	ok	DDSSDX		Líquitur |ílle tu|éns, cap|tíva |cáptus ab |hóste,	Líquitur ílle tuéns, captíva cáptus ab hóste,
+74	ok	DSDDDX		Víctaque |vícto|rém — potu|ít domu|ísse su|pérbum.	Víctaque víctorém — potuít domuísse supérbum.
+75	ok	SDSDDX		Quíd non |frángit a|mór? quis |fúlminis |ímpetus |ílli	Quíd non frángit amór? quis fúlminis ímpetus ílli
+76	amb	SSDSDX	[[0.1, "SSDSDX"], [0.1, "SSSDDX"]]	Équan|dús? Iamqu'|ílla — gra|dú pro|vécta tre|ménti	Équandús? Iamqu'ílla — gradú provécta treménti
+77	ok	SDDSDX		Ést af|fúsa du|cís — geni|bús, quem |vúltus et |árma	Ést affúsa ducís — genibús, quem vúltus et árma
+78	ok	DDDSDX		Édide|ránt comi|túmque — fa|vór plau|súsque se|quéntum;	Édideránt comitúmque — favór plausúsque sequéntum;
+79	ok	SDSSDX		Árrep|táque ma|nú — sum|míssa |vóce lo|cúta'st:	Árreptáque manú — summíssa vóce locúta'st:
+80	ok	DSSSDX		"Sí michi |víctri|cém — fas |ést, at|tíngere |déxtram	"Sí michi víctricém — fas ést, attíngere déxtram
+81	ok	SDDSDX		Cápti|vé vidu|éque tu|ám, per |númina |súpplex	Cáptivé viduéque tuám, per númina súpplex
+82	ok	DDDSDX		Cúnta, pre|cór, mise|rére me|í; nec |mágna ro|gáris.	Cúnta, precór, miserére meí; nec mágna rogáris.
+83	ok	DDSSDX		Útere |iúre tu|ó: cap|tívam |mórtis a|cérbe,	Útere iúre tuó: captívam mórtis acérbe,
+84	ok	DSDSDX		Cárceris |áut du|rí — licet |hánc ab|súmere |sórte.	Cárceris áut durí — licet hánc absúmere sórte.
+85	ok	DDDSDX		Ést ete|ním michi |víta mo|rí: lux n'|ísta pla|céret,	Ést etením michi víta morí: lux n'ísta placéret,
+86	ok	DSDDDX		Fáta co|ége|rúnt — statu|í nimis |ínvida |nóstro.	Fáta coégerúnt — statuí nimis ínvida nóstro.
+87	ok	SDDDDX		Tú quod|cúmque li|bét — iube|ás, genus |élige |dígne	Tú quodcúmque libét — iubeás, genus élige dígne
+88	ok	DSDSDX		Mórtis; et |hóc u|núm — prohi|bé, ne |víva ma|lígno	Mórtis; et hóc unúm — prohibé, ne víva malígno
+89	ok	DSDSDX		Sérviti|ó cal|cánda fe|rár. Sunt |fórte so|róres,	Sérvitió calcánda ferár. Sunt fórte soróres,
+90	man		manual	Réx, tibi, |quás refe|rát — for|tún'in|iúria |nóstre	Réx, tibi, quás referát — fortún'iniúria nóstre
+91	ok	DSDSDX		Ánt'ocu|lós, in|vícte, tu|ós: namqu'|ét sua |nóbis	Ánt'oculós, invícte, tuós: namqu'ét sua nóbis
+92	ok	DDSSDX		Fáta fu|ísse vi|dés; suc|cédunt |trístia |létis.	Fáta fuísse vidés; succédunt trístia létis.
+93	ok	DSDSDX		Néc tamen |úllo|rúm — fue|rím pre|sága ma|lórum	Néc tamen úllorúm — fuerím presága malórum
+94	man		manual	Ípsa ti|bí! faust'|ín fi|ném, precor, |útere |régno,	Ípsa tibí! faust'ín finém, precor, útere régno,
+95	ok	SSDSDX		Ét na|tís trans|mítte tu|ís, nul|lúsque ne|pótum	Ét natís transmítte tuís, nullúsque nepótum
+96	ok	DDDDDX		Ármet in |ínsidi|ás — ani|múm: michi |túrbida |régni	Ármet in ínsidiás — animúm: michi túrbida régni
+97	ok	DSDSDX		Última, |fórtu|né — nimi|úmqu'ad|vérsa pri|óri	Última, fórtuné — nimiúmqu'advérsa prióri
+98	ok	DSDSDX		Cóntige|rínt; dam|nísque — me|ís las|sáta qui|éscat,	Cóntigerínt; damnísque — meís lassáta quiéscat,
+99	ok	DDDSDX		Mítior |hínc ali|ís. Michi |séd Ro|mána fu|ísse	Mítior hínc aliís. Michi séd Romána fuísse
+100	ok	DSDSDX		Scís odi', |ármo|rúmque — so|lént me |dícere |cáusam	Scís odi', ármorúmque — solént me dícere cáusam
+101	ok	DSSSDX		Máteri|ámqu'u|nám — bel|lí; nec |fálsa que|rúntur.	Máteriámqu'unám — bellí; nec fálsa querúntur.
+102	ok	DDDDDX		Éripe |lúdibri|ó — mise|rám, mani|búsque su|pérbis	Éripe lúdibrió — miserám, manibúsque supérbis
+103	ok	DDDSDX		Éripe; |déque me|é — speci|é, rex |ínclite, |mórtis	Éripe; déque meé — specié, rex ínclite, mórtis
+104	ok	SDSSDX		Tú cui |fáta fa|vént, cui |méns se |dévovet |últro,	Tú cui fáta favént, cui méns se dévovet últro,
+105	ok	DSDSDX		Víderis." |Héc in|tér lacri|mís — per|fúndere |térram	Víderis." Héc intér lacrimís — perfúndere térram
+106	ok	DSSSDX		Céperat, |áura|tís — suf|fígens |óscula |plántis.	Céperat, áuratís — suffígens óscula plántis.
+107	ok	DSDSDX		Ímmemor |ármo|rúm — iuve|nís, cui |Mártius |árdor	Ímmemor ármorúm — iuvenís, cui Mártius árdor
+108	ok	DDDSDX		Éxcide|rát, gravi|dúmque — no|vé dul|cédine |fórme	Éxciderát, gravidúmque — nové dulcédine fórme
+109	ok	DDSSDX		Péctus, et |ínsoli|tís — ar|débant |víscera |flámmis,	Péctus, et ínsolitís — ardébant víscera flámmis,
+110	man		manual	Súspi|ráns: "Re|gína, pre|cór, iam |lúctibus" |ínquit	Súspiráns: "Regína, precór, iam lúctibus" ínquit
+111	ok	DDDSDX		"Póne mo|dúm, trepi|dúmqu'ani|mó — se|clúde pa|vórem.	"Póne modúm, trepidúmqu'animó — seclúde pavórem.
+112	ok	DSDSDX		Párva pe|tís, sed |mágna fe|rés: nam |fórma ge|núsque	Párva petís, sed mágna ferés: nam fórma genúsque
+113	ok	SDSSDX		Máies|tásqu'ani|mí — dig|nám, cui |plúra pe|títis	Máiestásqu'animí — dignám, cui plúra petítis
+114	ok	DDDSDX		Lárgiar, |ínsinu|ánt. Igi|túr re|gína ma|nébis	Lárgiar, ínsinuánt. Igitúr regína manébis
+115	ok	SDDSDX		Ét nos|trí memo|ránda — to|rí per |sécula |cónsors,	Ét nostrí memoránda — torí per sécula cónsors,
+116	ok	DSDDDX		Ní renu|ís nos|tróque — no|cét vetus |árdor a|móri."	Ní renuís nostróque — nocét vetus árdor amóri."
+117	ok	DSDSDX		Híc humi|lém com|pléxus he|rám, mul|túmque di|úque	Híc humilém compléxus herám, multúmque diúque
+118	ok	DDDSDX		Óra sa|lútife|rís — refe|réntem |trístia |plántis	Óra salútiferís — referéntem trístia plántis
+119	ok	DDSDDX		Súblevat |íllacri|máns. Und'|ísta po|téntia |céco	Súblevat íllacrimáns. Und'ísta poténtia céco
+120	ok	DSDDDX		Tánta de|ó? Tan|túmne — le|vém valu|ísse fa|rétram,	Tánta deó? Tantúmne — levém valuísse farétram,
+121	ok	DSSDDX		Út iecur |ínvic|tí — per |tót fera |prélia |régis	Út iecur ínvictí — per tót fera prélia régis
+122	ok	DSDSDX		Vúlnere |tráiec|túm — tenu|í pros|térneret |íntra	Vúlnere tráiectúm — tenuí prostérneret íntra
+123	ok	DDSSDX		Fémine'|ímperi|úm? Vul|tú tand'|ílla re|mísso	Fémine'ímperiúm? Vultú tand'ílla remísso
+124	man		manual	Incipit: "O regum decus, auxiliumque,	Incipit: "O regum decus, auxiliumque,
+125	ok	DDSSDX		Dúm meru|ít, patri|é, nunc |térror |máximus |ídem,	Dúm meruít, patrié, nunc térror máximus ídem,
+126	ok	DSSSDX		Sí mea |póst tan|tós — un|quám con|súrgere |lápsus	Sí mea póst tantós — unquám consúrgere lápsus
+127	ok	DSDSDX		Fáta que|ánt, spesqu'|úna — fo|rét post |dámna su|pérstes,	Fáta queánt, spesqu'úna — forét post dámna supérstes,
+128	ok	DSDSDX		Quíd michi |vél lon|gá — potu|ít con|tíngere |víta	Quíd michi vél longá — potuít contíngere víta
+129	ok	DSSSDX		Létius, |ád ta|lém — quam |sí trans|láta ma|rítum	Létius, ád talém — quam sí transláta marítum
+130	amb	DSDSDX	[[1.0, "DSDSDX"], [1.05, "DSSDDX"], [1.05, "SSDDDX"]]	Dícerer |ét faus|tá — subi|tó cre|vísse ru|ína?	Dícerer ét faustá — subitó crevísse ruína?
+131	ok	DDSSDX		Séd quia |fáta pre|múnt — et |nóstris |débitus |ánnis	Séd quia fáta premúnt — et nóstris débitus ánnis
+132	ok	DDDSDX		Fínis a|dést michi, |cár', ani|mós — at|tóllere |fráctos	Fínis adést michi, cár', animós — attóllere fráctos
+133	ok	DSDSDX		Désine: |nón ta|lí — pela|gó con|vúlsa ra|tís nat.	Désine: nón talí — pelagó convúlsa ratís nat.
+134	ok	SDDSDX		Fórtu|né michi |nóta fi|dés: sat |mágna pe|ténti	Fórtuné michi nóta fidés: sat mágna peténti
+135	ok	DSSSDX		Dóna da|bís mor|tém, que |líber|táte re|ténta	Dóna dabís mortém, que líbertáte reténta
+136	ok	DDSSDX		Pérferat |hánc ani|mám — di|récto |trámit'ad |úmbras.	Pérferat hánc animám — dirécto trámit'ad úmbras.
+137	ok	SSDDDX		Róma|núm fu|gísse — iu|gúm michi |méta pre|cándi'st.	Rómanúm fugísse — iugúm michi méta precándi'st.
+138	ok	DSDSDX		Cétera |nón au|sím. Tibi |séd pro |tálibus |ílle	Cétera nón ausím. Tibi séd pro tálibus ílle
+139	ok	DDSSDX		Réx supe|rúm meri|tís — gra|tés e|xólvat o|pímas,	Réx superúm meritís — gratés exólvat opímas,
+140	ok	DDSDDX		Quí mea |mágnifi|có — trans|céndere |vóta fa|vóre	Quí mea mágnificó — transcéndere vóta favóre
+141	ok	DSSSDX		Nísus e|rás." Vult'|héc — di|céns a|vértit, et |íllum	Nísus erás." Vult'héc — dicéns avértit, et íllum
+142	ok	DDDSDX		Cómpulit |ín lacri|más — ite|rúm: "Sed |párce do|lóri,	Cómpulit ín lacrimás — iterúm: "Sed párce dolóri,
+143	ok	DSDSDX		Párc'" ait "|ét nos|trís — ocu|lís, quos |flétibus |ístis	Párc'" ait "ét nostrís — oculís, quos flétibus ístis
+144	ok	DDSSDX		Ánte di|ém peri|mís: spes |ámplas |féssa la|bánsque	Ánte diém perimís: spes ámplas féssa labánsque
+145	man		manual	Méns refu|gít, ter|réque ia|céns — nil |súspicit |áltum.	Méns refugít, terréque iacéns — nil súspicit áltum.
+146	ok	DSDDDX		Tú tamen |ínten|dás — ani|múm meli|óribus: |íbit	Tú tamen íntendás — animúm melióribus: íbit
+147	ok	DSDDDX		Fórt'ali|ó For|túna no|céns, adi|túmque re|línquet	Fórt'alió Fortúna nocéns, aditúmque relínquet
+148	man		manual	Ád mag|nós pla|cáta gra|dús: si |dúra (quod |hórret	Ád magnós placáta gradús: si dúra (quod hórret
+149	ok	SSDSDX		Méns o|mén) fors |ílla ve|tát, tunc |última |séro	Méns omén) fors ílla vetát, tunc última séro
+150	ok	DSDSDX		Mórs dabi|túr pro|míssa ti|bí; per |sídera |téstor	Mórs dabitúr promíssa tibí; per sídera téstor
+151	ok	DSDSDX		Álta po|lí, re|gúmque — fi|dém Ma|nésque de|ósque."	Álta polí, regúmque — fidém Manésque deósque."
+152	ok	DDSSDX		Tália |víx tremu|lá — con|fúsus |vóce pe|régit,	Tália víx tremulá — confúsus vóce perégit,
+153	ok	SDDDDX		Hínc se|sé vacu|ám — tulit |írrequi|étus ad |árcem.	Hínc sesé vacuám — tulit írrequiétus ad árcem.
+154	ok	DDDSDX		Quís queat |ínstabi|lés — ani|mórum |nóscere |flúctus,	Quís queat ínstabilés — animórum nóscere flúctus,
+155	ok	DDSSDX		Quós ferus |úrget a|mór? Non |íllos |túrbidus |équet	Quós ferus úrget amór? Non íllos túrbidus équet
+156	ok	SSDSDX		Éuri|pús, non |Scílla fre|méns, non |díre Ca|ríbdis.	Éuripús, non Scílla freméns, non díre Caríbdis.
+157	ok	DSDSDX		Némpe pro|céllo|sí — male |sánum |péctus a|mántis	Némpe procéllosí — male sánum péctus amántis
+158	ok	DDSSDX		Núlla qui|és habi|tát: non |lúx tran|quílla di|érum,	Núlla quiés habitát: non lúx tranquílla diérum,
+159	ok	DDSDDX		Nón sua |sígna po|lí, non |nóctis i|mágo se|réne,	Nón sua sígna polí, non nóctis imágo seréne,
+160	ok	DSSSDX		Nón rati|bús cla|vúm, non |tútus |lítore |pórtus:	Nón ratibús clavúm, non tútus lítore pórtus:
+161	ok	DDDSDX		Hórrida |pérpetu|ó — faci|és tur|báta tu|múltu,	Hórrida pérpetuó — faciés turbáta tumúltu,
+162	amb	DDDSDX	[[0.0, "DDDSDX"], [0.05, "DDSDDX"]]	Úndique |náufragi|úm — scopu|lí cla|démque mi|nántes,	Úndique náufragiúm — scopulí cladémque minántes,
+163	ok	DSSSDX		Ímpiaqu'|ádver|sís — dis|córdant |équora |véntis,	Ímpiaqu'ádversís — discórdant équora véntis,
+164	ok	DDDSDX		Héu, mise|rí quibus |húc — subi|tó vol|vúntur et |ílluc	Héu, miserí quibus húc — subitó volvúntur et ílluc
+165	ok	SDDSDX		Íncer|tí pelag'|átque vi|é. Iam |técta su|prémi	Íncertí pelag'átque vié. Iam técta suprémi
+166	ok	DDSDDX		Íntima |réx tala|mí — se|crétaque |límine |sólus	Íntima réx talamí — secrétaque límine sólus
+167	ok	SDDSDX		Íntra|rát, taci|túsque se|déns, dum |síngula |sécum	Íntrarát, tacitúsque sedéns, dum síngula sécum
+168	ok	SSDSDX		Pértrac|tát, quan'|ílle — fi|dém per|sólvat, a|mánti	Pértractát, quan'ílle — fidém persólvat, amánti
+169	ok	DDDSDX		Díffici|lém videt |ésse vi|ám; nam |térritat |íllum	Dífficilém videt ésse viám; nam térritat íllum
+170	man		manual	Cápti|vé status |ét mise|ré for|túna ma|ríte,	Cáptivé status ét miseré fortúna maríte,
+171	ok	SSDSDX		Róma|ní mens |álta du|cís, tum |nóta pu|díci	Rómaní mens álta ducís, tum nóta pudíci
+172	ok	DDSDDX		Péctoris |íntegri|tás: il|lám metu|ébat a|móri	Péctoris íntegritás: illám metuébat amóri
+173	ok	SDDSDX		Ádver|sám repe|ríre su|ó. Sed |dúra ca|ténis	Ádversám reperíre suó. Sed dúra caténis
+174	ok	SDSDDX		Évinc|túm vali|dís — lex |ímperi|ósa trah|ébat	Évinctúm validís — lex ímperiósa trahébat
+175	ok	SDDSDX		Cérnen|tém sua |fáta pro|cúl. Ceu |víctus in |álto	Cérnentém sua fáta procúl. Ceu víctus in álto
+176	ok	DSDSDX		Návita, |quí mes|tús — scopu|lós Sir|tésque va|dósas	Návita, quí mestús — scopulós Sirtésque vadósas
+177	ok	DDDSDX		Ánt'ocu|lós videt |ípse su|ós, nec |fléctere |próram	Ánt'oculós videt ípse suós, nec fléctere próram
+178	ok	DDSSDX		Árte va|léns soli|tá, ven|tóqu'im|púlsus et |úndis,	Árte valéns solitá, ventóqu'impúlsus et úndis,
+179	ok	DSSSDX		Ómnia |déspe|ráns, For|túne |mándat i|níque	Ómnia désperáns, Fortúne mándat iníque
+180	ok	SSSDDX		Ét clav'|ét re|mós — et |véla flu|éntia |nímbo,	Ét clav'ét remós — et véla fluéntia nímbo,
+181	ok	DSDSDX		Ác lacri|máns in |púppe se|dét: sic |náufraga |régis	Ác lacrimáns in púppe sedét: sic náufraga régis
+182	ok	SSDSDX		Méns he|rét com|púlsa qui|dém, nec |fléctere |quóquam	Méns herét compúlsa quidém, nec fléctere quóquam
+183	ok	DDSSDX		Órsa va|léns, gemi|tú — sic |lóngam |cóncitus |hóram	Órsa valéns, gemitú — sic lóngam cóncitus hóram
+184	ok	SDSDDX		Éxe|gít vari|ó: nunc |óra ni|téntia |córam	Éxegít varió: nunc óra niténtia córam
+185	ok	DSSSDX		Cérnere |régi|né, nunc |dúlces |fíngere |vóces	Cérnere réginé, nunc dúlces fíngere vóces
+186	ok	DDSDDX		Ípse si|bí, pedi|bús — nunc |óscula |préssa ma|núsque	Ípse sibí, pedibús — nunc óscula préssa manúsque
+187	ok	DSDDDX		Léniter |áppren|sás, lacri|mósaque |péctora |fléntis,	Léniter ápprensás, lacrimósaque péctora fléntis,
+188	ok	DSDSDX		Dúlcibus |úndan|tésqu'ocu|lós — ar|sísse fa|víllis.	Dúlcibus úndantésqu'oculós — arsísse favíllis.
+189	man		manual	Át medi|ás in|tér cu|rás, ubi |fórte ve|réndi	Át mediás intér curás, ubi fórte veréndi
+190	ok	DSDSDX		Fróns ade|rát di|lécta du|cís, tunc |ímproba |térgum	Fróns aderát dilécta ducís, tunc ímproba térgum
+191	ok	DDSSDX		Spés dabat, |ét domi|tís — sta|bánt pre|córdia |flámmis.	Spés dabat, ét domitís — stabánt precórdia flámmis.
+192	man		manual	Sícut ub'|árden|tí — geli|dús suc|céssit a|éno	Sícut ub'árdentí — gelidús succéssit aéno
+193	ok	DDDSDX		Húmor a|qué, furor |ílle si|lét, pau|lúmque te|pénti	Húmor aqué, furor ílle silét, paulúmque tepénti
+194	man		manual	Stát simi|lís: mox |áucta — su|ás in|céndia |víres	Stát similís: mox áucta — suás incéndia víres
+195	ok	SDDSDX		Éxer|cént magis |átque ma|gís: sic |ílle tu|múltus	Éxercént magis átque magís: sic ílle tumúltus
+196	ok	DSDDDX		Péctoris |óppres|sús, stimu|lís agi|tántibus |ídem	Péctoris óppressús, stimulís agitántibus ídem
+197	ok	DSDSDX		Fórtior |ádmo|tás — rati|ónis |spérnit ha|bénas.	Fórtior ádmotás — ratiónis spérnit habénas.
+198	ok	DDDDDX		Érg'ubi |vúlnifi|có — reve|réntia |céssit a|móri,	Érg'ubi vúlnificó — reveréntia céssit amóri,
+199	ok	SDSSDX		Présen|tísque de|cús — form'|ét dam|nósa vo|lúptas	Présentísque decús — form'ét damnósa volúptas
+200	ok	SSDDDX		Ábsen|tí pre|láta du|cí'st, capit |ílicet |éger	Ábsentí preláta ducí'st, capit ílicet éger
+201	ok	DSDSDX		Cónsili|úm, fac|tíque — vi|ám de|préndit i|nánem;	Cónsiliúm, factíque — viám depréndit inánem;
+202	man		manual	Ét se|cúm: "Quid |léntus a|gís? Speci|ós'Hime|néus	Ét secúm: "Quid léntus agís? Speciós'Himenéus
+203	ok	DSSDDX		Cóniugi'|ét le|tós — blan|dús modo |Iúpiter |ánnos	Cóniugi'ét letós — blandús modo Iúpiter ánnos
+204	ok	DDDDDX		Óbtulit |écce ti|bí. Satis |ést memi|nísse la|bórum.	Óbtulit écce tibí. Satis ést meminísse labórum.
+205	ok	DDSDDX		Éxul, i|nóps, profu|gús, reg|nó spoli|átus a|víto,	Éxul, inóps, profugús, regnó spoliátus avíto,
+206	ok	DSSDDX		Pér mare, |pér ter|rás, per |mílle pe|rícula |súpplex	Pér mare, pér terrás, per mílle perícula súpplex
+207	ok	DDSSDX		Régibus |ác popu|lís — mul|tós er|rásse per |ánnos	Régibus ác populís — multós errásse per ánnos
+208	ok	DSDSDX		Gáudeo: |iám tem|pús — fue|rít for|tásse qui|étis.	Gáudeo: iám tempús — fuerít fortásse quiétis.
+209	ok	SDDSDX		Nám si |cúnta bre|vís — nume|réntur |trístia |víte,	Nám si cúnta brevís — numeréntur trístia víte,
+210	ok	DSSSDX		Núllus e|rít to|tó — te |núnc an|nósior |órbe.	Núllus erít totó — te núnc annósior órbe.
+211	ok	SSDSDX		Én reg|núm For|túna tu|úm, quo |dúlcius |íllo	Én regnúm Fortúna tuúm, quo dúlcius íllo
+212	ok	DDSSDX		Pérfrue|rére di|ú, lon|gó post |témpore |réddit	Pérfruerére diú, longó post témpore réddit
+213	ok	DDSSDX		Déposi|túmque re|fért. Hos|tém - qua |núlla vo|lúptas	Dépositúmque refért. Hostém - qua núlla volúptas
+214	ok	DSSSDX		Máior - ha|bés vinc|túm, vi|téqu'et |mórtis in |ípsum	Máior - habés vinctúm, vitéqu'et mórtis in ípsum
+215	ok	DSDDDX		Árbiter |és, qui |cára — ti|bí tulit |ómnia |sólus.	Árbiter és, qui cára — tibí tulit ómnia sólus.
+216	ok	DDDSDX		Ómnia |núnc rede|únt. Simul |híc pos|séssor i|níquus	Ómnia núnc redeúnt. Simul híc posséssor iníquus
+217	ok	DDDDDX		Régna ge|méns revo|mít, niti|dísque si|míllima |Nímfis	Régna geméns revomít, nitidísque simíllima Nímfis
+218	ok	DDSDDX		Fémina |prétere|á — pri|mó spoli|áta ma|ríto -	Fémina prétereá — primó spoliáta maríto -
+219	ok	SSDSDX		Béllo|rúm sic |iúra vo|lúnt - oc|cúrrit et |árdet,	Béllorúm sic iúra volúnt - occúrrit et árdet,
+220	ok	DSDDDX		Sí lice|át, sed |múlta — ti|mét sibi |cónscia |sórtis.	Sí liceát, sed múlta — timét sibi cónscia sórtis.
+221	ok	DSDSDX		Némpe ve|récun|dé — petit |íd, quod |vóce ne|gáre	Némpe verécundé — petit íd, quod vóce negáre
+222	ok	DDSSDX		Vísa fu|ít metu|éns. Heu |quális |fórma ge|ménti!	Vísa fuít metuéns. Heu quális fórma geménti!
+223	ok	DDSSDX		Quámque de|cént lacri|mé! quid |máies|tátis in |ílla'st!	Quámque decént lacrimé! quid máiestátis in ílla'st!
+224	ok	SDSSDX		Ét quid |léta fo|rét? qua|lís re|gína su|pérbo	Ét quid léta forét? qualís regína supérbo
+225	ok	DDSDDX		Álta se|déns soli|ó, si |glória |súpplicis |íngens,	Álta sedéns solió, si glória súpplicis íngens,
+226	man		manual	Cápti|vé si |tántus ho|nós? Proh |dúlcis a|mántum	Cáptivé si tántus honós? Proh dúlcis amántum
+227	ok	DSSDDX		Víta, nec |álter|nís — con|córdia |rúpta que|rélis!	Víta, nec álternís — concórdia rúpta querélis!
+228	ok	DDSSDX		Úna qui|dém faci|és — sem|pér, mens |úna du|óbus,	Úna quidém faciés — sempér, mens úna duóbus,
+229	ok	DSDSDX		Úna qui|és u|núsque la|bór! Non |púlcrius |órbe	Úna quiés unúsque labór! Non púlcrius órbe
+230	ok	DSDSDX		Pár fue|rít to|tó, nisi |nós o|blívia |fórme	Pár fuerít totó, nisi nós oblívia fórme
+231	ok	DSDSDX		Fórte te|nént nos|tré; genus |ét sors, |ómnia |tándem	Fórte tenént nostré; genus ét sors, ómnia tándem
+232	ok	DSDSDX		Cónveni|únt, ca|súsque — gra|vés mol|líre fe|réndo	Cónveniúnt, casúsque — gravés mollíre feréndo
+233	ok	DSDSDX		Cónvenit |átqu'e|tás — spati|ó dis|tíncta, quod |ípsis	Cónvenit átqu'etás — spatió distíncta, quod ípsis
+234	ok	DSDSDX		Cóniugi|bús grat'|ésse po|tést; quodqu'|ípse no|távi,	Cóniugibús grat'ésse potést; quodqu'ípse notávi,
+235	ok	DDSSDX		Cónvenit |íll'eti|ám, qui |súmmis |ínfima |sólus	Cónvenit íll'etiám, qui súmmis ínfima sólus
+236	ok	DDDDDX		Équat, a|mór. Prope|rá, nec e|ním tibi |fórte ti|méndum'st	Équat, amór. Properá, nec ením tibi fórte timéndum'st
+237	ok	DSSDDX		Né tua |cóndem|nét — to|rí iuve|nília |fúrta	Né tua cóndemnét — torí iuvenília fúrta
+238	ok	DDDDDX		Scípio: |quín iuve|ném — iuve|nís mise|rábitur |últro,	Scípio: quín iuveném — iuvenís miserábitur últro,
+239	ok	DDDSDX		Víderit |ét lacri|más, veni|ám pres|tábit a|móri.	Víderit ét lacrimás, veniám prestábit amóri.
+240	ok	DSDSDX		Cóniugi|úm for|tásse sa|crúm, non |fúrta vo|cábit,	Cóniugiúm fortásse sacrúm, non fúrta vocábit,
+241	ok	SDDDDX		Régi|námque to|rí — soci|ám vene|rábitur |ólim	Réginámque torí — sociám venerábitur ólim
+242	ok	DDDSDX		Mítior |ílle du|cúm." Simul |héc ef|fátus, a|mícos	Mítior ílle ducúm." Simul héc effátus, amícos
+243	ok	DDDDDX		Cónvocat |átqu'ani|mós — ape|rít. Iubet |ómnia |ráptim	Cónvocat átqu'animós — aperít. Iubet ómnia ráptim
+244	ok	DDSDDX		Éxpedi|ánt. Modi|có — con|vívia |cúlta pa|rátu.	Éxpediánt. Modicó — convívia cúlta parátu.
+245	ok	DDSDDX		Átria |nón rebo|ánt, non |Túscus ad |étera |clángor,	Átria nón reboánt, non Túscus ad étera clángor,
+246	ok	DDSDDX		Nón comi|túm fremi|tús, non |árcta pa|látia |túrmis,	Nón comitúm fremitús, non árcta palátia túrmis,
+247	amb	SDDSDX	[[1.0, "SDDSDX"], [1.05, "DDSSDX"]]	Nón cre|bré micu|ére fa|cés; fax |ússit a|mántes	Nón crebré micuére facés; fax ússit amántes
+248	ok	DDSSDX		Úna du|ós, lacri|mís — mox |éxting|uénda du|órum.	Úna duós, lacrimís — mox éxtinguénda duórum.
+249	man		manual	Púlcer A|tlánte|ó — prope|ráns sub |gúrgite |mérgi	Púlcer Atlánteó — properáns sub gúrgite mérgi
+250	ok	DSSDDX		Hésperus |ópta|tám — noc|tém refe|rébat, i|níquos	Hésperus óptatám — noctém referébat, iníquos
+251	ok	SSDDDX		Ássue|tús pre|férre — di|és et a|mántibus |hóstis,	Ássuetús preférre — diés et amántibus hóstis,
+252	ok	DDSDDX		Ínvida |lúcife|rí — dum |nómina |súscipit |ástri.	Ínvida lúciferí — dum nómina súscipit ástri.
+253	ok	DSSSDX		Méntibus |héu quan|túm — nos|trís ca|lígine |céca	Méntibus héu quantúm — nostrís calígine céca
+254	ok	SSDSDX		Íllu|dít ven|túra di|és! For|tásse, be|átus	Ílludít ventúra diés! Fortásse, beátus
+255	ok	DDDSDX		Cóniugi|ó, sobo|lémque — si|bí tur|bámque ne|pótum	Cóniugió, sobolémque — sibí turbámque nepótum
+256	ok	DSDDDX		Réx ani|mó com|pléxus e|rát, geni|ália |létus	Réx animó compléxus erát, geniália létus
+257	ok	DDSSDX		Témpora |nóctis a|géns. Il|lí non |blánda ma|ríti	Témpora nóctis agéns. Illí non blánda maríti
+258	ok	DDSSDX		Óscula |mílle no|ví, non |régni |iúra ve|tústi	Óscula mílle noví, non régni iúra vetústi
+259	ok	SSDSDX		Pér cun|tós pro|míssa de|ós, de |córde pa|vórem	Pér cuntós promíssa deós, de córde pavórem
+260	ok	DDSDDX		Fúnditus |éxpule|ránt: sem|pér treme|fácta se|púlcrum	Fúnditus éxpuleránt: sempér tremefácta sepúlcrum
+261	ok	DSDSDX		Ánt'ocu|lós mor|témque tu|lít. Nec |sómnia |létum	Ánt'oculós mortémque tulít. Nec sómnia létum
+262	amb	SDSDDX	[[0.0, "SDSDDX"], [0.05, "SDDSDX"]]	Pórten|dér'ali|quíd. Vi|sá'st sibi |némpe, se|cúndo	Pórtendér'aliquíd. Visá'st sibi némpe, secúndo
+263	ok	DSDSDX		Rápta vi|ró, sen|tíre — mi|nás et |iúrgia |prími,	Rápta viró, sentíre — minás et iúrgia prími,
+264	ok	DSDSDX		Ét tremu|ít, so|píta li|cét. Tum |vértice |móntis	Ét tremuít, sopíta licét. Tum vértice móntis
+265	ok	DSDSDX		Áeri|í tra|dúcta se|déns, sub|iécta vi|débat	Áerií tradúcta sedéns, subiécta vidébat
+266	ok	DDDSDX		Régna si|bí popu|lósque va|gós; mons|trúmque re|pénte	Régna sibí populósque vagós; monstrúmque repénte
+267	ok	SDSSDX		Cóncur|ríss'ali|úm — ma|ióri |córpore |móntem;	Cóncurríss'aliúm — maióri córpore móntem;
+268	ok	SDDSDX		Túm ve|ró tremu|ísse iu|gúm, cui |níxa se|débat;	Túm veró tremuísse iugúm, cui níxa sedébat;
+269	ok	SDDSDX		Ímpul|súque gra|ví — geli|dós de |vértice |fóntes	Ímpulsúque graví — gelidós de vértice fóntes
+270	ok	SDSDDX		Déscen|dísse du|ós; mon|témqu'abi|ísse mi|nórem	Déscendísse duós; montémqu'abiísse minórem
+271	man		manual	Índe re|tró;'st il|lám — rapi|dó per i|nánia |lápsu	Índe retró;'st illám — rapidó per inánia lápsu
+272	man		manual	Tártara |nígra quid'|ét Stigi|ám — teti|gísse pa|lúdem.	Tártara nígra quid'ét Stigiám — tetigísse palúdem.
+273	ok	DDDSDX		Pública |fíniti|más — subi|tó per|lábitur |úrbes	Pública fínitimás — subitó perlábitur úrbes
+274	ok	DSSSDX		Fáma gra|dú, vic|té — vic|tórem |spónte se|cútum	Fáma gradú, victé — victórem spónte secútum
+275	ok	DSDSDX		Cóniugi', |ét bell'|índomi|túm — ser|víre pu|élle.	Cóniugi', ét bell'índomitúm — servíre puélle.
+276	ok	DDSSDX		Vúlgus a|dúlteri|í — sig|nábat |nómine |fáctum,	Vúlgus adúlterií — signábat nómine fáctum,
+277	ok	DDSSDX		Quód neque |légiti|mís — ar|síssent |ígnibus |ínter	Quód neque légitimís — arsíssent ígnibus ínter
+278	ok	SDDDDX		Ármo|rúm strepi|tús, ali|óque su|pérstite |rége	Ármorúm strepitús, alióque supérstite rége
+279	ok	DSSSDX		Cóniuge; |cápti|vé — vic|tóri |fórma quod |úno	Cóniuge; cáptivé — victóri fórma quod úno
+280	ok	DSDDDX		Vísa di'|ét di|lécta pri|ús, subi|tóque re|cépta	Vísa di'ét dilécta priús, subitóque recépta
+281	man		manual	Fédere, |nón in|tér patri|ós ex |móre pe|nátes,	Fédere, nón intér patriós ex móre penátes,
+282	ok	DSSDDX		Iúdici|ó ne |quíd, sed |cúnta li|bídine |sánas	Iúdició ne quíd, sed cúnta libídine sánas
+283	ok	DDDSDX		Précipi|tánte mo|rás — fie|rént. Sic |ómnia |vúlgus	Précipitánte morás — fierént. Sic ómnia vúlgus
+284	ok	SSDSDX		Ín pe|iús tor|quére lo|quáx. Iam |crébrior |áures	Ín peiús torquére loquáx. Iam crébrior áures
+285	ok	DDSSDX		Fáma du|cís vari|ó — fer|véns pul|sáverat |éstu.	Fáma ducís varió — fervéns pulsáverat éstu.
+286	ok	DSDDDX		Índolu|ít, ca|rí — faci|nús mise|rátus a|míci	Índoluít, carí — facinús miserátus amíci
+287	ok	DSDSDX		Dúx pius |ést, re|rúmque — mo|dúm sec'|ípse re|vólvens,	Dúx pius ést, rerúmque — modúm sec'ípse revólvens,
+288	ok	SSSSDX		Íntem|pésti|vós — est |détes|tátus a|móres,	Íntempéstivós — est détestátus amóres,
+289	ok	DSDSDX		Múltaqu'in |ábsen|tém — taci|tús con|vícia |fínxit.	Múltaqu'in ábsentém — tacitús convícia fínxit.
+290	ok	DSSSDX		Síc pater |óffen|sús — lon|gínquo |vérbera |náto	Síc pater óffensús — longínquo vérbera náto
+291	amb	DDSSDX	[[0.0, "DDSSDX"], [0.0, "DSDSDX"], [5.0, "DDDSSX"]]	Ínstruit |ét cala|mís — i|rárum |fúlmina |fúndit,	Ínstruit ét calamís — irárum fúlmina fúndit,
+292	man		manual	Móx vul|tú placid'|ét dul|cí ser|móne mo|véndus.	Móx vultú placid'ét dulcí sermóne movéndus.
+293	ok	DSDDDX		Áltera |póst pri|mám — sequi|túr popu|lósque se|cúndo	Áltera póst primám — sequitúr populósque secúndo
+294	amb	DSDSDX	[[0.05, "DSDSDX"], [1.0, "DDSSDX"]]	Fáma le|vés ru|móre re|plét, suc|cédere |cástris	Fáma levés rumóre replét, succédere cástris
+295	ok	SSDDDX		Sífa|cém vinc|túmque trah|í. Ruit |óbvius |ómnis	Sífacém vinctúmque trahí. Ruit óbvius ómnis
+296	ok	SDDSDX		Vísen|díqu'avi|dús — posi|tís e|xércitus |ármis;	Vísendíqu'avidús — positís exércitus ármis;
+297	ok	SSSDDX		Íll'ad|mírar', |átqu'il|lúm — cele|bráre fre|quéntes,	Íll'admírar', átqu'illúm — celebráre frequéntes,
+298	ok	SSSSDX		Húnc il|lúm bell'|íngen|tém — reg|nísque su|pérbum,	Húnc illúm bell'íngentém — regnísque supérbum,
+299	ok	SSDSDX		Róma|núm Pe|númque — du|cém qui |víderit |úno	Rómanúm Penúmque — ducém qui víderit úno
+300	ok	DDSDDX		Témpore |súb lari|bús — pa|cém veni|ámque pre|cántes,	Témpore súb laribús — pacém veniámque precántes,
+301	ok	DSDSDX		Cúique du|ós mun|dí — domi|nós non |múlta pu|déret	Cúique duós mundí — dominós non múlta pudéret
+302	ok	SSSSDX		Blándi|rí; cui |cérta|tím — so|lémnia |támquam	Blándirí; cui cértatím — solémnia támquam
+303	ok	DDSSDX		Vóta de|ó fie|rént; cui |régum |máximus |ólim	Vóta deó fierént; cui régum máximus ólim
+304	ok	SDSSDX		Mássi|níssa me|tú — to|tó con|césserit |Órbe;	Mássiníssa metú — totó concésserit Órbe;
+305	ok	DSDSDX		Quém faci|é tur|báta — no|vá For|túna ro|tásset	Quém facié turbáta — nová Fortúna rotásset
+306	ok	SSDSDX		Ád terr'|ímpul|sú — subi|tó. Vix |crédula |tánte	Ád terr'ímpulsú — subitó. Vix crédula tánte
+307	ok	DSSDDX		Córda re', |íngen|tís — lap|sú stupe|fácta ru|íne.	Córda re', íngentís — lapsú stupefácta ruíne.
+308	ok	DDSSDX		Sí quis A|tón vide|át, ver|só seu |vértic'O|límpum	Sí quis Atón videát, versó seu vértic'Olímpum
+309	man		manual	Ége|ís ceci|dísse va|dís, Eri|císque tu|úmque,	Égeís cecidísse vadís, Ericísque tuúmque,
+310	ok	SDSDDX		Áppen|níne, ca|pút — Tir|réna sub |équora |mérsum,	Áppenníne, capút — Tirréna sub équora mérsum,
+311	ok	SDDSDX		Nón cre|dát satis |ípse si|bí, sed |sómnia |vánis	Nón credát satis ípse sibí, sed sómnia vánis
+312	ok	DSSSDX		Pléna pu|tét mons|trís. Rex |ínter |tália |mágno	Pléna putét monstrís. Rex ínter tália mágno
+313	ok	SDDSDX		Cóncurs'|ínvehi|túr — ducis |ád ten|tória |nóstri.	Cóncurs'ínvehitúr — ducis ád tentória nóstri.
+314	ok	SSDSDX		Héu quan|tís, For|túna, do|lís mor|tália |péssum	Héu quantís, Fortúna, dolís mortália péssum
+315	ok	DSSDDX		Ómnia |dás! Quan|túm — su|blímibus |ínvida |régnis!	Ómnia dás! Quantúm — sublímibus ínvida régnis!
+316	ok	SSDSDX		Héc mag|nís pro|míssa lu|és, hec |méta bo|nórum,	Héc magnís promíssa lués, hec méta bonórum,
+317	ok	DDSSDX		Stáre par'|ét ruer'. |Híc — re|gúm rex |ílle su|prémus	Stáre par'ét ruer'. Híc — regúm rex ílle suprémus
+318	man		manual	Máncipi|úm ve|nále ia|cét, trahi|túrque ca|ténis	Máncipiúm venále iacét, trahitúrque caténis
+319	ok	DSSSDX		Óbrutus |ét mul|tó — cir|cúmval|látus ab |hóste.	Óbrutus ét multó — circúmvallátus ab hóste.
+320	ok	DDSDDX		Cóntigit |Hésperi|í — men|tém ducis |ílla ve|tústi	Cóntigit Hésperií — mentém ducis ílla vetústi
+321	ok	DSDSDX		Hóspiti|í ne|glécta fi|dés, blan|dúsque se|réne	Hóspitií neglécta fidés, blandúsque seréne
+322	ok	DDSSDX		Vúltus a|míciti|é — cons|péctus, |iúnctaque |déxtre	Vúltus amícitié — conspéctus, iúnctaque déxtre
+323	ok	DSDSDX		Déxtera, |cónses|súsque — tor', |ác pre|séntibus |ílla	Déxtera, cónsessúsque — tor', ác preséntibus ílla
+324	ok	SSDSDX		Máies|tás col|láta ma|lís; tan|démque pro|fátur:	Máiestás colláta malís; tandémque profátur:
+325	man		manual	"Quíd tibi, |váne Si|fáx, volu|íst'? Und'|ísta fu|rénti	"Quíd tibi, váne Sifáx, voluíst'? Und'ísta furénti
+326	ok	DSDSDX		Méns ade|ó trans|vérsa ti|bí? pac|tíne re|púlsa	Méns adeó transvérsa tibí? pactíne repúlsa
+327	ok	DSDDDX		Áuxili|í con|téntus e|rás, nisi |bélla mo|véres?"	Áuxilií conténtus erás, nisi bélla movéres?"
+328	ok	DDSSDX		Díxerat: |íll'ani|mó — vul|túqu'im|mótus e|ódem	Díxerat: íll'animó — vultúqu'immótus eódem
+329	ok	DSSDDX		Pérstitit, |ác se|ró — vix |mésta si|léntia |frégit:	Pérstitit, ác seró — vix mésta siléntia frégit:
+330	man		manual	"Níl michi, |mágnanim'|ét nos|trí dux |máxime |sécli,	"Níl michi, mágnanim'ét nostrí dux máxime sécli,
+331	ok	DSDSDX		Níl gravi|ús For|túna tu|lít, quam |frígida |cámpis	Níl graviús Fortúna tulít, quam frígida cámpis
+332	ok	DDDSDX		Línquere |quód medi|ís — mori|éns hec |mémbra ne|quívi	Línquere quód mediís — moriéns hec mémbra nequívi
+333	man		manual	Ármo|rúmqu'in|tér stra|gém — cumu|lósque vi|rórum.	Ármorúmqu'intér stragém — cumulósque virórum.
+334	ok	SDDSDX		Péna|rúm michi |súmma qui|dém, quod |vívere |béllo	Pénarúm michi súmma quidém, quod vívere béllo
+335	ok	DSDSDX		Cóntigit |éxhaus|tó: nec e|ním nunc |óra vi|dérem	Cóntigit éxhaustó: nec ením nunc óra vidérem
+336	ok	DDDDDX		Héc michi |pérfidi|é — meri|tám reno|vántia |lítem.	Héc michi pérfidié — meritám renovántia lítem.
+337	ok	DDDSDX		Ást ego, |sí mise|rís — lice|át cre|dénda pro|fári	Ást ego, sí miserís — liceát credénda profári
+338	ok	DDSDDX		Ét queat |ín gravi|bús — ve|ró locus |ésse ca|ténis,	Ét queat ín gravibús — veró locus ésse caténis,
+339	ok	DSSDDX		Véra lo|quár, pri|múmqu'om|nés — meru|ísse fa|tébor	Véra loquár, primúmqu'omnés — meruísse fatébor
+340	ok	DSDSDX		Spónte cru|cés, qui |sácra vo|léns, qui |iúra fi|démque	Spónte crucés, qui sácra voléns, qui iúra fidémque
+341	ok	DDSDDX		Fásque pi|úmque si|múl — con|véntaque |fédera |tánti	Fásque piúmque simúl — convéntaque fédera tánti
+342	ok	DDSDDX		Hóspitis, |éxigu|á — tur|píque li|bídine |víctus,	Hóspitis, éxiguá — turpíque libídine víctus,
+343	ok	SSDDDX		Cálca|ví tes|tésque — de|ós memo|résque ma|lórum.	Cálcaví testésque — deós memorésque malórum.
+344	ok	SDSDDX		Séd que |cáusa gra|vís, que |trístis o|rígo ru|íne,	Séd que cáusa gravís, que trístis orígo ruíne,
+345	ok	DSDSDX		Fórsitan |ígno|rás: ego |núnc ve|ríssima |páucis	Fórsitan ígnorás: ego núnc veríssima páucis
+346	ok	DSDDDX		Éxpedi|ám, non |ílla — me|úm rele|vántia |crímen,	Éxpediám, non ílla — meúm relevántia crímen,
+347	ok	DSDSDX		Quín poti|ús ius|tí — stimu|lós auc|túra pu|dóris.	Quín potiús iustí — stimulós auctúra pudóris.
+348	ok	DSDDDX		Fémina |cúm pri|múm — lari|bús fuit |ádvena |nóstris,	Fémina cúm primúm — laribús fuit ádvena nóstris,
+349	ok	DSDSDX		Áuspici|ís in|vécta — ma|lís atqu'|álite |tórva,	Áuspiciís invécta — malís atqu'álite tórva,
+350	ok	DDDSDX		Túnc peri|í, peri|ítque fi|dés, et |glória |nóbis	Túnc perií, periítque fidés, et glória nóbis
+351	ok	DSDDDX		Éxcidit |ác scep|trúm — mani|bús dia|démaque |frónti;	Éxcidit ác sceptrúm — manibús diadémaque frónti;
+352	ok	DDSDDX		Pródita |túnc taci|tís — ar|sít mea |régia |flámmis.	Pródita túnc tacitís — arsít mea régia flámmis.
+353	ok	DDDDDX		Fúnere|ás tulit |ílla fa|cés, potu|ítque do|lósis	Fúnereás tulit ílla facés, potuítque dolósis
+354	ok	DDDDDX		Fléctere |blánditi|ís — ani|múm, lacri|mísque ma|lígnis	Fléctere blánditiís — animúm, lacrimísque malígnis
+355	man		manual	Hóspitis |ílla sa|crí, fa|mé, supe|rúmque de|órum	Hóspitis ílla sacrí, famé, superúmque deórum
+356	ok	DDDSDX		Réddidit |ímmemo|rémque me|í. Quid |té moror? |Ílla,	Réddidit ímmemorémque meí. Quid té moror? Ílla,
+357	ok	DDDDDX		Ílla su|ís mani|bús — mise|ró tulit |árma ma|ríto,	Ílla suís manibús — miseró tulit árma maríto,
+358	ok	DDDSDX		Índuit |ílla la|tús, capi|tí tum |cássida |cáro,	Índuit ílla latús, capití tum cássida cáro,
+359	ok	DSDDDX		Túm gladi|úm dex|tré, clipe|úm dedit |ílla si|nístre,	Túm gladiúm dextré, clipeúm dedit ílla sinístre,
+360	ok	DDDSDX		Íncrepu|ítque tu|bám, trepi|dúmqu'atqu'|árma pa|véntem	Íncrepuítque tubám, trepidúmqu'atqu'árma pavéntem
+361	man		manual	Ímpulit |ámbigu'|ín Mar|tém, te|cúmque co|égit	Ímpulit ámbigu'ín Martém, tecúmque coégit
+362	ok	SSDSDX		Ádver|sís cer|táre de|ís. Quand'|ágmina |cámpis	Ádversís certáre deís. Quand'ágmina cámpis
+363	ok	DDDDDX		Cóntuli|mús steti|músqu'aci|é, fuit |éxitus |ílle	Cóntulimús stetimúsqu'acié, fuit éxitus ílle
+364	ok	SDDDDX		Érro|rís, michi |créde, me|í: placu|ísse pro|fános	Érrorís, michi créde, meí: placuísse profános
+365	ok	SDSSDX		Ámple|xús fue|ránt — hu|iús pri|mórdia |cásus	Ámplexús fueránt — huiús primórdia cásus
+366	ok	DSDSDX		Cóniugi|óqu'he|sísse fe|ró. Proh! |régia, |vére	Cóniugióqu'hesísse feró. Proh! régia, vére
+367	ok	DDSDDX		Régi'et |ínnume|rís — nup|túra sin'|órdine |cóniunx	Régi'et ínnumerís — nuptúra sin'órdine cóniunx
+368	ok	DSDSDX		Régibus! |Hósti|lés — uti|nám trans|láta pe|nátes	Régibus! Hóstilés — utinám transláta penátes
+369	amb	DDDSDX	[[0.05, "DDDSDX"], [0.1, "DDSDDX"], [1.1, "DSDDDX"]]	Ígne cre|més simi|lí! Nisi |mé pre|ságia |fállunt,	Ígne cremés similí! Nisi mé preságia fállunt,
+370	ok	DSDSDX		Ét faci|és: mec'|hóc — veni|ét so|lámen ad |úmbras."	Ét faciés: mec'hóc — veniét solámen ad úmbras."
+371	ok	DDDSDX		Díxit, et |óbticu|ít — gravi|tér tur|bátus et |ímo	Díxit, et óbticuít — gravitér turbátus et ímo
+372	ok	DDDSDX		Lúmina |mésta so|ló — refe|réns. Iam |sénserat |íras	Lúmina mésta soló — referéns. Iam sénserat íras
+373	ok	DDSDDX		Scípio, |námqu'ocu|lós — et |stígmata |clára, lo|quéntis	Scípio, námqu'oculós — et stígmata clára, loquéntis
+374	ok	SDSSDX		Ín vul|tú, nimi'|óffen|sí — spec|tárat a|móris.	Ín vultú, nimi'óffensí — spectárat amóris.
+375	ok	DDSDDX		Hínc magis |átque ma|gís — ca|rí scelus |hórret a|míci:	Hínc magis átque magís — carí scelus hórret amíci:
+376	ok	DSDSDX		Iústus a|mór re|gí; quoni|ám si |dígna que|réle,	Iústus amór regí; quoniám si dígna queréle,
+377	ok	SDDSDX		Mássi|níssa, ti|bí — fue|rát, non |iústa ra|píne	Mássiníssa, tibí — fuerát, non iústa rapíne
+378	ok	DDDSDX		Cáusa: fu|rór stimu|lísque — re|péns im|púlsa li|bído	Cáusa: furór stimulísque — repéns impúlsa libído
+379	ok	DSSSDX		Túrpibus. |Héc in|tér, re|gém sub |cláustra re|cóndunt.	Túrpibus. Héc intér, regém sub cláustra recóndunt.
+380	ok	DDSSDX		Fáma re|céns Lati|ís — sen|sím cre|béscere |cástris	Fáma recéns Latiís — sensím crebéscere cástris
+381	ok	DDSDDX		Cépit, a|désse du|cés — vic|tríciaqu'|ágmina |régis	Cépit, adésse ducés — victríciaqu'ágmina régis
+382	ok	DDDSDX		Ác Leli|í. Placi|dó — veni|éntes |súscipit |óre	Ác Lelií. Placidó — veniéntes súscipit óre
+383	ok	DSDSDX		Scípio; |láuda|tós — popu|ló spec|tánte de|córat	Scípio; láudatós — populó spectánte decórat
+384	ok	DSSSDX		Múneri|bús lar|gís; abs|tráctum |déinde se|órsum	Múneribús largís; abstráctum déinde seórsum
+385	ok	DSSDDX		Séde lo|cát re|gém — iux|tá, procul |átque re|mótis	Séde locát regém — iuxtá, procul átque remótis
+386	ok	DDDDDX		Téstibus |álloqui|túr: "Nisi |mé tua |máxime |lónge,	Téstibus álloquitúr: "Nisi mé tua máxime lónge,
+387	ok	SDSSDX		Mássi|níssa, di|ú — vir|tús spe|ráta fe|féllit,	Mássiníssa, diú — virtús speráta feféllit,
+388	ok	DDDDDX		Nón tibi |cáusa tu|úm — fue|rát, nisi |mágna, vi|déndi	Nón tibi cáusa tuúm — fuerát, nisi mágna, vidéndi
+389	ok	DDDDDX		Scípia|dám, fide|íque — me|é tua |crédere |fáta	Scípiadám, fideíque — meé tua crédere fáta
+390	ok	SDSSDX		Út mal|lés, vete|rés — sic |ásper|nátus a|mícos.	Út mallés, veterés — sic áspernátus amícos.
+391	ok	DSDSDX		África |nám vas|tís — Lati|ó dis|iúngitur |úndis,	África nám vastís — Latió disiúngitur úndis,
+392	ok	DSSSDX		Néc minus |álter|nís — dis|támus |móribus; |érgo	Néc minus álternís — distámus móribus; érgo
+393	ok	DDDDDX		Gránd'ali|quíd tibi |cáusa — vi|é fuit |équore |tánto,	Gránd'aliquíd tibi cáusa — vié fuit équore tánto,
+394	man		manual	Tót bel|lór'in|tér fremi|túm — mun|díque tu|múltus.	Tót bellór'intér fremitúm — mundíque tumúltus.
+395	ok	DDDSDX		Cért'ego, |sí propri|ó — michi |nón sor|déscit in |óre	Cért'ego, sí proprió — michi nón sordéscit in óre
+396	ok	DDSSDX		Glória, |nón ali|á — tan|túm vir|túte su|pérbum	Glória, nón aliá — tantúm virtúte supérbum
+397	man		manual	Mé fate|ór, quam |quód blan|dé michi |fírma te|nére	Mé fateór, quam quód blandé michi fírma tenére
+398	ok	DSDSDX		Fréna vo|lúpta|tís — vide|ór. Non |hóstis in |ármis	Fréna volúptatís — videór. Non hóstis in ármis
+399	ok	DSDSDX		Óbvius, |áut flam|mís — reso|náns un|dántibus |Étna,	Óbvius, áut flammís — resonáns undántibus Étna,
+400	ok	DSSDDX		Éuboi|cé non |síc fun|dó — gravis |éstus ab |ímo	Éuboicé non síc fundó — gravis éstus ab ímo
+401	ok	DSDDDX		Ín cumu|lós sur|géntis — a|qué metu|éndus, ut |ísta'st	Ín cumulós surgéntis — aqué metuéndus, ut ísta'st
+402	ok	DSSSDX		Túrba vo|lúpta|túm — que |círcum|fúsa te|nét nos:	Túrba volúptatúm — que círcumfúsa tenét nos:
+403	man		manual	Précipu|é tamen |héc — niti|dé sus|pécta iu|vénte	Précipué tamen héc — nitidé suspécta iuvénte
+404	ok	DSSSDX		Péstis, et |éta|tí — pre|téndit |rétia |nóstre.	Péstis, et étatí — preténdit rétia nóstre.
+405	ok	DDSDDX		Équor e|ním silet |ínter|dúm, gravis |Étna qui|éscit;	Équor ením silet ínterdúm, gravis Étna quiéscit;
+406	ok	DSDSDX		Hóstis ad |íncur|súm — vali|dís seu |ménibus |úti,	Hóstis ad íncursúm — validís seu ménibus úti,
+407	ok	SSDSDX		Séu val|ló fos|sáque li|cét; dam|nósa vo|lúptas	Séu valló fossáque licét; damnósa volúptas
+408	ok	DDSSDX		Nócte di|éque fu|rít; num|quám tu |ménibus |íllam	Nócte diéque furít; numquám tu ménibus íllam
+409	ok	SDDDDX		Árce|bís: medi|ís — veni|ét pene|trálibus |ínter	Árcebís: mediís — veniét penetrálibus ínter
+410	ok	DDDSDX		Éxcubi|ás vigi|lésque ca|nés, fer|ráta po|téntum	Éxcubiás vigilésque canés, ferráta poténtum
+411	ok	DDSSDX		Límina |tránsili|ét. Quod |sí te |sóla mo|vére	Límina tránsiliét. Quod sí te sóla movére
+412	ok	DSSSDX		Héc potu|ít tan|túm — vir|tús, ut |línquere |vélles	Héc potuít tantúm — virtús, ut línquere vélles
+413	ok	DSSSDX		Témpla, la|rém, reg|núm, no|bísqu'ut |spónte su|bésse	Témpla, larém, regnúm, nobísqu'ut spónte subésse
+414	ok	DDDDDX		Nómine |déposi|tó — domi|ní pate|réris, et |íllam	Nómine dépositó — dominí pateréris, et íllam
+415	ok	DSSDDX		Pér mari'|ét ter|rás — in |mé seque|rére la|téntem;	Pér mari'ét terrás — in mé sequerére laténtem;
+416	ok	DSDSDX		Tú michi |vír quan|tús — digi|tó mons|trábere, |sí te	Tú michi vír quantús — digitó monstrábere, sí te
+417	ok	SSSSDX		Ínter |tám mul|tás — hec |éxor|náverit |úna!	Ínter tám multás — hec éxornáverit úna!
+418	ok	DDSSDX		Glória |mágna qui|dém — mag|núm vi|císse Si|fácem;	Glória mágna quidém — magnúm vicísse Sifácem;
+419	ok	SDDDDX		Séd ma|iór, michi |créde, gra|vés domu|ísse tu|múltus	Séd maiór, michi créde, gravés domuísse tumúltus
+420	amb	DDSDDX	[[0.05, "DDSDDX"], [0.1, "DSDDDX"]]	Péctoris |átqu'ani|mó — fre|núm posu|ísse fre|ménti.	Péctoris átqu'animó — frenúm posuísse freménti.
+421	ok	SSSDDX		Préco|ném me |vírtu|túm — memo|rémque tu|árum	Préconém me vírtutúm — memorémque tuárum
+422	ok	DDDSDX		Sémper ha|bés; tua |fácta — li|béns et |dícta re|nárro.	Sémper habés; tua fácta — libéns et dícta renárro.
+423	ok	DDSSDX		Cétera |tú taci|tó — te|cúm sub |péctore |vólve;	Cétera tú tacitó — tecúm sub péctore vólve;
+424	ok	DDSDDX		Néc tibi |vérba pri|ús, quam |méns sibi |nóta ru|bórem	Néc tibi vérba priús, quam méns sibi nóta rubórem
+425	ok	DDSDDX		Éxcitet. |Égregi'|hóc — bel|ló tua |sénsimus |árma:	Éxcitet. Égregi'hóc — belló tua sénsimus árma:
+426	ok	DDSSDX		Áttamen |áuspici|ís — nos|trís - ig|nósce - pa|ténti	Áttamen áuspiciís — nostrís - ignósce - paténti
+427	ok	SDSDDX		Cóncur|súm'st aci|é; nos|tró quoque |nómine |párta'st	Cóncursúm'st acié; nostró quoque nómine párta'st
+428	ok	SSDSDX		Róman'|héc pre|séns — popu|ló vic|tória; |néc te	Róman'héc preséns — populó victória; néc te
+429	man		manual	Préterit |ét reg'|ét reg|núm — suaqu'|ómnia |nóbis	Préterit ét reg'ét regnúm — suaqu'ómnia nóbis
+430	ok	SSDDDX		Débe|rí. Ro|mám — pater'|híc ini|mícaque |cóniunx	Déberí. Romám — pater'híc inimícaque cóniunx
+431	ok	DDSSDX		Régis e|át, preci|bús — que |béllum |pávit, et |hóstis	Régis eát, precibús — que béllum pávit, et hóstis
+432	man		manual	Fília |tám mag|ní'st — et |párs non |párva tri|úmfi.	Fília tám magní'st — et párs non párva triúmfi.
+433	ok	DSDSDX		Vínc'ani|múm tequ'|ípse do|má, nec |múlta de|córa	Vínc'animúm tequ'ípse domá, nec múlta decóra
+434	man		manual	Cómmacu|láre ve|lís — u|níus |crímine |fácti.	Cómmaculáre velís — uníus crímine fácti.
+435	ok	DSDDDX		Áspice |quám fruc|tús — nichi|ló minor |íra do|lórque,	Áspice quám fructús — nichiló minor íra dolórque,
+436	ok	DSDDDX		Quántus ab |óbsce|nó — tibi |sít metu|éndus a|móre;	Quántus ab óbscenó — tibi sít metuéndus amóre;
+437	ok	DSSSDX		Quíd dece|át re|gém, quam |pér se |féde li|bído."	Quíd deceát regém, quam pér se féde libído."
+438	ok	DSSSDX		Díxerat: |ást il|lí — iam|dúd'ex |óre ru|ébant	Díxerat: ást illí — iamdúd'ex óre ruébant
+439	ok	SDDSDX		Cérta|tím lacri|mé, velu|tí cum |cándida |téctis	Cértatím lacrimé, velutí cum cándida téctis
+440	ok	SDDSDX		Níx he|sít, veni|át — tepi|dís si |flátibus |Áuster,	Níx hesít, veniát — tepidís si flátibus Áuster,
+441	ok	DSDDDX		Líquitur, |ét gran|dés — subi|tó per i|nánia |gútte	Líquitur, ét grandés — subitó per inánia gútte
+442	ok	DSDDDX		Précipi|tánt. Tum |páuca re|fért: "Michi |máxime |cúra'st	Précipitánt. Tum páuca refért: "Michi máxime cúra'st
+443	ok	DSDSDX		Ímperi|ó pa|rére tu|ó: for|túna sa|lúsque	Ímperió parére tuó: fortúna salúsque
+444	ok	DDDSDX		Ín mani|bús tibi |nóstra se|dét. Tu |péctoris |éstus	Ín manibús tibi nóstra sedét. Tu péctoris éstus
+445	ok	DSDDDX		Víncis, et |áffec|tús — mise|rí mode|ráris a|mántis.	Víncis, et áffectús — miserí moderáris amántis.
+446	ok	SSDSDX		Níl frus|trá ius|sísse que|ás. Sed |próspice |fáme;	Níl frustrá iussísse queás. Sed próspice fáme;
+447	ok	DSDDDX		Déprecor |hóc u|núm; lice|át michi |cóniuge |dúlci	Déprecor hóc unúm; liceát michi cóniuge dúlci
+448	ok	SDDSDX		Sérva|tá caru|ísse fi|dé." Sin|gúltibus |ístas	Sérvatá caruísse fidé." Singúltibus ístas
+449	ok	DSSSDX		Líquit i|néxple|tás — rau|có sub |múrmure |vóces,	Líquit inéxpletás — raucó sub múrmure vóces,
+450	ok	DSSDDX		Ínque ta|bérna|clúm — ses'|íntulit, |óra ge|násque	Ínque tabérnaclúm — ses'íntulit, óra genásque
+451	ok	DSSDDX		Méstus, et |ínfes|tís — tun|déns sua |péctora |pálmis.	Méstus, et ínfestís — tundéns sua péctora pálmis.
+452	ok	SDSSDX		Síc au|díta re|úm — post|quám sen|téntia |mórti	Síc audíta reúm — postquám senténtia mórti
+453	ok	SDDSDX		Áddi|xít, gravi|térque — tu|bé vox |núncia |fáti	Áddixít, gravitérque — tubé vox núncia fáti
+454	ok	DDDSDX		Íntonu|ít, tremit |ílle — pa|véns et |búxeus |óri	Íntonuít, tremit ílle — pavéns et búxeus óri
+455	ok	DSDDDX		Pállor i|nést; iam |mórs — ocu|lís mani|fésta vi|détur,	Pállor inést; iam mórs — oculís manifésta vidétur,
+456	ok	SSDSDX		Ét lic|tór pre|bére — iu|bét iam |cólla se|cúri;	Ét lictór prebére — iubét iam cólla secúri;
+457	amb	SDDSDX	[[0.0, "SDDSDX"], [0.05, "SDSDDX"]]	Ác ven|túra qui|dém — velu|tí pre|séntia |cérnit;	Ác ventúra quidém — velutí preséntia cérnit;
+458	ok	DDSDDX		Iám iacet |éxani|mís, iamqu'|ómnia |trístia |sécum	Iám iacet éxanimís, iamqu'ómnia trístia sécum
+459	ok	DSSSDX		Vérsat et |ávul|súm — trun|cá cer|více ca|dáver:	Vérsat et ávulsúm — truncá cervíce cadáver:
+460	ok	DDDDDX		Háud ali|tér placi|tá — iuve|nís cari|túrus a|míca	Háud alitér placitá — iuvenís caritúrus amíca
+461	ok	DDSSDX		Iám caret; |ác taci|tís — postqu'|írri|táta que|rélis	Iám caret; ác tacitís — postqu'írritáta querélis
+462	ok	DSDSDX		Méns stimu|lós in |vérba de|dít, "Proh |trístia" |díxit	Méns stimulós in vérba dedít, "Proh trístia" díxit
+463	ok	SDSSDX		"Víte |fíla me|é — tan|tó ser|váta do|lóri	"Víte fíla meé — tantó serváta dolóri
+464	ok	SSDDDX		Ét Par|cís huc |trácta fe|rís! Mori|ámur ho|nésti;	Ét Parcís huc trácta ferís! Moriámur honésti;
+465	ok	SSDDDX		Síc co|gúnt man|dáta du|cís, nisi |vívere |rápta	Síc cogúnt mandáta ducís, nisi vívere rápta
+466	amb	DSDSDX	[[1.0, "DSDSDX"], [1.0, "SDDSDX"]]	Póss'ani|má nos |ílle pu|tát. Si |trístia |dúri	Póss'animá nos ílle putát. Si trístia dúri
+467	ok	DDSDDX		Córda ge|rís sili|cís, pec|túsqu'ada|mánte ri|géscit,	Córda gerís silicís, pectúsqu'adamánte rigéscit,
+468	man		manual	Quíd michi |Róma|ná — fore |cúm feri|táte pu|tásti,	Quíd michi Rómaná — fore cúm feritáte putásti,
+469	ok	DDDSDX		Scípio? |Quíd meri|túm — meli|ús sic |pérdis a|mícum?	Scípio? Quíd meritúm — meliús sic pérdis amícum?
+470	ok	DDSSDX		Víta mo|lésta ti|bí — nos|trá'st. Quot |vúlner'in |ísto	Víta molésta tibí — nostrá'st. Quot vúlner'in ísto
+471	ok	DDSDDX		Péctore |pértuli|mús, nunc |út more|rémur a|mándo,	Péctore pértulimús, nunc út morerémur amándo,
+472	ok	DDSSDX		Spíritus |ín lacri|más — atqu'|ín sus|píria |méstus	Spíritus ín lacrimás — atqu'ín suspíria méstus
+473	ok	DSDDDX		Dífflue|rét? Mors |núlla — vi|ró minus |ápta: sed |últra	Díffluerét? Mors núlla — viró minus ápta: sed últra
+474	ok	DSSSDX		Nón datur." |Héc di|xít — fren|dénsqu'ad |sídera |lúctum	Nón datur." Héc dixít — frendénsqu'ad sídera lúctum
+475	ok	DSSSDX		Sústulit |hórren|dúm, quem |círcums|tántia |lónge	Sústulit hórrendúm, quem círcumstántia lónge
+476	ok	DSSSDX		Ágmina |sénse|rúnt, mo|téqu'he|sére coh|órtes.	Ágmina sénserúnt, motéqu'hesére cohórtes.
+477	ok	DDDSDX		Lítus ad |Hésperi|úm — prope|ráns ur|gébat a|nhélos	Lítus ad Hésperiúm — properáns urgébat anhélos
+478	ok	DSDDDX		Fébus e|quós. Fort'|ílle — me|mór quibus |álma de|córe	Fébus equós. Fort'ílle — memór quibus álma decóre
+479	ok	DDSSDX		Vírginis |Hémoni|é — fla|grásset |péctora |flámmis;	Vírginis Hémonié — flagrásset péctora flámmis;
+480	ok	DDSDDX		Láureaqu'|ánt'ocu|lós — sta|bát sua |sácra, tre|méndo	Láureaqu'ánt'oculós — stabát sua sácra, treméndo
+481	ok	DSDSDX		Pródigi|ó pre|répta si|bí, tum |víta re|lícti	Pródigió prerépta sibí, tum víta relícti
+482	ok	DSDDDX		Dúra ni|mís, luc|túsque gra|vís, simul |óscula |trúnco	Dúra nimís, luctúsque gravís, simul óscula trúnco
+483	ok	DDSDDX		Fíxa di|ú tene|ró — vi|táqu'abe|únte te|pénti;	Fíxa diú teneró — vitáqu'abeúnte tepénti;
+484	ok	DDSDDX		Átqu'ide|ó, simi|lés — re|gís mise|rátus a|móres,	Átqu'ideó, similés — regís miserátus amóres,
+485	ok	DDSDDX		Íntulit |Óccea|nó — vul|tús lacri|mósaque |lávit	Íntulit Ócceanó — vultús lacrimósaque lávit
+486	man		manual	Óra ca|déns, Noc|tíque — su|ás per|mísit ha|bénas.	Óra cadéns, Noctíque — suás permísit habénas.
+487	ok	DDDSDX		Scípio - |núll'ete|ním — dede|rít For|túna qui|étem,	Scípio - núll'etením — dederít Fortúna quiétem,
+488	ok	DDSDDX		Ní medi|ócris e|rís; nam |trístior |ílla do|lóres,	Ní mediócris erís; nam trístior ílla dolóres,
+489	ok	DSSSDX		Léta veh|ít cu|rás - per |nóctem |síngula |sécum	Léta vehít curás - per nóctem síngula sécum
+490	ok	DSDSDX		Áncipi|tí cum |ménte ro|tát: num |térrita |púlset	Áncipití cum ménte rotát: num térrita púlset
+491	man		manual	Ménia |Pénor'|ét tur|rés Car|táginis, |án se	Ménia Pénor'ét turrés Cartáginis, án se
+492	ok	SSDSDX		Éxtre|mós fun|dát — Libi|é vas|tátor in |ágros,	Éxtremós fundát — Libié vastátor in ágros,
+493	ok	DSSSDX		Án requi|ém fes|sís — pau|córum |fórte di|érum	Án requiém fessís — paucórum fórte diérum
+494	ok	DDDDDX		Prébeat |équiti|bús — pedi|túmque det |ótia |túrmis.	Prébeat équitibús — peditúmque det ótia túrmis.
+495	ok	DSDSDX		Ílla re|cúrsa|bát — poti|ór sub |péctore |cáuti	Ílla recúrsabát — potiór sub péctore cáuti
+496	ok	DDDSDX		Cúra du|cís, quibus |índe — vi|ís cap|tíva per |áltum	Cúra ducís, quibus índe — viís captíva per áltum
+497	ok	DSDSDX		Ágmina |Péno|rúm — Lati|ó trans|míttat o|vánti.	Ágmina Pénorúm — Latió transmíttat ovánti.
+498	man		manual	Précipu'|ín re|gé — re|gísqu'in |cóniuge |múltum	Précipu'ín regé — regísqu'in cóniuge múltum
+499	ok	DSDSDX		Ángitur, |ét quan|tís — velit |hós cus|tódibus |íre,	Ángitur, ét quantís — velit hós custódibus íre,
+500	ok	SSDSDX		Cúi tan|túm com|míttat o|nús. Sic |ánxius |héret	Cúi tantúm commíttat onús. Sic ánxius héret
+501	ok	SSDSDX		Mérca|tór, cui |vóta — vi|é ces|sére se|cúnde	Mércatór, cui vóta — vié cessére secúnde
+502	ok	SSDSDX		Ét lu|crí For|túna fu|ít; nunc |cógitat, |áurum	Ét lucrí Fortúna fuít; nunc cógitat, áurum
+503	ok	SSDDDX		Ác gem|más qua |púppe — veh|át preti|ósaque |rérum,	Ác gemmás qua púppe — vehát pretiósaque rérum,
+504	ok	DSDSDX		Quíque ra|tís cus|tós — place|át. Non |cárior |úsquam	Quíque ratís custós — placeát. Non cárior úsquam
+505	ok	DDSSDX		Úllus e|rát Leli|ó: nul|lí fe|lícius |áltos	Úllus erát Lelió: nullí felícius áltos
+506	amb	DSSSDX	[[1.0, "DSSSDX"], [1.0, "SSSDDX"]]	Crédere |cónsue|tús — las|sáta |ménte la|bóres.	Crédere cónsuetús — lassáta ménte labóres.
+507	ok	DSDDDX		Húnc igi|túr noc|tís — medi|ó vocat, |ádmonet |árma	Húnc igitúr noctís — medió vocat, ádmonet árma
+508	ok	DSSSDX		Návibus |ímpo|nát, lec|tóqu'ut |rémige |cétum	Návibus ímponát, lectóqu'ut rémige cétum
+509	ok	DDDSDX		Ínstruat, |hác patri|é — peti|túrus |lítora |clásse.	Ínstruat, hác patrié — petitúrus lítora clásse.
+510	ok	DSSDDX		Át mise|ró mul|túm — di|vérsa flu|ébat a|mánti	Át miseró multúm — divérsa fluébat amánti
+511	man		manual	Nóx ea |cúm lacri|mís: quas |sése |vértat in |ártes,	Nóx ea cúm lacrimís: quas sése vértat in ártes,
+512	ok	DDDDDX		Quós vocet |ílle de|ós, preci|bús quibus |átra re|láxet	Quós vocet ílle deós, precibús quibus átra reláxet
+513	man		manual	Stámina |Párcar'|ét di|lécte |témpus a|míce.	Stámina Párcar'ét dilécte témpus amíce.
+514	ok	DSSSDX		Núnc venit |ín men|tém — ca|rá cum |cóniuge |ráptim	Núnc venit ín mentém — cará cum cóniuge ráptim
+515	ok	DDSSDX		Hércule|ás subi|tá — lin|quéntem |clásse Co|lúmnas	Hérculeás subitá — linquéntem clásse Colúmnas
+516	ok	SSSSDX		Fórtu|náto|rúm — fa|mám ten|táre lo|córum;	Fórtunátorúm — famám tentáre locórum;
+517	ok	SDDSDX		Núnc rec|tá pene|tráre — vi|á Car|táginis |álte	Núnc rectá penetráre — viá Cartáginis álte
+518	ok	DDDDDX		Méni', et |ád vete|rés — humi|lém veni|ámque pe|téntem	Méni', et ád veterés — humilém veniámque peténtem
+519	man		manual	Pérgere |cúm gemit'|ét dul|cí cum |cóniug'a|mícos;	Pérgere cúm gemit'ét dulcí cum cóniug'amícos;
+520	ok	SDDDDX		Núnc fer|rúm laque|ósque — si|bí prope|rátaque |mórtis	Núnc ferrúm laqueósque — sibí properátaque mórtis
+521	ok	SDSSDX		Ínstru|ménta ma|nú — tris|tésqu'in|téxere |nódos,	Ínstruménta manú — tristésqu'intéxere nódos,
+522	ok	DDSSDX		Áuxili|óque ne|cís — tan|tós fi|níre do|lóres.	Áuxilióque necís — tantós finíre dolóres.
+523	ok	DDDDDX		Sépe ma|nús gladi|úm — teti|gít: pudor |óbstitit |únus,	Sépe manús gladiúm — tetigít: pudor óbstitit únus,
+524	man		manual	Nón metus |íncep|tó, vidu|é non |ánxia |víte	Nón metus ínceptó, vidué non ánxia víte
+525	ok	SDSDDX		Dúlce|dó: veri|tús — fa|mám macu|láre pe|rénni	Dúlcedó: veritús — famám maculáre perénni
+526	ok	DDDDDX		Crímine, |cóntinu|ít — capu|lúmqu'ani|múmque re|mísit.	Crímine, cóntinuít — capulúmqu'animúmque remísit.
+527	ok	DDDSDX		Vólvitur |índe to|ró: quoni|ám sub |péctore |pérnox	Vólvitur índe toró: quoniám sub péctore pérnox
+528	ok	DDDSDX		Sévit a|mór lace|rántque — tru|cés pre|córdia |cúre,	Sévit amór lacerántque — trucés precórdia cúre,
+529	ok	DDSDDX		Úritur; |ínvigi|lánt — me|rór, metus, |íra fu|rórque.	Úritur; ínvigilánt — merór, metus, íra furórque.
+530	ok	DSDSDX		Sép'eti'|ábsen|tém — lacri|máns dum |stríngit a|mícam	Sép'eti'ábsentém — lacrimáns dum stríngit amícam
+531	ok	DDSSDX		Sépe to|ró dedit |ámple|xús — et |dúlcia |vérba.	Sépe toró dedit ámplexús — et dúlcia vérba.
+532	ok	SDDSDX		Póstquam |núlla va|lént — vio|lénto |fréna do|lóri,	Póstquam núlla valént — violénto fréna dolóri,
+533	ok	DSSSDX		Íncipit, |ét lon|gís — so|látur |dámna que|rélis:	Íncipit, ét longís — solátur dámna querélis:
+534	ok	DDSDDX		"Cára mich|í nimi|úm, vi|tá michi |dúlcior |ómni,	"Cára michí nimiúm, vitá michi dúlcior ómni,
+535	ok	SDSDDX		Sófo|nísba, va|lé: non |té, mea |cúra, vi|débo	Sófonísba, valé: non té, mea cúra, vidébo
+536	ok	DDSSDX		Léniter |étere|ós — pos|tác com|pónere |vúltus,	Léniter étereós — postác compónere vúltus,
+537	ok	SSDSDX		Éffu|sósqu'au|ró — reli|gánt'ex |móre ca|píllos;	Éffusósqu'auró — religánt'ex móre capíllos;
+538	ok	DSSDDX		Dúlcia |nón ce|lúm — mul|céntia |vérba de|ósque	Dúlcia nón celúm — mulcéntia vérba deósque
+539	amb	DSSDDX	[[0.0, "DSSDDX"], [0.0, "SDSDDX"], [1.05, "DSDSDX"]]	Óris o|dóra|tí — se|crétaque |múrmura |cárpam;	Óris odóratí — secrétaque múrmura cárpam;
+540	ok	DDSSDX		Sólus e|ró, geli|dóqu'ins|térnam |mémbra cu|bíli.	Sólus eró, gelidóqu'instérnam mémbra cubíli.
+541	ok	DDSDDX		Átqu'uti|nám soci|ó — com|pónar, a|míca, se|púlcro,	Átqu'utinám soció — compónar, amíca, sepúlcro,
+542	ok	DDSSDX		Ét simul |híc veti|tós — il|líc con|córditer |ánnos	Ét simul híc vetitós — illíc concórditer ánnos
+543	ok	SSDSDX		Cóntin|gát du|xísse mich|í! sors |óptima |bústi,	Cóntingát duxísse michí! sors óptima bústi,
+544	ok	DSSSDX		Sí cinis |ámbo|rúm — com|míxtis |mórte me|dúllis	Sí cinis ámborúm — commíxtis mórte medúllis
+545	ok	DDSSDX		Únus e|rít. Scipi|ó — nos|trós non |scíndet a|móres.	Únus erít. Scipió — nostrós non scíndet amóres.
+546	ok	DSDSDX		Ó utin'|ínfer|nís — eti|ám nunc |úna la|tébris	Ó utin'ínfernís — etiám nunc úna latébris
+547	ok	DDDSDX		Úmbra si|mús, lice|át — pari|tér per |cláustra va|gári	Úmbra simús, liceát — paritér per cláustra vagári
+548	ok	DSDSDX		Mírtea, |néc nos|trós — Scipi|ó dis|iúngat a|móres!	Mírtea, néc nostrós — Scipió disiúngat amóres!
+549	ok	DSSSDX		Íbimus |ún'am|bó — flen|tés, et |pássibus |íisdem	Íbimus ún'ambó — flentés, et pássibus íisdem
+550	ok	DSSSDX		Íbimus, |éter|nó — con|néxi |fédere; |néc nos	Íbimus, éternó — connéxi fédere; néc nos
+551	ok	DSDSDX		Férreus |áut nos|trós — Scipi'|ínter|rúmpet a|móres.	Férreus áut nostrós — Scipi'ínterrúmpet amóres.
+552	ok	DDDDDX		Ínvidi|ósa de|ís — Here|bí popu|lóque si|léntum	Ínvidiósa deís — Herebí populóque siléntum
+553	ok	DDSDDX		Ác Cere|rís gene|ró, cun|tísque be|átior |úmbris	Ác Cererís generó, cuntísque beátior úmbris
+554	ok	DSSDDX		Úmbra fe|rár: dul|cés — nec |Scípio |fránget a|móres.	Úmbra ferár: dulcés — nec Scípio fránget amóres.
+555	ok	DDSSDX		Ílle quid'|ástrige|rós — trac|tús ce|lúmque te|nébit	Ílle quid'ástrigerós — tractús celúmque tenébit
+556	ok	DSSSDX		Dúx sacer, |húma|nís — in |tótum |móribus |ímpar,	Dúx sacer, húmanís — in tótum móribus ímpar,
+557	ok	DSSSDX		Néc volet |ínfer|nás — se|dés aut |pállida |Dítis	Néc volet ínfernás — sedés aut pállida Dítis
+558	ok	DDDSDX		Régna sequ': |háud cupi|dós — ite|rúm tur|bábit a|mántes.	Régna sequ': háud cupidós — iterúm turbábit amántes.
+559	ok	DDSSDX		Ó uti|nám Libi|cúm — nun|quám tran|sísset in |órbem!	Ó utinám Libicúm — nunquám transísset in órbem!
+560	ok	DDSSDX		Ó uti|nám Lati|ís — sem|pér man|sísset in |óris!	Ó utinám Latiís — sempér mansísset in óris!
+561	ok	DSSSDX		Quíd precor |héu de|méns? Si |nón ve|nísset, a|míce	Quíd precor héu deméns? Si nón venísset, amíce
+562	ok	DDDDDX		Ét decor |ét speci|és — faci|ésque si|míllima |Sóli,	Ét decor ét speciés — faciésque simíllima Sóli,
+563	ok	DDDSDX		Nón michi |nóta fo|rés; sine |quá nec |víta fu|ísset	Nón michi nóta forés; sine quá nec víta fuísset
+564	ok	DDSSDX		Gráta qui|dém pari|tér. Quan|tá'st dis|córdia! |vítam	Gráta quidém paritér. Quantá'st discórdia! vítam
+565	ok	DDDSDX		Ábstulit |ác tribu|ít. Scipi|ó dul|císsime, |ráptim	Ábstulit ác tribuít. Scipió dulcíssime, ráptim
+566	ok	DSSDDX		Ó uti|nám Ro|mám — vic|trícia |sígna tu|lísses	Ó utinám Romám — victrícia sígna tulísses
+567	ok	SSDSDX		Cápti|vó cum |rége pri|ór, re|gínaque |rétro	Cáptivó cum rége priór, regínaque rétro
+568	ok	SSDSDX		Mánsis|sét non |vísa ti|bí! Quid |súrda pre|cámur	Mánsissét non vísa tibí! Quid súrda precámur
+569	ok	DSDSDX		Númina? |Cástro|rúm — domi|nús vic|tórque su|pérbus	Númina? Cástrorúm — dominús victórque supérbus
+570	ok	SDDDDX		Cápti|vám petit |écce su|ám. Dabi|músne? Sed |úrget:	Cáptivám petit écce suám. Dabimúsne? Sed úrget:
+571	ok	SDDDDX		Ímpor|túna pre|cúm — speci|és noci|túra pre|cári.	Ímportúna precúm — speciés nocitúra precári.
+572	ok	DSDDDX		Séd rogat: |át vul|tú — taci|tó michi |múlta mi|nátur.	Séd rogat: át vultú — tacitó michi múlta minátur.
+573	ok	DSDDDX		Séd rogat: |át du|rúm — preci|bús lati|táre sub |ístis	Séd rogat: át durúm — precibús latitáre sub ístis
+574	ok	DSSDDX		Ímperi'|ágnos|có. Pa|rébimus? |Át prius |hórrens	Ímperi'ágnoscó. Parébimus? Át prius hórrens
+575	ok	DDDDDX		Iúpiter |ádmove|át — capi|tí sua |fúlmina |nóstro,	Iúpiter ádmoveát — capití sua fúlmina nóstro,
+576	ok	SDDDDX		Hóc tel|lús voret |álta la|tús, pela|gúsque per |ámplum	Hóc tellús voret álta latús, pelagúsque per ámplum
+577	ok	DDSSDX		Ímpia |fálsilo|quí — spar|gántur |víscera |régis.	Ímpia fálsiloquí — spargántur víscera régis.
+578	amb	DSDDDX	[[0.0, "DSDDDX"], [0.05, "DDSDDX"], [1.0, "SDDDDX"]]	Érg'ego, |Róma|nó — placi|túm quia, |sáncta re|véllam	Érg'ego, Rómanó — placitúm quia, sáncta revéllam
+579	ok	DDDDDX		Fédera |cóniugi|í? Licu|ít sine |cóniuge |régem	Fédera cóniugií? Licuít sine cóniuge régem
+580	ok	DDDDDX		Víver', et |íd sati|ús — fue|rát, quia |célibe |víta	Víver', et íd satiús — fuerát, quia célibe víta
+581	ok	DDSSDX		Scípio |nóster e|rát: spon|sé nunc |pácta ne|gáre	Scípio nóster erát: sponsé nunc pácta negáre
+582	ok	DSDSDX		Nón licet. |Ást in|géns — et i|néxo|rábile |túrbat	Nón licet. Ást ingéns — et inéxorábile túrbat
+583	ok	DDDSDX		Ímperi|úm: quid a|gám? Mori|éris, |múnere |cári,	Ímperiúm: quid agám? Moriéris, múnere cári,
+584	ok	SDDSDX		Sófo|nísba, vi|rí — mori|éris; |múnera |sévo	Sófonísba, virí — moriéris; múnera sévo
+585	man		manual	Héc placu|ére Io|ví: sic |néc cap|tíva trah|éris	Héc placuére Ioví: sic néc captíva trahéris
+586	ok	DDDSDX		Lítus ad |Ítali|é — nuri|bús sub|iécta La|tínis,	Lítus ad Ítalié — nuribús subiécta Latínis,
+587	ok	SSDSDX		Néc nos|trós il|lúsa — do|lós sic |pósse vi|déris	Néc nostrós illúsa — dolós sic pósse vidéris
+588	ok	SSDDDX		Áut frac|tám cul|páre fi|dém. Mori|ére. Quis |érgo	Áut fractám culpáre fidém. Moriére. Quis érgo
+589	ok	DDSDDX		Fínis a|móris e|rít? mors |éffera. |Párcite |cúnti,	Fínis amóris erít? mors éffera. Párcite cúnti,
+590	ok	DSDDDX		Célico|lé: cal|cánda fi|dés. Fugi|ámus in |Órbis	Célicolé: calcánda fidés. Fugiámus in Órbis
+591	ok	DSDDDX		Últim', et |ígno|tás — Libi|é pene|trémus ha|rénas,	Últim', et ígnotás — Libié penetrémus harénas,
+592	ok	DSDSDX		Ést ubi |sérpen|túm — regi|ó tu|tíssima |nóbis,	Ést ubi sérpentúm — regió tutíssima nóbis,
+593	ok	DDDSDX		Tútior |hác patri|á: nec e|ním ven|túrus ad |íllam	Tútior hác patriá: nec ením ventúrus ad íllam
+594	ok	DSDSDX		Ést Scipi|ó, nec |péstife|rí — vis |úlla ve|néni	Ést Scipió, nec péstiferí — vis úlla venéni
+595	ok	SSDDDX		Tám pul|crós le|súra pe|dés. Michi |fórsitan |ípsa	Tám pulcrós lesúra pedés. Michi fórsitan ípsa
+596	ok	SSDSDX		Ígnos|cént spec|tánte fe|ré. Dul|císsima |cóniunx,	Ígnoscént spectánte feré. Dulcíssima cóniunx,
+597	ok	DSSSDX		Stát fuger'|ét t'im|pénden|tí — sub|dúcere |mórti:	Stát fuger'ét t'impéndentí — subdúcere mórti:
+598	ok	DSSDDX		Páuperi|ém le|tús — tec'|éxili|úmque fu|gámque	Páuperiém letús — tec'éxiliúmque fugámque
+599	ok	DDSDDX		Méstaque |cúnta fe|rám. Sed |néc seque|rére vo|cántem,	Méstaque cúnta ferám. Sed néc sequerére vocántem,
+600	ok	DSDSDX		Fémine|ós si |nóv'ani|mós, re|gína su|prémo	Fémineós si nóv'animós, regína suprémo
+601	ok	DDSDDX		Suéta se|dére loc': |ét quan|quám seque|rére, pa|ráti	Suéta sedére loc': ét quanquám sequerére, paráti
+602	ok	DSSDDX		Níl habe', |átqu'om|nés — Ro|mána po|téntia |pássus	Níl habe', átqu'omnés — Romána poténtia pássus
+603	ok	DSDSDX		Cláudit, et |éxtre|mó — Scipi|ó no|tíssimus |órbi'st.	Cláudit, et éxtremó — Scipió notíssimus órbi'st.
+604	ok	DDSDDX		Sómnia |núnc, taci|té — quon|dám michi |témpore |nóctis	Sómnia núnc, tacité — quondám michi témpore nóctis
+605	ok	DSSSDX		Vísa, re|cógnos|có — tur|bát'hor|rénda qui|étis	Vísa, recógnoscó — turbát'horrénda quiétis
+606	ok	DSDSDX		Nón satis |íntel|lécta pri|ús. Tun'|ílla fu|ísti	Nón satis íntellécta priús. Tun'ílla fuísti
+607	ok	DSSSDX		Cándida |próstra|tó — per |vím sub|dúcta ma|ríto	Cándida próstrató — per vím subdúcta maríto
+608	ok	DDSSDX		Cérva, sed |ímperi|ó — tan|dém pas|tóris i|níqui	Cérva, sed ímperió — tandém pastóris iníqui
+609	ok	SSDSDX		Cústo|dí pre|répta no|vó? tunc |némpe pla|cébas,	Cústodí prerépta novó? tunc némpe placébas,
+610	ok	SDSSDX		Vél sic |vísa, mich|í. Sed |quíd con|iúncta fe|rébat	Vél sic vísa, michí. Sed quíd coniúncta ferébat
+611	man		manual	Mórs tua? |Díi, vi|sís — o|mén remo|véte ma|lígnum.	Mórs tua? Díi, visís — omén removéte malígnum.
+612	ok	DSDSDX		Pérmetu|ó, nam |cúnta — si|bí cons|tántia |cérto	Pérmetuó, nam cúnta — sibí constántia cérto
+613	ok	DSSDDX		Órdine |cérne|bám, nec |mé sopor |ílle fe|féllit.	Órdine cérnebám, nec mé sopor ílle feféllit.
+614	ok	DDDDDX		Quíd faci|ám? Mori|ér'igi|túr, mori|ére; pro|fécto	Quíd faciám? Moriér'igitúr, moriére; profécto
+615	ok	DDSDDX		Níl ali|úd supe|rést, con|iúnx mise|ránda, ti|bíque	Níl aliúd superést, coniúnx miseránda, tibíque
+616	ok	SDSDDX		Áuctor |mórtis e|gó. Sed |qué michi |víta fu|túra'st?	Áuctor mórtis egó. Sed qué michi víta futúra'st?
+617	ok	DSSSDX		Scís, Venus, |ét ce|ló — pros|péctans |Iúpiter |álto	Scís, Venus, ét celó — prospéctans Iúpiter álto
+618	ok	SSSSDX		Mórta|lés ac|tús — nos|trósqu'hoc |órbe la|bóres.	Mórtalés actús — nostrósqu'hoc órbe labóres.
+619	ok	DDDSDX		Quís michi |vérba da|bít — placi|dás du|céntia |nóctes,	Quís michi vérba dabít — placidás ducéntia nóctes,
+620	ok	DSDSDX		Áut gravis |íngen|tés — ani|mí mul|céntia |cúras?	Áut gravis íngentés — animí mulcéntia cúras?
+621	ok	DSSDDX		Quís dabit |ámple|xús, quisv'|óscula |dúlcia |iúnget?	Quís dabit ámplexús, quisv'óscula dúlcia iúnget?
+622	ok	DDSSDX		Té sine |dúlce nich|íl. Quid |pródest |régia |lárgo	Té sine dúlce nichíl. Quid pródest régia lárgo
+623	ok	DSDSDX		Ágmine |sérvo|rúm, Tiri|ó quid |léctulus |óstro	Ágmine sérvorúm, Tirió quid léctulus óstro
+624	ok	DDSDDX		Cómptus, et |ínnume|rís — ins|tráta pa|látia |gémmis?	Cómptus, et ínnumerís — instráta palátia gémmis?
+625	ok	DDSSDX		Quíd dia|déma iu|vát? la|tí quid |glória |régni?	Quíd diadéma iuvát? latí quid glória régni?
+626	ok	DDSSDX		Úror, et |ássidu|ís — tor|quéntur |péctora |flámmis.	Úror, et ássiduís — torquéntur péctora flámmis.
+627	ok	DDSSDX		Héu michi! |dúlcis a|dhúc, dul|cís post |bústa, se|réni	Héu michi! dúlcis adhúc, dulcís post bústa, seréni
+628	ok	DSSSDX		Quó fugi|únt vul|tús? Hinc |iám, te, |cára, su|prémum	Quó fugiúnt vultús? Hinc iám, te, cára, suprémum
+629	ok	SSDDDX		Víven|tém de|flére iu|vát. Sofo|nísba, de|órum	Víventém deflére iuvát. Sofonísba, deórum
+630	ok	DDDSDX		Átqu'homi|núm decus |éximi|úm, quam |nóstra tu|lérunt	Átqu'hominúm decus éximiúm, quam nóstra tulérunt
+631	ok	DDSDDX		Témpora |sídere'|éxem|plúm — speci|ménque de|córis,	Témpora sídere'éxemplúm — speciménque decóris,
+632	ok	DSDDDX		Qué face|rés cons|pécta fi|dém, super |ástra quis |ípsis	Qué facerés conspécta fidém, super ástra quis ípsis
+633	ok	DDSSDX		Spléndor i|nést supe|rís, qua|lís quamqu'|álma ve|nústat	Spléndor inést superís, qualís quamqu'álma venústat
+634	ok	DSDSDX		Fórma de|ás, ad|vérte — pi|ás his |flétibus |áures.	Fórma deás, advérte — piás his flétibus áures.
+635	man		manual	Héi - mise|ró fue|rít — quoni|ám memi|nísse io|cúndum -	Héi - miseró fuerít — quoniám meminísse iocúndum -
+636	ok	DDSDDX		Lúmina, |sídere|ís — mul|céntibus |étra fa|víllis,	Lúmina, sídereís — mulcéntibus étra favíllis,
+637	ok	DDSSDX		Álma sub |éxigu|ó — clau|déntur |cóndita |bústo;	Álma sub éxiguó — claudéntur cóndita bústo;
+638	ok	DSSSDX		Lúmina |mágno|rúm — men|tés tac|túra de|órum,	Lúmina mágnorúm — mentés tactúra deórum,
+639	ok	DSDSDX		Lúmina |dúro|rúm — rabi|ém frac|túra vi|rórum,	Lúmina dúrorúm — rabiém fractúra virórum,
+640	ok	DDDSDX		Lúmina |qué michi m'|ábstule|ránt — cu|rásque mi|nóres!	Lúmina qué michi m'ábstuleránt — curásque minóres!
+641	ok	DSSSDX		Cándida |fróns au|ró — cir|cúmcris|pánte de|córa,	Cándida fróns auró — circúmcrispánte decóra,
+642	ok	DSSDDX		Fróntibus |húma|nís — au|gústior, |ábdita |sáxo	Fróntibus húmanís — augústior, ábdita sáxo
+643	ok	DSSSDX		Stábit in |ángus|tó. Ri|sús qui |férrea |fígit	Stábit in ángustó. Risús qui férrea fígit
+644	ok	DSSSDX		Péctora, |quí ce|lúm, qui |círcum|fúsa se|rénat	Péctora, quí celúm, qui círcumfúsa serénat
+645	ok	DDDDDX		Núbila, |Tártare|úm — ruit |írredi|túrus ad |ántrum.	Núbila, Tártareúm — ruit írreditúrus ad ántrum.
+646	ok	DSDDDX		Héu michi! |Féli|cés — ani|mé, quibus |ílla re|pénte	Héu michi! Félicés — animé, quibus ílla repénte
+647	ok	DDDSDX		Lúx ori|éns vete|rés — veni|ét pur|gáre te|nébras!	Lúx oriéns veterés — veniét purgáre tenébras!
+648	ok	DDDDDX		Héu bene |prógeni|tí, quibus |ílla vi|dére li|cébit,	Héu bene prógenití, quibus ílla vidére licébit,
+649	ok	DSDSDX		Qué michi |mórs in|vísa ra|pít! Pes |lácteus |átram,	Qué michi mórs invísa rapít! Pes lácteus átram,
+650	ok	SDDSDX		Dívi|nó cele|ránte gra|dú, cons|céndere |címbam	Dívinó celeránte gradú, conscéndere címbam
+651	man		manual	Iússus, |tránsili|ét — Le|téi |gúrgitis |éstum.	Iússus, tránsiliét — Letéi gúrgitis éstum.
+652	man		manual	Fórtu|náte Ca|rón! uti|nám michi |fléctere |clávum	Fórtunáte Carón! utinám michi fléctere clávum
+653	ok	SSDSDX		Cóntin|gát, neu|trámque — di|ú con|tíngere |rípam;	Cóntingát, neutrámque — diú contíngere rípam;
+654	ok	DDSDDX		Túque me'|íntere|á — ser|vés mode|rámina |régni!	Túque me'íntereá — servés moderámina régni!
+655	ok	DDSDDX		Ínvidi|óse se|néx, quand'|héc tibi |mónstra vi|dére	Ínvidióse senéx, quand'héc tibi mónstra vidére
+656	ok	DSSSDX		Cóntigit, |áut ul|ló — pos|tác con|tínget in |évo?	Cóntigit, áut ulló — postác contínget in évo?
+657	man		manual	Vídist'|Étne|ó — rap|tám sub |vértice |nígri	Vídist'Étneó — raptám sub vértice nígri
+658	ok	SSDSDX		Úxo|rém tran|síre to|rí, nec |vúltus E|lísse	Úxorém transíre torí, nec vúltus Elísse
+659	ok	DSDSDX		Té latu|ít nos|tré, faci|és nec |Górgonis |hórrens,	Té latuít nostré, faciés nec Górgonis hórrens,
+660	ok	SDDSDX		Néc que |fátife|rúm — laque|ó pen|dénte se|cúta'st	Néc que fátiferúm — laqueó pendénte secúta'st
+661	var	DDSSDX	relax	Láodo|mía vi|rúm, nec |té, pul|cérrima |Prócris,	Láodomía virúm, nec té, pulcérrima Prócris,
+662	man		manual	Néc Teu|crúm pes|tís, Mi|nóisqu'|áltera |próles -	Néc Teucrúm pestís, Minóisqu'áltera próles -
+663	ok	DSDSDX		Áltera |nám ce|lúm — tenu|ít stel|lánte co|róna -.	Áltera nám celúm — tenuít stellánte coróna -.
+664	ok	SDSSDX		Séd cui |tántus ho|nós, cui |tánte |glória |fórme?	Séd cui tántus honós, cui tánte glória fórme?
+665	ok	DDDSDX		Crúde se|néx, michi |créde, pa|rém non |úlla vi|débunt	Crúde senéx, michi créde, parém non úlla vidébunt
+666	ok	DSSSDX		Sécula, |néc re|rúm — lau|dátrix |mágna su|árum	Sécula, néc rerúm — laudátrix mágna suárum
+667	ok	SDSSDX		Étas |príma tu|lít. Vi|sá tan|gére iu|vénta;	Étas príma tulít. Visá tangére iuvénta;
+668	ok	SDDSDX		Árde|bís, michi |créde, se|néx; me |fórsitan |íllac	Árdebís, michi créde, senéx; me fórsitan íllac
+669	ok	DSSDDX		Cóniugis |ínfaus|té — ves|tígia |cára se|quéntem	Cóniugis ínfausté — vestígia cára sequéntem
+670	ok	DDDSDX		Tárdius |éxcipi|és. Veni|ám, nec |témpore |múlto	Tárdius éxcipiés. Veniám, nec témpore múlto
+671	ok	DDSDDX		Híc michi |cárcer e|rít. Proh! |sí prohi|bémur a|díre	Híc michi cárcer erít. Proh! sí prohibémur adíre
+672	ok	DDSDDX		Córpore|ósqu'ite|rúm — ius |ést reme|áre sub |ártus,	Córporeósqu'iterúm — ius ést remeáre sub ártus,
+673	ok	DSDSDX		Óccidi|mús. Tu |párce, se|néx, atqu'|árbiter |équus	Óccidimús. Tu párce, senéx, atqu'árbiter équus
+674	ok	DSDDDX		Ígne pa|rí fla|gráns — iuve|nílibus |ánnue |flámmis.	Ígne parí flagráns — iuvenílibus ánnue flámmis.
+675	ok	DDSDSX		Cérbere, |sí potu|ít — va|tés Rodo|péius |íram	Cérbere, sí potuít — vatés Rodopéius íram
+676	ok	DDDSDX		Frángere |vóce li|ré, faci|és nunc |cóniugis |ísta	Frángere vóce liré, faciés nunc cóniugis ísta
+677	ok	DSDSDX		Quíd pote|rít cons|pécta — ti|bí cons|péctaque |régi	Quíd poterít conspécta — tibí conspéctaque régi
+678	ok	DDSSDX		Tártare|ó? Vere|ór, ne |nóstros |cáptus a|móres	Tártareó? Vereór, ne nóstros cáptus amóres
+679	ok	DSDSDX		Téntet, et |ánno|sé — rede|ás, Pro|sérpina, |mátri.	Téntet, et ánnosé — redeás, Prosérpina, mátri.
+680	ok	DSDSDX		Sómnia |súnt que |fíngis a|máns, et |fálleris |ámens.	Sómnia súnt que fíngis amáns, et fálleris ámens.
+681	ok	SDSSDX		Mássi|níssa, di|ú — fe|líx, si |ráta fu|íssent	Mássiníssa, diú — felíx, si ráta fuíssent
+682	man		manual	Múnera |Fórtu|né — modo! |séd, mes|tíssime |régum,	Múnera Fórtuné — modo! séd, mestíssime régum,
+683	ok	DDSSDX		Póne mo|dúm lacri|mís — me|támqu'im|póne que|rélis.	Póne modúm lacrimís — metámqu'impóne querélis.
+684	ok	DDDSDX		Dúlce me|úm decus, |átqu'ani|mé — pars |áltera |nóstre,	Dúlce meúm decus, átqu'animé — pars áltera nóstre,
+685	ok	DSSDDX		Ó breve |sóla|mén, lon|gús dolor, |ínclita |cóniunx,	Ó breve sólamén, longús dolor, ínclita cóniunx,
+686	ok	DDSSDX		Íbis ad |Élisi|ás — di|récto |trámite |válles,	Íbis ad Élisiás — dirécto trámite válles,
+687	ok	DDDDDX		Ét michi |mórte tu|á — gemi|túm lacri|másque re|línques.	Ét michi mórte tuá — gemitúm lacrimásque relínques.
+688	ok	DDDSDX		Séd sequar; |héc mise|rí — supe|ránt so|látia |mórbi."	Séd sequar; héc miserí — superánt solátia mórbi."
+689	ok	DDDSDX		Óbticu|ít, subi|ítque so|pór; tum |féssa pa|rúmper	Óbticuít, subiítque sopór; tum féssa parúmper
+690	ok	DSSSDX		Mémbra qui|és sen|sím — su|brépens |tárda fe|féllit:	Mémbra quiés sensím — subrépens tárda feféllit:
+691	ok	DSSSDX		Múlta sed |ín som|nís — ques|tús, ce|lúmque Ca|ósque	Múlta sed ín somnís — questús, celúmque Caósque
+692	ok	SDSDDX		Fórtu|námque fer'|íncu|sáns — homi|nésque de|ósque.	Fórtunámque fer'íncusáns — hominésque deósque.
+693	ok	DSSDDX		Écce pa|rúm faus|tó — fi|ném posi|túrus a|móri	Écce parúm faustó — finém positúrus amóri
+694	var	DDDSDX	relax	Fébus ab |Óccea|nó — radi|áns sur|gébat E|óo.	Fébus ab Ócceanó — radiáns surgébat Eóo.
+695	ok	DDSDDX		Cóncrepu|ére tu|bé; sur|gít treme|fáctus, et |íras	Cóncrepuére tubé; surgít tremefáctus, et íras
+696	ok	DSSDDX		Súscitat, |ác ques|tú — se |sépe re|vólvit e|ódem.	Súscitat, ác questú — se sépe revólvit eódem.
+697	ok	SDDSDX		Póstquam |cástra vi|dét — fremi|tú tes|tántia |mótum,	Póstquam cástra vidét — fremitú testántia mótum,
+698	ok	DSDSDX		Ét metu|ít man|dáta du|cís, vimqu'|áffore |crédit,	Ét metuít mandáta ducís, vimqu'áffore crédit,
+699	ok	DSSDDX		Sí neget, |hórren|dúm — dict'|ét mise|rábile |súmit	Sí neget, hórrendúm — dict'ét miserábile súmit
+700	ok	DSDDDX		Cónsili|úm, quod |trístis — A|mór dabat: |áurea |fído	Cónsiliúm, quod trístis — Amór dabat: áurea fído
+701	ok	DSSDDX		Pócula |dát ser|vó, cus|tódia |díra ve|néni	Pócula dát servó, custódia díra venéni
+702	ok	DDSSDX		Crédita |cúi fue|rát. Rex |héc un|dántia |súmmo	Crédita cúi fuerát. Rex héc undántia súmmo
+703	ok	DSSSDX		Ác supe|rínfu|sá — cer|néns spu|mántia |mórte:	Ác superínfusá — cernéns spumántia mórte:
+704	ok	DDDDDX		"Vád'" ait "|ét mise|ré — mea |trístia |múnera |pérfer	"Vád'" ait "ét miseré — mea trístia múnera pérfer
+705	ok	SSDSDX		Régi|né, stric|tósque — de|ós ab|sólve fi|démque.	Réginé, strictósque — deós absólve fidémque.
+706	ok	SSDDDX		Mé pro|mísso|rúm — memo|rém sciat |ílla: se|cúndum	Mé promíssorúm — memorém sciat ílla: secúndum
+707	ok	DDSDDX		Ímpleo. |Súnt supe|rí — tes|tés, erat |áltera |lónge	Ímpleo. Súnt superí — testés, erat áltera lónge
+708	ok	DDDSDX		Cónditi|ó michi |gráta ma|gís, ten|tátaque |frústra	Cónditió michi gráta magís, tentátaque frústra
+709	ok	DDSSDX		Ést via, |sí qua fo|rét, per |quám re|gína ma|néret	Ést via, sí qua forét, per quám regína manéret
+710	ok	DSDSDX		Cóniugi|ó con|ténta me|ó. Ro|mánus ab |álto	Cóniugió conténta meó. Románus ab álto
+711	ok	DSSDDX		Dúx vetat: |húic nos|trí, sic |díi statu|ére, po|téstas	Dúx vetat: húic nostrí, sic díi statuére, potéstas
+712	ok	SDDDDX		Fórtu|náque iu|bénte da|tá'st. Sibi |cónsulat |érgo	Fórtunáque iubénte datá'st. Sibi cónsulat érgo
+713	ok	DDSSDX		Cógitet |únde ru|éns — quo |sít pros|tráta; quis |íllam	Cógitet únde ruéns — quo sít prostráta; quis íllam
+714	ok	DDDSDX		Éxitus |éxcipi|át — vidu|átam |nómine |nóstri;	Éxitus éxcipiát — viduátam nómine nóstri;
+715	ok	DSDDDX		Ínsuper |ét pri|mí — reve|réntia |quánta ma|ríti,	Ínsuper ét primí — reveréntia quánta maríti,
+716	ok	DSDSDX		Quánta pa|trís vir|tús: titu|lísqu'et |sánguine |dígnum	Quánta patrís virtús: titulísqu'et sánguine dígnum
+717	ok	DDDSDX		Cónsili|úm paret |ípsa si|bí. Quod |póssumus |únum,	Cónsiliúm paret ípsa sibí. Quod póssumus únum,
+718	amb	SDSSDX	[[1.0, "SDSSDX"], [1.0, "SSDSDX"]]	Ínstru|ménta fu|gé — li|bérta|tísque pa|rámus."	Ínstruménta fugé — libértatísque parámus."
+719	amb	DDSDDX	[[0.0, "DDSDDX"], [0.05, "DDDSDX"]]	Héc ait, |átqu'ocu|lós — la|crímis a|vértit o|nústos.	Héc ait, átqu'oculós — lacrímis avértit onústos.
+720	ok	DDSSDX		Núncius |áccele|ráns — re|gín'ad |límina |púlsat	Núncius ácceleráns — regín'ad límina púlsat
+721	ok	DDSDDX		Múnera |díra fe|réns. Pan|nís anus |óbsit'et |ánnis	Múnera díra feréns. Pannís anus óbsit'et ánnis
+722	ok	DDSDDX		Prósilit, |átqu'habi|túm — cons|péctaque |pócula |nárrat.	Prósilit, átqu'habitúm — conspéctaque pócula nárrat.
+723	ok	DDDDDX		Súbstitit |áttoni|té — simi|lís simi|lísque pa|vénti;	Súbstitit áttonité — similís similísque pavénti;
+724	ok	DDDSDX		Néc remo|ráta di|ú, posi|tóqu'ins|tíncta pa|vóre:	Néc remoráta diú, positóqu'instíncta pavóre:
+725	ok	DDSSDX		"Íngredi|átur" a|ít. Stat |térre |lúmina |fíxus	"Íngrediátur" aít. Stat térre lúmina fíxus
+726	ok	DSDSDX		Ét pera|gít com|míssa tre|méns; in|tércipit |ílla:	Ét peragít commíssa treméns; intércipit ílla:
+727	ok	DSDSDX		"Súscipi|ó man|dáta li|béns, nec |dóna re|cúso	"Súscipió mandáta libéns, nec dóna recúso
+728	ok	DSDSDX		Régia, |sí ma|iús — nichil |ést, quod |míttere |dúlcis	Régia, sí maiús — nichil ést, quod míttere dúlcis
+729	ok	DSDDDX		Pósset a|máns: cer|té — meli|ús mori|ébar, in |ípso	Pósset amáns: certé — meliús moriébar, in ípso
+730	ok	DSSSDX		Fúnere |ní de|méns — nup|síssem - |númina |téstor	Fúnere ní deméns — nupsíssem - númina téstor
+731	ok	DDDSDX		Cónscia -, |nón ali|quíd — quoni|ám de |cóniuge |cáro	Cónscia -, nón aliquíd — quoniám de cóniuge cáro
+732	ok	DDSDDX		Sít nisi |dúlce mich|í; sed |sídera |prómptius |álta,	Sít nisi dúlce michí; sed sídera prómptius álta,
+733	ok	SDSSDX		Térre|nís ut e|rám — vin|clís e|xúta, pe|tébam.	Térrenís ut erám — vinclís exúta, petébam.
+734	man		manual	Hóc refer |éxtrem', |ét mor|tís — michi |téstis a|désto.	Hóc refer éxtrem', ét mortís — michi téstis adésto.
+735	man		manual	Át vos, |Célico|lé — et |quí mari'|ámpla te|nétis,	Át vos, Célicolé — et quí mari'ámpla tenétis,
+736	ok	DSDDDX		Quíque lo|cúm mun|dí — medi|úm Stigi|ásque te|nébras,	Quíque locúm mundí — mediúm Stigiásque tenébras,
+737	ok	DDDSDX		Quás ade|ó, licet |ánte di|ém, si |iústa pre|cándi	Quás adeó, licet ánte diém, si iústa precándi
+738	ok	DSDSDX		Máteri|á'st, pres|táte — pi|ás his |quéstibus |áures;	Máteriá'st, prestáte — piás his quéstibus áures;
+739	man		manual	Áudiat |ét cel'|ét pela|gús — tel|lúsque pro|fúnda.	Áudiat ét cel'ét pelagús — tellúsque profúnda.
+740	ok	DSDSDX		Én mori|ór; mor|tísque — ma|gís me |cáusa do|lére,	Én moriór; mortísque — magís me cáusa dolére,
+741	ok	SDDSDX		Quám mors |ípsa fa|cít. Quid e|ním com|mércia |tángunt	Quám mors ípsa facít. Quid ením commércia tángunt
+742	ok	DDSDDX		Nóstra du|cés Lati|ós? En |quánta su|pérbia |génti!	Nóstra ducés Latiós? En quánta supérbia génti!
+743	ok	DSSDDX		Nón satis |ést hos|tém — reg|nís spoli|ásse pa|térnis:	Nón satis ést hostém — regnís spoliásse patérnis:
+744	ok	SDDSDX		Líber|tát'ani|mós — spoli|ánt, et |ríte co|áctis	Líbertát'animós — spoliánt, et ríte coáctis
+745	ok	DSSSDX		Cóniugi|ís sanc|tóqu'au|dént — ir|rúmper'a|móri	Cóniugiís sanctóqu'audént — irrúmper'amóri
+746	ok	SDDSDX		Ác pac|tós lani|áre to|rós, vic|tória |póstquam	Ác pactós laniáre torós, victória póstquam
+747	ok	SSDSDX		Róma|nó stat |cérta du|cí, nec |fléctere |quísquam	Rómanó stat cérta ducí, nec fléctere quísquam
+748	man		manual	Fáta po|tést e|térna Io|vís: sint |última |víte	Fáta potést etérna Iovís: sint última víte
+749	man		manual	Trísti', et |éximi|ís — sua |Róm'in|gráta tro|féis,	Trísti', et éximiís — sua Róm'ingráta troféis,
+750	ok	DDSSDX		Éxul ut |á patri|á — de|sért'in |rúre se|néscat	Éxul ut á patriá — desért'in rúre senéscat
+751	ok	DSSSDX		Sólus et |á fi|dís — lon|gé se|mótus a|mícis;	Sólus et á fidís — longé semótus amícis;
+752	ok	DDDSDX		Néc vide|át sibi |dúlc'ali|quíd, qui |dúlcia |nóbis	Néc videát sibi dúlc'aliquíd, qui dúlcia nóbis
+753	man		manual	Ómnia |préripu|ít; tum |cár'in|iúria |frátris	Ómnia préripuít; tum cár'iniúria frátris
+754	ok	DDDSDX		Éxagi|tét, dole|átque — su|ós non |équa fe|réntes;	Éxagitét, doleátque — suós non équa feréntes;
+755	ok	DSSDDX		Fílius |éxtre|mós — in|glórius |ággravet |ánnos.	Fílius éxtremós — inglórius ággravet ánnos.
+756	ok	SSDSDX		Índig|nó tand'|átqu'ino|pí — clau|dáre se|púlcro,	Índignó tand'átqu'inopí — claudáre sepúlcro,
+757	man		manual	Íra|túsque tib'|ét patri|é — mori|áre re|lícte,	Íratúsque tib'ét patrié — moriáre relícte,
+758	ok	DSSSDX		Scípi', et |ínfa|més — sa|xís ins|críbe que|rélas.	Scípi', et ínfamés — saxís inscríbe querélas.
+759	ok	DDSDDX		Tú quoque |fíniti|mó — sem|pér quati|áre tu|múltu,	Tú quoque fínitimó — sempér quatiáre tumúltu,
+760	ok	SSSSDX		Sí se|cúm pos|tác, con|iúnx ca|ríssime, |fírmum	Sí secúm postác, coniúnx caríssime, fírmum
+761	ok	DDDSDX		Fédus ha|bés: vide|ás — abe|úntes |fúnere |nátos	Fédus habés: videás — abeúntes fúnere nátos
+762	man		manual	Íntem|péstiv', |ét fe|dátos |céde ne|pótes	Íntempéstiv', ét fedátos céde nepótes
+763	ok	SDSSDX		Álter|ná. Veni|éns — il|lá de |génte cru|éntus	Álterná. Veniéns — illá de génte cruéntus
+764	ok	DSDSDX		Rústicus |ínsul|tét — gene|rí per |vúlnera |véstro,	Rústicus ínsultét — generí per vúlnera véstro,
+765	ok	DDSSDX		Ét trahat |ánte ru|dém — vinc|tós per |ménia |cúrrum,	Ét trahat ánte rudém — vinctós per ménia cúrrum,
+766	ok	DSDDDX		Órnet et |éx vo|bís — propri|ós tua |Róma tri|úmfos!"	Órnet et éx vobís — propriós tua Róma triúmfos!"
+767	ok	DSDDDX		Díxerat: |ác cir|cúm gemi|túm — lacri|másque vi|déres	Díxerat: ác circúm gemitúm — lacrimásque vidéres
+768	ok	SDDSDX		Ástan|tésque fer'|áttoni|tós — in|téndere |fíni.	Ástantésque fer'áttonitós — inténdere fíni.
+769	ok	DDDSDX		Ílla ma|nú pate|rámque — te|néns et |lúmina |célo	Ílla manú paterámque — tenéns et lúmina célo
+770	ok	SSSDDX		Áttol|léns: "Sol |álm'" in|quít "supe|ríque, va|léte;	Áttolléns: "Sol álm'" inquít "superíque, valéte;
+771	ok	SDSDDX		Mássi|níssa, va|lé, nos|trí memor." |Índe ma|lígnum	Mássiníssa, valé, nostrí memor." Índe malígnum
+772	ok	DSSSDX		Céu siti|éns hau|rít — non |móta |frónte ve|nénum,	Céu sitiéns haurít — non móta frónte venénum,
+773	ok	DDDSDX		Tártare|ásque pe|tít — vio|léntus |spíritus |úmbras.	Tártareásque petít — violéntus spíritus úmbras.

@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="la">Africa, Liber Nonvs</title>
+<title xml:lang="zh-Hans">阿非利加 · 第九卷（拉中对照注释本）</title>
+<author>Francesco Petrarca</author>
+<respStmt><resp>Chinese translation, notes, scansion (AI-generated, AI-reviewed)</resp><name>Claude (Anthropic)</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Africa-by-Petrarca project</publisher>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/">Translation, notes and annotations: CC BY 4.0. The Latin text is the public-domain poem as transmitted by the Itinera Electronica digital text; see README.</licence></availability>
+</publicationStmt>
+<sourceDesc><p>Latin text: digital text of Itinera Electronica (Bibliotheca Classica Selecta, UCLouvain); Books I–II in classicising spelling (Pingaud 1872 tradition), Books III–IX in medieval spelling (Festa 1926 tradition). Mechanical misprints corrected and listed in data/corrections.tsv.</p></sourceDesc>
+</fileDesc>
+<encodingDesc>
+<metDecl><p>@met on each verse gives the dactylic hexameter pattern: one letter per foot, D = dactyl, S = spondee, X = final foot. Full foot division in data/scansion/09.tsv.</p></metDecl>
+</encodingDesc>
+<profileDesc><abstract xml:lang="zh-Hans"><p>西庇阿率舰队归航，请恩尼乌斯开口。恩尼乌斯称颂其功业空前、身后之名将与日俱增，自叹拉丁诗艺尚稚；又论诗人的特许：须以真实为根基，再以寓意之云遮掩，凭空捏造者只是说谎者；并申说将领与诗人共享桂冠之义。继而讲述扎马战前之梦：盲眼的荷马现身，预言罗马必胜，又指给他看月桂丛中的青年弗朗切斯科——他将写出《阿非利加》、在卡皮托利山加冕，并以散文撰写罗马史。西庇阿说，此梦无论真假，他都爱这位诗人。舰队在利利巴厄姆登岸，穿过欢庆的意大利抵达罗马。凯旋式上，马其顿俘虏、西法克斯、战利品与战象相继而过，获释的库莱奥随行，恩尼乌斯同戴桂冠。诗人自述一千五百年后在同地加冕，不愿续写西庇阿晚年的流放与死亡。结语致诗卷：哀悼罗伯特国王，叹生于末世，寄望后人驱散黑暗、重返古代光辉，嘱诗卷隐居待时，蔑视时间与嫉妒。</p></abstract></profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="la" n="9">
+<div type="textpart" subtype="section" n="1" xml:id="africa.9.s01">
+<head xml:lang="zh-Hans">平静海上的归航</head>
+<l n="1" xml:id="africa.9.1" met="DSDSDX">Scipio prouectus pelago Romanaque classis</l>
+<l n="2" xml:id="africa.9.2" met="DSDSDX">Iam placidum sulcabat iter. Non rauca procellis</l>
+<l n="3" xml:id="africa.9.3" met="DSSDDX">Equora feruebant; uentisque silentibus undas</l>
+<l n="4" xml:id="africa.9.4" met="SSDSDX">Victorem sensisse putes. Tranquillior illis</l>
+<l n="5" xml:id="africa.9.5" met="DSDSDX">Vultus erat, celo facies composta sereno.</l>
+<l n="6" xml:id="africa.9.6" met="SDSDDX">Sic hostile fretum, sic cunta elementa uideres</l>
+<l n="7" xml:id="africa.9.7" met="DSDSDX">Obsequio mulcere ducem. Iam litora longe</l>
+<l n="8" xml:id="africa.9.8" met="DSDSDX">Africa linquebant alacres et bella canentes</l>
+<l n="9" xml:id="africa.9.9" met="SDSSDX">Ibant ac ualido frangebant remige fluctus.</l>
+</div>
+<div type="textpart" subtype="section" n="2" xml:id="africa.9.s02">
+<head xml:lang="zh-Hans">西庇阿请恩尼乌斯开口</head>
+<l n="10" xml:id="africa.9.10" met="DDDDDX">Puppe ducis media tacitus meditansque sedebat</l>
+<l n="11" xml:id="africa.9.11" met="DDSSDX">Ennius, assiduus rerum testisque comesque;</l>
+<l n="12" xml:id="africa.9.12" met="DSDSDX">Scipio quem tandem aggreditur uerbisque benignis</l>
+<l n="13" xml:id="africa.9.13" met="DDSDDX">Excitat incipiens: "Nunquamne silentia rumpes,</l>
+<l n="14" xml:id="africa.9.14" met="DSSSDX">O michi multorum solamen dulce laborum?</l>
+<l n="15" xml:id="africa.9.15" met="DSDSDX">Fare, precor; nam perpetuis tabentia curis</l>
+<l n="16" xml:id="africa.9.16" met="DDDSDX">Pectora nostra uides. Placido sermone leuare</l>
+<l n="17" xml:id="africa.9.17" met="DDDSDX">Illa soles; faciesque modo, tantum ora resolue,</l>
+<l n="18" xml:id="africa.9.18" met="DSSSDX">Si tibi nascenti, quo polles, summus Apollo</l>
+<l n="19" xml:id="africa.9.19" met="DSDSDX">Ingenium celeste dedit, si turba dearum</l>
+<l n="20" xml:id="africa.9.20" met="DSSSDX">Castalio infantem demersum gurgite lauit</l>
+<l n="21" xml:id="africa.9.21" met="DDSSDX">Ex Elicone sacro, collesque eduxit in altos,</l>
+<l n="22" xml:id="africa.9.22" met="DSDSDX">Et calamum et uocem tribuit mentemque poete."</l>
+</div>
+<div type="textpart" subtype="section" n="3" xml:id="africa.9.s03">
+<head xml:lang="zh-Hans">恩尼乌斯：空前的功业与身后之名</head>
+<l n="23" xml:id="africa.9.23" met="DSDDDX">Ennius auditis caput extulit atque ita fatur:</l>
+<l n="24" xml:id="africa.9.24" met="SDDSDX">"O flos Italie, iuuenis, stirpisque deorum</l>
+<l n="25" xml:id="africa.9.25" met="DSSDDX">Certa fides, quid nunc nostro placet ore moueri,</l>
+<l n="26" xml:id="africa.9.26" met="DDDDDX">Quidue iubes? Equidem tacito modo pectore mecum</l>
+<l n="27" xml:id="africa.9.27" met="SSDSDX">Voluebam quod nulla ferent iam secula maius</l>
+<l n="28" xml:id="africa.9.28" met="DSDSDX">Eximie uirtutis opus, quam nostra quod etas</l>
+<l n="29" xml:id="africa.9.29" met="DSSSDX">Leta uidet, nullusque unquam sub mente mouebit</l>
+<l n="30" xml:id="africa.9.30" met="DSSSDX">Grande aliquid, cui non, magnas spes inter, honestum</l>
+<l n="31" xml:id="africa.9.31" met="DDSSDX">Nomen in ore sonet, qui non uenturus ad actum</l>
+<l n="32" xml:id="africa.9.32" met="DDDSDX">Scipiade meminisse uelit, pro munere uultus</l>
+<l n="33" xml:id="africa.9.33" met="DSDSDX">Non cupiat uidisse tuos. Maiorque sepulcri</l>
+<l n="34" xml:id="africa.9.34" met="DSDSDX">Post cineres te fama manet. Mortalia Liuor</l>
+<l n="35" xml:id="africa.9.35" met="DSDSDX">Carpit enim; at Mors Inuidiam consumit et arcet</l>
+<l n="36" xml:id="africa.9.36" met="DSDDDX">Ac procul a bustis abigit. Tua gloria pridem</l>
+<l n="37" xml:id="africa.9.37" met="DSSSDX">Vicerat hanc pestem, iamque altas tuta per auras</l>
+<l n="38" xml:id="africa.9.38" met="DSDSDX">Fugit humum morbosque hominum moresque malignos,</l>
+<l n="39" xml:id="africa.9.39" met="DDDDDX">Seque parem tulit alma deis. Tamen ecce supremum</l>
+<l n="40" xml:id="africa.9.40" met="SDSDDX">Incrementa diem fame tibi multa daturum</l>
+<l n="41" xml:id="africa.9.41" met="SSSSDX">Promisi expertus; quoque ipse a morte recedes</l>
+<l n="42" xml:id="africa.9.42" met="DSDSDX">Longius, hoc maior meritum te fama sequetur.</l>
+<l n="43" xml:id="africa.9.43" met="DDSDDX">Tempore crescet honos perque ultima secula mundi</l>
+<l n="44" xml:id="africa.9.44" met="DSDSDX">Clarus eris. Virtus quoniam non altius ibis:</l>
+<l n="45" xml:id="africa.9.45" met="SDSDDX">Descensus uereor. Sed nostra peritia fandi</l>
+<l n="46" xml:id="africa.9.46" met="SDDSDX">Nondum propositam ualuit contingere metam,</l>
+<l n="47" xml:id="africa.9.47" met="DDSDDX">Nuper ab exiguis radicibus orta, nec ante</l>
+<l n="48" xml:id="africa.9.48" met="DDDSDX">Cognita per Latium, Argolicis contenta colonis.</l>
+</div>
+<div type="textpart" subtype="section" n="4" xml:id="africa.9.s04">
+<head xml:lang="zh-Hans">亚历山大的感叹：诗人配不上英雄</head>
+<l n="49" xml:id="africa.9.49" met="DSSSDX">Hoc igitur mecum indignans sub mente mouebam,</l>
+<l n="50" xml:id="africa.9.50" met="SDDSDX">Precones meritos tua quod notissima uirtus</l>
+<l n="51" xml:id="africa.9.51" met="DDDSDX">Non habitura foret. Macedum rex magnus amici</l>
+<l n="52" xml:id="africa.9.52" met="DSDDDX">Forte uidens saxum Eacide titulosque sepulcri,</l>
+<l n="53" xml:id="africa.9.53" met="SSDSDX">'Fortunate' inquit 'iuuenis, cui nominis illum</l>
+<l n="54" xml:id="africa.9.54" met="SDDSDX">Preconem reperire fuit!' Non parue profecto</l>
+<l n="55" xml:id="africa.9.55" met="SSDDDX">Est claris fortuna uiris habuisse poetam</l>
+<l n="56" xml:id="africa.9.56" met="DSDDDX">Altisonis qui carminibus cumulare decorem</l>
+<l n="57" xml:id="africa.9.57" met="SDDDDX">Virtutis queat egregie monimentaque laudum.</l>
+<l n="58" xml:id="africa.9.58" met="DDSSDX">At tibi, summe ducum, claro quo nullus Homero est</l>
+<l n="59" xml:id="africa.9.59" met="DDSSDX">Dignior, in reliquis blanda inque hoc durior uno</l>
+<l n="60" xml:id="africa.9.60" met="SSDSDX">Me solum Fortuna dedit. Currentibus annis</l>
+<l n="61" xml:id="africa.9.61" met="SSSSDX">Nascetur forsan digno qui carmine celo</l>
+<l n="62" xml:id="africa.9.62" met="DDSSDX">Efferat emeritas laudes et fortia facta</l>
+<l n="63" xml:id="africa.9.63" met="SDDDDX">Et cui mellifluo melius resonantia plectro</l>
+<l n="64" xml:id="africa.9.64" met="DSDSDX">Calliope det fila lire uocemque sonoram."</l>
+</div>
+<div type="textpart" subtype="section" n="5" xml:id="africa.9.s05">
+<head xml:lang="zh-Hans">西庇阿只愿由恩尼乌斯歌唱，并发问</head>
+<l n="65" xml:id="africa.9.65" met="DSDSDX">"Parce, precor, uerbis: tibi non, me iudice, uates</l>
+<l n="66" xml:id="africa.9.66" met="DSDSDX">Meonius nec iure tibi preponitur altus</l>
+<l n="67" xml:id="africa.9.67" met="DSSSDX">Euripides aut quos claro cognomine Grai</l>
+<l n="68" xml:id="africa.9.68" met="DDSSDX">Concelebrant. Alio nolim me carmine dici,</l>
+<l n="69" xml:id="africa.9.69" met="SDSSDX">Si dicendus ero. Quin quod te poscimus" inquit</l>
+<l n="70" xml:id="africa.9.70" met="DDSSDX">Scipio "prosequere; et que sint permissa poetis,</l>
+<l n="71" xml:id="africa.9.71" met="SDSSDX">Famoseque rei certos agnoscere fines</l>
+<l n="72" xml:id="africa.9.72" met="DSDSDX">Te liceat monstrante michi: quid laurea signet</l>
+<l n="73" xml:id="africa.9.73" met="DSSDDX">Tam ducibus claris quam uatibus addita sacris.</l>
+<l n="74" xml:id="africa.9.74" met="DSDSDX">Neue tibi indignus uidear cui talia forte</l>
+<l n="75" xml:id="africa.9.75" met="SSDSDX">Narrentur, nobis animum dulcedine quadam</l>
+<l n="76" xml:id="africa.9.76" met="DSDSDX">Pulcra mouent, et continuis hoc pectus ab armis</l>
+<l n="77" xml:id="africa.9.77" met="DSDDDX">Dulcia concussum placide capit otia lingue."</l>
+</div>
+<div type="textpart" subtype="section" n="6" xml:id="africa.9.s06">
+<head xml:lang="zh-Hans">恩尼乌斯论诗：真实为基，寓言为云</head>
+<l n="78" xml:id="africa.9.78" met="SSDSDX">Ille autem "Nulla est, fateor, tam dura feroxque</l>
+<l n="79" xml:id="africa.9.79" met="DDSSDX">Mens" ait "alme ducum, cui non sit pulcra uoluptas</l>
+<l n="80" xml:id="africa.9.80" met="SSSSDX">Interdum curas inter uiteque labores</l>
+<l n="81" xml:id="africa.9.81" met="DSDSDX">Pyerios audisse modos dulcesque dearum</l>
+<l n="82" xml:id="africa.9.82" met="SDDSDX">Irrepsisse choros. Sed enim hec precordia nunquam</l>
+<l n="83" xml:id="africa.9.83" met="SSDSDX">A Musis auersa reor. Non talibus astris</l>
+<l n="84" xml:id="africa.9.84" met="SDDSDX">Tam magnum genuisse uirum Natura uidetur.</l>
+<l n="85" xml:id="africa.9.85" met="SSDDDX">Errasset, si cui dederat cupidissima fame</l>
+<l n="86" xml:id="africa.9.86" met="DSSSDX">Pectora, Musarum non ingessisset amorem.</l>
+<l n="87" xml:id="africa.9.87" met="DSDSDX">Quisquis enim se magna uidet gessisse, necesse est</l>
+<l n="88" xml:id="africa.9.88" met="DSSSDX">Diligat eternos uates et carmina sacra.</l>
+<l n="89" xml:id="africa.9.89" met="SSSSDX">At nunc quod nostro poscis sermone doceri,</l>
+<l n="90" xml:id="africa.9.90" met="DDSDDX">Accipe quam breuibus. Non illa licentia uatum est</l>
+<l n="91" xml:id="africa.9.91">Quam multis placuisse palam est.</l>
+<l n="92" xml:id="africa.9.92" met="SSDSDX">Scripturum iecisse prius firmissima ueri</l>
+<l n="93" xml:id="africa.9.93" met="SDDSDX">Fundamenta decet, quibus inde innixus amena</l>
+<l n="94" xml:id="africa.9.94" met="DSDSDX">Et uaria sub nube potest abscondere sese,</l>
+<l n="95" xml:id="africa.9.95" met="SSDDDX">Lectori longum cumulans placidumque laborem,</l>
+<l n="96" xml:id="africa.9.96" met="SDSSDX">Quesitu asperior quo sit sententia, uerum</l>
+<l n="97" xml:id="africa.9.97" met="DSSDDX">Dulcior inuentu. Quicquid labor historiarum est</l>
+<l n="98" xml:id="africa.9.98" met="SSSDDX">Quicquid uirtutum cultus documentaque uite,</l>
+<l n="99" xml:id="africa.9.99" met="SDSDDX">Nature studium quicquid, licuisse poetis</l>
+<l n="100" xml:id="africa.9.100" met="DSDSDX">Crede: sub ignoto tamen ut celentur amictu,</l>
+<l n="101" xml:id="africa.9.101" met="DDSSDX">Nuda alibi, et tenui frustrentur lumina uelo,</l>
+<l n="102" xml:id="africa.9.102" met="SDDDDX">Interdumque palam ueniant, fugiantque uicissim.</l>
+<l n="103" xml:id="africa.9.103" met="SSDSDX">Qui fingit quodcumque refert, non ille poete</l>
+<l n="104" xml:id="africa.9.104" met="DSSDDX">Nomine censendus, nec uatis honore, sed uno</l>
+<l n="105" xml:id="africa.9.105" met="DSDSDX">Nomine mendacis. Potes hinc perpendere quicquid</l>
+<l n="106" xml:id="africa.9.106" met="DSSSDX">Scire petis: nostri que sit mensura laboris,</l>
+<l n="107" xml:id="africa.9.107" met="SSSDDX">Et latos fines, et quanta licentia nobis.</l>
+</div>
+<div type="textpart" subtype="section" n="7" xml:id="africa.9.s07">
+<head xml:lang="zh-Hans">桂冠的意义</head>
+<l n="108" xml:id="africa.9.108" met="DDSSDX">Laurea restat adhuc: cuius dignare parumper</l>
+<l n="109" xml:id="africa.9.109" met="DSDSDX">Participes nos esse tibi. Si gloria bello,</l>
+<l n="110" xml:id="africa.9.110" met="DDSDDX">Nec minus ingenio constat, patiere uirenti</l>
+<l n="111" xml:id="africa.9.111" met="DSDDDX">Fronde duces uatesque simul sacra tempora cingant.</l>
+<l n="112" xml:id="africa.9.112" met="SDDSDX">Immortale decus uiror immortalis utrisque</l>
+<l n="113" xml:id="africa.9.113" met="DSSSDX">Indicat et longe promittit tempora uite.</l>
+<l n="114" xml:id="africa.9.114" met="DDSDDX">Hinc deus ingenii lauros amat almus Apollo,</l>
+<l n="115" xml:id="africa.9.115" met="DDDDDX">Pyeridum solitus cithara modulante choreas</l>
+<l n="116" xml:id="africa.9.116" met="DSDSDX">Incola Cirreo totiens duxisse sub antro.</l>
+<l n="117" xml:id="africa.9.117" met="DSDSDX">Preterea hanc frondem rapido non fulmine uexat</l>
+<l n="118" xml:id="africa.9.118" met="DSSDDX">Iupiter ex cuntis, talemque meretur honorem</l>
+<l n="119" xml:id="africa.9.119" met="DDSSDX">Laurus: ab ethereo tanta est clementia rege.</l>
+<l n="120" xml:id="africa.9.120" met="SSDDDX">Iam fame quod fulmen erit, nisi sola uetustas</l>
+<l n="121" xml:id="africa.9.121" met="DSSDDX">Omnia prosternens? Hunc gloria nostra pauorem</l>
+<l n="122" xml:id="africa.9.122" met="DDSSDX">Non habet, atque ideo spernentis fulmina frondis</l>
+<l n="123" xml:id="africa.9.123" met="DSDSDX">Serta gerit sanctoque legit de stipite ramos."</l>
+</div>
+<div type="textpart" subtype="section" n="8" xml:id="africa.9.s08">
+<head xml:lang="zh-Hans">西庇阿再请；恩尼乌斯独尊荷马</head>
+<l n="124" xml:id="africa.9.124" met="DDSSDX">Dixerat. At Scipio subridens: "Omnia mulcent;</l>
+<l n="125" xml:id="africa.9.125" met="SDDSDX">Sed ledis breuitate tua; et dum dulcius inter</l>
+<l n="126" xml:id="africa.9.126" met="DDDSDX">Ista sonant, medio sitientes calle relinquis.</l>
+<l n="127" xml:id="africa.9.127" met="DSSSDX">Ergo age! nam nullum iam litus cernitur, et sol</l>
+<l n="128" xml:id="africa.9.128" met="SSDSDX">Transiuit celi medium. Tu dulcia prome</l>
+<l n="129" xml:id="africa.9.129" met="DSDDDX">Verba, quibus mens alma scatet, placidoque uolentes</l>
+<l n="130" xml:id="africa.9.130" met="SSDSDX">Et longo sermone feras, partemque diei</l>
+<l n="131" xml:id="africa.9.131" met="SDDSDX">Et partes pelagi minuens." Tunc ille coactus</l>
+<l n="132" xml:id="africa.9.132" met="DSDSDX">Incipit - hic omnes tenuerunt murmure naute</l>
+<l n="133" xml:id="africa.9.133" met="DDDSDX">Et comites siluere ducis: "Vestigia Fame</l>
+<l n="134" xml:id="africa.9.134" met="DSDSDX">Rara sequens, quantum licuit per secula retro</l>
+<l n="135" xml:id="africa.9.135" met="DDDDDX">Omnia peruigili studio uagus ipse cucurri,</l>
+<l n="136" xml:id="africa.9.136" met="DSDDDX">Donec ad extremas animo rapiente tenebras</l>
+<l n="137" xml:id="africa.9.137" met="SSDSDX">Peruentum primosque uiros, quos Fama perenni</l>
+<l n="138" xml:id="africa.9.138" met="DSSSDX">Fessa uia longe ignotos post terga reliquit.</l>
+<l n="139" xml:id="africa.9.139" met="SDSDDX">Hic quisquis merito fulgens fuit obuius, illum</l>
+<l n="140" xml:id="africa.9.140" met="SDDDDX">Amplexu tenuisse animi michi gloria summa est</l>
+<l n="141" xml:id="africa.9.141" met="DSSDDX">Inque locum cari semper coluisse parentis.</l>
+<l n="142" xml:id="africa.9.142" met="DSDSDX">Precipue illustres calamo florente poetas</l>
+<l n="143" xml:id="africa.9.143" met="SSSSDX">Admisi atque ima cordis sub parte locaui.</l>
+<l n="144" xml:id="africa.9.144" met="DSSDDX">Milibus ex tantis unus michi summus Homerus,</l>
+<l n="145" xml:id="africa.9.145" met="DSDSDX">Unus habet quod suspiciam, quod mirer amemque.</l>
+<l n="146" xml:id="africa.9.146" met="DSDSDX">Ille michi e celo ueniens tam sepe uidetur,</l>
+<l n="147" xml:id="africa.9.147" met="DDDSDX">Ut stupeam potuisse hominem sic alta tenere,</l>
+<l n="148" xml:id="africa.9.148" met="SSDSDX">Astrorum sic nosse uias, sic climata terre!</l>
+<l n="149" xml:id="africa.9.149" met="DDSSDX">Qui licet ante nouos reges et tempora Rome</l>
+<l n="150" xml:id="africa.9.150" met="DDSSDX">Floruerit, tamen hoc in tempus mente reduxi</l>
+<l n="151" xml:id="africa.9.151" met="SDSDDX">Presentemque animo ficta sub ymagine feci.</l>
+<l n="152" xml:id="africa.9.152" met="DDDSDX">Hoc sine nulla dies abiit, nox nulla sine illo.</l>
+<l n="153" xml:id="africa.9.153" met="DSSSDX">Ille breues cenas in longum traxit, et idem</l>
+<l n="154" xml:id="africa.9.154" met="SDDSDX">Nunc longam breuiare uiam, nunc tramite plano</l>
+<l n="155" xml:id="africa.9.155" met="DDSDDX">Edocuit rigidi transire cacumina montis:</l>
+<l n="156" xml:id="africa.9.156" met="DDSSDX">Denique quicquid agens, nullo discrimine secum</l>
+<l n="157" xml:id="africa.9.157" met="SDDSDX">Sopitus uigilansque fui, noctemque diemque.</l>
+</div>
+<div type="textpart" subtype="section" n="9" xml:id="africa.9.s09">
+<head xml:lang="zh-Hans">决战前夜，荷马显现</head>
+<l n="158" xml:id="africa.9.158" met="DDDSDX">Hic michi nunc etiam dubii sub tempore belli</l>
+<l n="159" xml:id="africa.9.159" met="DSSSDX">Affuit in somnis. Quis somnum dixerit illum?</l>
+<l n="160" xml:id="africa.9.160" met="DSSSDX">Peruigil astabam. Fracta nam pace sub armis</l>
+<l n="161" xml:id="africa.9.161" met="DSSSDX">Omnia feruebant; seroque in castra reuersus</l>
+<l n="162" xml:id="africa.9.162" met="DDDSDX">Contigeras animum. Iubeas si uera fateri,</l>
+<l n="163" xml:id="africa.9.163" met="DDDSDX">Non timui; tamen in dubio spes fessa pependit</l>
+<l n="164" xml:id="africa.9.164" met="DSSSDX">Usque sub occasum solis. Tum maxime pernox</l>
+<l n="165" xml:id="africa.9.165" met="DDSSDX">Cura animum tenuit, quid secum postera ferret</l>
+<l n="166" xml:id="africa.9.166" met="SSDSDX">Tot motus clausura dies. Hic nocte sub alta</l>
+<l n="167" xml:id="africa.9.167" met="DSDSDX">Aspicio aduentare senem, quem rara tegebant</l>
+<l n="168" xml:id="africa.9.168" met="DSSSDX">Frusta toge et canis immixta et squalida barba.</l>
+<l n="169" xml:id="africa.9.169" met="DDDDDX">Sedibus exierant oculi. Caua frontis ymago</l>
+<l n="170" xml:id="africa.9.170" met="SSSSDX">Horrorem inculta cum maiestate ferebat.</l>
+<l n="171" xml:id="africa.9.171" met="DSDDDX">Dirigui. Tunc ille manu similisque uidenti</l>
+<l n="172" xml:id="africa.9.172" met="DDSSDX">Occupat ancipitem Graioque hec more profatur:</l>
+<l n="173" xml:id="africa.9.173" met="SDDSDX">'Salue, care michi Latie telluris amice</l>
+<l n="174" xml:id="africa.9.174" met="DDSDDX">Unice! quodque diu uotis animoque petisti,</l>
+<l n="175" xml:id="africa.9.175" met="DDSSDX">Aspice qualis erat quondam dum uixit Homerus.</l>
+<l n="176" xml:id="africa.9.176" met="DSDSDX">Huc ego uix tandem reserato carcere Ditis</l>
+<l n="177" xml:id="africa.9.177" met="SDSSDX">Emersi, tacite perrumpens uiscera terre'.</l>
+</div>
+<div type="textpart" subtype="section" n="10" xml:id="africa.9.s10">
+<head xml:lang="zh-Hans">恩尼乌斯问盲目之故，荷马作答</head>
+<l n="178" xml:id="africa.9.178" met="DDDSDX">Procubui uoluique pedes contingere pronus:</l>
+<l n="179" xml:id="africa.9.179" met="DSSSDX">Umbra fuit nudeque heserunt oscula terre.</l>
+<l n="180" xml:id="africa.9.180" met="DSSSDX">'Surge' ait 'et mecum ex equo, nam dignus es, ultro</l>
+<l n="181" xml:id="africa.9.181" met="DSDSDX">Congredere et, dum tempus habes, tam sepe negato</l>
+<l n="182" xml:id="africa.9.182" met="DDDSDX">Colloquio satiare meo'. Tum protinus ardens</l>
+<l n="183" xml:id="africa.9.183" met="SSSSDX">Exsurgo 'Gentisque ingens o gloria' dixi</l>
+<l n="184" xml:id="africa.9.184" met="DSDSDX">'Argolice summumque decus, quis talia tanto</l>
+<l n="185" xml:id="africa.9.185" met="DSSSDX">Supplitia inflixit? Sacre quis lumina frontis</l>
+<l n="186" xml:id="africa.9.186" met="SDDSDX">Natureque duces rapuit, tantumque nocere</l>
+<l n="187" xml:id="africa.9.187" met="DSSDDX">Sustinuit mundo? Non hic michi creditus olim:</l>
+<l n="188" xml:id="africa.9.188" met="DDDSDX">Lincea quin acies animo occursabat amanti</l>
+<l n="189" xml:id="africa.9.189" met="DSDSDX">Visque oculis immensa tuis. Quos Grecia portus</l>
+<l n="190" xml:id="africa.9.190" met="DDSSDX">Diues habet gemino late circumflua ponto;</l>
+<l n="191" xml:id="africa.9.191" met="SSDSDX">Quos colles, que rura colit, que uallibus imis</l>
+<l n="192" xml:id="africa.9.192" met="DSSDDX">Antra tenet, quenam frondosa cacumina siluis</l>
+<l n="193" xml:id="africa.9.193" met="DDSDDX">Aut pelago scopulos, quos non michi lumine certo</l>
+<l n="194" xml:id="africa.9.194" met="SSDSDX">Monstraris? Cernenda aliis longinqua dedisti,</l>
+<l n="195" xml:id="africa.9.195" met="DDDSDX">Ipse propinqua uidens minime? Miracula menti</l>
+<l n="196" xml:id="africa.9.196" met="DSSSDX">Quanta mee! Egeo diffusas ecce profundo</l>
+<l n="197" xml:id="africa.9.197" met="DDDSDX">Cicladas hinc numero; uideo quot litore flexus</l>
+<l n="198" xml:id="africa.9.198" met="SDSDDX">Hellespontiaco: tu me nequis ipse tueri,</l>
+<l n="199" xml:id="africa.9.199" met="SSDSDX">Ostendens tam multa michi!' Tum suscipit ille:</l>
+<l n="200" xml:id="africa.9.200" met="DDSSDX">'Vera quidem memoras; sed non miranda. Quid ergo?</l>
+<l n="201" xml:id="africa.9.201" met="DDDDDX">Qui michi corporeos Deus abstulit, ille nequibat</l>
+<l n="202" xml:id="africa.9.202" met="DDDSDX">Restituisse alios quibus hec archana uiderem?</l>
+<l n="203" xml:id="africa.9.203" met="DDDDDX">Desine iussa Dei solitis onerare querelis,</l>
+<l n="204" xml:id="africa.9.204" met="SSDSDX">Mortalis! Namque iste hominum stultissima lis est.</l>
+<l n="205" xml:id="africa.9.205" met="DSDSDX">Iusta facit quecumque facit. Sed noscere cunta</l>
+<l n="206" xml:id="africa.9.206" met="DDDSDX">Vestra nequit grauitas sub opaci carceris umbra.</l>
+<l n="207" xml:id="africa.9.207" met="SDDSDX">Quam multis nocuere oculi uisusque uagari</l>
+<l n="208" xml:id="africa.9.208" met="DSSSDX">Compulit et cepto forsan semouit honesto!</l>
+<l n="209" xml:id="africa.9.209" met="DDDDDX">Hinc ea sponte quidem, grauis ut nocituraque multis,</l>
+<l n="210" xml:id="africa.9.210" met="DDSDDX">Sarcina deposita est. Quin hinc modo pergimus ultra?</l>
+<l n="211" xml:id="africa.9.211" met="SSDSDX">Tu cecum ne sperne ducem. Fortasse uidebis</l>
+<l n="212" xml:id="africa.9.212" met="DDDSDX">Multa animo placitura tuo. Nec cura futuri</l>
+<l n="213" xml:id="africa.9.213" met="DSDSDX">Solicitet casus. Quoniam lux crastina campos</l>
+<l n="214" xml:id="africa.9.214" met="DSDSDX">Sanguine Penorum Latio uictore rigabit'.</l>
+</div>
+<div type="textpart" subtype="section" n="11" xml:id="africa.9.s11">
+<head xml:lang="zh-Hans">山谷中的青年：佛罗伦萨之子</head>
+<l n="215" xml:id="africa.9.215">Prosequor augurio letus.</l>
+<l n="216" xml:id="africa.9.216">(- - -)</l>
+<l n="217" xml:id="africa.9.217" met="DSSSDX">Hic ego - nam longe clausa sub ualle sedentem</l>
+<l n="218" xml:id="africa.9.218" met="SDSSDX">Aspexi iuuenem -: 'Dux o carissime, quisnam est,</l>
+<l n="219" xml:id="africa.9.219" met="DDSSDX">Quem uideo teneras inter consistere lauros</l>
+<l n="220" xml:id="africa.9.220" met="DDDSDX">Et uiridante comas meditantem incingere ramo?</l>
+<l n="221" xml:id="africa.9.221" met="DDDSDX">Nescio quid, nisi fallor, enim sub pectore uersat</l>
+<l n="222" xml:id="africa.9.222" met="DSDSDX">Egregiumque altumque nimis'. 'Non falleris' inquit:</l>
+<l n="223" xml:id="africa.9.223" met="SDSSDX">'Agnosco iuuenem sera de gente nepotum,</l>
+<l n="224" xml:id="africa.9.224" met="DDSDDX">Quem regio Italie, quemue ultima proferet etas.</l>
+<l n="225" xml:id="africa.9.225" met="DDSSDX">Hunc tibi Tusca dabit latis Florentia muris</l>
+<l n="226" xml:id="africa.9.226" met="DSDSDX">Romulea radice oriens, urbs inclita quondam,</l>
+<l n="227" xml:id="africa.9.227" met="DDSSDX">Nunc nichil. Utue queas ortus confinia nosse,</l>
+<l n="228" xml:id="africa.9.228" met="DDSSDX">Diuitis egregius muros interluet urbis</l>
+<l n="229" xml:id="africa.9.229" met="DDSSDX">Arnus in Ausonie descendens litora Pise.</l>
+</div>
+<div type="textpart" subtype="section" n="12" xml:id="africa.9.s12">
+<head xml:lang="zh-Hans">弗朗切斯科：《阿非利加》与卡皮托利山的桂冠</head>
+<l n="230" xml:id="africa.9.230" met="DDDSDX">Ille diu profugas reuocabit carmine Musas</l>
+<l n="231" xml:id="africa.9.231" met="DSDDDX">Tempus in extremum, ueteresque Elicone Sorores</l>
+<l n="232" xml:id="africa.9.232" met="DDSDDX">Restituet, uario quamuis agitante tumultu;</l>
+<l n="233" xml:id="africa.9.233" met="SSDSDX">Francisco cui nomen erit; qui grandia facta,</l>
+<l n="234" xml:id="africa.9.234" met="SSDSDX">Vidisti que cunta oculis, ceu corpus in unum</l>
+<l n="235" xml:id="africa.9.235" met="DSDDDX">Colliget: Hispanas acies Libieque labores</l>
+<l n="236" xml:id="africa.9.236" met="DDDDDX">Scipiadamque tuum: titulusque poematis illi</l>
+<l n="237" xml:id="africa.9.237" met="DDDSDX">AFRICA. Quin etiam ingenii fiducia quanta,</l>
+<l n="238" xml:id="africa.9.238" met="DSDSDX">Quantus aget laudum stimulus! seroque triumpho</l>
+<l n="239" xml:id="africa.9.239" met="SSDDDX">Hic tandem ascendet Capitolia uestra, nec ipsum</l>
+<l n="240" xml:id="africa.9.240" met="DDDSDX">Mundus iners studiisque aliis tunc ebria turba</l>
+<l n="241" xml:id="africa.9.241" met="SSSSDX">Terrebit quin insigni florentia lauro</l>
+<l n="242" xml:id="africa.9.242" met="DSDDDX">Tempora descendens referat comitante Senatu.</l>
+<l n="243" xml:id="africa.9.243" met="DDSDDX">Hinc modo tantus amor, tanta est reuerentia lauri.</l>
+<l n="244" xml:id="africa.9.244" met="DSSDDX">Omnibus ex siluis iam nunc sibi gratior una est</l>
+<l n="245" xml:id="africa.9.245" met="DDSSDX">Delphica; iamque nouas discit connectere frondes</l>
+<l n="246" xml:id="africa.9.246" met="DSSSDX">Serta gerens; iam uenturi presagia mulcent.</l>
+<l n="247" xml:id="africa.9.247" met="DSSSDX">Iste senescenti tantum illo in tempore Rome</l>
+<l n="248" xml:id="africa.9.248" met="DSSSDX">Carior, annose quantum contingere matri</l>
+<l n="249" xml:id="africa.9.249" met="DDSDDX">Filius ille solet, quem post lacrimosa sepulcra</l>
+<l n="250" xml:id="africa.9.250" met="SSDSDX">Natorum uidue sterilis tandem attulit aluus.</l>
+<l n="251" xml:id="africa.9.251" met="DSSSDX">Illa quidem, que iam lustris nil tale ducentis</l>
+<l n="252" xml:id="africa.9.252" met="DSSSDX">Viderit, hunc magno spectabit leta fauore,</l>
+<l n="253" xml:id="africa.9.253" met="DDSSDX">Laurea dum capiet, dum templis serta relinquet</l>
+<l n="254" xml:id="africa.9.254" met="DDSSDX">Primitiasque suas sanctas affiget ad aras.</l>
+<l n="255" xml:id="africa.9.255" met="SSDSDX">Florentina omnis magis ut sit grata propago</l>
+<l n="256" xml:id="africa.9.256" met="SDDSDX">Idem unus tibi, Roma, dabit, nec protinus urbem</l>
+<l n="257" xml:id="africa.9.257" met="DSSSDX">Peniteat Tusci fundasse ad gurgitis undam.</l>
+</div>
+<div type="textpart" subtype="section" n="13" xml:id="africa.9.s13">
+<head xml:lang="zh-Hans">散文史书与乡间隐居</head>
+<l n="258" xml:id="africa.9.258" met="DSSDDX">Hic quoque magnorum laudes studiosus auorum</l>
+<l n="259" xml:id="africa.9.259" met="DSDDDX">Digeret extrema relegens ab origine fortes</l>
+<l n="260" xml:id="africa.9.260" met="DSDSDX">Romulidas, uestrumque genus sermone soluto</l>
+<l n="261" xml:id="africa.9.261" met="DDSSDX">Historicus, titulosque urbis et nomina reddet.</l>
+<l n="262" xml:id="africa.9.262" met="DSSDDX">In medio effulgens nec corpore paruus eodem</l>
+<l n="263" xml:id="africa.9.263" met="DDSDDX">Magnus erit Scipio; seque ipse fatebitur ultro</l>
+<l n="264" xml:id="africa.9.264" met="SSDSDX">Plus nulli debere uiro. At si uita manebit</l>
+<l n="265" xml:id="africa.9.265" met="DSSSDX">Longior, et nullo preuertet turbine ceptum</l>
+<l n="266" xml:id="africa.9.266" met="DDSDDX">Impetus alter iter, tunc ampla uolumina cernes</l>
+<l n="267" xml:id="africa.9.267" met="SSDSDX">Magnarum rerum uario distincta colore</l>
+<l n="268" xml:id="africa.9.268" met="SSDSDX">In tempus perducta suum. Quis cunta renarret</l>
+<l n="269" xml:id="africa.9.269" met="SSDSDX">Que clausa sub mente gerit? Pulsabar hanelo</l>
+<l n="270" xml:id="africa.9.270" met="DSDDDX">Pectore, uisendi cupidus cupidusque loquendi</l>
+<l n="271" xml:id="africa.9.271" met="DSSDDX">Interea, et magnum - quis credere posset? - Homerum</l>
+<l n="272" xml:id="africa.9.272" met="DSSSDX">Dulcibus optabam uerbis imponere metam.</l>
+<l n="273" xml:id="africa.9.273" met="DDSDDX">Iam michi carus erat te propter et alta relatu</l>
+<l n="274" xml:id="africa.9.274" met="DSSDDX">Cetera. Procedo sensim propiorque parumper</l>
+<l n="275" xml:id="africa.9.275" met="DSDSDX">Conspicio curis grauidum sub flore iuuente</l>
+<l n="276" xml:id="africa.9.276" met="DSDSDX">Et calamo herentem uiridique in gramine septum</l>
+<l n="277" xml:id="africa.9.277" met="DDDDDX">Arboribus uariis nitidissima flumina iuxta</l>
+<l n="278" xml:id="africa.9.278" met="DSSSDX">Ac gelidos inter fontes rupesque prealtas.</l>
+<l n="279" xml:id="africa.9.279" met="DSSSDX">'Respice' dux inquit 'que sint umbracula ruris</l>
+<l n="280" xml:id="africa.9.280" met="DDSSDX">Effigiesque sui. Namque hic ad talia primum</l>
+<l n="281" xml:id="africa.9.281" met="DDDSDX">Eriget ingenium; uarius mox partibus Orbis</l>
+<l n="282" xml:id="africa.9.282" met="SDDSDX">Et terra pelagoque uagus concepta per annos</l>
+<l n="283" xml:id="africa.9.283" met="SDSSDX">Desperata sinet. Vix rerum turbine tandem</l>
+<l n="284" xml:id="africa.9.284" met="DSSSDX">Explicitus magno transibit plurima cursu'.</l>
+</div>
+<div type="textpart" subtype="section" n="14" xml:id="africa.9.s14">
+<head xml:lang="zh-Hans">号角惊梦</head>
+<l n="285" xml:id="africa.9.285" met="DSSSDX">Singula mirabar, uix auditaque salute</l>
+<l n="286" xml:id="africa.9.286" met="DDDSDX">Sustulerat grauis ille oculos et dicta parabat,</l>
+<l n="287" xml:id="africa.9.287" met="SSDSDX">Cum matutino litui clangore repente</l>
+<l n="288" xml:id="africa.9.288" met="DSSDDX">Excutior uisis, somnusque recessit inanis,</l>
+<l n="289" xml:id="africa.9.289" met="DDDSDX">Teque aciem uideo mediis educere campis</l>
+<l n="290" xml:id="africa.9.290" met="SSDSDX">Sublimem hortantemque uiros et signa mouentem."</l>
+</div>
+<div type="textpart" subtype="section" n="15" xml:id="africa.9.s15">
+<head xml:lang="zh-Hans">日暮夜航：西庇阿谈梦</head>
+<l n="291" xml:id="africa.9.291" met="DDSDDX">Ennius, interea, dum talibus ore disertus</l>
+<l n="292" xml:id="africa.9.292" met="DSDSDX">Equoreum permulcet iter - iam fessus hanelos</l>
+<l n="293" xml:id="africa.9.293" met="DSDSDX">Phebus Athlanteo recreabat gurgite currus -</l>
+<l n="294" xml:id="africa.9.294" met="DSDSDX">Haud aliter quam qui leuibus per plana quadrigis</l>
+<l n="295" xml:id="africa.9.295" met="DDSSDX">Vectus et irriguo perfusus membra sopore</l>
+<l n="296" xml:id="africa.9.296" met="SSDSDX">Non sentit transire diem longamque repente</l>
+<l n="297" xml:id="africa.9.297" met="SDDSDX">Decreuisse uiam stupet et uix credulus audit,</l>
+<l n="298" xml:id="africa.9.298" met="DSDSDX">Hesperio leuus Zephirus surgebat ab axe.</l>
+<l n="299" xml:id="africa.9.299" met="DSSSDX">Vela leuat classis; tum dextro tramite prore</l>
+<l n="300" xml:id="africa.9.300" met="SSDDDX">Voluuntur, fratrisque locum uice Cinthia pernox</l>
+<l n="301" xml:id="africa.9.301" met="DSDDDX">Inuigilat, lassisque datum requiescere nautis.</l>
+<l n="302" xml:id="africa.9.302" met="DDDSDX">Remigis ut strepitus siluit stridorque rudentum,</l>
+<l n="303" xml:id="africa.9.303" met="DDSSDX">Scipio mitis ait: "Seu sunt, seu talia fingis,</l>
+<l n="304" xml:id="africa.9.304" met="DDSSDX">Dulcia sunt, fateor, sensusque et pectora mulcent.</l>
+<l n="305" xml:id="africa.9.305" met="DSDDDX">Illum equidem iam nunc iuuenemque nouumque poetam</l>
+<l n="306" xml:id="africa.9.306" met="SDSSDX">Complector, tibi nunc uisum quondamque parenti,</l>
+<l n="307" xml:id="africa.9.307" met="SDDSDX">Promissumque michi gemino sponsore profecto</l>
+<l n="308" xml:id="africa.9.308" met="DDSSDX">Diligo, quisquis erit; si nullus, diligo nullum."</l>
+<l n="309" xml:id="africa.9.309" met="DDSSDX">Dixerat, et facili prebebant corpora somno.</l>
+</div>
+<div type="textpart" subtype="section" n="16" xml:id="africa.9.s16">
+<head xml:lang="zh-Hans">登陆西西里，穿行意大利</head>
+<l n="310" xml:id="africa.9.310" met="DDDSDX">Sol pelago rediens ubi primum emersit Eoo,</l>
+<l n="311" xml:id="africa.9.311" met="SDSSDX">Ingentesque procul iactabat carbasus umbras,</l>
+<l n="312" xml:id="africa.9.312" met="DDDDSX">Litora prospiciunt alacres Lilibeia naute</l>
+<l n="313" xml:id="africa.9.313" met="DDSSDX">Trinacriamque pari concordes uoce salutant.</l>
+<l n="314" xml:id="africa.9.314" met="DSSSDX">Iam Drepanum preteruecti iamque omne remensi</l>
+<l n="315" xml:id="africa.9.315" met="DDDSDX">Inde latus Siculum, solide telluris in aruis</l>
+<l n="316" xml:id="africa.9.316" met="SDDSDX">Ut primum posuere pedes, pulcerrima rura</l>
+<l n="317" xml:id="africa.9.317" met="SDDSDX">Terrestri secuere uia. Non carmine nostro</l>
+<l n="318" xml:id="africa.9.318" met="DDSSDX">Letitia Italie, non occursantia passim</l>
+<l n="319" xml:id="africa.9.319" met="DSDSDX">Agmina uictori, populi non urbibus haustis</l>
+<l n="320" xml:id="africa.9.320" met="SSSSDX">Seruata grates pro libertate canentes</l>
+<l n="321" xml:id="africa.9.321" met="DSDSDX">Stare queant; donec patrie sub menia uentum est</l>
+<l n="322" xml:id="africa.9.322" met="SSDSDX">Et luxit sperata dies tempusque triumphi.</l>
+</div>
+<div type="textpart" subtype="section" n="17" xml:id="africa.9.s17">
+<head xml:lang="zh-Hans">呼告卡利俄佩；凯旋之晨</head>
+<l n="323" xml:id="africa.9.323" met="DDSSDX">Hic quoque, Calliope, quamquam sub fine uoceris,</l>
+<l n="324" xml:id="africa.9.324" met="DSDSDX">Dextra ueni seroque fauens assiste labori.</l>
+<l n="325" xml:id="africa.9.325" met="DDSSDX">Pulcrior Ausonio nunquam surrexerat orbi</l>
+<l n="326" xml:id="africa.9.326" met="DDSSDX">Ulla dies. Roseo uultum suffusa rubore</l>
+<l n="327" xml:id="africa.9.327" met="SSDSDX">Phebeos frenabat agens Aurora iugales;</l>
+<l n="328" xml:id="africa.9.328" met="DDDSDX">Letior ipse quidem solito et formosior alte</l>
+<l n="329" xml:id="africa.9.329" met="DSDSDX">Imperiis urgebat equos, iam lumine Romam</l>
+<l n="330" xml:id="africa.9.330" met="SDSSDX">Appenninigene spectans de uertice silue.</l>
+<l n="331" xml:id="africa.9.331" met="DDSDDX">Conueniunt proceres, portis ruit obuia turba.</l>
+<l n="332" xml:id="africa.9.332" met="DDSSDX">Sexus uterque frequens, etas se proripit omnis,</l>
+<l n="333" xml:id="africa.9.333" met="DSDSDX">Omnis honor omnisque gradus: substernitur auro</l>
+<l n="334" xml:id="africa.9.334" met="DDSSDX">Omne solum et uariis resplendent pulpita gemmis.</l>
+<l n="335" xml:id="africa.9.335" met="DSSSDX">Purpura per uicos sparsa est et purpura tectis</l>
+<l n="336" xml:id="africa.9.336" met="SSDSDX">Obtentu factura uiris uictoribus umbras.</l>
+</div>
+<div type="textpart" subtype="section" n="18" xml:id="africa.9.s18">
+<head xml:lang="zh-Hans">统帅入城，俘虏随行</head>
+<l n="337" xml:id="africa.9.337" met="DSSSDX">Inde senum miti descendunt agmina uultu,</l>
+<l n="338" xml:id="africa.9.338" met="DDDSDX">Hinc iuuenum phalerata phalanx in limine primo</l>
+<l n="339" xml:id="africa.9.339" met="SDDDDX">Exceptura ducem. Facie subit ille serena</l>
+<l n="340" xml:id="africa.9.340" met="DDDDDX">Ardua purpureo residens sua menia curru</l>
+<l n="341" xml:id="africa.9.341" met="DSDDDX">Et niueis inuectus equis; generisque ferebat</l>
+<l n="342" xml:id="africa.9.342" met="DSDSDX">Etherei frons alma fidem. Tum milia uinctis</l>
+<l n="343" xml:id="africa.9.343" met="SDSSDX">Post tergum manibus captiui tristia uulgi</l>
+<l n="344" xml:id="africa.9.344" met="SDDSDX">Procedunt: Macedum proceres, quo bella Philippus</l>
+<l n="345" xml:id="africa.9.345" met="DDDSDX">Fouerat auxilio: Sopater dux primus et ipsum</l>
+<l n="346" xml:id="africa.9.346" met="DSSSDX">Sanguine contingens regem mestissimus ibat;</l>
+<l n="347" xml:id="africa.9.347" met="SDDSDX">Post omnis legio grauibus connexa cathenis</l>
+<l n="348" xml:id="africa.9.348" met="DSDSDX">Insequitur. Tum parte alia spectacula magni</l>
+<l n="349" xml:id="africa.9.349" met="SDDSDX">Siphacis: miseranda habitu namque obruta uinclis</l>
+<l n="350" xml:id="africa.9.350" met="SDSSDX">Maiestas lacrimis pectus terramque rigabat</l>
+<l n="351" xml:id="africa.9.351" met="DSDSDX">Flensque retro ad magnum referebat lumina crebro</l>
+<l n="352" xml:id="africa.9.352" met="DSSSDX">Humida uictorem: qualem spreuisset amicum</l>
+<l n="353" xml:id="africa.9.353" met="DDSSDX">Mente notans tacita. Preter tot dura ruine</l>
+<l n="354" xml:id="africa.9.354" met="SDDSDX">Angebat miserum pudor. Ingens turba suorum</l>
+<l n="355" xml:id="africa.9.355" met="DDDSDX">Regia consequitur tremulo uestigia gressu.</l>
+<l n="356" xml:id="africa.9.356" met="DSDSDX">Hinc meriti ciues, laqueis gens perfida iustis</l>
+<l n="357" xml:id="africa.9.357" met="SSDSDX">Penorum perplexa uenit, pulcerrima Rome</l>
+<l n="358" xml:id="africa.9.358" met="DDSDDX">Menia suspiciens: dux frater Hanibalis illis</l>
+<l n="359" xml:id="africa.9.359" met="DSDSDX">Primus erat; Maure subeunt post agmina gentis</l>
+<l n="360" xml:id="africa.9.360" met="SDDSDX">Gallorumque manus; Italus namque ordine in illo</l>
+<l n="361" xml:id="africa.9.361" met="DSDSDX">Nemo fuit: digna meritos mulctauerat omnes</l>
+<l n="362" xml:id="africa.9.362" met="DSSSDX">Morte simul, terreque hostes mandauerat Afre</l>
+<l n="363" xml:id="africa.9.363" met="SDSSDX">Indignos patrie aspectu et tellure sepulcri.</l>
+</div>
+<div type="textpart" subtype="section" n="19" xml:id="africa.9.s19">
+<head xml:lang="zh-Hans">战利品、战象与获释的罗马人</head>
+<l n="364" xml:id="africa.9.364" met="DDSDDX">Ante ebur et radians aurum et pretiosa supellex</l>
+<l n="365" xml:id="africa.9.365" met="SSSDDX">Et uestes ostro insignes penitusque potentum</l>
+<l n="366" xml:id="africa.9.366" met="DSSDDX">Diuitie regum pompa celebrante uehuntur.</l>
+<l n="367" xml:id="africa.9.367" met="DDSDDX">Inde graues clipei prereptaque fortibus arma</l>
+<l n="368" xml:id="africa.9.368" met="DSDSDX">Signaque et horrentes galee cristeque trementes;</l>
+<l n="369" xml:id="africa.9.369" met="SSDDDX">Post tristes ducuntur equi domitique elephantes</l>
+<l n="370" xml:id="africa.9.370" met="SSDDDX">Demissa ceruice graues. Puerilia circum</l>
+<l n="371" xml:id="africa.9.371" met="DSSDDX">Milia funduntur: turba obstrepit inscia rerum,</l>
+<l n="372" xml:id="africa.9.372" met="DDSDDX">Bellua Barbarico quod tanta ueniret ab orbe.</l>
+<l n="373" xml:id="africa.9.373" met="SSDSDX">Hinc illinc Romana acies erepta nefando</l>
+<l n="374" xml:id="africa.9.374" met="DSDSDX">Seruitio letumque canens ex more triumphum</l>
+<l n="375" xml:id="africa.9.375" met="DDDDDX">Concelebrat, nequeuntque oculos satiare uidendo</l>
+<l n="376" xml:id="africa.9.376" met="SDDSDX">Seruatore suo. Prior it Terentius horum</l>
+<l n="377" xml:id="africa.9.377" met="DSDSDX">Culleo: uir clarus, Latia tunc urbe senator,</l>
+<l n="378" xml:id="africa.9.378" met="SDSDDX">Libertus ueluti carum coluisse patronum</l>
+<l n="379" xml:id="africa.9.379" met="DSSDDX">Scipiadam fertur uitam obsequiosus in omnem.</l>
+</div>
+<div type="textpart" subtype="section" n="20" xml:id="africa.9.s20">
+<head xml:lang="zh-Hans">大军、号角与登临卡皮托利山</head>
+<l n="380" xml:id="africa.9.380" met="DSDSDX">Ultimus it uictor. Latiis exercitus armis</l>
+<l n="381" xml:id="africa.9.381" met="DDDDDX">Atque equitum peditumque acies, uelut obuius esset</l>
+<l n="382" xml:id="africa.9.382" met="DSSSDX">Hanibal in primo uenturus limine contra,</l>
+<l n="383" xml:id="africa.9.383" met="DDSDDX">Tum tube et horrisonis uictricia classica late</l>
+<l n="384" xml:id="africa.9.384" met="DDDSDX">Perstrepuere modis: tremuerunt Tybridis unde</l>
+<l n="385" xml:id="africa.9.385" met="SDDDDX">Ac circum pauet omne nemus; fragor horridus Albam</l>
+<l n="386" xml:id="africa.9.386" met="DDSDDX">Argolicumque quatit Tibur gelidumque Soracte</l>
+<l n="387" xml:id="africa.9.387" met="SSDSDX">Et Prenestinis rigidas in collibus arces.</l>
+<l n="388" xml:id="africa.9.388" met="SSDDDX">Sic tandem insueto Capitolia celsa triumpho</l>
+<l n="389" xml:id="africa.9.389" met="DSDSDX">Ingreditur, gratesque deis persoluit amicis;</l>
+<l n="390" xml:id="africa.9.390" met="SSSSDX">Immensumque auri montem ingentesque recondit</l>
+<l n="391" xml:id="africa.9.391" met="SSDSDX">Thesauros in templa Iouis, tempusque per omne</l>
+<l n="392" xml:id="africa.9.392" met="SDDSDX">Ditauit patriam. Sibi sed cognomine solo</l>
+<l n="393" xml:id="africa.9.393" met="SDDSDX">Contentus nichil hic proprias inuexit in edes.</l>
+<l n="394" xml:id="africa.9.394" met="DSDSDX">Nec dubium quin ad reliquos per bella triumphos</l>
+<l n="395" xml:id="africa.9.395" met="DDSDDX">Strauerit ense uiam atque Orbis patefecerit Urbi</l>
+<l n="396" xml:id="africa.9.396" met="DDDSDX">Imperium: puduit neminem Carthagine uicta</l>
+<l n="397" xml:id="africa.9.397" met="DDDSDX">Subdere colla iugo, dominosque agnoscere mundi</l>
+<l n="398" xml:id="africa.9.398" met="SSDDDX">Romanos bello indomitos populumque Quirini.</l>
+<l n="399" xml:id="africa.9.399" met="DSSSDX">Ipse coronatus lauro frondente per urbem</l>
+<l n="400" xml:id="africa.9.400" met="DSSSDX">Letus iit totam Tarpeia rupe reuersus.</l>
+</div>
+<div type="textpart" subtype="section" n="21" xml:id="africa.9.s21">
+<head xml:lang="zh-Hans">恩尼乌斯同戴桂冠；诗人自述加冕</head>
+<l n="401" xml:id="africa.9.401" met="DSSSDX">Ennius ad dextram uictoris, tempora fronde</l>
+<l n="402" xml:id="africa.9.402" met="SDDSDX">Substringens parili, studiorum almeque Poesis</l>
+<l n="403" xml:id="africa.9.403" met="DSSSDX">Egit honoratum sub tanto auctore triumphum.</l>
+<l n="404" xml:id="africa.9.404" met="DDDSDX">Post alii atque alii studio certante secuti.</l>
+<l n="405" xml:id="africa.9.405" met="DSSDDX">Ipse ego ter centum labentibus ordine lustris</l>
+<l n="406" xml:id="africa.9.406" met="SSDSDX">Dumosam tentare uiam et uestigia rara</l>
+<l n="407" xml:id="africa.9.407" met="DDSSDX">Viribus imparibus fidens utcumque peregi,</l>
+<l n="408" xml:id="africa.9.408" met="DDDSDX">Frondibus atque loco simul et cognomine claro</l>
+<l n="409" xml:id="africa.9.409" met="SDSDDX">Heroum ueterum tantos imitatus honores,</l>
+<l n="410" xml:id="africa.9.410" met="DSDSDX">Irrita ne Grai fierent presagia uatis.</l>
+</div>
+<div type="textpart" subtype="section" n="22" xml:id="africa.9.s22">
+<head xml:lang="zh-Hans">不忍续写晚年的悲剧</head>
+<l n="411" xml:id="africa.9.411" met="DSSSDX">Nunc ego non ausim uos hinc ad tristia, Diue,</l>
+<l n="412" xml:id="africa.9.412" met="DDSDDX">Materiamque trucem post tot modo leta uocare.</l>
+<l n="413" xml:id="africa.9.413" met="DSDSDX">Quin potius longe fugite atque auertite uultus.</l>
+<l n="414" xml:id="africa.9.414" met="DSDSDX">Certe ego uobiscum fugiam tristesque querelas</l>
+<l n="415" xml:id="africa.9.415" met="DDSSDX">Inuidie, procerum crimen culpamque Senatus</l>
+<l n="416" xml:id="africa.9.416" met="DDDSDX">Non referam, populique nefas ac sponte receptum</l>
+<l n="417" xml:id="africa.9.417" met="DSDDDX">Exilium mortemque ducis titulumque dolentis</l>
+<l n="418" xml:id="africa.9.418" met="DDSDDX">Aspera marmoreo subscriptaque iurgia busto.</l>
+<l n="419" xml:id="africa.9.419" met="DDDSDX">Hec memorent alii: michi nam certissima mens est</l>
+<l n="420" xml:id="africa.9.420" met="SDDDDX">Hic metam posuisse operi; patiarque nec unquam</l>
+<l n="421" xml:id="africa.9.421" met="DSSDDX">Carmine tam mesto sacras maculare Sorores.</l>
+</div>
+<div type="textpart" subtype="section" n="23" xml:id="africa.9.s23">
+<head xml:lang="zh-Hans">致诗卷：哀悼罗伯特国王</head>
+<l n="422" xml:id="africa.9.422" met="DSDSDX">O mea non paruo michi consummata labore</l>
+<l n="423" xml:id="africa.9.423" met="DSSSDX">Africa! dum crescis, dum te comens relegensque</l>
+<l n="424" xml:id="africa.9.424" met="DDSSDX">Mulceo, magnanimum Mors importuna Robertum</l>
+<l n="425" xml:id="africa.9.425" met="SSSSDX">Intempestiue mundo subtraxit egenti;</l>
+<l n="426" xml:id="africa.9.426" met="DSDSDX">Et michi prerepta penitus dulcedine uite,</l>
+<l n="427" xml:id="africa.9.427" met="SDDSDX">Speratum tibi clausit iter. Quo tramite perges,</l>
+<l n="428" xml:id="africa.9.428" met="SSDSDX">Infelix? Monstrabo uiam. Non atria luctu</l>
+<l n="429" xml:id="africa.9.429" met="DDSDDX">Turbida funereo, non dulcia limina quondam</l>
+<l n="430" xml:id="africa.9.430" met="DDDDDX">Parthenopea petes. Tepidi noua saxa sepulcri</l>
+<l n="431" xml:id="africa.9.431" met="DDDSDX">Tristis adi lacrimisque riga. Cum uideris illic</l>
+<l n="432" xml:id="africa.9.432" met="SDSSDX">Ingentem exigua regem tellure iacentem,</l>
+<l n="433" xml:id="africa.9.433" met="DSSSDX">Te sibi uiuenti promissam redde sepulto</l>
+<l n="434" xml:id="africa.9.434" met="DSDSDX">Ac cineri persolue sacro: nam spiritus astra</l>
+<l n="435" xml:id="africa.9.435" met="DSDSDX">Iam repetens, terrasque retro despectat inertes;</l>
+<l n="436" xml:id="africa.9.436" met="DDSSDX">Sceptra caduca fugit, mortales negligit actus.</l>
+<l n="437" xml:id="africa.9.437" met="DSSDDX">Ille tamen, quamquam regni diadema relicti</l>
+<l n="438" xml:id="africa.9.438" met="DSDDDX">Rideat et curas ueteres, nimiosque labores</l>
+<l n="439" xml:id="africa.9.439" met="SDDDDX">Erroresque hominum solio miseratus ab alto,</l>
+<l n="440" xml:id="africa.9.440" met="DDSSDX">Nos, nisi fallor, amat; nostri mitissimus olim</l>
+<l n="441" xml:id="africa.9.441" met="DDSSDX">Arbiter ingenii. Quo terris sidere rapto</l>
+<l n="442" xml:id="africa.9.442" met="SDSDDX">Heu heu quam uereor ne quid tibi durior etas</l>
+<l n="443" xml:id="africa.9.443" met="DDSSDX">Obstrepat et titulis insultet ceca decoris!</l>
+<l n="444" xml:id="africa.9.444" met="SDSSDX">Hospes Pyeridum nostro iam solus in euo</l>
+<l n="445" xml:id="africa.9.445" met="DDDSDX">Reddere promeritum studiis qui nosset honorem,</l>
+<l n="446" xml:id="africa.9.446" met="DSDSDX">Interiit: secumque simul spes nostra recessit.</l>
+</div>
+<div type="textpart" subtype="section" n="24" xml:id="africa.9.s24">
+<head xml:lang="zh-Hans">生于末世，寄望复兴</head>
+<l n="447" xml:id="africa.9.447" met="SSDDDX">Felices quos illa prius meliora tulerunt</l>
+<l n="448" xml:id="africa.9.448" met="DDSSDX">Tempora! Nosque utinam - - -. Nequicquam uana precamur!</l>
+<l n="449" xml:id="africa.9.449" met="DDSDDX">Non licet ire retro. Nos cunta nouissima seros</l>
+<l n="450" xml:id="africa.9.450" met="DSSSDX">Et ferus aduerso prospexit Iupiter axe.</l>
+<l n="451" xml:id="africa.9.451" met="SSSDDX">Utendum sorte est et sidera nostra sequenda,</l>
+<l n="452" xml:id="africa.9.452" met="SSDDDX">Qua ducunt, ne forte trahant. Michi degere uitam</l>
+<l n="453" xml:id="africa.9.453" met="DDSSDX">Impositum uaria rerum turbante procella.</l>
+<l n="454" xml:id="africa.9.454" met="DSSSDX">At tibi fortassis, si - quod mens sperat et optat -</l>
+<l n="455" xml:id="africa.9.455" met="SSDDDX">Es post me uictura diu, meliora supersunt</l>
+<l n="456" xml:id="africa.9.456" met="DSDSDX">Secula: non omnes ueniet Letheus in annos</l>
+<l n="457" xml:id="africa.9.457" met="DDSSDX">Iste sopor! Poterunt discussis forte tenebris</l>
+<l n="458" xml:id="africa.9.458" met="SSDDDX">Ad purum priscumque iubar remeare nepotes.</l>
+<l n="459" xml:id="africa.9.459" met="DDDSDX">Tunc Elicona noua reuirentem stirpe uidebis,</l>
+<l n="460" xml:id="africa.9.460" met="SSDSDX">Tunc lauros frondere sacras; tunc alta resurgent</l>
+<l n="461" xml:id="africa.9.461" met="DDDDDX">Ingenia atque animi dociles, quibus ardor honesti</l>
+<l n="462" xml:id="africa.9.462" met="DDDDDX">Pyeridum studii ueterem geminabit amorem.</l>
+<l n="463" xml:id="africa.9.463" met="SDDDDX">Tu nomen renouare meum studiosa memento:</l>
+<l n="464" xml:id="africa.9.464" met="DDSDDX">Qua potes, hac redeat saltem sua fama sepulto</l>
+<l n="465" xml:id="africa.9.465" met="DSDDDX">Et cineri reddatur honos. Michi dulcior illo</l>
+<l n="466" xml:id="africa.9.466" met="DDSSDX">Vita erit in populo et contemptrix gloria busti.</l>
+</div>
+<div type="textpart" subtype="section" n="25" xml:id="africa.9.s25">
+<head xml:lang="zh-Hans">嘱托诗卷：隐居待时，蔑视时间</head>
+<l n="467" xml:id="africa.9.467" met="DDDDDX">Interea tamen hec, iubeo, per inertia transi</l>
+<l n="468" xml:id="africa.9.468" met="DDDSDX">Agmina solicito populorum incognita passu,</l>
+<l n="469" xml:id="africa.9.469" met="DSDSDX">Vix procul extremo salutata a limine linquens,</l>
+<l n="470" xml:id="africa.9.470" met="SDDSDX">Heu paucas habitura domos et rara per Orbem</l>
+<l n="471" xml:id="africa.9.471" met="DSSSDX">Hospitia! At si quem uere uirtutis amicum</l>
+<l n="472" xml:id="africa.9.472" met="DDDSDX">Obtulerint tua fata tibi, secura repostum</l>
+<l n="473" xml:id="africa.9.473" met="SDDSDX">Angustumque precare locum sub paupere tecto,</l>
+<l n="474" xml:id="africa.9.474" met="DDDDDX">Atque ibi, sola quidem potius peregrinaque semper</l>
+<l n="475" xml:id="africa.9.475" met="DDSSDX">Quam comitata malis, annosa fronte senesces,</l>
+<l n="476" xml:id="africa.9.476" met="DDSDDX">Donec ad alterius primordia ueneris eui.</l>
+<l n="477" xml:id="africa.9.477" met="DDSSDX">Tum iuuenesce precor, cum iam lux alma poetis</l>
+<l n="478" xml:id="africa.9.478" met="DDSSDX">Commodiorque bonis cum primum affulserit etas.</l>
+<l n="479" xml:id="africa.9.479" met="DDDSDX">Si iuuenem iuueni mediis auellere flammis</l>
+<l n="480" xml:id="africa.9.480" met="DDDSDX">Contigit incolumem tumidasque efferre per undas,</l>
+<l n="481" xml:id="africa.9.481" met="SSDDDX">Per te ipsam iam facta senex, precor, ista cauere</l>
+<l n="482" xml:id="africa.9.482" met="DDSDDX">Post mea fata uelis, quodque omnia proterit unum</l>
+<l n="483" xml:id="africa.9.483" met="DDDSDX">Tempus edax rapidosque dies solemque uorantem</l>
+<l n="484" xml:id="africa.9.484" met="DDSSDX">Secula et Inuidie tristes contemnere morsus.</l>
+</div>
+</div>
+<div type="translation" xml:lang="zh-Hans" n="9">
+<div type="textpart" subtype="section" n="1" corresp="#africa.9.s01">
+<head>平静海上的归航</head>
+<l n="1" corresp="#africa.9.1">西庇阿已驶入大海，罗马的舰队</l>
+<l n="2" corresp="#africa.9.2">正犁开一条平静的航路。海面不曾因风暴</l>
+<l n="3" corresp="#africa.9.3">嘶哑地翻腾；群风沉寂，你会以为</l>
+<l n="4" corresp="#africa.9.4">波浪已经感知到了胜利者。它们的神色</l>
+<l n="5" corresp="#africa.9.5">比往常更为安详，面容在晴空下一片宁静。</l>
+<l n="6" corresp="#africa.9.6">你会看到，那敌对的海峡，以及世间一切元素，</l>
+<l n="7" corresp="#africa.9.7">都这样恭顺地抚慰着统帅。他们已把</l>
+<l n="8" corresp="#africa.9.8">阿非利加的海岸远远抛下，兴高采烈，唱着战事</l>
+<l n="9" corresp="#africa.9.9">向前驶去，用强健的桨手击碎浪涛。</l>
+</div>
+<div type="textpart" subtype="section" n="2" corresp="#africa.9.s02">
+<head>西庇阿请恩尼乌斯开口</head>
+<l n="10" corresp="#africa.9.10">在统帅座船的船尾中央，默然沉思地</l>
+<l n="11" corresp="#africa.9.11">坐着恩尼乌斯，他一向是这些事迹的见证与伴侣。</l>
+<l n="12" corresp="#africa.9.12">西庇阿终于走近他，以亲切的话语</l>
+<l n="13" corresp="#africa.9.13">将他唤起，开言道：“难道你永远不打破沉默吗，</l>
+<l n="14" corresp="#africa.9.14">你啊，我诸多辛劳的甜美慰藉？</l>
+<l n="15" corresp="#africa.9.15">说吧，我求你；因为你看见了，我的胸中</l>
+<l n="16" corresp="#africa.9.16">正被无尽的忧思消磨。你向来惯于用平和的言谈</l>
+<l n="17" corresp="#africa.9.17">为它解忧；现在你也会这样做的，只要张开你的双唇——</l>
+<l n="18" corresp="#africa.9.18">倘若在你降生之时，至高的阿波罗</l>
+<l n="19" corresp="#africa.9.19">赐给你那天上的才情，使你卓然出众；倘若众女神</l>
+<l n="20" corresp="#africa.9.20">曾把还是婴孩的你浸入卡斯塔利亚的泉流中洗濯——</l>
+<l n="21" corresp="#africa.9.21">那泉水来自神圣的赫利孔山——又领你登上高高的山岭，</l>
+<l n="22" corresp="#africa.9.22">授给你诗人的笔、诗人的嗓音和诗人的心灵。”</l>
+</div>
+<div type="textpart" subtype="section" n="3" corresp="#africa.9.s03">
+<head>恩尼乌斯：空前的功业与身后之名</head>
+<l n="23" corresp="#africa.9.23">恩尼乌斯听罢，抬起头来，这样说道：</l>
+<l n="24" corresp="#africa.9.24">“意大利之花啊，年轻人，你是神明血统的</l>
+<l n="25" corresp="#africa.9.25">确凿明证，此刻你愿我开口说些什么，</l>
+<l n="26" corresp="#africa.9.26">又吩咐我做什么？方才我的确在沉默的胸中</l>
+<l n="27" corresp="#africa.9.27">独自思量：往后没有哪个时代能带来</l>
+<l n="28" corresp="#africa.9.28">比我们这个时代欣然目睹的更伟大的</l>
+<l n="29" corresp="#africa.9.29">卓绝美德之业；将来也不会有人在心中</l>
+<l n="30" corresp="#africa.9.30">筹划什么宏伟之事，而不让你可敬的名字</l>
+<l n="31" corresp="#africa.9.31">在他满怀宏愿之际于口中回响；没有人在临事之时</l>
+<l n="32" corresp="#africa.9.32">不愿想起西庇阿，不渴望能见到你的容颜，</l>
+<l n="33" corresp="#africa.9.33">作为一份恩赐。更大的名声，在坟墓的</l>
+<l n="34" corresp="#africa.9.34">灰烬之后等待着你。因为妒忌啃噬的</l>
+<l n="35" corresp="#africa.9.35">是必死之物；死神却吞灭嫉妒，将它拦住，</l>
+<l n="36" corresp="#africa.9.36">把它从坟边远远赶开。你的荣耀早已</l>
+<l n="37" corresp="#africa.9.37">战胜了这场瘟疫，如今已安然穿过高空，</l>
+<l n="38" corresp="#africa.9.38">逃离了尘世，逃离了人类的疾患与恶毒的习性，</l>
+<l n="39" corresp="#africa.9.39">它已慈惠地升到与众神比肩之处。然而，看吧，</l>
+<l n="40" corresp="#africa.9.40">我凭经验向你断言：你的最后一日将使你的名声</l>
+<l n="41" corresp="#africa.9.41">大大增长；你离死亡越是遥远，</l>
+<l n="42" corresp="#africa.9.42">你应得的名声就越是壮大地追随着你。</l>
+<l n="43" corresp="#africa.9.43">你的荣誉将随时间增长，直到世界最后的岁月，</l>
+<l n="44" corresp="#africa.9.44">你都将声名显赫。美德啊，既然你已无从攀得更高，</l>
+<l n="45" corresp="#africa.9.45">我只担心下坠。然而我们的言辞技艺</l>
+<l n="46" corresp="#africa.9.46">尚未能触及那已定下的标杆：</l>
+<l n="47" corresp="#africa.9.47">它新近才从细小的根上萌生，此前</l>
+<l n="48" corresp="#africa.9.48">在拉丁姆无人知晓，只满足于希腊的耕植者。</l>
+</div>
+<div type="textpart" subtype="section" n="4" corresp="#africa.9.s04">
+<head>亚历山大的感叹：诗人配不上英雄</head>
+<l n="49" corresp="#africa.9.49">正因如此，我才在心中愤愤地思量：</l>
+<l n="50" corresp="#africa.9.50">你那举世皆知的美德，竟将得不到</l>
+<l n="51" corresp="#africa.9.51">与之相称的传颂者。马其顿伟大的国王</l>
+<l n="52" corresp="#africa.9.52">偶然看见他的朋友——埃阿科斯之孙——的墓石与碑铭，</l>
+<l n="53" corresp="#africa.9.53">便说：‘幸运的年轻人啊，你竟得以为你的名声</l>
+<l n="54" corresp="#africa.9.54">寻到那样一位传颂者！’诚然，对显赫的人物而言，</l>
+<l n="55" corresp="#africa.9.55">这绝非微小的幸运：拥有一位诗人，</l>
+<l n="56" corresp="#africa.9.56">能以高亢的诗篇为卓绝的美德</l>
+<l n="57" corresp="#africa.9.57">增添光彩，为赞誉垒起纪念碑。</l>
+<l n="58" corresp="#africa.9.58">可是对你——统帅中的至尊，没有谁比你</l>
+<l n="59" corresp="#africa.9.59">更配得上光辉的荷马——命运女神在别的事上宽厚，</l>
+<l n="60" corresp="#africa.9.60">唯独在这件事上更为苛刻，只把我给了你。</l>
+<l n="61" corresp="#africa.9.61">随着岁月流转，也许会诞生一个人，用相称的诗歌</l>
+<l n="62" corresp="#africa.9.62">把你应得的赞誉、你英勇的功业高举上天；</l>
+<l n="63" corresp="#africa.9.63">卡利俄佩会赐给他在流蜜的拨子下</l>
+<l n="64" corresp="#africa.9.64">回响得更美的琴弦，以及洪亮的歌喉。”</l>
+</div>
+<div type="textpart" subtype="section" n="5" corresp="#africa.9.s05">
+<head>西庇阿只愿由恩尼乌斯歌唱，并发问</head>
+<l n="65" corresp="#africa.9.65">“请别这样说，我求你：依我判断，那位</l>
+<l n="66" corresp="#africa.9.66">迈俄尼亚的诗人并不在你之上，崇高的</l>
+<l n="67" corresp="#africa.9.67">欧里庇得斯，以及希腊人以显赫之名</l>
+<l n="68" corresp="#africa.9.68">齐声颂扬的那些人，也无理由凌驾于你。我不愿</l>
+<l n="69" corresp="#africa.9.69">被别的诗歌传唱——倘若我值得传唱的话。还是把我们</l>
+<l n="70" corresp="#africa.9.70">所求于你的讲下去吧，”西庇阿说，“诗人可以做什么，</l>
+<l n="71" corresp="#africa.9.71">这项声名卓著的事业有哪些确定的疆界，</l>
+<l n="72" corresp="#africa.9.72">请你指点，让我得以知晓；桂冠又象征着什么——</l>
+<l n="73" corresp="#africa.9.73">它既赐给显赫的将领，也赐给神圣的诗人。</l>
+<l n="74" corresp="#africa.9.74">你也别以为我不配听人讲</l>
+<l n="75" corresp="#africa.9.75">这样的事：美好的事物总以某种甜美</l>
+<l n="76" corresp="#africa.9.76">打动我们的心；这颗被接连不断的战事</l>
+<l n="77" corresp="#africa.9.77">震荡的胸膛，也会安然领受言谈的甜美闲暇。”</l>
+</div>
+<div type="textpart" subtype="section" n="6" corresp="#africa.9.s06">
+<head>恩尼乌斯论诗：真实为基，寓言为云</head>
+<l n="78" corresp="#africa.9.78">他答道：“我承认，没有哪个心灵会如此</l>
+<l n="79" corresp="#africa.9.79">冷硬凶猛——慈惠的统帅啊——竟不以此为美好的乐事：</l>
+<l n="80" corresp="#africa.9.80">偶尔在种种忧虑与人生的劳苦之间，</l>
+<l n="81" corresp="#africa.9.81">聆听皮厄里亚的旋律，悄然</l>
+<l n="82" corresp="#africa.9.82">潜入女神们甜美的歌队。至于你这颗心，</l>
+<l n="83" corresp="#africa.9.83">我相信，从未背离过缪斯。大自然生下</l>
+<l n="84" corresp="#africa.9.84">如此伟大的人物，看来不会是在那样的星宿之下。</l>
+<l n="85" corresp="#africa.9.85">倘若她赋予某人一颗无比渴求名声的胸怀，</l>
+<l n="86" corresp="#africa.9.86">却不把对缪斯的爱灌注其中，那便是她的失误。</l>
+<l n="87" corresp="#africa.9.87">因为谁若看到自己成就了伟大的事业，就必定</l>
+<l n="88" corresp="#africa.9.88">会热爱不朽的诗人和神圣的诗篇。</l>
+<l n="89" corresp="#africa.9.89">至于你现在要我用言语教给你的，</l>
+<l n="90" corresp="#africa.9.90">请听我尽量简短地讲。诗人的特许，</l>
+<l n="91" corresp="#africa.9.91">并不是那显然讨得众人欢心的一种……</l>
+<l n="92" corresp="#africa.9.92">执笔之人理应先为真实打下</l>
+<l n="93" corresp="#africa.9.93">最牢固的根基；然后倚靠着它，</l>
+<l n="94" corresp="#africa.9.94">他才可以把自己藏进宜人而多彩的云里，</l>
+<l n="95" corresp="#africa.9.95">为读者积下一份漫长却愉悦的劳作，</l>
+<l n="96" corresp="#africa.9.96">好让其中的意旨探求时更加艰涩，</l>
+<l n="97" corresp="#africa.9.97">寻得时却更加甜美。凡属历史的劳绩，</l>
+<l n="98" corresp="#africa.9.98">凡属美德的修习与人生的教诲，</l>
+<l n="99" corresp="#africa.9.99">凡属对自然的钻研，你要相信，这些都</l>
+<l n="100" corresp="#africa.9.100">许给了诗人；只是要让它们藏在陌生的外衣下，</l>
+<l n="101" corresp="#africa.9.101">在别处又赤裸无遮，要以一层薄纱瞒过人的目光，</l>
+<l n="102" corresp="#africa.9.102">时而公然显现，时而又隐遁逃逸。</l>
+<l n="103" corresp="#africa.9.103">谁若把所讲的一切都凭空捏造，他便不该</l>
+<l n="104" corresp="#africa.9.104">被冠以诗人之名，也不配享有歌者的荣誉，只配</l>
+<l n="105" corresp="#africa.9.105">得到一个名字：说谎者。由此你可以掂量</l>
+<l n="106" corresp="#africa.9.106">你想知道的一切：我们的劳作尺度何在，</l>
+<l n="107" corresp="#africa.9.107">疆界何其宽广，我们的特许又有多大。</l>
+</div>
+<div type="textpart" subtype="section" n="7" corresp="#africa.9.s07">
+<head>桂冠的意义</head>
+<l n="108" corresp="#africa.9.108">还剩下桂冠：请你屈尊片刻，</l>
+<l n="109" corresp="#africa.9.109">容我们与你共享它。倘若荣耀既建立在战争上，</l>
+<l n="110" corresp="#africa.9.110">也同样建立在才智上，你就会容许</l>
+<l n="111" corresp="#africa.9.111">将领与诗人一同以青翠的枝叶</l>
+<l n="112" corresp="#africa.9.112">环绕他们神圣的鬓角。那不朽的青翠向两者</l>
+<l n="113" corresp="#africa.9.113">昭示不朽的荣光，并许下绵长的生命岁月。</l>
+<l n="114" corresp="#africa.9.114">因此，才智之神、慈惠的阿波罗喜爱月桂；</l>
+<l n="115" corresp="#africa.9.115">他惯于弹着竖琴奏出旋律，引领皮厄里得斯的轮舞，</l>
+<l n="116" corresp="#africa.9.116">作为那里的居民，一次又一次，在基拉的岩洞之下。</l>
+<l n="117" corresp="#africa.9.117">此外，朱庇特从不用迅疾的雷电侵扰</l>
+<l n="118" corresp="#africa.9.118">万木之中的这一种叶子；月桂配得上这样的荣宠：</l>
+<l n="119" corresp="#africa.9.119">这便是天界之王对它的莫大宽仁。</l>
+<l n="120" corresp="#africa.9.120">那么，对于名声，什么才是雷电？不就只有那摧倒</l>
+<l n="121" corresp="#africa.9.121">万物的岁月吗？我们的荣耀并不怀有</l>
+<l n="122" corresp="#africa.9.122">这样的恐惧，因此它戴着那蔑视雷电的</l>
+<l n="123" corresp="#africa.9.123">枝叶编成的花冠，从神圣的树干上采摘枝条。”</l>
+</div>
+<div type="textpart" subtype="section" n="8" corresp="#africa.9.s08">
+<head>西庇阿再请；恩尼乌斯独尊荷马</head>
+<l n="124" corresp="#africa.9.124">他说完了。西庇阿微笑道：“你的话句句令人愉悦，</l>
+<l n="125" corresp="#africa.9.125">只是你的简短伤了我们；正当这些话</l>
+<l n="126" corresp="#africa.9.126">愈发甜美地响起，你却把焦渴的我们撇在半路。</l>
+<l n="127" corresp="#africa.9.127">来吧！眼下已望不见任何海岸，太阳</l>
+<l n="128" corresp="#africa.9.128">也已越过天空的正中。请你取出</l>
+<l n="129" corresp="#africa.9.129">甜美的言辞——你慈惠的心中正涌流着它们——</l>
+<l n="130" corresp="#africa.9.130">以平和而悠长的言谈载着情愿的我们，消减</l>
+<l n="131" corresp="#africa.9.131">一段白昼、一程海路。”于是他不得已，</l>
+<l n="132" corresp="#africa.9.132">开口讲述——这时水手们全都止住了低语，</l>
+<l n="133" corresp="#africa.9.133">统帅的随从也都沉默下来：“我追随着名声</l>
+<l n="134" corresp="#africa.9.134">稀疏的足迹，只要可能，便沿着世代往回走，</l>
+<l n="135" corresp="#africa.9.135">怀着不眠的热忱，独自漫游，跑遍了所有的年代，</l>
+<l n="136" corresp="#africa.9.136">直到心神把我掳去，抵达最遥远的黑暗，</l>
+<l n="137" corresp="#africa.9.137">来到最初的人们中间——名声在她那永无尽头的</l>
+<l n="138" corresp="#africa.9.138">路上走得疲惫，把他们远远丢在身后，无人知晓。</l>
+<l n="139" corresp="#africa.9.139">在那里，凡是以功德闪耀而与我相遇的人，</l>
+<l n="140" corresp="#africa.9.140">我都把他紧紧拥在心怀，这是我至高的荣耀；</l>
+<l n="141" corresp="#africa.9.141">我始终敬奉他，如同敬奉亲爱的父亲。</l>
+<l n="142" corresp="#africa.9.142">尤其是那些以华美之笔著称的诗人，</l>
+<l n="143" corresp="#africa.9.143">我都请他们进来，安放在我心底最深处。</l>
+<l n="144" corresp="#africa.9.144">在如此成千上万人当中，唯有荷马对我至高无上，</l>
+<l n="145" corresp="#africa.9.145">唯有他身上有我所仰望、所赞叹、所热爱的东西。</l>
+<l n="146" corresp="#africa.9.146">我常常觉得他是从天上降临的，</l>
+<l n="147" corresp="#africa.9.147">以至于惊叹：一个凡人竟能如此把握崇高之事，</l>
+<l n="148" corresp="#africa.9.148">如此通晓星辰的轨道，如此通晓大地的各个地带！</l>
+<l n="149" corresp="#africa.9.149">他虽然早在罗马初有王者、初有纪年之前</l>
+<l n="150" corresp="#africa.9.150">便已名盛一时，我却在心中把他带回这个时代，</l>
+<l n="151" corresp="#africa.9.151">借一个虚构的形象，让他在我心中如在眼前。</l>
+<l n="152" corresp="#africa.9.152">没有一个白天离得开他，没有一个夜晚离得开他。</l>
+<l n="153" corresp="#africa.9.153">他把简短的晚餐拉得悠长，也是他，</l>
+<l n="154" corresp="#africa.9.154">时而教我缩短漫长的旅途，时而教我</l>
+<l n="155" corresp="#africa.9.155">越过崎岖的山巅，如走平坦的小路：</l>
+<l n="156" corresp="#africa.9.156">总之，无论我做什么，我都与他同在，不分彼此，</l>
+<l n="157" corresp="#africa.9.157">睡着也好，醒着也好，黑夜也好，白天也好。</l>
+</div>
+<div type="textpart" subtype="section" n="9" corresp="#africa.9.s09">
+<head>决战前夜，荷马显现</head>
+<l n="158" corresp="#africa.9.158">如今，在这场胜负未卜的战争之时，他也</l>
+<l n="159" corresp="#africa.9.159">在睡梦中来到我身边。可谁会把那称作睡梦呢？</l>
+<l n="160" corresp="#africa.9.160">我是醒着站在那里的。因为和议破裂之后，一切</l>
+<l n="161" corresp="#africa.9.161">都在刀兵之下沸腾；你很晚才回到营中，</l>
+<l n="162" corresp="#africa.9.162">触动了我的心。倘若你要我说实话，</l>
+<l n="163" corresp="#africa.9.163">我并不畏惧；然而我的希望疲惫地悬在疑虑之中，</l>
+<l n="164" corresp="#africa.9.164">一直到日落时分。那时，彻夜不眠的忧虑</l>
+<l n="165" corresp="#africa.9.165">最沉重地占据了我的心：明天，那将了结</l>
+<l n="166" corresp="#africa.9.166">这许多动荡的一天，会带来什么？就在这深夜里，</l>
+<l n="167" corresp="#africa.9.167">我看见一位老人走来，零落的</l>
+<l n="168" corresp="#africa.9.168">托加碎片遮着他，胡须斑白，蓬乱而污秽。</l>
+<l n="169" corresp="#africa.9.169">他的双眼早已离开了眼窝。那深陷的面容</l>
+<l n="170" corresp="#africa.9.170">带着粗朴的威严，叫人望而生畏。</l>
+<l n="171" corresp="#africa.9.171">我惊呆了。他却伸出手，宛如看得见一般，</l>
+<l n="172" corresp="#africa.9.172">一把拉住惶惑的我，用希腊人的方式说道：</l>
+<l n="173" corresp="#africa.9.173">‘愿你安好，我在拉丁姆的土地上唯一的</l>
+<l n="174" corresp="#africa.9.174">亲爱的朋友！你长久以来在祈愿与心中所寻求的，</l>
+<l n="175" corresp="#africa.9.175">看吧：这便是荷马在世时的模样。</l>
+<l n="176" corresp="#africa.9.176">我好不容易，终于从狄斯打开的牢狱中</l>
+<l n="177" corresp="#africa.9.177">钻出来到这里，冲破了寂静大地的脏腑。’</l>
+</div>
+<div type="textpart" subtype="section" n="10" corresp="#africa.9.s10">
+<head>恩尼乌斯问盲目之故，荷马作答</head>
+<l n="178" corresp="#africa.9.178">我俯伏在地，想要伏身触摸他的双脚：</l>
+<l n="179" corresp="#africa.9.179">那却是一个幽影，我的吻落在了光秃的地上。</l>
+<l n="180" corresp="#africa.9.180">‘起来，’他说，‘你既配得上，就与我平起平坐，</l>
+<l n="181" corresp="#africa.9.181">主动与我交谈吧；趁你还有时间，那屡被拒绝的</l>
+<l n="182" corresp="#africa.9.182">与我的晤谈，你就尽情享用吧。’我立刻热切地</l>
+<l n="183" corresp="#africa.9.183">站起身来，说道：‘阿尔戈斯民族的伟大荣光、</l>
+<l n="184" corresp="#africa.9.184">至高的光彩啊，是谁把这样的刑罚加在</l>
+<l n="185" corresp="#africa.9.185">如此伟大的你身上？是谁夺走了你神圣额头上的</l>
+<l n="186" corresp="#africa.9.186">明灯——那自然的向导——竟敢对世界</l>
+<l n="187" corresp="#africa.9.187">造成这样大的伤害？我从前心中的你不是这样：</l>
+<l n="188" corresp="#africa.9.188">浮现在我满怀爱慕的心中的，是猞猁般锐利的目光，</l>
+<l n="189" corresp="#africa.9.189">是你双眼无穷的视力。富饶的希腊，</l>
+<l n="190" corresp="#africa.9.190">被两片大海远远环绕，它有哪些港湾；</l>
+<l n="191" corresp="#africa.9.191">它耕种着哪些山丘、哪些田野，在深深的谷底</l>
+<l n="192" corresp="#africa.9.192">藏着哪些洞穴，哪些山巅覆盖着繁茂的森林，</l>
+<l n="193" corresp="#africa.9.193">海中又有哪些礁石——哪一处你不曾以确凿的目光</l>
+<l n="194" corresp="#africa.9.194">指给我看？你把远方的事物交给别人去看，</l>
+<l n="195" corresp="#africa.9.195">自己却最看不见近处？我心中</l>
+<l n="196" corresp="#africa.9.196">何等惊奇！看哪，我从这里便能数出</l>
+<l n="197" corresp="#africa.9.197">散布在爱琴海深处的基克拉泽斯群岛；看得见赫勒斯滂</l>
+<l n="198" corresp="#africa.9.198">海岸有多少道弯曲：可你自己却看不见我——</l>
+<l n="199" corresp="#africa.9.199">你，向我展示了这么多东西的人！’他接口说道：</l>
+<l n="200" corresp="#africa.9.200">‘你说的确是实情，但并不足怪。那又怎样？</l>
+<l n="201" corresp="#africa.9.201">那夺去了我肉身之眼的神，难道就不能</l>
+<l n="202" corresp="#africa.9.202">还给我另一双眼睛，让我看见这些奥秘？</l>
+<l n="203" corresp="#africa.9.203">不要再把惯常的怨言堆到神的旨意上，</l>
+<l n="204" corresp="#africa.9.204">凡人啊！因为这是人类最愚蠢的争讼。</l>
+<l n="205" corresp="#africa.9.205">他所做的一切都是公正的。可是你们凡人的</l>
+<l n="206" corresp="#africa.9.206">沉重之躯，在幽暗牢狱的阴影下，无法认识一切。</l>
+<l n="207" corresp="#africa.9.207">有多少人被眼睛所害！视觉驱使他们</l>
+<l n="208" corresp="#africa.9.208">四处游荡，也许还使他们偏离了已开始的正途！</l>
+<l n="209" corresp="#africa.9.209">因此，这个重负——它沉重，又会伤害许多人——</l>
+<l n="210" corresp="#africa.9.210">我是心甘情愿卸下的。我们何不就从这里再往前走？</l>
+<l n="211" corresp="#africa.9.211">不要轻视一个盲眼的向导。也许你会看到</l>
+<l n="212" corresp="#africa.9.212">许多令你心喜的事物。也不要让对未来</l>
+<l n="213" corresp="#africa.9.213">结局的忧虑困扰你。因为明日的阳光</l>
+<l n="214" corresp="#africa.9.214">将以布匿人的鲜血浇灌原野，拉丁姆将是胜者。’</l>
+</div>
+<div type="textpart" subtype="section" n="11" corresp="#africa.9.s11">
+<head>山谷中的青年：佛罗伦萨之子</head>
+<l n="215" corresp="#africa.9.215">我为这吉兆而欢喜，跟随他前行。……</l>
+<l n="216" corresp="#africa.9.216">（……）</l>
+<l n="217" corresp="#africa.9.217">这时我——因为我远远望见一个青年</l>
+<l n="218" corresp="#africa.9.218">坐在幽闭的山谷里——说道：‘最亲爱的向导啊，那是谁？</l>
+<l n="219" corresp="#africa.9.219">我看见他停留在柔嫩的月桂丛中，</l>
+<l n="220" corresp="#africa.9.220">沉思着要用青翠的枝条环束他的头发。</l>
+<l n="221" corresp="#africa.9.221">因为，若我没有看错，他心中正在盘算</l>
+<l n="222" corresp="#africa.9.222">某种卓绝而又极其崇高的东西。’‘你没有看错，’他说：</l>
+<l n="223" corresp="#africa.9.223">‘我认得这青年，他来自晚出的后裔一族，</l>
+<l n="224" corresp="#africa.9.224">意大利的一方土地、那最后的时代将把他生出。</l>
+<l n="225" corresp="#africa.9.225">伊特鲁里亚的佛罗伦萨，城墙宽阔，将把他给你；</l>
+<l n="226" corresp="#africa.9.226">它从罗慕路斯的根上生长出来，日后将名闻遐迩，</l>
+<l n="227" corresp="#africa.9.227">如今却还什么都不是。为了让你知道他生地的方位：</l>
+<l n="228" corresp="#africa.9.228">那卓越的阿尔诺河，将从那富庶城市的城墙间流过，</l>
+<l n="229" corresp="#africa.9.229">一路下行，奔向奥索尼亚的比萨的海岸。</l>
+</div>
+<div type="textpart" subtype="section" n="12" corresp="#africa.9.s12">
+<head>弗朗切斯科：《阿非利加》与卡皮托利山的桂冠</head>
+<l n="230" corresp="#africa.9.230">他将用诗歌把久已流亡的缪斯召回，</l>
+<l n="231" corresp="#africa.9.231">就在那最后的时代；他将让古老的缪斯姐妹</l>
+<l n="232" corresp="#africa.9.232">重返赫利孔山，尽管种种纷乱搅扰着他；</l>
+<l n="233" corresp="#africa.9.233">他的名字将叫弗朗切斯科；他将把伟大的功业——</l>
+<l n="234" corresp="#africa.9.234">你亲眼见过的那一切——仿佛聚成一个</l>
+<l n="235" corresp="#africa.9.235">整体：西班牙的战阵、利比亚的苦斗，</l>
+<l n="236" corresp="#africa.9.236">还有你的西庇阿；他那部诗篇的标题</l>
+<l n="237" corresp="#africa.9.237">将是《阿非利加》。而且，他对自己的才智何等自信，</l>
+<l n="238" corresp="#africa.9.238">赞誉的激励又将何等驱策着他！在迟来的凯旋中，</l>
+<l n="239" corresp="#africa.9.239">他终将登上你们的卡皮托利山；那时</l>
+<l n="240" corresp="#africa.9.240">无论是懒散的世人，还是沉醉于别种追求的众人，</l>
+<l n="241" corresp="#africa.9.241">都吓不倒他：他走下山来时，鬓角</l>
+<l n="242" corresp="#africa.9.242">将因光荣的月桂而如花盛放，元老院在旁陪同。</l>
+<l n="243" corresp="#africa.9.243">因此，他如今才对月桂怀着这样的爱、这样的敬畏。</l>
+<l n="244" corresp="#africa.9.244">在一切树木之中，如今只有一种最得他的欢心——</l>
+<l n="245" corresp="#africa.9.245">那德尔斐之树；他已在学着编结新的枝叶，</l>
+<l n="246" corresp="#africa.9.246">头戴花冠；对未来的预感已在抚慰着他。</l>
+<l n="247" corresp="#africa.9.247">到那时，他之于日渐衰老的罗马，将是如此</l>
+<l n="248" corresp="#africa.9.248">珍贵，正如一位年迈的母亲珍爱的那个</l>
+<l n="249" corresp="#africa.9.249">儿子——在儿子们一一入了令人落泪的坟墓之后，</l>
+<l n="250" corresp="#africa.9.250">寡妇那久已不育的腹中终于又生下了他。</l>
+<l n="251" corresp="#africa.9.251">罗马已有两百个五年未曾见过这样的事，</l>
+<l n="252" corresp="#africa.9.252">她将满心欢喜、热烈地注视着他</l>
+<l n="253" corresp="#africa.9.253">接受桂冠，把花冠留在神殿里，</l>
+<l n="254" corresp="#africa.9.254">把他初次的献礼悬挂在神圣的祭坛上。</l>
+<l n="255" corresp="#africa.9.255">佛罗伦萨的一切后裔将因此更得你的欢心——</l>
+<l n="256" corresp="#africa.9.256">罗马啊，这同一个人将为你做到这一点；你也不必</l>
+<l n="257" corresp="#africa.9.257">再懊悔当初在伊特鲁里亚的河水边建起那座城。</l>
+</div>
+<div type="textpart" subtype="section" n="13" corresp="#africa.9.s13">
+<head>散文史书与乡间隐居</head>
+<l n="258" corresp="#africa.9.258">他也将勤勉地把伟大祖先的赞誉</l>
+<l n="259" corresp="#africa.9.259">编排整理，从最远的起源重新读起，</l>
+<l n="260" corresp="#africa.9.260">读那些勇敢的罗慕路斯子孙和你们的民族；他将以散文，</l>
+<l n="261" corresp="#africa.9.261">作为一位史家，复述这座城市的荣衔与名号。</l>
+<l n="262" corresp="#africa.9.262">在书的中央熠熠生辉、在这同一部著作中也毫不渺小的，</l>
+<l n="263" corresp="#africa.9.263">将是伟大的西庇阿；他本人也将坦然承认，</l>
+<l n="264" corresp="#africa.9.264">自己受惠于谁都不及受惠于此人之多。倘若生命</l>
+<l n="265" corresp="#africa.9.265">延续得更长，倘若没有别的冲动以某种旋风</l>
+<l n="266" corresp="#africa.9.266">抢先打断他已开始的旅程，那时你将看到宏大的卷帙，</l>
+<l n="267" corresp="#africa.9.267">记载伟大的事迹，以缤纷的色彩分门别类，</l>
+<l n="268" corresp="#africa.9.268">一直写到他自己的时代。谁能把他</l>
+<l n="269" corresp="#africa.9.269">封藏心底的种种都一一复述？’我的胸膛</l>
+<l n="270" corresp="#africa.9.270">喘息起伏，渴望看他，也渴望同他说话；</l>
+<l n="271" corresp="#africa.9.271">这时——谁能相信？——我竟盼着伟大的荷马</l>
+<l n="272" corresp="#africa.9.272">给他那甜美的话语画上终点。</l>
+<l n="273" corresp="#africa.9.273">他已让我倍感亲切，因为你，也因为其余</l>
+<l n="274" corresp="#africa.9.274">那些说来崇高的事。我慢慢向前，稍走近些，</l>
+<l n="275" corresp="#africa.9.275">便看见他正当青春的花季，却满怀忧思，</l>
+<l n="276" corresp="#africa.9.276">紧握着笔，坐在青草地上，四周</l>
+<l n="277" corresp="#africa.9.277">环绕着各样的树木，近旁是清澈无比的河流，</l>
+<l n="278" corresp="#africa.9.278">周围是清冷的泉水与高耸的岩壁。</l>
+<l n="279" corresp="#africa.9.279">‘看吧，’向导说，‘这就是乡野的荫凉之所，</l>
+<l n="280" corresp="#africa.9.280">也是他自己的写照。因为正是在这里，他将首次</l>
+<l n="281" corresp="#africa.9.281">把才思举向这样的事业；不久他心性多变，在世界</l>
+<l n="282" corresp="#africa.9.282">各处漂泊，走过陆地，走过海洋，把多年来</l>
+<l n="283" corresp="#africa.9.283">孕育的构想弃置不顾，不再抱有希望。直到最后，</l>
+<l n="284" corresp="#africa.9.284">他才勉强挣脱世事的旋风，大步疾行，走过大半路程。’</l>
+</div>
+<div type="textpart" subtype="section" n="14" corresp="#africa.9.s14">
+<head>号角惊梦</head>
+<l n="285" corresp="#africa.9.285">我对每一件事都惊奇不已；他刚听到我的问候，</l>
+<l n="286" corresp="#africa.9.286">才庄重地抬起双眼，正要开口，</l>
+<l n="287" corresp="#africa.9.287">忽然，清晨号角的嘹亮声响</l>
+<l n="288" corresp="#africa.9.288">把我从幻象中惊起，空虚的睡梦退去了，</l>
+<l n="289" corresp="#africa.9.289">我看见你把军阵带到原野的中央，</l>
+<l n="290" corresp="#africa.9.290">昂然在上，激励将士，挥动军旗前进。”</l>
+</div>
+<div type="textpart" subtype="section" n="15" corresp="#africa.9.s15">
+<head>日暮夜航：西庇阿谈梦</head>
+<l n="291" corresp="#africa.9.291">恩尼乌斯口才雄辩，正用这样的言谈</l>
+<l n="292" corresp="#africa.9.292">抚慰着海上的行程——疲惫的福玻斯已在</l>
+<l n="293" corresp="#africa.9.293">阿特拉斯的大海里让喘息的车驾歇息——</l>
+<l n="294" corresp="#africa.9.294">正如有人乘着轻快的四马车驶过平原，</l>
+<l n="295" corresp="#africa.9.295">四肢浸透了润泽的睡意，</l>
+<l n="296" corresp="#africa.9.296">不觉白昼流逝，惊讶漫长的路途</l>
+<l n="297" corresp="#africa.9.297">竟忽然缩短，听人告诉他也难以置信；</l>
+<l n="298" corresp="#africa.9.298">这时，吉祥的西风从西方的天际升起。</l>
+<l n="299" corresp="#africa.9.299">舰队扬起风帆；船头随即沿着顺遂的航路</l>
+<l n="300" corresp="#africa.9.300">破浪前行；辛西娅通宵不眠，轮替</l>
+<l n="301" corresp="#africa.9.301">兄长的位置守望，疲惫的水手们得以歇息。</l>
+<l n="302" corresp="#africa.9.302">当桨手的喧声与缆绳的嘶响都已沉寂，</l>
+<l n="303" corresp="#africa.9.303">西庇阿温和地说：“这些事无论是真，还是你的虚构，</l>
+<l n="304" corresp="#africa.9.304">我承认都很甜美，抚慰着感官与心胸。</l>
+<l n="305" corresp="#africa.9.305">那位青年，那位新的诗人，此刻我就已经把他</l>
+<l n="306" corresp="#africa.9.306">拥入怀中：他如今为你所见，往昔也曾为我父亲所见；</l>
+<l n="307" corresp="#africa.9.307">他既由两位担保人向我许诺，我当然</l>
+<l n="308" corresp="#africa.9.308">爱他，不论他将是谁；倘若并无其人，我便爱这无人。”</l>
+<l n="309" corresp="#africa.9.309">他说罢，众人便把身体交给了安然的睡眠。</l>
+</div>
+<div type="textpart" subtype="section" n="16" corresp="#africa.9.s16">
+<head>登陆西西里，穿行意大利</head>
+<l n="310" corresp="#africa.9.310">太阳从东方的海面重返，刚刚升起，</l>
+<l n="311" corresp="#africa.9.311">船帆把巨大的影子远远投出之时，</l>
+<l n="312" corresp="#africa.9.312">欢欣的水手们望见了利利巴厄姆的海岸，</l>
+<l n="313" corresp="#africa.9.313">同心齐声，向特里纳克里亚致意。</l>
+<l n="314" corresp="#africa.9.314">他们驶过德雷帕努姆，又从那里重新</l>
+<l n="315" corresp="#africa.9.315">航过西西里的整整一侧；一当在坚实陆地的</l>
+<l n="316" corresp="#africa.9.316">田野上踏下双脚，便取道陆路，</l>
+<l n="317" corresp="#africa.9.317">穿过最秀美的乡野。在我的诗中，</l>
+<l n="318" corresp="#africa.9.318">意大利的欢乐，那四处</l>
+<l n="319" corresp="#africa.9.319">迎向胜利者的人群，那从城中倾巢而出、</l>
+<l n="320" corresp="#africa.9.320">为保全了的自由高唱感恩的万民，</l>
+<l n="321" corresp="#africa.9.321">都无法一一容纳；直到他们来到祖国的城墙下，</l>
+<l n="322" corresp="#africa.9.322">盼望已久的日子、凯旋的时刻终于破晓。</l>
+</div>
+<div type="textpart" subtype="section" n="17" corresp="#africa.9.s17">
+<head>呼告卡利俄佩；凯旋之晨</head>
+<l n="323" corresp="#africa.9.323">在这里也请你，卡利俄佩——虽然唤你时已近终篇——</l>
+<l n="324" corresp="#africa.9.324">吉祥地降临，眷顾并扶助这迟来的劳作。</l>
+<l n="325" corresp="#africa.9.325">奥索尼亚的世界上从未升起过</l>
+<l n="326" corresp="#africa.9.326">比这更美的日子。奥罗拉满面泛着玫瑰的红晕，</l>
+<l n="327" corresp="#africa.9.327">驾驭着福玻斯的轭马，为它们套上缰辔；</l>
+<l n="328" corresp="#africa.9.328">而日神本人也比往常更欢畅、更俊美，在高处</l>
+<l n="329" corresp="#africa.9.329">发号施令，催马前行，已用他的光芒</l>
+<l n="330" corresp="#africa.9.330">从亚平宁所生的森林之巅眺望着罗马。</l>
+<l n="331" corresp="#africa.9.331">显贵们聚集一处，人群涌出城门前来迎接。</l>
+<l n="332" corresp="#africa.9.332">男男女女摩肩接踵，各个年纪的人都争相奔出，</l>
+<l n="333" corresp="#africa.9.333">各种官职、各个阶层无不在列；遍地都铺上了</l>
+<l n="334" corresp="#africa.9.334">黄金，看台上闪耀着五色的宝石。</l>
+<l n="335" corresp="#africa.9.335">紫红的织物铺满街巷，屋顶上也张起紫幔，</l>
+<l n="336" corresp="#africa.9.336">为凯旋的将士们遮出荫凉。</l>
+</div>
+<div type="textpart" subtype="section" n="18" corresp="#africa.9.s18">
+<head>统帅入城，俘虏随行</head>
+<l n="337" corresp="#africa.9.337">那边，长者的行列面容慈和地走下来，</l>
+<l n="338" corresp="#africa.9.338">这边，佩着饰章的青年方阵在城门口</l>
+<l n="339" corresp="#africa.9.339">等候迎接统帅。他神色安详，</l>
+<l n="340" corresp="#africa.9.340">端坐紫色的战车，走近自己巍峨的城墙，</l>
+<l n="341" corresp="#africa.9.341">由雪白的骏马拉着前行；他那慈和的额头</l>
+<l n="342" corresp="#africa.9.342">证实着他天上的血统。随后，成千上万</l>
+<l n="343" corresp="#africa.9.343">双手反缚背后的俘虏，凄凄惨惨，</l>
+<l n="344" corresp="#africa.9.344">鱼贯而行：先是马其顿的显贵，腓力曾借他们</l>
+<l n="345" corresp="#africa.9.345">援手助长战火；统领索帕特走在最前，他与国王</l>
+<l n="346" corresp="#africa.9.346">本人血脉相连，神情最为哀伤；</l>
+<l n="347" corresp="#africa.9.347">后面整个军团锁着沉重的铁链，</l>
+<l n="348" corresp="#africa.9.348">紧随而至。接着，另一边是伟大的</l>
+<l n="349" corresp="#africa.9.349">西法克斯的景象：那曾经的王者之尊衣衫凄惨，</l>
+<l n="350" corresp="#africa.9.350">被锁链压垮，泪水浸湿了胸膛和土地；</l>
+<l n="351" corresp="#africa.9.351">他一边哭泣，一边频频回转湿润的眼睛</l>
+<l n="352" corresp="#africa.9.352">望向伟大的胜利者：他曾鄙弃了怎样的一位朋友，</l>
+<l n="353" corresp="#africa.9.353">他在心中默默记取。除了倾覆的种种苦楚，</l>
+<l n="354" corresp="#africa.9.354">羞耻更折磨着这可怜人。他的大群部属</l>
+<l n="355" corresp="#africa.9.355">迈着颤抖的脚步，紧随着国王的足迹。</l>
+<l n="356" corresp="#africa.9.356">随后是罪有应得的公民，背信的布匿族人，</l>
+<l n="357" corresp="#africa.9.357">被正义的绳索缠缚着走来，仰望着罗马</l>
+<l n="358" corresp="#africa.9.358">最壮美的城墙：汉尼拔的兄弟作为首领</l>
+<l n="359" corresp="#africa.9.359">走在他们最前；其后是毛里族的队伍</l>
+<l n="360" corresp="#africa.9.360">和高卢人的部伍；因为那行列中</l>
+<l n="361" corresp="#africa.9.361">没有一个意大利人：统帅已把这些罪有应得者</l>
+<l n="362" corresp="#africa.9.362">一并处以应得的死刑，把敌人交给了阿非利加的泥土，</l>
+<l n="363" corresp="#africa.9.363">他们不配再见祖国，也不配葬身祖国的土地。</l>
+</div>
+<div type="textpart" subtype="section" n="19" corresp="#africa.9.s19">
+<head>战利品、战象与获释的罗马人</head>
+<l n="364" corresp="#africa.9.364">行列前头，载运着象牙、灿烂的黄金、珍贵的器具、</l>
+<l n="365" corresp="#africa.9.365">以紫色为饰的华美衣袍，以及强大君王们</l>
+<l n="366" corresp="#africa.9.366">深藏的财富，随着盛大的行列一一经过。</l>
+<l n="367" corresp="#africa.9.367">接着是沉重的盾牌、从勇士手中夺来的兵器、</l>
+<l n="368" corresp="#africa.9.368">军旗、狰狞的头盔和颤动的盔缨；</l>
+<l n="369" corresp="#africa.9.369">后面牵来垂头丧气的战马，还有驯服的大象，</l>
+<l n="370" corresp="#africa.9.370">低垂着脖颈，步履沉重。四周</l>
+<l n="371" corresp="#africa.9.371">成千上万的孩童蜂拥而来：这群懵懂的孩子喧嚷着，</l>
+<l n="372" corresp="#africa.9.372">惊叹如此庞大的巨兽竟从蛮族的世界来到这里。</l>
+<l n="373" corresp="#africa.9.373">这边那边，是从可憎的奴役中被救出的</l>
+<l n="374" corresp="#africa.9.374">罗马将士，他们照惯例高唱欢乐的凯歌，</l>
+<l n="375" corresp="#africa.9.375">一同庆贺，望着自己的救星，</l>
+<l n="376" corresp="#africa.9.376">怎么也看不够。他们当中走在最前的，</l>
+<l n="377" corresp="#africa.9.377">是泰伦提乌斯·库莱奥，显赫之士，当时拉丁之城的元老；</l>
+<l n="378" corresp="#africa.9.378">据说他像获释奴敬奉亲爱的恩主一样，</l>
+<l n="379" corresp="#africa.9.379">终其一生恭顺地敬奉着西庇阿。</l>
+</div>
+<div type="textpart" subtype="section" n="20" corresp="#africa.9.s20">
+<head>大军、号角与登临卡皮托利山</head>
+<l n="380" corresp="#africa.9.380">最后行进的是得胜之师，手执拉丁的兵器，</l>
+<l n="381" corresp="#africa.9.381">骑兵与步兵列阵而行，仿佛汉尼拔</l>
+<l n="382" corresp="#africa.9.382">就在城门口，要迎面杀来；</l>
+<l n="383" corresp="#africa.9.383">这时，号角和得胜的军号以令人悚然的</l>
+<l n="384" corresp="#africa.9.384">调子响彻四方：台伯河的波浪颤抖了，</l>
+<l n="385" corresp="#africa.9.385">四周的树林都惊惶不已；可怖的轰鸣震撼着阿尔巴、</l>
+<l n="386" corresp="#africa.9.386">阿尔戈斯人的提布尔、寒冷的索拉克特山，</l>
+<l n="387" corresp="#africa.9.387">以及普赖内斯特山丘上峻峭的城堡。</l>
+<l n="388" corresp="#africa.9.388">就这样，他终于以前所未见的凯旋</l>
+<l n="389" corresp="#africa.9.389">登上高耸的卡皮托利山，向友善的众神献上谢恩；</l>
+<l n="390" corresp="#africa.9.390">他把堆积如山的黄金和巨量的</l>
+<l n="391" corresp="#africa.9.391">财宝藏入朱庇特的神殿，使祖国</l>
+<l n="392" corresp="#africa.9.392">永远富足。他自己却只以一个称号</l>
+<l n="393" corresp="#africa.9.393">为满足，不曾把任何财物带进自己的家门。</l>
+<l n="394" corresp="#africa.9.394">毫无疑问，他用剑为日后历次战争的凯旋</l>
+<l n="395" corresp="#africa.9.395">铺平了道路，为罗马城打开了统治</l>
+<l n="396" corresp="#africa.9.396">世界的大门：迦太基既已被征服，便没有人</l>
+<l n="397" corresp="#africa.9.397">以俯首就轭为耻，也没有人耻于承认</l>
+<l n="398" corresp="#africa.9.398">战无不胜的罗马人、奎里努斯的子民为世界的主人。</l>
+<l n="399" corresp="#africa.9.399">他本人头戴枝叶葱茏的桂冠，从塔尔佩亚岩</l>
+<l n="400" corresp="#africa.9.400">归来，满怀欢欣，走遍了全城。</l>
+</div>
+<div type="textpart" subtype="section" n="21" corresp="#africa.9.s21">
+<head>恩尼乌斯同戴桂冠；诗人自述加冕</head>
+<l n="401" corresp="#africa.9.401">恩尼乌斯走在胜利者的右侧，以同样的</l>
+<l n="402" corresp="#africa.9.402">枝叶束住两鬓，为学问和慈惠的诗艺</l>
+<l n="403" corresp="#africa.9.403">在如此伟大的倡导者主持下举行了荣耀的凯旋。</l>
+<l n="404" corresp="#africa.9.404">此后，后来者一个接一个，争相追随。</l>
+<l n="405" corresp="#africa.9.405">我本人，在三百个五年之期依次流逝之后，</l>
+<l n="406" corresp="#africa.9.406">也尝试了这条荆棘之路，追寻罕有的足迹，</l>
+<l n="407" corresp="#africa.9.407">凭着不相称的力量，仍怀着信心，总算走完了它；</l>
+<l n="408" corresp="#africa.9.408">以桂叶，以地点，也以显赫的称号，</l>
+<l n="409" corresp="#africa.9.409">效法了古代英雄们如此崇高的荣誉，</l>
+<l n="410" corresp="#africa.9.410">好让那位希腊诗人的预言不致落空。</l>
+</div>
+<div type="textpart" subtype="section" n="22" corresp="#africa.9.s22">
+<head>不忍续写晚年的悲剧</head>
+<l n="411" corresp="#africa.9.411">如今我不敢从这里召唤你们，女神们，</l>
+<l n="412" corresp="#africa.9.412">在这么多欢乐之后转向悲哀而惨烈的题材。</l>
+<l n="413" corresp="#africa.9.413">你们倒不如远远逃开，把脸转过去。</l>
+<l n="414" corresp="#africa.9.414">我定会与你们一同逃避：我不会讲述</l>
+<l n="415" corresp="#africa.9.415">由嫉妒而起的悲哀怨诉、显贵们的罪行和元老院的过失，</l>
+<l n="416" corresp="#africa.9.416">不讲人民的罪孽，以及统帅甘愿接受的</l>
+<l n="417" corresp="#africa.9.417">流放与死亡，还有这悲愤之人的墓铭——</l>
+<l n="418" corresp="#africa.9.418">刻在大理石坟墓上的那些尖刻的斥责。</l>
+<l n="419" corresp="#africa.9.419">这些就让别人去记述吧：我心意已决，</l>
+<l n="420" corresp="#africa.9.420">要在这里为作品立下终点；我也决不容许</l>
+<l n="421" corresp="#africa.9.421">用如此哀伤的诗歌玷污神圣的缪斯姐妹。</l>
+</div>
+<div type="textpart" subtype="section" n="23" corresp="#africa.9.s23">
+<head>致诗卷：哀悼罗伯特国王</head>
+<l n="422" corresp="#africa.9.422">啊，我耗费了不少心血才完成的</l>
+<l n="423" corresp="#africa.9.423">阿非利加！当你还在成长，当我修饰你、重读你，</l>
+<l n="424" corresp="#africa.9.424">爱抚着你的时候，无情的死神却把宽宏的罗伯特</l>
+<l n="425" corresp="#africa.9.425">不合时宜地从匮乏的世间夺走了；</l>
+<l n="426" corresp="#africa.9.426">它彻底夺去了我生命中的甜蜜，</l>
+<l n="427" corresp="#africa.9.427">也阻断了你所期望的道路。你将取道何方，</l>
+<l n="428" corresp="#africa.9.428">不幸的你？我来为你指路。不要去那因丧事</l>
+<l n="429" corresp="#africa.9.429">而纷乱的殿堂，也不要去帕耳忒诺珀</l>
+<l n="430" corresp="#africa.9.430">那昔日亲切的门庭。那余温尚存的坟墓的新石，</l>
+<l n="431" corresp="#africa.9.431">你要满怀悲伤地走近，用泪水浇洒。当你在那里看见</l>
+<l n="432" corresp="#africa.9.432">伟大的国王躺在一小块土地之下，</l>
+<l n="433" corresp="#africa.9.433">你本是许给在世的他的，就把自己交还给入土的他，</l>
+<l n="434" corresp="#africa.9.434">向神圣的骨灰偿清这份许诺：因为他的灵魂</l>
+<l n="435" corresp="#africa.9.435">已重返群星，正回头俯视着怠惰的大地；</l>
+<l n="436" corresp="#africa.9.436">它逃离了易朽的权杖，不再顾念凡人的作为。</l>
+<l n="437" corresp="#africa.9.437">然而，虽然他会嘲笑自己抛下的王国冠冕</l>
+<l n="438" corresp="#africa.9.438">和旧日的忧虑，虽然他从高高的宝座上</l>
+<l n="439" corresp="#africa.9.439">怜悯世人过度的劳碌与迷误，</l>
+<l n="440" corresp="#africa.9.440">他却仍爱着我们，倘若我没有弄错；他曾是我们才华的</l>
+<l n="441" corresp="#africa.9.441">最温和的评判者。这颗星辰既已从大地上被夺走，</l>
+<l n="442" corresp="#africa.9.442">唉，唉，我多么担心某个更严酷的时代</l>
+<l n="443" corresp="#africa.9.443">会对你喧嚷，盲目地凌辱你荣耀的名号！</l>
+<l n="444" corresp="#africa.9.444">皮厄里得斯的东道主，在我们这个时代唯一</l>
+<l n="445" corresp="#africa.9.445">懂得给学问以应得荣誉的人，</l>
+<l n="446" corresp="#africa.9.446">已经逝去：我们的希望也随他一同离去。</l>
+</div>
+<div type="textpart" subtype="section" n="24" corresp="#africa.9.s24">
+<head>生于末世，寄望复兴</head>
+<l n="447" corresp="#africa.9.447">那些早先由更美好的时代所生的人</l>
+<l n="448" corresp="#africa.9.448">多么幸福！但愿我们也……我们徒然祈求虚妄之事！</l>
+<l n="449" corresp="#africa.9.449">已不能回到往昔。我们这些万物之中最末的迟生者，</l>
+<l n="450" corresp="#africa.9.450">冷酷的朱庇特又从敌对的天极照临着我们。</l>
+<l n="451" corresp="#africa.9.451">我们必须善用自己的命数，追随我们的星辰，</l>
+<l n="452" corresp="#africa.9.452">它们引向何方，就随往何方，以免被它们强拖而去。我注定要</l>
+<l n="453" corresp="#africa.9.453">在纷繁世事的风暴搅扰之下度过一生。</l>
+<l n="454" corresp="#africa.9.454">但对你而言，也许——倘若正如我心中所盼所愿，</l>
+<l n="455" corresp="#africa.9.455">你将在我身后长久存活——还有更好的</l>
+<l n="456" corresp="#africa.9.456">世代等着你：这勒忒的沉睡不会</l>
+<l n="457" corresp="#africa.9.457">延续到所有的年代！也许黑暗驱散之后，</l>
+<l n="458" corresp="#africa.9.458">我们的后人将能重返那纯净而古老的光辉。</l>
+<l n="459" corresp="#africa.9.459">那时你将看见赫利孔山新枝萌发，重又青翠，</l>
+<l n="460" corresp="#africa.9.460">看见神圣的月桂重新抽叶；那时崇高的才智</l>
+<l n="461" corresp="#africa.9.461">和好学的心灵将重新兴起，他们对皮厄里得斯</l>
+<l n="462" corresp="#africa.9.462">高尚学问的热忱，将使古老的爱加倍。</l>
+<l n="463" corresp="#africa.9.463">你要记住，热心地让我的名字重获新生：</l>
+<l n="464" corresp="#africa.9.464">至少在你力所能及之处，让埋葬的人重获他的名声，</l>
+<l n="465" corresp="#africa.9.465">让骨灰得到荣誉。在那时的人们中间，</l>
+<l n="466" corresp="#africa.9.466">我的生命将更加甜美，荣耀也将蔑视坟墓。</l>
+</div>
+<div type="textpart" subtype="section" n="25" corresp="#africa.9.s25">
+<head>嘱托诗卷：隐居待时，蔑视时间</head>
+<l n="467" corresp="#africa.9.467">然而在此期间，我嘱咐你：你要穿过</l>
+<l n="468" corresp="#africa.9.468">各族怠惰的人群，无人知晓，步履谨慎，</l>
+<l n="469" corresp="#africa.9.469">只在门槛的最外边，被人远远地勉强问候一声，便告离去——</l>
+<l n="470" corresp="#africa.9.470">唉，你在世间将只有寥寥几户人家、稀少的</l>
+<l n="471" corresp="#africa.9.471">客舍！但如果有一位真正热爱美德的朋友</l>
+<l n="472" corresp="#africa.9.472">由你的命运送到你面前，就安心地</l>
+<l n="473" corresp="#africa.9.473">求他在清贫的屋檐下给你一个隐蔽而狭小的角落，</l>
+<l n="474" corresp="#africa.9.474">在那里，宁可孤单一身、永做异乡之客，</l>
+<l n="475" corresp="#africa.9.475">也不与恶人为伴；你将额上刻满岁月，渐渐老去，</l>
+<l n="476" corresp="#africa.9.476">直到你来到另一个时代的开端。</l>
+<l n="477" corresp="#africa.9.477">那时，我祈求你重返青春：当慈惠的光明照临诗人，</l>
+<l n="478" corresp="#africa.9.478">当一个更善待好人的时代初次放出光芒之时。</l>
+<l n="479" corresp="#africa.9.479">如果说年轻的我曾有幸把年轻的你从烈火之中</l>
+<l n="480" corresp="#africa.9.480">完好地抢出，又带着你越过汹涌的波涛，</l>
+<l n="481" corresp="#africa.9.481">那么如今你已然老去，我求你在我死后</l>
+<l n="482" corresp="#africa.9.482">凭你自己提防这些危险，并且蔑视那践踏万物的</l>
+<l n="483" corresp="#africa.9.483">唯一者——饕餮的时间，蔑视飞逝的白昼和吞噬</l>
+<l n="484" corresp="#africa.9.484">世代的太阳，蔑视嫉妒那令人伤痛的啮咬。</l>
+</div>
+</div>
+<div type="commentary" xml:lang="zh-Hans">
+<note xml:id="africa.9.n001" type="commentary" target="#africa.9.1 #africa.9.2 #africa.9.3 #africa.9.4 #africa.9.5 #africa.9.6 #africa.9.7 #africa.9.8 #africa.9.9"><term xml:lang="la">Scipio prouectus pelago</term> 迦太基求和、战争结束之后（公元前 201 年），西庇阿率军归国。据李维 30.45，他先渡海到西西里的利利巴厄姆，再取道意大利返回罗马，举行凯旋式。本卷从归航途中写起。</note>
+<note xml:id="africa.9.n002" type="commentary" target="#africa.9.10 #africa.9.11"><term xml:lang="la">Ennius</term> 恩尼乌斯（Q. Ennius，公元前 239–公元前 169），罗马早期大诗人，以六步格史诗《编年纪》叙述罗马历史，被尊为“拉丁诗歌之父”。西塞罗《为阿尔基亚斯辩护》22 说他为大西庇阿所珍爱，相传其石像立于西庇阿家族墓中；克劳狄安《斯提利科执政颂》第三卷序诗也说恩尼乌斯常随西庇阿出入军营。他是否真随西庇阿到过阿非利加，并无可靠史据。</note>
+<note xml:id="africa.9.n003" type="commentary" target="#africa.9.18 #africa.9.19 #africa.9.20 #africa.9.21 #africa.9.22"><term xml:lang="la">Castalio ... gurgite ... Ex Elicone sacro</term> 卡斯塔利亚泉本在德尔斐的帕尔纳索斯山下，是阿波罗与缪斯的圣泉；彼特拉克把它与缪斯所居的赫利孔山连在一起，古代后期以来这两座诗山常被混同。“众女神”即缪斯。卢克莱修称恩尼乌斯“最先从宜人的赫利孔山带回常青的花冠”（《物性论》1.117–118）。</note>
+<note xml:id="africa.9.n004" type="commentary" target="#africa.9.24 #africa.9.25"><term xml:lang="la">stirpisque deorum Certa fides</term> 据李维 26.19，西庇阿常独自进入卡皮托利山的朱庇特神殿静坐，民间传说他是朱庇特化作巨蛇与其母所生，他本人也不加否认。恩尼乌斯称他为“神明血统的确凿明证”，即指此说。</note>
+<note xml:id="africa.9.n005" type="commentary" target="#africa.9.33 #africa.9.34 #africa.9.35 #africa.9.36"><term xml:lang="la">Liuor ... Mors Inuidiam</term> 妒忌（Livor）、死神（Mors）、嫉妒（Invidia）在原文中均为拟人。“妒忌只伤生者，人死之后便止息”是古人常谈，奥维德《恋歌》1.15 有“妒忌以生者为食，人死后便安息”之句。</note>
+<note xml:id="africa.9.n006" type="commentary" target="#africa.9.44 #africa.9.45"><term xml:lang="la">Virtus quoniam non altius ibis</term> Virtus 当是呼格，故动词用第二人称 ibis：恩尼乌斯转而呼告拟人的美德（也可理解为把西庇阿称作美德的化身）。意谓西庇阿的美德已登峰造极，无可再升，所虑者唯有下降——即他的光荣可能因无人善加歌咏而减色，故下文转说拉丁诗艺之不足。</note>
+<note xml:id="africa.9.n007" type="commentary" target="#africa.9.45 #africa.9.46 #africa.9.47 #africa.9.48"><term xml:lang="la">nostra peritia fandi</term> 恩尼乌斯时代的拉丁文学方兴未艾，此前只有李维乌斯·安德罗尼库斯、奈维乌斯等少数先驱。Argolicus 字面为“阿尔戈斯的”，诗中泛指希腊。“希腊的耕植者”承接上句草木之喻：诗艺这株植物此前只由希腊人培育。</note>
+<note xml:id="africa.9.n008" type="commentary" target="#africa.9.51 #africa.9.52 #africa.9.53 #africa.9.54"><term xml:lang="la">Macedum rex magnus</term> 指亚历山大大帝。他在特洛伊瞻仰阿喀琉斯之墓，感叹阿喀琉斯有幸得荷马为其传颂者，见西塞罗《为阿尔基亚斯辩护》24；彼特拉克《歌集》第 187 首也咏此事。“埃阿科斯之孙”即阿喀琉斯（其父珀琉斯为埃阿科斯之子）。称阿喀琉斯为亚历山大的“朋友”，大概因亚历山大以阿喀琉斯为祖先和楷模。</note>
+<note xml:id="africa.9.n009" type="commentary" target="#africa.9.58 #africa.9.59 #africa.9.60 #africa.9.61 #africa.9.62 #africa.9.63 #africa.9.64"><term xml:lang="la">Me solum Fortuna ... Nascetur forsan</term> 命运女神（Fortuna）在此拟人。恩尼乌斯自谦：西庇阿配得上荷马，命运却只给了他一个恩尼乌斯；但后世也许会有更好的诗人，这预示后文荷马所指的那位后世诗人，即彼特拉克本人。卡利俄佩是九位缪斯之一，司史诗。</note>
+<note xml:id="africa.9.n010" type="commentary" target="#africa.9.65 #africa.9.66 #africa.9.67 #africa.9.68"><term xml:lang="la">Meonius ... Euripides</term> “迈俄尼亚的诗人”指荷马，古代传说荷马生于小亚细亚的迈俄尼亚（即吕底亚）。恩尼乌斯曾把欧里庇得斯的多部悲剧改编为拉丁文，故西庇阿特别提及欧里庇得斯。</note>
+<note xml:id="africa.9.n011" type="commentary" target="#africa.9.68 #africa.9.69"><term xml:lang="la">Alio nolim me carmine dici</term> 西庇阿只愿由恩尼乌斯歌颂。恩尼乌斯确曾作诗颂扬西庇阿，有一部题为《西庇阿》的作品，今存残篇。</note>
+<note xml:id="africa.9.n012" type="commentary" target="#africa.9.70 #africa.9.71 #africa.9.72 #africa.9.73"><term xml:lang="la">que sint permissa poetis ... quid laurea signet</term> 诗人可享有何种自由、桂冠意味着什么，这两个问题正是彼特拉克 1341 年在卡皮托利山加冕时所作演说的主题；以下恩尼乌斯的回答多与该演说相合。</note>
+<note xml:id="africa.9.n013" type="commentary" target="#africa.9.81 #africa.9.82"><term xml:lang="la">Pyerios ... dearum ... choros</term> 皮厄里亚在马其顿奥林波斯山下，传为缪斯的出生地，故缪斯又称皮厄里得斯（见 115 行）。“女神们的歌队”即缪斯的歌舞。</note>
+<note xml:id="africa.9.n014" type="commentary" target="#africa.9.83 #africa.9.84 #africa.9.85 #africa.9.86"><term xml:lang="la">Non talibus astris</term> 意谓：如此伟大的人物，不会生在使人疏远缪斯的星宿之下；大自然既给了他渴求名声的心，就必定也给了他对缪斯的爱，否则便是自然的失误。</note>
+<note xml:id="africa.9.n015" type="commentary" target="#africa.9.90 #africa.9.91"><term xml:lang="la">Non illa licentia uatum est</term> 意谓诗人的自由并非许多人乐于想象的那种随心所欲的虚构，详见下文。91 行只有半行，是彼特拉克未完成的诗行，译文以省略号标出。</note>
+<note xml:id="africa.9.n016" type="commentary" target="#africa.9.92 #africa.9.93 #africa.9.94 #africa.9.95 #africa.9.96 #africa.9.97 #africa.9.98 #africa.9.99 #africa.9.100 #africa.9.101 #africa.9.102"><term xml:lang="la">sub nube</term> 这段诗学宣言是全诗的关键之一：诗以真实为根基，再以寓意的“云”“外衣”“薄纱”加以遮掩，使读者求之愈难、得之愈甘。历史、伦理（美德与人生的教诲）、自然哲学大致对应古代学问的分科，意谓一切学问都可以入诗。这是中世纪以寓意解释古典诗歌的传统，彼特拉克在加冕演说和书信中也有类似的论述。</note>
+<note xml:id="africa.9.n017" type="commentary" target="#africa.9.103 #africa.9.104 #africa.9.105"><term xml:lang="la">Qui fingit quodcumque refert</term> 此说本于拉克坦提乌斯《神圣原理》第一卷第 11 章：诗人的本分是把真实发生的事借曲折的比喻改换形态，若所讲全属捏造，那就是愚妄的说谎者而非诗人。90 行“诗人的特许”一语也出自那里。</note>
+<note xml:id="africa.9.n018" type="commentary" target="#africa.9.108 #africa.9.109 #africa.9.110 #africa.9.111 #africa.9.112 #africa.9.113"><term xml:lang="la">Laurea</term> 古罗马凯旋将军头戴月桂冠，诗人以桂冠为荣则源于阿波罗崇拜。月桂四季常青，故象征不朽的荣光。彼特拉克的加冕演说也讨论了月桂何以同属将领与诗人。</note>
+<note xml:id="africa.9.n019" type="commentary" target="#africa.9.114 #africa.9.115 #africa.9.116"><term xml:lang="la">Apollo ... Cirreo ... antro</term> 阿波罗爱月桂，源于他追求仙女达佛涅、达佛涅化为月桂树的神话（奥维德《变形记》第一卷）。基拉（Cirrha）是德尔斐的港口，“基拉的岩洞”即指德尔斐，阿波罗的圣地。皮厄里得斯即缪斯。</note>
+<note xml:id="africa.9.n020" type="commentary" target="#africa.9.117 #africa.9.118 #africa.9.119"><term xml:lang="la">non fulmine uexat</term> 古人相信月桂不遭雷击，老普林尼《博物志》即有此说；据苏埃托尼乌斯《提比略传》69，提比略皇帝每逢雷雨便戴上月桂冠以避雷。</note>
+<note xml:id="africa.9.n021" type="commentary" target="#africa.9.120 #africa.9.121 #africa.9.122 #africa.9.123"><term xml:lang="la">sola uetustas</term> 名声唯一的“雷电”是摧毁一切的岁月；荣耀不惧雷击，所以戴上不受雷击的月桂。“岁月吞噬一切”的主题在本卷末尾还会再现。</note>
+<note xml:id="africa.9.n022" type="commentary" target="#africa.9.132 #africa.9.133"><term xml:lang="la">omnes ... siluere</term> 全船肃静聆听，令人想起《埃涅阿斯纪》第二卷开头众人静听埃涅阿斯讲述特洛伊陷落的情景（“众人都沉默了”）。</note>
+<note xml:id="africa.9.n023" type="commentary" target="#africa.9.133 #africa.9.134 #africa.9.135 #africa.9.136 #africa.9.137 #africa.9.138"><term xml:lang="la">Vestigia Fame ... Fama perenni Fessa uia</term> 名声（Fama）在此拟人：她的足迹延伸到远古，最终也走累了，把最早的人们遗落在无名的黑暗中。恩尼乌斯钻研古史的热忱，正是彼特拉克本人的写照。</note>
+<note xml:id="africa.9.n024" type="commentary" target="#africa.9.144 #africa.9.145 #africa.9.146 #africa.9.147 #africa.9.148"><term xml:lang="la">summus Homerus</term> 古代与中世纪常把荷马史诗视为包罗天文地理的百科宝库。climata 是古代地理学按纬度划分的地带。</note>
+<note xml:id="africa.9.n025" type="commentary" target="#africa.9.149 #africa.9.150 #africa.9.151"><term xml:lang="la">ante nouos reges et tempora Rome</term> 古人一般认为荷马生活在罗马建城（传统纪年公元前 753 年）之前。“借一个虚构的形象”让他如在眼前，是下文梦境的伏笔。</note>
+<note xml:id="africa.9.n026" type="commentary" target="#africa.9.152 #africa.9.153 #africa.9.154 #africa.9.155 #africa.9.156 #africa.9.157"><term xml:lang="la">Hoc sine nulla dies abiit</term> 与古人朝夕相处，正是彼特拉克自己的生活：他在书信中常称古代作家为朋友和伴侣，还写过致西塞罗、维吉尔、荷马等古人的书信（《家常书信集》第二十四卷）。1354 年他得到一部希腊文荷马抄本，却苦于读不懂希腊文。</note>
+<note xml:id="africa.9.n027" type="commentary" target="#africa.9.158 #africa.9.159 #africa.9.160 #africa.9.161 #africa.9.162"><term xml:lang="la">dubii sub tempore belli ... Fracta ... pace</term> 指扎马决战（公元前 202 年）的前夜。第七卷写西庇阿与汉尼拔在战前会谈，和议未成。李维 30.29–31 记会谈，30.32–35 记会战。</note>
+<note xml:id="africa.9.n028" type="commentary" target="#africa.9.159 #africa.9.160 #africa.9.161 #africa.9.162 #africa.9.163 #africa.9.164 #africa.9.165 #africa.9.166"><term xml:lang="la">Affuit in somnis</term> 恩尼乌斯在《编年纪》序诗中自述梦见荷马现身，说荷马的灵魂已转入他身中，卢克莱修《物性论》1.117–126 提及此事。彼特拉克借这一传说虚构了这场梦，却让荷马预言扎马之战的胜利与彼特拉克本人。</note>
+<note xml:id="africa.9.n029" type="commentary" target="#africa.9.161 #africa.9.162"><term xml:lang="la">seroque in castra reuersus Contigeras animum</term> 句意不甚明确：字面为“你很晚回到营中，触动了（我的）心”，或指西庇阿会谈归来后的言语神情令恩尼乌斯心绪难平。今照字面译。</note>
+<note xml:id="africa.9.n030" type="commentary" target="#africa.9.167 #africa.9.168 #africa.9.169 #africa.9.170 #africa.9.171 #africa.9.172"><term xml:lang="la">senem ... Graio ... more</term> 盲诗人荷马的形象。托加（toga）本是罗马公民的长袍，彼特拉克却让这位希腊诗人穿着破烂的托加。“用希腊人的方式”，或指用希腊语，或指希腊人的礼节。</note>
+<note xml:id="africa.9.n031" type="commentary" target="#africa.9.176 #africa.9.177"><term xml:lang="la">carcere Ditis</term> 狄斯即冥王，“狄斯的牢狱”指冥府，荷马的亡灵自地下而来。tacite 今作属格形容词（“寂静大地的”）解，也可作副词“悄然”。</note>
+<note xml:id="africa.9.n032" type="commentary" target="#africa.9.178 #africa.9.179"><term xml:lang="la">Umbra fuit</term> 仿维吉尔《埃涅阿斯纪》6.700–702 埃涅阿斯三次欲拥抱父亲的亡灵而扑空；但丁《炼狱篇》第二十一歌末斯塔提乌斯俯身欲抱维吉尔的双脚，被告知彼此都是幽影，情景尤为相近。</note>
+<note xml:id="africa.9.n033" type="commentary" target="#africa.9.183 #africa.9.184 #africa.9.185 #africa.9.186 #africa.9.187 #africa.9.188 #africa.9.189"><term xml:lang="la">Natureque duces ... Lincea acies</term> “阿尔戈斯民族”泛指希腊人；“自然的向导”指眼睛。猞猁以目光锐利著称；阿尔戈英雄林叩斯（Lynceus）传说能透视地下，这个形容词兼含二义。</note>
+<note xml:id="africa.9.n034" type="commentary" target="#africa.9.189 #africa.9.190 #africa.9.191 #africa.9.192 #africa.9.193 #africa.9.194 #africa.9.195 #africa.9.196 #africa.9.197 #africa.9.198 #africa.9.199"><term xml:lang="la">Quos Grecia portus</term> 荷马史诗被视为希腊地理的宝库，《伊利亚特》第二卷的“船表”即罗列了希腊各地。“两片大海”指希腊东西两侧的爱琴海与伊奥尼亚海。基克拉泽斯群岛在爱琴海南部；赫勒斯滂即今达达尼尔海峡，特洛伊就在其岸边。</note>
+<note xml:id="africa.9.n035" type="commentary" target="#africa.9.201 #africa.9.202 #africa.9.203 #africa.9.204 #africa.9.205 #africa.9.206"><term xml:lang="la">Deus ... sub opaci carceris umbra</term> 荷马以基督教式的口吻谈论单数的“神”：肉眼被夺，换来洞见奥秘的心眼。以肉身为“牢狱”是柏拉图主义与基督教共有的意象，西塞罗《西庇阿之梦》也说亡灵脱离肉体的束缚“如出牢狱”。</note>
+<note xml:id="africa.9.n036" type="commentary" target="#africa.9.207 #africa.9.208 #africa.9.209 #africa.9.210"><term xml:lang="la">Quam multis nocuere oculi</term> 古人传说哲学家德谟克利特自毁双目，以免视觉扰乱心神（西塞罗《论至善与至恶》第五卷提到此说）。荷马说自己是“心甘情愿”卸下双眼这一重负的，意思与此相近。</note>
+<note xml:id="africa.9.n037" type="commentary" target="#africa.9.213 #africa.9.214"><term xml:lang="la">lux crastina</term> 预言次日扎马之战罗马的胜利。布匿人即迦太基人。</note>
+<note xml:id="africa.9.n038" type="commentary" target="#africa.9.215 #africa.9.216"><term xml:lang="la">Prosequor augurio letus. (- - -)</term> 215 行只有半行，216 行原文是缺行的标记，彼特拉克在此留下了未写完的空缺。译文以省略号标出，不作补充。从上下文看，缺文大约是荷马引恩尼乌斯前行、来到一处山谷的过渡。</note>
+<note xml:id="africa.9.n039" type="commentary" target="#africa.9.217 #africa.9.218 #africa.9.219 #africa.9.220 #africa.9.221 #africa.9.222"><term xml:lang="la">sedentem ... iuuenem</term> 这位坐在月桂丛中、沉思着为自己戴上桂枝的青年，就是本诗作者彼特拉克。219 行数字版在 lauros 后多出一个引号，实际上问句一直延续到 222 行。</note>
+<note xml:id="africa.9.n040" type="commentary" target="#africa.9.223 #africa.9.224 #africa.9.225 #africa.9.226 #africa.9.227"><term xml:lang="la">Florentia ... urbs inclita quondam, Nunc nichil</term> quondam 在此指将来的“某一天”：在荷马说话的公元前 202 年，佛罗伦萨尚不存在。它是公元前 1 世纪建立的罗马殖民地，故说“从罗慕路斯的根上生长出来”。Tusca 照译名表译“伊特鲁里亚的”，即后来的托斯卡纳。彼特拉克的父亲是佛罗伦萨人，1302 年与但丁同年遭放逐；彼特拉克本人 1304 年生于流亡地阿雷佐，此处以佛罗伦萨为他的母邦。</note>
+<note xml:id="africa.9.n041" type="commentary" target="#africa.9.228 #africa.9.229"><term xml:lang="la">Arnus ... Ausonie ... Pise</term> 阿尔诺河流经佛罗伦萨，在比萨附近入海。奥索尼亚是意大利的诗称，得名于意大利南部的古代民族奥索尼人。</note>
+<note xml:id="africa.9.n042" type="commentary" target="#africa.9.230 #africa.9.231 #africa.9.232 #africa.9.233"><term xml:lang="la">profugas ... Musas ... Francisco</term> 彼特拉克自视为在长久衰落之后复兴古典诗艺的人，让缪斯姐妹重返赫利孔山即诗歌的复兴。“弗朗切斯科”即本诗作者弗朗切斯科·彼特拉克（Francesco Petrarca，拉丁名 Franciscus）。荷马以神谕般的口吻预言他的名字。Tempus in extremum 今解为“在那最后的时代”，与 224 行“最后的时代”相应；也可理解为“直到时间的尽头”。</note>
+<note xml:id="africa.9.n043" type="commentary" target="#africa.9.233 #africa.9.234 #africa.9.235 #africa.9.236 #africa.9.237"><term xml:lang="la">ceu corpus in unum Colliget</term> 《阿非利加》把西庇阿在西班牙的战事（借回忆与叙述带出）和在阿非利加的征战汇为一部诗。利比亚在诗中泛指北非。“你的西庇阿”：恩尼乌斯为西庇阿所爱，又曾作诗颂扬他（见 68–69 行注）。</note>
+<note xml:id="africa.9.n044" type="commentary" target="#africa.9.237"><term xml:lang="la">AFRICA ... ingeniu</term> 诗题原文以大写印出，译文加书名号。ingeniu 是数字版的录入错误，按文意与格律应作 ingenii（“才智的”）。</note>
+<note xml:id="africa.9.n045" type="commentary" target="#africa.9.238 #africa.9.239 #africa.9.240 #africa.9.241 #africa.9.242"><term xml:lang="la">seroque triumpho ... Capitolia</term> 指 1341 年 4 月 8 日彼特拉克在罗马卡皮托利山接受桂冠加冕，由罗马元老奥尔索·德拉安圭拉拉为他戴冠。“迟来的凯旋”谓古代诗人加冕的传统久已中断。florentia（“如花盛开的”）或暗含 Florentia（佛罗伦萨）的双关。</note>
+<note xml:id="africa.9.n046" type="commentary" target="#africa.9.243 #africa.9.244 #africa.9.245 #africa.9.246"><term xml:lang="la">Delphica</term> “德尔斐之树”即月桂，阿波罗的圣树。月桂（laurus）也影射彼特拉克所爱的劳拉（Laura）之名，这是他意大利语诗中常见的双关。</note>
+<note xml:id="africa.9.n047" type="commentary" target="#africa.9.247 #africa.9.248 #africa.9.249 #africa.9.250"><term xml:lang="la">annose ... matri</term> 以晚年丧子的寡母终于又得一子为比，写衰老的罗马得到彼特拉克时的欣喜。把罗马比作衰老、守寡的妇人，是彼特拉克诗文中常见的形象。</note>
+<note xml:id="africa.9.n048" type="commentary" target="#africa.9.251 #africa.9.252 #africa.9.253 #africa.9.254"><term xml:lang="la">lustris ... ducentis ... serta relinquet</term> 一个 lustrum 为五年，两百个即一千年：彼特拉克认为罗马已逾千年未有诗人加冕。加冕礼后，他把桂冠献在圣彼得大教堂的祭坛上，即此处所说“把花冠留在神殿里”。</note>
+<note xml:id="africa.9.n049" type="commentary" target="#africa.9.255 #africa.9.256 #africa.9.257"><term xml:lang="la">Tusci ... gurgitis</term> 指阿尔诺河。意谓有了彼特拉克，罗马便不会后悔当初建立佛罗伦萨。</note>
+<note xml:id="africa.9.n050" type="commentary" target="#africa.9.258 #africa.9.259 #africa.9.260 #africa.9.261"><term xml:lang="la">sermone soluto Historicus</term> 指彼特拉克以拉丁文散文撰写的史传《名人传》（De viris illustribus），原计划从罗慕路斯写起，叙述罗马历代英雄。“散文”原文字面为“松开的言语”，与受格律约束的诗相对。罗慕路斯的子孙即罗马人。</note>
+<note xml:id="africa.9.n051" type="commentary" target="#africa.9.262 #africa.9.263 #africa.9.264"><term xml:lang="la">In medio ... Magnus erit Scipio</term> 《名人传》中西庇阿传篇幅最长，是全书的核心。fatebitur 的主语不明：今承上句以西庇阿为主语，意谓西庇阿将承认自己最受惠于这位作者，呼应 53–54 行亚历山大羡慕阿喀琉斯得荷马为之传颂、58–64 行恩尼乌斯期待后世更好的诗人；也可理解为史家彼特拉克承认自己最受惠于西庇阿。</note>
+<note xml:id="africa.9.n052" type="commentary" target="#africa.9.264 #africa.9.265 #africa.9.266 #africa.9.267 #africa.9.268"><term xml:lang="la">ampla uolumina ... In tempus perducta suum</term> 意谓若天假以年，他将写成卷帙浩繁的史书。In tempus perducta suum 今解为“一直写到他自己的时代”，与 259 行“从最远的起源”首尾相应；也可理解为“到了应有的时节得以完成”。《名人传》终究未能完成。</note>
+<note xml:id="africa.9.n053" type="commentary" target="#africa.9.274 #africa.9.275 #africa.9.276 #africa.9.277 #africa.9.278"><term xml:lang="la">uiridique in gramine ... gelidos inter fontes rupesque prealtas</term> 描写彼特拉克在普罗旺斯的隐居地沃克吕兹（Vaucluse）：索尔格河的源泉从高崖下涌出。他自 1337 年起常住于此，并在这里动笔写作《阿非利加》。</note>
+<note xml:id="africa.9.n054" type="commentary" target="#africa.9.279 #africa.9.280 #africa.9.281 #africa.9.282 #africa.9.283 #africa.9.284"><term xml:lang="la">uarius mox partibus Orbis ... uagus</term> 预言彼特拉克此后奔走于阿维尼翁与意大利各地的漂泊生活，以及《阿非利加》的长期搁置。effigies sui“他自己的写照”，或指这片乡野正映照出他的心性。末两行 transibit plurima magno cursu 字面为“以宏大的行程走过大部分”，大约是说他摆脱俗务之后才得以疾速推进，完成著作的大半。</note>
+<note xml:id="africa.9.n055" type="commentary" target="#africa.9.287 #africa.9.288 #africa.9.289 #africa.9.290"><term xml:lang="la">litui clangore</term> lituus 是罗马军中所用的弯管号角。梦醒时正是扎马决战的清晨，叙述由此接回第七卷的战事；恩尼乌斯的讲述至此结束。</note>
+<note xml:id="africa.9.n056" type="commentary" target="#africa.9.291 #africa.9.292 #africa.9.293 #africa.9.294 #africa.9.295 #africa.9.296 #africa.9.297 #africa.9.298"><term xml:lang="la">Haud aliter quam qui</term> 句法松散：291 行的主语恩尼乌斯没有下文，主句直到 298 行才出现（西风升起）。292–293 行插入日落的描写：日神傍晚驾车没入西方的大洋（“阿特拉斯的海”即大西洋），让喘息的马匹歇息。294–297 行的比喻，形式上承接恩尼乌斯（他讲得入神，不觉日暮），也可兼指听众：他们沉浸于讲述之中，不觉白昼已尽，正如坐车打盹的人醒来，惊讶路已走完。</note>
+<note xml:id="africa.9.n057" type="commentary" target="#africa.9.298"><term xml:lang="la">leuus Zephirus</term> leuus 即 laevus 的中世纪拼法（格律也要求长音，并非 leuis 之误），本义“左方的”：舰队向东北驶往西西里，西风正从左后方吹来，是顺风；罗马占卜又以左方为吉，故今译“吉祥的”。</note>
+<note xml:id="africa.9.n058" type="commentary" target="#africa.9.300 #africa.9.301"><term xml:lang="la">fratrisque locum uice Cinthia</term> 辛西娅即月神狄安娜，得名于她的出生地提洛岛上的钦托斯山；她是日神福玻斯的孪生姊妹，故说她轮替“兄长”的位置：日落之后，月亮接替太阳通宵守望。</note>
+<note xml:id="africa.9.n059" type="commentary" target="#africa.9.305 #africa.9.306 #africa.9.307 #africa.9.308"><term xml:lang="la">parenti ... gemino sponsore</term> parenti 指西庇阿的父亲：第二卷 441–443 行，老西庇阿的亡灵在梦中已向儿子预言，许多世代之后伊特鲁里亚将出一位青年，重述他的功业，“就像第二个恩尼乌斯”。故“两位担保人”即往昔梦中的父亲与如今讲梦的恩尼乌斯。西庇阿对梦的真假不置可否，却已爱上这位未来的诗人；“若无其人，便爱无人”是诗人借古人之口所作的自谦的诙谐。</note>
+<note xml:id="africa.9.n060" type="commentary" target="#africa.9.310 #africa.9.311 #africa.9.312 #africa.9.313 #africa.9.314 #africa.9.315 #africa.9.316 #africa.9.317 #africa.9.318 #africa.9.319 #africa.9.320 #africa.9.321 #africa.9.322"><term xml:lang="la">Litora ... Lilibeia</term> 依李维 30.45：西庇阿在海陆两方面都取得和平后，率军渡海到西西里的利利巴厄姆，派大部分士兵乘船先行，自己则穿过因和平与胜利而欢庆的意大利返回罗马，沿途城市倾城出迎，乡民塞满道路。利利巴厄姆是西西里西端的港城（今马尔萨拉），公元前 204 年西庇阿正是从这里出征阿非利加（见李维第 29 卷）。</note>
+<note xml:id="africa.9.n061" type="commentary" target="#africa.9.313 #africa.9.314 #africa.9.315 #africa.9.316"><term xml:lang="la">Trinacriam ... Drepanum</term> 特里纳克里亚即西西里。水手望见陆地齐声欢呼，令人想起《埃涅阿斯纪》第三卷特洛伊人望见意大利的情景。德雷帕努姆在西西里西北岸（今特拉帕尼），同卷末埃涅阿斯之父安喀塞斯死于此地。诗中似让舰队绕西西里北岸东行，再登上意大利本土，取道陆路。</note>
+<note xml:id="africa.9.n062" type="commentary" target="#africa.9.323 #africa.9.324"><term xml:lang="la">Calliope</term> 卡利俄佩见第 58–64 行注。诗人在全诗将尽时再次呼告司史诗的缪斯，以写凯旋这一高潮。</note>
+<note xml:id="africa.9.n063" type="commentary" target="#africa.9.325 #africa.9.326 #africa.9.327 #africa.9.328 #africa.9.329 #africa.9.330"><term xml:lang="la">Pulcrior ... dies</term> 凯旋之晨：曙光女神为日神的马套上缰辔，日神越过罗马以东的亚平宁山照见罗马。“亚平宁所生的”是诗体复合词，奥维德《变形记》第十五卷曾用以形容台伯河。西庇阿的凯旋在公元前 201 年。</note>
+<note xml:id="africa.9.n064" type="commentary" target="#africa.9.340 #africa.9.341 #africa.9.342"><term xml:lang="la">niueis ... equis; generisque Etherei</term> 以白马驾凯旋车，据李维 5.23，卡米卢斯曾如此，被认为僭拟朱庇特与日神。“天上的血统”指西庇阿为朱庇特之子的传说（见第 24–25 行注）。</note>
+<note xml:id="africa.9.n065" type="commentary" target="#africa.9.343 #africa.9.344 #africa.9.345 #africa.9.346 #africa.9.347"><term xml:lang="la">Macedum proceres ... Sopater</term> 李维第 30 卷记马其顿王腓力五世曾派兵援助迦太基，扎马之战中一支马其顿部队列于迦太基阵中，其统领索帕特被俘；腓力遣使要求放还，遭元老院拒绝。诗中又说他与国王有血亲，并让马其顿俘虏走在凯旋行列中。</note>
+<note xml:id="africa.9.n066" type="commentary" target="#africa.9.348 #africa.9.349 #africa.9.350 #africa.9.351 #africa.9.352 #africa.9.353 #africa.9.354 #africa.9.355"><term xml:lang="la">Siphacis</term> 西法克斯是否在凯旋行列中，古代记载不一：李维 30.45 说他在凯旋前不久死于提布尔的监禁中，但又提到波利比乌斯称他曾被牵着游街。彼特拉克在此采用后一说，尽管第八卷第 440 行也提到他被囚于阿尔巴、葬于提布尔。“鄙弃了怎样一位朋友”：公元前 206 年西庇阿曾亲赴西法克斯的宫廷与之结盟（见李维第 28 卷），后者却因娶索福尼斯巴而倒向迦太基。</note>
+<note xml:id="africa.9.n067" type="commentary" target="#africa.9.356 #africa.9.357 #africa.9.358"><term xml:lang="la">meriti ciues ... frater Hanibalis</term> ciues 指迦太基本邦的公民，与外族援军相对；meriti 意为“罪有应得的”。说迦太基人“背信”是罗马人的成见。李维 30.45 记此次凯旋，只提到西法克斯（据波利比乌斯）和库莱奥，并未说有汉尼拔的兄弟在俘虏之列；而据李维，汉尼拔的两个弟弟中，哈斯德鲁巴已于公元前 207 年战死于梅陶罗河，马戈于公元前 203 年从意大利撤回途中伤重而死。此处当是诗人的虚构或误记。原文 dox 当为 dux“首领”之误。</note>
+<note xml:id="africa.9.n068" type="commentary" target="#africa.9.359 #africa.9.360 #africa.9.361 #africa.9.362 #africa.9.363"><term xml:lang="la">Maure ... Gallorumque ... Italus ... nemo</term> 据李维 30.33，扎马之战迦太基第一线有利古里亚人、高卢人、巴利阿里人和毛里人等雇佣兵。行列中没有意大利人，是因为投敌者已被处死：据李维 30.43，迦太基依和约交出逃兵，西庇阿把拉丁同盟出身者斩首，罗马公民出身者钉上十字架。诗人补充说他们被埋在阿非利加，不得归葬故土。</note>
+<note xml:id="africa.9.n069" type="commentary" target="#africa.9.364 #africa.9.365 #africa.9.366 #africa.9.367 #africa.9.368 #africa.9.369 #africa.9.370 #africa.9.371 #africa.9.372"><term xml:lang="la">Ante ebur ... elephantes</term> 按凯旋式惯例，战利品走在凯旋将军的车前。和约规定迦太基须交出全部战象（见李维 30.37）。孩童围观、惊叹巨象来自“蛮族的世界”，是诗人添加的生动细节。</note>
+<note xml:id="africa.9.n070" type="commentary" target="#africa.9.373 #africa.9.374 #africa.9.375 #africa.9.376 #africa.9.377 #africa.9.378 #africa.9.379"><term xml:lang="la">Romana acies ... Terentius ... Culleo</term> 指被迦太基俘虏、因和约而获释的罗马人。昆图斯·泰伦提乌斯·库莱奥是元老，曾被俘。李维 30.45 记他头戴获释奴的毡帽跟在西庇阿的凯旋车后，此后终生把西庇阿当作给予他自由的恩人来敬奉；诗中“像获释奴敬奉恩主”即本于此。</note>
+<note xml:id="africa.9.n071" type="commentary" target="#africa.9.380 #africa.9.381 #africa.9.382"><term xml:lang="la">Ultimus it uictor</term> 数字版在 uictor 后断句，则 380–382 行的“大军”一句缺少动词；按凯旋式惯例，军队走在凯旋将军之后，uictor 宜与下行 exercitus 连读，意为“得胜之军”，今依此译。“仿佛汉尼拔就要迎面杀来”，指军队全副武装、列阵而行。</note>
+<note xml:id="africa.9.n072" type="commentary" target="#africa.9.385 #africa.9.386 #africa.9.387"><term xml:lang="la">Albam ... Tibur ... Soracte ... Prenestinis</term> 号声远及罗马周围的山城：阿尔巴（阿尔巴隆加，罗马的母邦）、提布尔（今蒂沃利）、索拉克特山（罗马以北的孤峰，贺拉斯《颂诗》1.9 写它积雪皑皑）、普赖内斯特（今帕莱斯特里纳）。说提布尔是“阿尔戈斯人的”，因传说它由阿尔戈斯移民建立（见《埃涅阿斯纪》第七卷、贺拉斯《颂诗》2.6）。</note>
+<note xml:id="africa.9.n073" type="commentary" target="#africa.9.388 #africa.9.389 #africa.9.390 #africa.9.391 #africa.9.392 #africa.9.393"><term xml:lang="la">Capitolia ... templa Iouis ... cognomine solo</term> 凯旋式的终点是卡皮托利山上的朱庇特神殿，凯旋将军在此献祭谢神。李维 30.45 记西庇阿向国库缴入白银十二万三千磅（诗中说成“堆积如山的黄金”）。“一个称号”指“阿非利加努斯”：据李维同章，他是第一位以所征服民族之名为号的罗马统帅。</note>
+<note xml:id="africa.9.n074" type="commentary" target="#africa.9.394 #africa.9.395 #africa.9.396 #africa.9.397 #africa.9.398 #africa.9.399 #africa.9.400"><term xml:lang="la">populumque Quirini ... Tarpeia rupe</term> 意谓战胜迦太基为罗马此后征服世界铺平了道路：各族败于这些战胜了迦太基的罗马人，不以为耻。奎里努斯即神化后的罗慕路斯，“奎里努斯的子民”指罗马人。塔尔佩亚岩是卡皮托利山的悬崖，此处代指卡皮托利山。</note>
+<note xml:id="africa.9.n075" type="commentary" target="#africa.9.401 #africa.9.402 #africa.9.403 #africa.9.404"><term xml:lang="la">Ennius ad dextram uictoris</term> 恩尼乌斯与西庇阿同受桂冠，并无古代根据。彼特拉克由西塞罗所记二人的亲密关系（见第 10–11 行注）推演出诗人与凯旋将军同戴桂冠的罗马古制，并认为此制后来久已中断，直到他本人才得恢复。</note>
+<note xml:id="africa.9.n076" type="commentary" target="#africa.9.405 #africa.9.406 #africa.9.407 #africa.9.408 #africa.9.409 #africa.9.410"><term xml:lang="la">ter centum ... lustris</term> 三百个 lustrum（见第 251–254 行注）即一千五百年：从公元前 201 年西庇阿凯旋，到 1341 年 4 月 8 日彼特拉克在卡皮托利山接受桂冠，约一千五百四十年。“地点”指同在卡皮托利山，“称号”指诗人的头衔。“希腊诗人的预言”即本卷前文荷马在恩尼乌斯梦中所说，那位伊特鲁里亚青年将登上卡皮托利山加冕（第 238–242 行）。</note>
+<note xml:id="africa.9.n077" type="commentary" target="#africa.9.411 #africa.9.412 #africa.9.413 #africa.9.414 #africa.9.415 #africa.9.416 #africa.9.417 #africa.9.418"><term xml:lang="la">ad tristia</term> 诗人拒绝续写西庇阿晚年的不幸：公元前 180 年代他和兄弟卢基乌斯遭政敌指控，他愤而退居坎帕尼亚的利特尔努姆，自我放逐，死于该地（见李维第 38 卷）。相传其墓铭为“忘恩的祖国，你连我的骨头也得不到”（见瓦勒里乌斯·马克西穆斯《言行录》第五卷）。Diue“女神们”指缪斯；Inuidie“嫉妒”大写，作拟人。</note>
+<note xml:id="africa.9.n078" type="commentary" target="#africa.9.419 #africa.9.420 #africa.9.421"><term xml:lang="la">Hic metam posuisse operi</term> 诗人宣告叙事到此结束；以下为全诗的结语，诗人转而对诗作本身说话。</note>
+<note xml:id="africa.9.n079" type="commentary" target="#africa.9.422 #africa.9.423 #africa.9.424 #africa.9.425 #africa.9.426 #africa.9.427"><term xml:lang="la">O mea ... Africa ... Robertum</term> 诗人转向自己的诗作呼告。安茹的罗伯特，那不勒斯国王，卒于 1343 年 1 月；本诗原拟献给他（见第一卷献辞），他去世时诗作尚在修订，故说死神“阻断了你所期望的道路”。</note>
+<note xml:id="africa.9.n080" type="commentary" target="#africa.9.428 #africa.9.429 #africa.9.430 #africa.9.431 #africa.9.432 #africa.9.433 #africa.9.434 #africa.9.435 #africa.9.436"><term xml:lang="la">Parthenopea ... sepulcri</term> 帕耳忒诺珀即那不勒斯。王宫正值国丧，诗人让诗作不去宫廷，而去国王的新坟（罗伯特葬于那不勒斯的圣基娅拉教堂），把许给生前国王的献礼交给他的骨灰。灵魂升天、回望渺小大地的意象，与本诗第一、二卷的梦境和西塞罗《西庇阿之梦》相呼应。</note>
+<note xml:id="africa.9.n081" type="commentary" target="#africa.9.440 #africa.9.441 #africa.9.442 #africa.9.443 #africa.9.444 #africa.9.445 #africa.9.446"><term xml:lang="la">arbiter ingenii ... Hospes Pyeridum</term> 1341 年春，彼特拉克在那不勒斯接受罗伯特国王连续数日的考问，国王认定他配得上桂冠，他随后才往罗马加冕。皮厄里得斯即缪斯（见第 81–82 行注）；称国王为缪斯的“东道主”，即学问与诗歌的庇护人。</note>
+<note xml:id="africa.9.n082" type="commentary" target="#africa.9.447 #africa.9.448"><term xml:lang="la">Nosque utinam - - -</term> 原文此处以“- - -”标示中断：或是有意的顿绝（欲言又止，意即“但愿我们也生在那时”），或是草稿中的空缺。今保留省略号，不补足。</note>
+<note xml:id="africa.9.n083" type="commentary" target="#africa.9.449 #africa.9.450 #africa.9.451 #africa.9.452 #africa.9.453"><term xml:lang="la">cunta nouissima ... ferus ... Iupiter ... ducunt ... trahant</term> cunta nouissima 句法不甚明确，今理解为修饰 nos seros（“万物之中最末的迟生者”），也可理解为与朱庇特并列的主语（“一切末世之事”）。朱庇特在此似指木星：占星术中木星本是吉星，如今却从不利的方位照临，喻生不逢时。“随星辰引导，免被拖曳”化用塞涅卡《道德书简》第 107 封译述的克莱安西斯诗句“命运引导顺从者，拖曳抗拒者”。</note>
+<note xml:id="africa.9.n084" type="commentary" target="#africa.9.454 #africa.9.455 #africa.9.456 #africa.9.457 #africa.9.458 #africa.9.459 #africa.9.460 #africa.9.461 #africa.9.462"><term xml:lang="la">Letheus ... sopor ... tenebris</term> 勒忒是冥府的遗忘之河，“勒忒的沉睡”指古代学问被遗忘的漫长年代。诗人以古代为光明、以自己的时代为黑暗，期望后人驱散黑暗，重返“纯净而古老的光辉”；赫利孔山（缪斯的圣山）与月桂重新青翠，象征诗与学问的复兴。这几行常被视为彼特拉克“黑暗时代”观念的经典表述。</note>
+<note xml:id="africa.9.n085" type="commentary" target="#africa.9.463 #africa.9.464 #africa.9.465 #africa.9.466"><term xml:lang="la">illo ... in populo</term> illo 今与 populo 连读（“在那时的人们中间”），指未来更开明的世代；也可把 illo 看作比较的夺格（“比那更甜美”）。诗人寄望死后在后人口中获得更甜美的生命和蔑视坟墓的荣耀。</note>
+<note xml:id="africa.9.n086" type="commentary" target="#africa.9.467 #africa.9.468 #africa.9.469 #africa.9.470 #africa.9.471 #africa.9.472 #africa.9.473 #africa.9.474 #africa.9.475 #africa.9.476"><term xml:lang="la">per inertia ... agmina</term> 诗人预料诗作在当世只能在少数知音间流传。hec ... incognita 指诗卷本身。彼特拉克生前始终没有让《阿非利加》全篇问世，只有第六卷马戈临终的一段被友人传抄出去；全诗在他身后才流传开来。</note>
+<note xml:id="africa.9.n087" type="commentary" target="#africa.9.477 #africa.9.478 #africa.9.479 #africa.9.480 #africa.9.481"><term xml:lang="la">iuuenesce ... flammis ... undas</term> 诗卷在漫长的“黑暗”中老去，待良时到来再返老还童。诗人说年轻时曾把诗稿从火中抢出、带它渡过风浪，具体所指何事已难确考。iuuenem iuueni 叠用，强调作者与作品同在青春。</note>
+<note xml:id="africa.9.n088" type="commentary" target="#africa.9.482 #africa.9.483 #africa.9.484"><term xml:lang="la">Tempus edax</term> “饕餮的时间”化用奥维德《变形记》15.234 的 tempus edax rerum“吞噬万物的时间”。以作品抵御烈火、时间与嫉妒作结，呼应诗人自许作品不朽的传统：奥维德《变形记》终篇（15.871–872）称其作品“朱庇特的怒火、烈火、刀剑和饕餮的岁月都不能毁灭”，贺拉斯《颂诗》3.30 亦然。</note>
+<note xml:id="africa.9.t001" type="textual" target="#africa.9.91"><term xml:lang="la">Quam multis placuisse palam est</term> 此行只有半行，为作者未完成之行。</note>
+<note xml:id="africa.9.t002" type="textual" target="#africa.9.132"><term xml:lang="la">tenuerunt murmure</term> 句法略异（按常例应作 murmura 或 a murmure），今按“止住了低语”译，未改动。</note>
+<note xml:id="africa.9.t003" type="textual" target="#africa.9.215"><term xml:lang="la">Prosequor augurio letus</term> 此行只有半行，作者未完成。</note>
+<note xml:id="africa.9.t004" type="textual" target="#africa.9.216"><term xml:lang="la">(- - -)</term> 原文缺行标记，彼特拉克在此留有空缺。</note>
+<note xml:id="africa.9.t005" type="textual" target="#africa.9.219"><term xml:lang="la">lauros'</term> 多余的引号：问句一直延续到 222 行 nimis' 处。</note>
+<note xml:id="africa.9.t006" type="textual" target="#africa.9.237"><term xml:lang="la">ingeniu</term> 数字版录入错误，按格律与文意应作 ingenii。</note>
+<note xml:id="africa.9.t007" type="textual" target="#africa.9.298"><term xml:lang="la">leuus</term> 即 laevus 的中世纪拼法，并非 leuis 之误（格律要求长音）；见注。</note>
+<note xml:id="africa.9.t008" type="textual" target="#africa.9.358"><term xml:lang="la">dox</term> 非拉丁词，当为 dux“首领”之误（o/u 混淆），与第 345 行 Sopater dux 相应；今依 dux 译。</note>
+<note xml:id="africa.9.t009" type="textual" target="#africa.9.380"><term xml:lang="la">uictor.</term> uictor 后的句号似当删去，与下行 exercitus 连读为“得胜之军”；今依此译，见注。</note>
+<note xml:id="africa.9.t010" type="textual" target="#africa.9.448"><term xml:lang="la">Nosque utinam - - -.</term> 原文中断（有意的顿绝或草稿空缺），译文保留省略号，不补足。</note>
+<note xml:id="africa.9.t011" type="textual" target="#africa.9.467"><term xml:lang="la">hec</term> 句法略松，hec 与 468 行 incognita 当皆指诗卷本身（“你”），今依此译。</note>
+</div>
+</body>
+</text>
+</TEI>

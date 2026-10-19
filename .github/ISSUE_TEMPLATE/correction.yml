@@ -1,0 +1,44 @@
+name: Correction · 指正
+description: Report an error in the Latin text, the translation, a note, the scansion or the recitation script.
+labels: ["correction"]
+body:
+  - type: input
+    id: verse
+    attributes:
+      label: Verse ID · 诗行编号
+      description: e.g. africa.6.395 (book 6, line 395). Several IDs or a range are fine.
+      placeholder: africa.6.395
+    validations:
+      required: true
+  - type: dropdown
+    id: layer
+    attributes:
+      label: What is affected · 涉及
+      multiple: true
+      options:
+        - Latin text · 拉丁原文
+        - Chinese translation · 中文译文
+        - Note · 注释
+        - Proper name · 专名
+        - Scansion · 格律
+        - Recitation script / tags · 朗读稿 / 语气标签
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and proposed fix · 问题与修改建议
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reasoning or source · 理由或依据
+      description: Grammar, history, edition, reference. Please do not paste long passages from copyrighted translations.
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Made with an AI agent? · 是否借助 AI
+      options:
+        - "No · 否"
+        - "Yes · 是"

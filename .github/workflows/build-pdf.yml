@@ -1,0 +1,30 @@
+name: build-pdf
+
+# Typesets the PDF and attaches it to the run as an artifact.
+# Run it by hand (Actions tab -> build-pdf -> Run workflow) or by pushing a tag such as v1.1.0.
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fonts and WeasyPrint dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk fonts-texgyre libpango-1.0-0 libpangoft2-1.0-0
+          fc-list | grep -E "Pagella|Noto Serif CJK SC" | head -3
+      - name: Install WeasyPrint
+        run: pip install -r requirements.txt
+      - name: Build
+        run: python tools/build.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: africa-pdf
+          path: build/africa.pdf
