@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-Hans" data-page="$page">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$description">
+<meta name="color-scheme" content="light dark">
+<link rel="preload" href="fonts/pagella-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<script>
+try {
+  var v = JSON.parse(localStorage.getItem("africa-view") || "{}");
+  var d = document.documentElement;
+  if (v.text) d.dataset.text = v.text;
+  if (v.notes) d.dataset.notes = v.notes;
+  if (v.scan) d.dataset.scan = v.scan;
+} catch (e) {}
+</script>
+</head>
+<body>
+<a class="skip" href="#main">跳到正文</a>
+<header class="bar">
+  <a class="home" href="index.html"><span class="home-la">Africa</span> 阿非利加</a>
+  <nav class="books" aria-label="各卷">$booknav</nav>
+  $controls
+</header>
+$body
+<footer class="foot">
+  <p>彼特拉克《阿非利加》拉中对照注释本。译文、注释与格律标注由 AI（Anthropic 的 Claude）完成，尚未经拉丁语学者审读。
+  文字与数据以 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh-hans">CC BY 4.0</a> 发布，引用请注明出处并说明译文由 AI 生成。</p>
+  <p><a href="$repo">GitHub 上的源文件</a>　<a href="$repo/issues/new?template=correction.yml">报告错误</a>　<a href="$pdf">下载 PDF</a></p>
+</footer>
+<div class="toast" role="status" aria-live="polite" hidden></div>
+<script src="reader.js" defer></script>
+</body>
+</html>
